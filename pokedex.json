@@ -15776,7 +15776,7 @@
       "number": 903,
       "name": "Farfurex",
       "types": [
-         null,
+         "poison",
          "fight"
       ],
       "image": "https://img.pokemondb.net/artwork/large/sneasler.jpg",
