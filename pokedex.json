@@ -521,7 +521,7 @@
          "spDefense": 85,
          "speed": 110
       },
-      "form": "ALOLA",
+      "form": "alola",
       "generation": 1
    },
    {
@@ -560,7 +560,7 @@
          "spDefense": 35,
          "speed": 40
       },
-      "form": "ALOLA",
+      "form": "alola",
       "generation": 1
    },
    {
@@ -599,7 +599,7 @@
          "spDefense": 65,
          "speed": 65
       },
-      "form": "ALOLA",
+      "form": "alola",
       "generation": 1
    },
    {
@@ -791,7 +791,7 @@
          "spDefense": 65,
          "speed": 65
       },
-      "form": "ALOLA",
+      "form": "alola",
       "generation": 1
    },
    {
@@ -830,7 +830,7 @@
          "spDefense": 100,
          "speed": 109
       },
-      "form": "ALOLA",
+      "form": "alola",
       "generation": 1
    },
    {
@@ -1089,7 +1089,7 @@
          "spDefense": 45,
          "speed": 90
       },
-      "form": "ALOLA",
+      "form": "alola",
       "generation": 1
    },
    {
@@ -1128,7 +1128,7 @@
          "spDefense": 70,
          "speed": 110
       },
-      "form": "ALOLA",
+      "form": "alola",
       "generation": 1
    },
    {
@@ -1166,7 +1166,7 @@
          "spDefense": 40,
          "speed": 90
       },
-      "form": "ALOLA",
+      "form": "alola",
       "generation": 1
    },
    {
@@ -1223,7 +1223,7 @@
          "spDefense": 65,
          "speed": 115
       },
-      "form": "ALOLA",
+      "form": "alola",
       "generation": 1
    },
    {
@@ -1689,7 +1689,7 @@
          "spDefense": 30,
          "speed": 20
       },
-      "form": "ALOLA",
+      "form": "alola",
       "generation": 1
    },
    {
@@ -1729,7 +1729,7 @@
          "spDefense": 45,
          "speed": 35
       },
-      "form": "ALOLA",
+      "form": "alola",
       "generation": 1
    },
    {
@@ -1769,7 +1769,7 @@
          "spDefense": 65,
          "speed": 45
       },
-      "form": "ALOLA",
+      "form": "alola",
       "generation": 1
    },
    {
@@ -2045,7 +2045,7 @@
          "speed": 110
       },
       "form": "normal",
-      "generation": 2
+      "generation": 1
    },
    {
       "number": 86,
@@ -2064,7 +2064,7 @@
          "speed": 45
       },
       "form": "normal",
-      "generation": 2
+      "generation": 1
    },
    {
       "number": 87,
@@ -2084,7 +2084,7 @@
          "speed": 70
       },
       "form": "normal",
-      "generation": 2
+      "generation": 1
    },
    {
       "number": 88,
@@ -2103,7 +2103,7 @@
          "speed": 25
       },
       "form": "normal",
-      "generation": 2
+      "generation": 1
    },
    {
       "number": 88,
@@ -2122,8 +2122,8 @@
          "spDefense": 50,
          "speed": 25
       },
-      "form": "ALOLA",
-      "generation": 2
+      "form": "alola",
+      "generation": 1
    },
    {
       "number": 89,
@@ -2142,7 +2142,7 @@
          "speed": 50
       },
       "form": "normal",
-      "generation": 2
+      "generation": 1
    },
    {
       "number": 89,
@@ -2161,8 +2161,8 @@
          "spDefense": 100,
          "speed": 50
       },
-      "form": "ALOLA",
-      "generation": 2
+      "form": "alola",
+      "generation": 1
    },
    {
       "number": 90,
@@ -2181,7 +2181,7 @@
          "speed": 40
       },
       "form": "normal",
-      "generation": 2
+      "generation": 1
    },
    {
       "number": 91,
@@ -2201,7 +2201,7 @@
          "speed": 70
       },
       "form": "normal",
-      "generation": 2
+      "generation": 1
    },
    {
       "number": 92,
@@ -2221,7 +2221,7 @@
          "speed": 80
       },
       "form": "normal",
-      "generation": 2
+      "generation": 1
    },
    {
       "number": 93,
@@ -2241,7 +2241,7 @@
          "speed": 95
       },
       "form": "normal",
-      "generation": 2
+      "generation": 1
    },
    {
       "number": 94,
@@ -2261,7 +2261,7 @@
          "speed": 110
       },
       "form": "normal",
-      "generation": 2
+      "generation": 1
    },
    {
       "number": 95,
@@ -2281,7 +2281,7 @@
          "speed": 70
       },
       "form": "normal",
-      "generation": 2
+      "generation": 1
    },
    {
       "number": 96,
@@ -2300,7 +2300,7 @@
          "speed": 42
       },
       "form": "normal",
-      "generation": 2
+      "generation": 1
    },
    {
       "number": 97,
@@ -2319,7 +2319,7 @@
          "speed": 67
       },
       "form": "normal",
-      "generation": 2
+      "generation": 1
    },
    {
       "number": 98,
@@ -2338,7 +2338,7 @@
          "speed": 50
       },
       "form": "normal",
-      "generation": 2
+      "generation": 1
    },
    {
       "number": 99,
@@ -2357,7 +2357,7 @@
          "speed": 75
       },
       "form": "normal",
-      "generation": 2
+      "generation": 1
    },
    {
       "number": 100,
@@ -2376,7 +2376,7 @@
          "speed": 100
       },
       "form": "hisui",
-      "generation": 2
+      "generation": 1
    },
    {
       "number": 100,
@@ -2396,7 +2396,7 @@
          "speed": 100
       },
       "form": "normal",
-      "generation": 2
+      "generation": 1
    },
    {
       "number": 101,
@@ -2415,7 +2415,7 @@
          "speed": 150
       },
       "form": "normal",
-      "generation": 2
+      "generation": 1
    },
    {
       "number": 101,
@@ -2435,7 +2435,7 @@
          "speed": 150
       },
       "form": "hisui",
-      "generation": 2
+      "generation": 1
    },
    {
       "number": 102,
@@ -2454,7 +2454,7 @@
          "speed": 40
       },
       "form": "normal",
-      "generation": 2
+      "generation": 1
    },
    {
       "number": 103,
@@ -2474,7 +2474,7 @@
          "speed": 55
       },
       "form": "normal",
-      "generation": 2
+      "generation": 1
    },
    {
       "number": 103,
@@ -2493,8 +2493,8 @@
          "spDefense": 75,
          "speed": 45
       },
-      "form": "ALOLA",
-      "generation": 2
+      "form": "alola",
+      "generation": 1
    },
    {
       "number": 104,
@@ -2513,7 +2513,7 @@
          "speed": 35
       },
       "form": "normal",
-      "generation": 2
+      "generation": 1
    },
    {
       "number": 105,
@@ -2532,7 +2532,7 @@
          "speed": 45
       },
       "form": "normal",
-      "generation": 2
+      "generation": 1
    },
    {
       "number": 105,
@@ -2551,8 +2551,8 @@
          "spDefense": 80,
          "speed": 45
       },
-      "form": "ALOLA",
-      "generation": 2
+      "form": "alola",
+      "generation": 1
    },
    {
       "number": 106,
@@ -2571,7 +2571,7 @@
          "speed": 87
       },
       "form": "normal",
-      "generation": 2
+      "generation": 1
    },
    {
       "number": 107,
@@ -2590,7 +2590,7 @@
          "speed": 76
       },
       "form": "normal",
-      "generation": 2
+      "generation": 1
    },
    {
       "number": 108,
@@ -2609,7 +2609,7 @@
          "speed": 30
       },
       "form": "normal",
-      "generation": 2
+      "generation": 1
    },
    {
       "number": 109,
@@ -2628,7 +2628,7 @@
          "speed": 35
       },
       "form": "normal",
-      "generation": 2
+      "generation": 1
    },
    {
       "number": 110,
@@ -2646,8 +2646,8 @@
          "spDefense": 70,
          "speed": 60
       },
-      "form": "galar",
-      "generation": 2
+      "form": "normal",
+      "generation": 1
    },
    {
       "number": 110,
@@ -2667,7 +2667,7 @@
          "speed": 60
       },
       "form": "galar",
-      "generation": 2
+      "generation": 1
    },
    {
       "number": 111,
@@ -2687,7 +2687,7 @@
          "speed": 25
       },
       "form": "normal",
-      "generation": 2
+      "generation": 1
    },
    {
       "number": 112,
@@ -2707,7 +2707,7 @@
          "speed": 40
       },
       "form": "normal",
-      "generation": 2
+      "generation": 1
    },
    {
       "number": 113,
@@ -2726,7 +2726,7 @@
          "speed": 50
       },
       "form": "normal",
-      "generation": 2
+      "generation": 1
    },
    {
       "number": 114,
@@ -2745,7 +2745,7 @@
          "speed": 60
       },
       "form": "normal",
-      "generation": 2
+      "generation": 1
    },
    {
       "number": 115,
@@ -2764,7 +2764,7 @@
          "speed": 90
       },
       "form": "normal",
-      "generation": 2
+      "generation": 1
    },
    {
       "number": 116,
@@ -2783,7 +2783,7 @@
          "speed": 60
       },
       "form": "normal",
-      "generation": 2
+      "generation": 1
    },
    {
       "number": 117,
@@ -2802,7 +2802,7 @@
          "speed": 85
       },
       "form": "normal",
-      "generation": 2
+      "generation": 1
    },
    {
       "number": 118,
@@ -2821,7 +2821,7 @@
          "speed": 63
       },
       "form": "normal",
-      "generation": 2
+      "generation": 1
    },
    {
       "number": 119,
@@ -2840,7 +2840,7 @@
          "speed": 68
       },
       "form": "normal",
-      "generation": 2
+      "generation": 1
    },
    {
       "number": 120,
@@ -2859,7 +2859,7 @@
          "speed": 85
       },
       "form": "normal",
-      "generation": 2
+      "generation": 1
    },
    {
       "number": 121,
@@ -2879,7 +2879,7 @@
          "speed": 115
       },
       "form": "normal",
-      "generation": 2
+      "generation": 1
    },
    {
       "number": 122,
@@ -2899,7 +2899,7 @@
          "speed": 90
       },
       "form": "normal",
-      "generation": 2
+      "generation": 1
    },
    {
       "number": 122,
@@ -2919,7 +2919,7 @@
          "speed": 100
       },
       "form": "galar",
-      "generation": 2
+      "generation": 1
    },
    {
       "number": 123,
@@ -2939,7 +2939,7 @@
          "speed": 105
       },
       "form": "normal",
-      "generation": 2
+      "generation": 1
    },
    {
       "number": 124,
@@ -2959,7 +2959,7 @@
          "speed": 95
       },
       "form": "normal",
-      "generation": 2
+      "generation": 1
    },
    {
       "number": 125,
@@ -2978,7 +2978,7 @@
          "speed": 105
       },
       "form": "normal",
-      "generation": 2
+      "generation": 1
    },
    {
       "number": 126,
@@ -2997,7 +2997,7 @@
          "speed": 93
       },
       "form": "normal",
-      "generation": 2
+      "generation": 1
    },
    {
       "number": 127,
@@ -3016,7 +3016,7 @@
          "speed": 85
       },
       "form": "normal",
-      "generation": 2
+      "generation": 1
    },
    {
       "number": 128,
@@ -3035,7 +3035,7 @@
          "speed": 110
       },
       "form": "normal",
-      "generation": 2
+      "generation": 1
    },
    {
       "number": 129,
@@ -3054,7 +3054,7 @@
          "speed": 80
       },
       "form": "normal",
-      "generation": 2
+      "generation": 1
    },
    {
       "number": 130,
@@ -3074,7 +3074,7 @@
          "speed": 81
       },
       "form": "normal",
-      "generation": 2
+      "generation": 1
    },
    {
       "number": 131,
@@ -3094,7 +3094,7 @@
          "speed": 60
       },
       "form": "normal",
-      "generation": 2
+      "generation": 1
    },
    {
       "number": 132,
@@ -3113,7 +3113,7 @@
          "speed": 48
       },
       "form": "normal",
-      "generation": 2
+      "generation": 1
    },
    {
       "number": 133,
@@ -3132,7 +3132,7 @@
          "speed": 55
       },
       "form": "normal",
-      "generation": 2
+      "generation": 1
    },
    {
       "number": 134,
@@ -3151,7 +3151,7 @@
          "speed": 65
       },
       "form": "normal",
-      "generation": 2
+      "generation": 1
    },
    {
       "number": 135,
@@ -3170,7 +3170,7 @@
          "speed": 130
       },
       "form": "normal",
-      "generation": 2
+      "generation": 1
    },
    {
       "number": 136,
@@ -3189,7 +3189,7 @@
          "speed": 65
       },
       "form": "normal",
-      "generation": 2
+      "generation": 1
    },
    {
       "number": 137,
@@ -3208,7 +3208,7 @@
          "speed": 40
       },
       "form": "normal",
-      "generation": 2
+      "generation": 1
    },
    {
       "number": 138,
@@ -3228,7 +3228,7 @@
          "speed": 35
       },
       "form": "normal",
-      "generation": 2
+      "generation": 1
    },
    {
       "number": 139,
@@ -3248,7 +3248,7 @@
          "speed": 55
       },
       "form": "normal",
-      "generation": 2
+      "generation": 1
    },
    {
       "number": 140,
@@ -3268,7 +3268,7 @@
          "speed": 55
       },
       "form": "normal",
-      "generation": 2
+      "generation": 1
    },
    {
       "number": 141,
@@ -3288,7 +3288,7 @@
          "speed": 80
       },
       "form": "normal",
-      "generation": 2
+      "generation": 1
    },
    {
       "number": 142,
@@ -3308,7 +3308,7 @@
          "speed": 130
       },
       "form": "normal",
-      "generation": 2
+      "generation": 1
    },
    {
       "number": 143,
@@ -3327,7 +3327,7 @@
          "speed": 30
       },
       "form": "normal",
-      "generation": 2
+      "generation": 1
    },
    {
       "number": 144,
@@ -3346,7 +3346,7 @@
          "speed": 85
       },
       "form": "normal",
-      "generation": 2
+      "generation": 1
    },
    {
       "number": 144,
@@ -3366,7 +3366,7 @@
          "speed": 95
       },
       "form": "galar",
-      "generation": 2
+      "generation": 1
    },
    {
       "number": 145,
@@ -3385,7 +3385,7 @@
          "speed": 100
       },
       "form": "normal",
-      "generation": 2
+      "generation": 1
    },
    {
       "number": 145,
@@ -3405,7 +3405,7 @@
          "speed": 100
       },
       "form": "galar",
-      "generation": 2
+      "generation": 1
    },
    {
       "number": 146,
@@ -3424,7 +3424,7 @@
          "speed": 90
       },
       "form": "normal",
-      "generation": 2
+      "generation": 1
    },
    {
       "number": 146,
@@ -3444,7 +3444,7 @@
          "speed": 90
       },
       "form": "galar",
-      "generation": 2
+      "generation": 1
    },
    {
       "number": 147,
@@ -3463,7 +3463,7 @@
          "speed": 50
       },
       "form": "normal",
-      "generation": 2
+      "generation": 1
    },
    {
       "number": 148,
@@ -3482,7 +3482,7 @@
          "speed": 70
       },
       "form": "normal",
-      "generation": 2
+      "generation": 1
    },
    {
       "number": 149,
@@ -3502,7 +3502,7 @@
          "speed": 80
       },
       "form": "normal",
-      "generation": 2
+      "generation": 1
    },
    {
       "number": 150,
@@ -3521,7 +3521,7 @@
          "speed": 130
       },
       "form": "normal",
-      "generation": 2
+      "generation": 1
    },
    {
       "number": 151,
@@ -3540,7 +3540,7 @@
          "speed": 100
       },
       "form": "normal",
-      "generation": 2
+      "generation": 1
    },
    {
       "number": 152,
