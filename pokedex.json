@@ -1769,7 +1769,7 @@
          "spDefense": 65,
          "speed": 45
       },
-      "form": "aloa",
+      "form": "alola",
       "generation": 1
    },
    {
@@ -11898,7 +11898,7 @@
          "spDefense": 55,
          "speed": 135
       },
-      "form": "galar-zen",
+      "form": "galar_zen",
       "generation": 5
    },
    {
