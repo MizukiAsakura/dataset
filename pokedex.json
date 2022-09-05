@@ -13705,6 +13705,7 @@
          "electrik"
       ],
       "image": "https://img.pokemondb.net/artwork/large/thundurus-therian.jpg",
+      "description": "Un fluide naus\u00E9abond suinte du corps de Grotadmorv, agressant les narines de ses ennemis. Une seule goutte de ce fluide suffit \u00E0 faire croupir un bassin d'eau propre.",
       "base": {
          "hp": 79,
          "attack": 105,
@@ -19147,6 +19148,7 @@
          "water"
       ],
       "image": "https://img.pokemondb.net/artwork/large/urshifu-rapid-strike.jpg",
+      "description": "Un fluide naus\u00E9abond suinte du corps de Grotadmorv, agressant les narines de ses ennemis. Une seule goutte de ce fluide suffit \u00E0 faire croupir un bassin d'eau propre.",
       "base": {
          "hp": 100,
          "attack": 130,
@@ -19400,6 +19402,7 @@
          "ghost"
       ],
       "image": "https://img.pokemondb.net/artwork/large/basculegion-female.jpg",
+      "description": "Un fluide naus\u00E9abond suinte du corps de Grotadmorv, agressant les narines de ses ennemis. Une seule goutte de ce fluide suffit \u00E0 faire croupir un bassin d'eau propre.",
       "base": {
          "hp": 120,
          "attack": 92,
