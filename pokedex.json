@@ -11702,7 +11702,7 @@
          "spDefense": 75,
          "speed": 105
       },
-      "form": "normal",
+      "form": "hisui",
       "generation": 5
    },
    {
@@ -13744,7 +13744,7 @@
          "dragon",
          "electrik"
       ],
-      "image": "https://img.pokemondb.net/artwork/large/thundurus-therian.jpg",
+      "image": "https://img.pokemondb.net/artwork/large/zekrom.jpg",
       "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
       "base": {
          "hp": 100,
@@ -14496,7 +14496,7 @@
          "spDefense": 81,
          "speed": 104
       },
-      "form": "male",
+      "form": "normal",
       "generation": 6
    },
    {
@@ -18762,7 +18762,7 @@
          "spDefense": 95,
          "speed": 95
       },
-      "form": "male",
+      "form": "normal",
       "generation": 8
    },
    {
@@ -19391,7 +19391,7 @@
          "spDefense": 75,
          "speed": 78
       },
-      "form": "male",
+      "form": "normal",
       "generation": 8
    },
    {
