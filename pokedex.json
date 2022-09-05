@@ -15934,7 +15934,7 @@
          "spDefense": 70,
          "speed": 93
       },
-      "form": "normal",
+      "form": "pom",
       "generation": 7
    },
    {
@@ -15954,7 +15954,7 @@
          "spDefense": 70,
          "speed": 93
       },
-      "form": "normal",
+      "form": "pau",
       "generation": 7
    },
    {
@@ -15974,7 +15974,7 @@
          "spDefense": 70,
          "speed": 93
       },
-      "form": "normal",
+      "form": "sensu",
       "generation": 7
    },
    {
