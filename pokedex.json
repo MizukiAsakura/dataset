@@ -16696,7 +16696,7 @@
          "spDefense": 60,
          "speed": 120
       },
-      "form": "normal",
+      "form": "core",
       "generation": 7
    },
    {
@@ -18742,7 +18742,7 @@
          "spDefense": 50,
          "speed": 130
       },
-      "form": "normal",
+      "form": "noice",
       "generation": 8
    },
    {
