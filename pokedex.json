@@ -2375,7 +2375,7 @@
          "spDefense": 55,
          "speed": 100
       },
-      "form": "hisui",
+      "form": "normal",
       "generation": 1
    },
    {
@@ -2395,7 +2395,7 @@
          "spDefense": 55,
          "speed": 100
       },
-      "form": "normal",
+      "form": "hisui",
       "generation": 1
    },
    {
@@ -13834,7 +13834,7 @@
          "spDefense": 90,
          "speed": 108
       },
-      "form": "resolute",
+      "form": "normal",
       "generation": 5
    },
    {
@@ -13854,7 +13854,7 @@
          "spDefense": 90,
          "speed": 108
       },
-      "form": "normal",
+      "form": "resolute",
       "generation": 5
    },
    {
@@ -15178,6 +15178,66 @@
       "image": "https://img.pokemondb.net/artwork/large/pumpkaboo.jpg",
       "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
       "base": {
+         "hp": 49,
+         "attack": 66,
+         "defense": 70,
+         "spAttack": 44,
+         "spDefense": 55,
+         "speed": 51
+      },
+      "form": "normal",
+      "generation": 6
+   },
+   {
+      "number": 710,
+      "name": "Pitrouille",
+      "types": [
+         "ghost",
+         "grass"
+      ],
+      "image": "https://img.pokemondb.net/artwork/large/gourgeist.jpg",
+      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "base": {
+         "hp": 44,
+         "attack": 66,
+         "defense": 70,
+         "spAttack": 44,
+         "spDefense": 55,
+         "speed": 56
+      },
+      "form": "small",
+      "generation": 6
+   },
+   {
+      "number": 710,
+      "name": "Pitrouille",
+      "types": [
+         "ghost",
+         "grass"
+      ],
+      "image": "https://img.pokemondb.net/artwork/large/bergmite.jpg",
+      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "base": {
+         "hp": 54,
+         "attack": 66,
+         "defense": 70,
+         "spAttack": 44,
+         "spDefense": 55,
+         "speed": 46
+      },
+      "form": "large",
+      "generation": 6
+   },
+   {
+      "number": 710,
+      "name": "Pitrouille",
+      "types": [
+         "ghost",
+         "grass"
+      ],
+      "image": "https://img.pokemondb.net/artwork/large/avalugg.jpg",
+      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "base": {
          "hp": 59,
          "attack": 66,
          "defense": 70,
@@ -15185,7 +15245,7 @@
          "spDefense": 55,
          "speed": 41
       },
-      "form": "normal",
+      "form": "super",
       "generation": 6
    },
    {
@@ -15195,7 +15255,7 @@
          "ghost",
          "grass"
       ],
-      "image": "https://img.pokemondb.net/artwork/large/gourgeist.jpg",
+      "image": "https://img.pokemondb.net/artwork/gourgeist.jpg",
       "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
       "base": {
          "hp": 65,
@@ -15215,7 +15275,7 @@
          "ghost",
          "grass"
       ],
-      "image": "https://img.pokemondb.net/artwork/large/bergmite.jpg",
+      "image": "https://img.pokemondb.net/artwork/gourgeist.jpg",
       "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
       "base": {
          "hp": 55,
@@ -15235,7 +15295,7 @@
          "ghost",
          "grass"
       ],
-      "image": "https://img.pokemondb.net/artwork/large/avalugg.jpg",
+      "image": "https://img.pokemondb.net/artwork/gourgeist.jpg",
       "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
       "base": {
          "hp": 75,
@@ -15255,7 +15315,7 @@
          "ghost",
          "grass"
       ],
-      "image": "https://img.pokemondb.net/artwork/large/noibat.jpg",
+      "image": "https://img.pokemondb.net/artwork/gourgeist.jpg",
       "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
       "base": {
          "hp": 85,
@@ -19019,7 +19079,7 @@
          "spDefense": 115,
          "speed": 138
       },
-      "form": "hero",
+      "form": "normal",
       "generation": 8
    },
    {
@@ -19039,7 +19099,7 @@
          "spDefense": 115,
          "speed": 148
       },
-      "form": "normal",
+      "form": "\u00E9p\u00E9e supr\u00EAme",
       "generation": 8
    },
    {
@@ -19058,7 +19118,7 @@
          "spDefense": 115,
          "speed": 138
       },
-      "form": "hero",
+      "form": "normal",
       "generation": 8
    },
    {
@@ -19078,7 +19138,7 @@
          "spDefense": 145,
          "speed": 128
       },
-      "form": "normal",
+      "form": "bouclier supr\u00EAme",
       "generation": 8
    },
    {
@@ -19280,6 +19340,7 @@
       "number": 898,
       "name": "Sylveroy",
       "types": [
+         "psy",
          "ghost"
       ],
       "image": "https://img.pokemondb.net/artwork/large/calyrex-shadow-rider.jpg",
@@ -19299,6 +19360,7 @@
       "number": 898,
       "name": "Sylveroy",
       "types": [
+         "psy",
          "ice"
       ],
       "image": "https://img.pokemondb.net/artwork/large/calyrex-ice-rider.jpg",
