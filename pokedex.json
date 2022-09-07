@@ -370,6 +370,26 @@
       "generation": 1
    },
    {
+      "number": 19,
+      "name": "Rattata",
+      "types": [
+         "dark",
+         "normal"
+      ],
+      "image": "https://img.pokemondb.net/artwork/large/rattata-alolan.jpg",
+      "description": "Rattata est extr\u00EAmement prudent. M\u00EAme lorsqu'il est endormi, il fait pivoter ses oreilles pour \u00E9couter autour de lui. En ce qui concerne son habitat, il n'est vraiment pas difficile. Il peut faire son nid n'importe o\u00F9.",
+      "base": {
+         "hp": 30,
+         "attack": 56,
+         "defense": 35,
+         "spAttack": 25,
+         "spDefense": 35,
+         "speed": 72
+      },
+      "form": "alola",
+      "generation": 1
+   },
+   {
       "number": 20,
       "name": "Rattatac",
       "types": [
@@ -386,6 +406,26 @@
          "speed": 97
       },
       "form": "normal",
+      "generation": 1
+   },
+   {
+      "number": 20,
+      "name": "Rattatac",
+      "types": [
+         "dark",
+         "normal"
+      ],
+      "image": "https://img.pokemondb.net/artwork/large/raticate-alolan.jpg",
+      "description": "Les crocs robustes de Rattatac poussent constamment. Pour \u00E9viter qu'ils raclent le sol, il se fait les dents sur des cailloux ou des troncs d'arbre. Il lui arrive m\u00EAme de ronger les murs des maisons.",
+      "base": {
+         "hp": 75,
+         "attack": 71,
+         "defense": 70,
+         "spAttack": 40,
+         "spDefense": 80,
+         "speed": 77
+      },
+      "form": "alola",
       "generation": 1
    },
    {
