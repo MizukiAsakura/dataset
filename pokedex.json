@@ -8367,7 +8367,7 @@
          "grass"
       ],
       "image": "https://img.pokemondb.net/artwork/large/turtwig.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "La coquille sur son dos est faite de terre. Elle durcit lorsqu'il s'abreuve. Il vit le long des lacs. Son corps produit de l'oxyg\u00E8ne par photosynth\u00E8se. La feuille sur sa t\u00EAte fl\u00E9trit quand il a soif.",
       "base": {
          "hp": 55,
          "attack": 68,
@@ -8377,7 +8377,7 @@
          "speed": 31
       },
       "form": "normal",
-      "generation": 3
+      "generation": 4
    },
    {
       "number": 388,
@@ -8386,7 +8386,7 @@
          "grass"
       ],
       "image": "https://img.pokemondb.net/artwork/large/grotle.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Il vit en for\u00EAt pr\u00E8s de l'eau. En journ\u00E9e, il la quitte pour dorer sa carapace feuillue au soleil. Sa carapace est faite de terre durcie. Certains Pok\u00E9mon picorent les Baies des arbres sur son dos.",
       "base": {
          "hp": 75,
          "attack": 89,
@@ -8406,7 +8406,7 @@
          "ground"
       ],
       "image": "https://img.pokemondb.net/artwork/large/torterra.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Son corps produit de l'oxyg\u00E8ne par photosynth\u00E8se. La feuille sur sa t\u00EAte fl\u00E9trit quand il a soif. Certains groupes migrant pour trouver de l'eau ont \u00E9t\u00E9 confondus avec des \"for\u00EAts vivantes\".",
       "base": {
          "hp": 95,
          "attack": 109,
@@ -8425,7 +8425,7 @@
          "fire"
       ],
       "image": "https://img.pokemondb.net/artwork/large/chimchar.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Il escalade prestement les falaises escarp\u00E9es et vit sur les sommets. Sa flamme s'\u00E9teint quand il dort. La flamme de sa queue est aliment\u00E9e par un gaz de son estomac. M\u00EAme la pluie ne saurait l'\u00E9teindre.",
       "base": {
          "hp": 44,
          "attack": 58,
@@ -8445,7 +8445,7 @@
          "fight"
       ],
       "image": "https://img.pokemondb.net/artwork/large/monferno.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Ce Pok\u00E9mon lance des attaques a\u00E9riennes en prenant appui sur les murs et les plafonds. Il manie les flammes de sa queue comme une arme.",
       "base": {
          "hp": 64,
          "attack": 78,
@@ -8465,7 +8465,7 @@
          "fight"
       ],
       "image": "https://img.pokemondb.net/artwork/large/infernape.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Il vit sur les c\u00F4tes des r\u00E9gions nordiques. C\u2019est un nageur dou\u00E9 capable de plonger plus de dix minutes pour trouver \u00E0 manger.",
       "base": {
          "hp": 76,
          "attack": 104,
@@ -8484,7 +8484,7 @@
          "water"
       ],
       "image": "https://img.pokemondb.net/artwork/large/piplup.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Il vit seul, \u00E0 l'\u00E9cart de ses pairs. Chaque individu est convaincu d'\u00EAtre meilleur que les autres. Les coups violents de ses ailes tranchent le bois le plus dur. Il chasse dans les eaux glac\u00E9es.",
       "base": {
          "hp": 53,
          "attack": 51,
@@ -8523,7 +8523,7 @@
          "steel"
       ],
       "image": "https://img.pokemondb.net/artwork/large/empoleon.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Les trois cornes de son bec sont le symbole de sa force. Celles du chef sont plus grosses que les autres. Il nage aussi vite qu'un hors-bord. Le tranchant de ses ailes peut fendre un bloc de glace \u00E0 la d\u00E9rive.",
       "base": {
          "hp": 84,
          "attack": 86,
@@ -8543,7 +8543,7 @@
          "fly"
       ],
       "image": "https://img.pokemondb.net/artwork/large/starly.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Ils volent en nombre. Bien que minuscule, il bat des ailes avec une vigueur impressionnante. Il est difficile \u00E0 rep\u00E9rer lorsqu'il n'\u00E9volue pas au sein d'une grande vol\u00E9e. Ses cris sont stridents.",
       "base": {
          "hp": 40,
          "attack": 55,
@@ -8563,7 +8563,7 @@
          "fly"
       ],
       "image": "https://img.pokemondb.net/artwork/large/staravia.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Il survole les for\u00EAts et les champs en qu\u00EAte de Pok\u00E9mon Insecte. Ils forment de grandes vol\u00E9es. \nIl peuple les champs et les for\u00EAts. Lorsque deux vol\u00E9es se croisent, elles luttent pour le territoire.",
       "base": {
          "hp": 55,
          "attack": 75,
@@ -8583,7 +8583,7 @@
          "fly"
       ],
       "image": "https://img.pokemondb.net/artwork/large/staraptor.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Un Pok\u00E9mon sauvage qui a le courage de d\u00E9fier des ennemis beaucoup plus grands que lui. Ses ailes et ses pattes ont des muscles d\u00E9velopp\u00E9s. Il peut voler en agrippant un petit Pok\u00E9mon.",
       "base": {
          "hp": 85,
          "attack": 120,
@@ -8602,7 +8602,7 @@
          "normal"
       ],
       "image": "https://img.pokemondb.net/artwork/large/bidoof.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Rien ne peut perturber ses nerfs d'acier. Il est plus agile et \u00E9nergique qu'il n'y para\u00EEt. Il ronge constamment des troncs et des pierres pour se faire les incisives. Il niche le long de l'eau.",
       "base": {
          "hp": 59,
          "attack": 45,
@@ -8622,7 +8622,7 @@
          "water"
       ],
       "image": "https://img.pokemondb.net/artwork/large/bibarel.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Il construit des barrages de boue et d'\u00E9corce le long des fleuves. C'est un ouvrier de renom. M\u00EAme s'il est plut\u00F4t pataud sur la terre ferme, ce Pok\u00E9mon nage aussi vite que BARPAU.",
       "base": {
          "hp": 79,
          "attack": 85,
@@ -8641,7 +8641,7 @@
          "bug"
       ],
       "image": "https://img.pokemondb.net/artwork/large/kricketot.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Quand il bascule sa t\u00EAte d'avant en arri\u00E8re, ses antennes se heurtent dans un son de xylophone. Il communique au son de ses antennes qui s'entrechoquent. Ce son marque l'arriv\u00E9e de l'automne.",
       "base": {
          "hp": 37,
          "attack": 25,
@@ -8660,7 +8660,7 @@
          "bug"
       ],
       "image": "https://img.pokemondb.net/artwork/large/kricketune.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Il exprime ses \u00E9motions par des m\u00E9lodies. Les scientifiques \u00E9tudient actuellement leur structure. Il croise ses bras aff\u00FBt\u00E9s devant son torse pour crier. Il compose tout un tas de m\u00E9lodies.",
       "base": {
          "hp": 77,
          "attack": 85,
@@ -8679,7 +8679,7 @@
          "electrik"
       ],
       "image": "https://img.pokemondb.net/artwork/large/shinx.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Sa fourrure \u00E9tincelle en cas de danger. Il profite du fait que l'ennemi est aveugl\u00E9 pour s'enfuir. Les muscles de ses pattes avant produisent de l'\u00E9lectricit\u00E9. Son corps s'illumine en cas de danger.",
       "base": {
          "hp": 45,
          "attack": 65,
@@ -8698,7 +8698,7 @@
          "electrik"
       ],
       "image": "https://img.pokemondb.net/artwork/large/luxio.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "L'\u00E9lectricit\u00E9 lib\u00E9r\u00E9e par ses griffes peut assommer l'ennemi. Il vit en petits groupes. Il pose ses pattes avant sur ses pairs et \u00E9met des impulsions avec ses griffes pour communiquer.",
       "base": {
          "hp": 60,
          "attack": 85,
@@ -8717,7 +8717,7 @@
          "electrik"
       ],
       "image": "https://img.pokemondb.net/artwork/large/luxray.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Ses yeux voient \u00E0 travers tout. Il rep\u00E8re les proies cach\u00E9es derri\u00E8re un objet pour les capturer. Quand ses yeux se dorent, il peut rep\u00E9rer une proie cach\u00E9e, m\u00EAme si elle est derri\u00E8re un mur.",
       "base": {
          "hp": 80,
          "attack": 120,
@@ -8737,7 +8737,7 @@
          "poison"
       ],
       "image": "https://img.pokemondb.net/artwork/large/budew.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "En hiver, son bourgeon se referme pour r\u00E9sister au froid. Il s'ouvre au printemps et lib\u00E8re du pollen. Il vit pr\u00E8s des mares d'eau claire. Son pollen provoque des rhumes et fait couler le nez.",
       "base": {
          "hp": 40,
          "attack": 30,
@@ -8757,7 +8757,7 @@
          "poison"
       ],
       "image": "https://img.pokemondb.net/artwork/large/roserade.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Il attire ses proies avec son doux parfum et les ach\u00E8ve gr\u00E2ce aux fouets d'\u00E9pines de ses bras. Gracieux comme un danseur, il abat ses fouets orn\u00E9s d'\u00E9pines empoisonn\u00E9es.",
       "base": {
          "hp": 60,
          "attack": 70,
@@ -8776,7 +8776,7 @@
          "rock"
       ],
       "image": "https://img.pokemondb.net/artwork/large/cranidos.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Il vivait dans la jungle il y a environ 100 millions d'ann\u00E9es. Son cr\u00E2ne est dur comme du fer. On l'a ressuscit\u00E9 \u00E0 partir d'un fossile de fer en forme de balle. Il abat ses proies \u00E0 coups de t\u00EAte.",
       "base": {
          "hp": 67,
          "attack": 125,
@@ -8795,7 +8795,7 @@
          "rock"
       ],
       "image": "https://img.pokemondb.net/artwork/large/rampardos.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Son violent coup de t\u00EAte est assez puissant pour pulv\u00E9riser les mat\u00E9riaux les plus r\u00E9sistants. Son cr\u00E2ne est dur comme du fer. Cette brute abat des arbres quand elle chasse sa proie dans la jungle.",
       "base": {
          "hp": 97,
          "attack": 165,
@@ -8815,7 +8815,7 @@
          "steel"
       ],
       "image": "https://img.pokemondb.net/artwork/large/shieldon.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Un Pok\u00E9mon qui vivait dans la jungle il y a 100 millions d'ann\u00E9es. Son visage est tr\u00E8s dur. Il a l'habitude de polir son visage en le frottant contre un tronc. Il craint les attaques dans le dos.",
       "base": {
          "hp": 30,
          "attack": 42,
@@ -8835,7 +8835,7 @@
          "steel"
       ],
       "image": "https://img.pokemondb.net/artwork/large/bastiodon.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Il r\u00E9siste \u00E0 toute attaque frontale. C'est un Pok\u00E9mon docile qui se nourrit d'herbe et de Baies. En cas d'attaque, ils forment un mur avec leur visage en forme de bouclier pour prot\u00E9ger les petits.",
       "base": {
          "hp": 60,
          "attack": 52,
@@ -8854,7 +8854,7 @@
          "bug"
       ],
       "image": "https://img.pokemondb.net/artwork/large/burmy.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Pour se prot\u00E9ger des vents glac\u00E9s de l'hiver, il s'est tiss\u00E9 une cape de feuilles et de brindilles. S'il perd sa cape au combat, il en tisse rapidement une nouvelle avec ce qui lui tombe sous la main.",
       "base": {
          "hp": 40,
          "attack": 29,
@@ -8874,7 +8874,7 @@
          "grass"
       ],
       "image": "https://img.pokemondb.net/artwork/large/wormadam.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Quand CHENITI a \u00E9volu\u00E9, sa cape a fusionn\u00E9 avec son corps. CHENISELLE ne s'en s\u00E9pare jamais. Son apparence varie selon le lieu d'\u00E9volution. Son corps est fa\u00E7onn\u00E9 avec les mat\u00E9riaux \u00E0 disposition.",
       "base": {
          "hp": 60,
          "attack": 59,
@@ -8894,7 +8894,7 @@
          "fly"
       ],
       "image": "https://img.pokemondb.net/artwork/large/mothim.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Il aime le nectar des fleurs et n'h\u00E9site pas \u00E0 voler celui que r\u00E9cup\u00E8re APITRINI. Il n'a pas de nid. Il survole les champs et les montagnes en qu\u00EAte de nectar floral.",
       "base": {
          "hp": 70,
          "attack": 94,
@@ -8914,7 +8914,7 @@
          "fly"
       ],
       "image": "https://img.pokemondb.net/artwork/large/combee.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Un Pok\u00E9mon qui en regroupe trois autres. Il est toujours occup\u00E9 \u00E0 apporter du nectar \u00E0 APIREINE. Il r\u00E9colte le nectar et l'am\u00E8ne \u00E0 la colonie. La nuit, ils s'assemblent pour b\u00E2tir une ruche et s'endormir.",
       "base": {
          "hp": 30,
          "attack": 30,
@@ -8934,7 +8934,7 @@
          "fly"
       ],
       "image": "https://img.pokemondb.net/artwork/large/vespiquen.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Son abdomen est un rayon o\u00F9 vivent ses larves, \u00E9lev\u00E9es avec le nectar r\u00E9colt\u00E9 par APITRINI. En cas de danger, les larves de son rayon de 6 alv\u00E9oles ripostent. Il n'y en a qu'un dans chaque colonie.",
       "base": {
          "hp": 70,
          "attack": 80,
@@ -8953,7 +8953,7 @@
          "electrik"
       ],
       "image": "https://img.pokemondb.net/artwork/large/pachirisu.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Il roule des boules de poils pleines d'\u00E9lectricit\u00E9 statique et les range dans des souches avec des Baies. Les poches de ses joues produisent de l'\u00E9lectricit\u00E9 et sa queue envoie des \u00E9clairs. Il vit dans les arbres.",
       "base": {
          "hp": 60,
          "attack": 45,
@@ -8972,7 +8972,7 @@
          "water"
       ],
       "image": "https://img.pokemondb.net/artwork/large/buizel.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Sa bou\u00E9e est pareille \u00E0 un collier gonflable. Quand il flotte, il garde la t\u00EAte \u00E0 l'air libre. Il nage en faisant tournoyer ses deux queues comme une h\u00E9lice. Sa bou\u00E9e s'affaisse quand il plonge.",
       "base": {
          "hp": 55,
          "attack": 65,
@@ -8991,7 +8991,7 @@
          "water"
       ],
       "image": "https://img.pokemondb.net/artwork/large/floatzel.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Il flotte gr\u00E2ce \u00E0 sa bou\u00E9e tr\u00E8s d\u00E9velopp\u00E9e. Il vole au secours des gens sur le point de se noyer. Il a d\u00E9velopp\u00E9 une bou\u00E9e pour poursuivre ses proies aquatiques. Elle fait office de canot gonflable.",
       "base": {
          "hp": 85,
          "attack": 105,
@@ -9010,7 +9010,7 @@
          "grass"
       ],
       "image": "https://img.pokemondb.net/artwork/large/cherubi.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "La petite boule renferme les d\u00E9licieux nutriments sucr\u00E9s dont il a besoin pour \u00E9voluer. Il rougit au soleil. Quand la petite boule est \u00E0 court de nutriments, elle fane en signe d'\u00E9volution.",
       "base": {
          "hp": 45,
          "attack": 35,
@@ -9029,7 +9029,7 @@
          "grass"
       ],
       "image": "https://img.pokemondb.net/artwork/large/cherrim.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Il fleurit lorsque le soleil est au beau fixe. Il cherche \u00E0 prendre sa revanche sur une vie de bourgeon. Ce timide bourgeon devient une fleur joyeuse. Il reprend sa forme de bourgeon au coucher du soleil.",
       "base": {
          "hp": 70,
          "attack": 60,
@@ -9048,7 +9048,7 @@
          "water"
       ],
       "image": "https://img.pokemondb.net/artwork/large/shellos.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Sa couleur et sa forme varient selon les r\u00E9gions. On en recense deux types \u00E0 Sinnoh. Il vit le long des points d'eau. Sa morphologie a chang\u00E9 pour s'adapter \u00E0 son environnement.",
       "base": {
          "hp": 76,
          "attack": 48,
@@ -9068,7 +9068,7 @@
          "ground"
       ],
       "image": "https://img.pokemondb.net/artwork/large/gastrodon.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Son corps pliable est d\u00E9pourvu d'os. Lorsqu'on tranche un de ses membres, il repousse imm\u00E9diatement. Jadis, il semble qu'il portait une grande carapace pour se prot\u00E9ger. Il hante les eaux peu profondes.",
       "base": {
          "hp": 111,
          "attack": 83,
@@ -9087,7 +9087,7 @@
          "normal"
       ],
       "image": "https://img.pokemondb.net/artwork/large/ambipom.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Il se nourrit de noix qu'il \u00E9pluche avec ses deux queues habiles. Il utilise de moins en moins ses bras. Ils travaillent en grandes colonies et relient leurs queues pour former un anneau en signe d'amiti\u00E9.",
       "base": {
          "hp": 75,
          "attack": 100,
@@ -9107,7 +9107,7 @@
          "fly"
       ],
       "image": "https://img.pokemondb.net/artwork/large/drifloon.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Un Pok\u00E9mon n\u00E9 de l'esprit des gens et des Pok\u00E9mon. Il aime les saisons chaudes et humides. Il tire sur les mains des enfants pour les kidnapper. Mais il finit toujours par se faire entra\u00EEner.",
       "base": {
          "hp": 90,
          "attack": 50,
@@ -9127,7 +9127,7 @@
          "fly"
       ],
       "image": "https://img.pokemondb.net/artwork/large/drifblim.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Il somnole la journ\u00E9e et s'envole en grands groupes le soir venu. Nul ne sait o\u00F9 ils vont. Il peut embarquer des gens et des Pok\u00E9mon, mais nul ne sait o\u00F9 il va atterrir car il ne fait que flotter.",
       "base": {
          "hp": 150,
          "attack": 80,
@@ -9146,7 +9146,7 @@
          "normal"
       ],
       "image": "https://img.pokemondb.net/artwork/large/buneary.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Il frappe l'ennemi en d\u00E9roulant violemment ses oreilles. Cela peut faire pleurer un adulte. Il dresse les oreilles quand il sent un danger. Il dort la t\u00EAte dans sa fourrure pendant les nuits froides.",
       "base": {
          "hp": 55,
          "attack": 66,
@@ -9165,7 +9165,7 @@
          "normal"
       ],
       "image": "https://img.pokemondb.net/artwork/large/lopunny.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Un Pok\u00E9mon extr\u00EAmement prudent. Il couvre son corps de ses oreilles pelucheuses en cas de danger. Il est tr\u00E8s coquet et n'oublie jamais de toiletter ses oreilles. Il avance en bonds \u00E9nergiques.",
       "base": {
          "hp": 65,
          "attack": 76,
@@ -9184,7 +9184,7 @@
          "ghost"
       ],
       "image": "https://img.pokemondb.net/artwork/large/mismagius.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Son cri rappelle une incantation. Ceux qui l'entendent souffrent de migraines et d'hallucinations. Il psalmodie des incantations. Ce sont souvent des mal\u00E9dictions, mais certaines apportent la joie.",
       "base": {
          "hp": 60,
          "attack": 60,
@@ -9204,7 +9204,7 @@
          "fly"
       ],
       "image": "https://img.pokemondb.net/artwork/large/honchkrow.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Ce Pok\u00E9mon nocturne \u00E9volue en grandes vol\u00E9es escort\u00E9es par des CORNEBRE. Il demande \u00E0 ses amis CORNEBRE de lui apporter \u00E0 manger. Il passe son temps \u00E0 se pomponner dans son nid.",
       "base": {
          "hp": 100,
          "attack": 125,
@@ -9223,7 +9223,7 @@
          "normal"
       ],
       "image": "https://img.pokemondb.net/artwork/large/glameow.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Il griffe quand il est en col\u00E8re et ronronne quand il est heureux. Certains aiment ce c\u00F4t\u00E9 lunatique. Son regard plonge l'ennemi dans une hypnose l\u00E9g\u00E8re. C'est un Pok\u00E9mon tr\u00E8s lunatique.",
       "base": {
          "hp": 49,
          "attack": 55,
@@ -9242,7 +9242,7 @@
          "normal"
       ],
       "image": "https://img.pokemondb.net/artwork/large/purugly.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Cette brute arrogante n'h\u00E9site pas \u00E0 voler le nid d'autres Pok\u00E9mon pour s'y installer. Il ceinture sa taille de ses queues jumelles pour para\u00EEtre plus imposant.",
       "base": {
          "hp": 71,
          "attack": 82,
@@ -9261,7 +9261,7 @@
          "psy"
       ],
       "image": "https://img.pokemondb.net/artwork/large/chingling.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Il \u00E9met des cris en agitant l'orbe \u00E0 l'arri\u00E8re de sa gorge. Il avance par bonds d\u00E9sordonn\u00E9s. Il produit un bruit de sonnerie \u00E0 chaque bond. Il assourdit l'ennemi avec ses cris \u00E0 haute fr\u00E9quence.",
       "base": {
          "hp": 45,
          "attack": 30,
@@ -9281,7 +9281,7 @@
          "dark"
       ],
       "image": "https://img.pokemondb.net/artwork/large/stunky.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Il se prot\u00E8ge en expulsant un fluide nocif par son derri\u00E8re. La puanteur dure 24 heures. Son derri\u00E8re projette un fluide puant et f\u00E9tide qu'il utilise pour repousser l'ennemi.",
       "base": {
          "hp": 63,
          "attack": 63,
@@ -9301,7 +9301,7 @@
          "dark"
       ],
       "image": "https://img.pokemondb.net/artwork/large/skuntank.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Il attaque en projetant un liquide f\u00E9tide du bout de sa queue. Il peut tirer \u00E0 50 m\u00E8tres. Sa queue projette un fluide puant. Plus on le laisse s'\u00E9couler et plus son odeur est insoutenable.",
       "base": {
          "hp": 103,
          "attack": 93,
@@ -9321,7 +9321,7 @@
          "psy"
       ],
       "image": "https://img.pokemondb.net/artwork/large/bronzor.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Il rappelle des objets trouv\u00E9s dans des s\u00E9pultures anciennes. Nul ne sait s'ils sont li\u00E9s. On a voulu \u00E9tudier sa structure aux rayons X, mais les radios ne montraient absolument rien.",
       "base": {
          "hp": 57,
          "attack": 24,
@@ -9341,7 +9341,7 @@
          "psy"
       ],
       "image": "https://img.pokemondb.net/artwork/large/bronzong.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "La d\u00E9couverte d'un de ces Pok\u00E9mon sur un site de fouilles apr\u00E8s 2 000 ans de sommeil a fait sensation. Il peut cr\u00E9er des nuages pluvieux. Jadis, il \u00E9tait v\u00E9n\u00E9r\u00E9 comme le patron des bonnes moissons.",
       "base": {
          "hp": 67,
          "attack": 89,
@@ -9360,7 +9360,7 @@
          "rock"
       ],
       "image": "https://img.pokemondb.net/artwork/large/bonsly.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "On dirait qu'il pleure constamment. En fait, il r\u00E9gule ses fluides corporels en \u00E9liminant le surplus. Il pr\u00E9f\u00E8re les sols arides. Il \u00E9vacue l'eau par ses yeux pour r\u00E9guler ses fluides corporels.",
       "base": {
          "hp": 50,
          "attack": 80,
@@ -9380,7 +9380,7 @@
          "fairy"
       ],
       "image": "https://img.pokemondb.net/artwork/large/mime-jr.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Il imite ses ennemis. Une fois imit\u00E9s, ils ne peuvent plus quitter ce Pok\u00E9mon des yeux. Il aime les endroits bond\u00E9s. Il imite l'ennemi pour le d\u00E9stabiliser avant de s'enfuir.",
       "base": {
          "hp": 20,
          "attack": 25,
@@ -9399,7 +9399,7 @@
          "normal"
       ],
       "image": "https://img.pokemondb.net/artwork/large/happiny.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Ce Pok\u00E9mon aime ce qui est rond et blanc et transporte un caillou en forme d'\u0153uf pour imiter LEVEINARD. PTIRAVI transporte un caillou rond en forme d'\u0153uf dans sa poche ventrale pour l'offrir \u00E0 ses amis.",
       "base": {
          "hp": 100,
          "attack": 5,
@@ -9419,7 +9419,7 @@
          "fly"
       ],
       "image": "https://img.pokemondb.net/artwork/large/chatot.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Il m\u00E9morise et r\u00E9p\u00E8te les mots des \u00EAtres humains. Si plusieurs de ces Pok\u00E9mon sont r\u00E9unis au m\u00EAme endroit, ils apprennent tous les m\u00EAmes mots.",
       "base": {
          "hp": 76,
          "attack": 65,
@@ -9439,7 +9439,7 @@
          "dark"
       ],
       "image": "https://img.pokemondb.net/artwork/large/spiritomb.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Un Pok\u00E9mon compos\u00E9 de 108 esprits. Il provient d'une fissure dans une cl\u00E9 de vo\u00FBte \u00E9trange. Il fut emprisonn\u00E9 dans la fissure d'une cl\u00E9 de vo\u00FBte \u00E9trange en guise de punition il y a 500 ans.",
       "base": {
          "hp": 50,
          "attack": 92,
@@ -9459,7 +9459,7 @@
          "ground"
       ],
       "image": "https://img.pokemondb.net/artwork/large/gible.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Il niche dans les petits trous horizontaux des murs des grottes. Il bondit pour saisir sa proie. Jadis, il vivait sous les tropiques. Il hante les grottes b\u00E9n\u00E9ficiant de la chaleur g\u00E9othermique.",
       "base": {
          "hp": 58,
          "attack": 70,
@@ -9479,7 +9479,7 @@
          "ground"
       ],
       "image": "https://img.pokemondb.net/artwork/large/gabite.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Selon une croyance ancienne, on peut utiliser ses \u00E9cailles pour gu\u00E9rir les maladies incurables. Il creuse en qu\u00EAte de gemmes dont il d\u00E9core son nid. Bien des voleurs convoitent son butin.",
       "base": {
          "hp": 68,
          "attack": 90,
@@ -9499,7 +9499,7 @@
          "ground"
       ],
       "image": "https://img.pokemondb.net/artwork/large/garchomp.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Quand il se recroqueville et \u00E9tend ses ailes, on dirait un chasseur. Sa vitesse est supersonique. Il vole \u00E0 la vitesse d'un avion \u00E0 r\u00E9action et ne l\u00E2che jamais sa proie.",
       "base": {
          "hp": 108,
          "attack": 130,
@@ -9518,7 +9518,7 @@
          "normal"
       ],
       "image": "https://img.pokemondb.net/artwork/large/munchlax.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Il avale son poids en nourriture chaque jour. Il avale tout sans prendre le temps de m\u00E2cher. Il cache de la nourriture sous les grands poils de son corps, mais il finit souvent par l'oublier.",
       "base": {
          "hp": 135,
          "attack": 85,
@@ -9537,7 +9537,7 @@
          "fight"
       ],
       "image": "https://img.pokemondb.net/artwork/large/riolu.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Son aura s'intensifie pour pr\u00E9venir son entourage quand il a peur ou qu'il est triste. Son corps est fr\u00EAle mais puissant. Il peut traverser trois montagnes et deux canyons en une nuit.",
       "base": {
          "hp": 40,
          "attack": 70,
@@ -9557,7 +9557,7 @@
          "steel"
       ],
       "image": "https://img.pokemondb.net/artwork/large/lucario.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Il ressent les auras de tout. Il comprend le langage humain. Il peut deviner les pens\u00E9es et les mouvements des autres en analysant leur aura.",
       "base": {
          "hp": 70,
          "attack": 110,
@@ -9576,7 +9576,7 @@
          "ground"
       ],
       "image": "https://img.pokemondb.net/artwork/large/hippopotas.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Il vit dans des endroits arides. Il exsude du sable granuleux au lieu de transpirer. Il se recouvre de sable pour se prot\u00E9ger des microbes. Il n'aime pas l'eau.",
       "base": {
          "hp": 68,
          "attack": 72,
@@ -9595,7 +9595,7 @@
          "ground"
       ],
       "image": "https://img.pokemondb.net/artwork/large/hippowdon.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Il emmagasine du sable qu'il expulse en tornades par les pores de sa peau pour attaquer. Sa grande gueule fait quasiment 2 m. Il a assez de force pour \u00E9craser une voiture.",
       "base": {
          "hp": 108,
          "attack": 112,
@@ -9615,7 +9615,7 @@
          "bug"
       ],
       "image": "https://img.pokemondb.net/artwork/large/skorupi.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Il saisit sa proie avec les pinces de sa queue, lui injecte un poison et la retient jusqu'\u00E0 ce qu'il agisse. Il vit sur les terres arides. Il s'enfouit dans le sable dans l'attente d'une proie imprudente.",
       "base": {
          "hp": 40,
          "attack": 50,
@@ -9635,7 +9635,7 @@
          "dark"
       ],
       "image": "https://img.pokemondb.net/artwork/large/drapion.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Il peut r\u00E9duire une voiture en pi\u00E8ces avec ses pinces. Le bout de ses pinces contient du poison. Il porte une coquille robuste. Sa t\u00EAte peut pivoter \u00E0 180 degr\u00E9s pour couvrir les angles morts.",
       "base": {
          "hp": 70,
          "attack": 90,
@@ -9655,7 +9655,7 @@
          "fight"
       ],
       "image": "https://img.pokemondb.net/artwork/large/croagunk.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Ses joues contiennent des glandes toxiques. Il attaque par surprise et utilise son toucher empoisonn\u00E9. Il \u00E9met un gargouillis \u00E9trange en gonflant ses glandes de poison pour intimider l'ennemi.",
       "base": {
          "hp": 48,
          "attack": 61,
@@ -9675,7 +9675,7 @@
          "fight"
       ],
       "image": "https://img.pokemondb.net/artwork/large/toxicroak.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Les griffes de ses poings s\u00E9cr\u00E8tent une toxine si atroce qu'une simple \u00E9gratignure peut s'av\u00E9rer fatale. La toxine produite par ses glandes de poison passe par les tubes de ses bras pour imbiber ses griffes.",
       "base": {
          "hp": 83,
          "attack": 106,
@@ -9694,7 +9694,7 @@
          "grass"
       ],
       "image": "https://img.pokemondb.net/artwork/large/carnivine.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Il attire sa proie avec sa salive odorante avant de la croquer. Il lui faut une journ\u00E9e pour l'avaler. On dirait une plante, pendu aux branches avec ses tentacules. Il attend sa proie la bouche ouverte.",
       "base": {
          "hp": 74,
          "attack": 100,
@@ -9713,7 +9713,7 @@
          "water"
       ],
       "image": "https://img.pokemondb.net/artwork/large/finneon.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Avec sa double nageoire caudale, il peut bondir hors de l\u2019eau. C\u2019est souvent \u00E0 ce moment que les Go\u00E9lise de passage l\u2019attrapent et le gobent.",
       "base": {
          "hp": 49,
          "attack": 49,
@@ -9732,7 +9732,7 @@
          "water"
       ],
       "image": "https://img.pokemondb.net/artwork/large/lumineon.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Ce Pok\u00E9mon des profondeurs vit tout au fond de l\u2019oc\u00E9an. Il rampe \u00E0 l\u2019aide de ses nageoires ventrales et cherche les Staross dont il raffole.",
       "base": {
          "hp": 69,
          "attack": 69,
@@ -9752,7 +9752,7 @@
          "fly"
       ],
       "image": "https://img.pokemondb.net/artwork/large/mantyke.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Il est tr\u00E8s affectueux et adore les humains. Les excursions permettant d\u2019aller nager avec lui sont tr\u00E8s populaires aupr\u00E8s des touristes.",
       "base": {
          "hp": 45,
          "attack": 20,
@@ -9772,7 +9772,7 @@
          "ice"
       ],
       "image": "https://img.pokemondb.net/artwork/large/snover.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Il vit sur les monts enneig\u00E9s. Ignorant des coutumes humaines, il lui arrive d'\u00EAtre tr\u00E8s indiscret. Au printemps, il fait pousser des Baies pareilles \u00E0 des cr\u00E8mes glac\u00E9es autour de son ventre.",
       "base": {
          "hp": 60,
          "attack": 62,
@@ -9792,7 +9792,7 @@
          "ice"
       ],
       "image": "https://img.pokemondb.net/artwork/large/abomasnow.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "L\u2019abominable homme des neiges, c\u2019est lui. Il vit dans les montagnes recouvertes de neiges \u00E9ternelles, et d\u00E9clenche des blizzards.",
       "base": {
          "hp": 90,
          "attack": 92,
@@ -9812,7 +9812,7 @@
          "ice"
       ],
       "image": "https://img.pokemondb.net/artwork/large/weavile.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Il est devenu assez sournois pour ne plus avoir \u00E0 se battre pour ses proies. Quiconque entre en contact avec ses griffes souffrira de gelures.",
       "base": {
          "hp": 70,
          "attack": 120,
@@ -9832,7 +9832,7 @@
          "steel"
       ],
       "image": "https://img.pokemondb.net/artwork/large/magnezone.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Il est aussi habile avec sa langue que les \u00EAtres humains le sont avec leurs mains. En revanche, il est maladroit quand il utilise ses doigts.",
       "base": {
          "hp": 70,
          "attack": 70,
@@ -9851,7 +9851,7 @@
          "normal"
       ],
       "image": "https://img.pokemondb.net/artwork/large/lickilicky.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Il est aussi habile avec sa langue que les \u00EAtres humains le sont avec leurs mains. En revanche, il est maladroit quand il utilise ses doigts.",
       "base": {
          "hp": 110,
          "attack": 85,
@@ -9871,7 +9871,7 @@
          "rock"
       ],
       "image": "https://img.pokemondb.net/artwork/large/rhyperior.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Il ins\u00E8re des pierres dans les trous de ses paumes, puis les projette par la force de ses muscles. Il lui arrive parfois de catapulter des Racaillou.",
       "base": {
          "hp": 115,
          "attack": 140,
@@ -9890,7 +9890,7 @@
          "grass"
       ],
       "image": "https://img.pokemondb.net/artwork/large/tangrowth.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Ce Pok\u00E9mon ligote sa proie en \u00E9tirant ses bras faits de lianes v\u00E9g\u00E9tales. Il ne craint pas qu\u2019on lui mange un bras.",
       "base": {
          "hp": 100,
          "attack": 100,
@@ -9909,7 +9909,7 @@
          "electrik"
       ],
       "image": "https://img.pokemondb.net/artwork/large/electivire.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "La quantit\u00E9 d\u2019\u00E9lectricit\u00E9 qu\u2019il g\u00E9n\u00E8re est \u00E9norme, m\u00EAme pour un Pok\u00E9mon \u00C9lectrik. Il inflige de fortes d\u00E9charges du bout de ses queues.",
       "base": {
          "hp": 75,
          "attack": 123,
@@ -9928,7 +9928,7 @@
          "fire"
       ],
       "image": "https://img.pokemondb.net/artwork/large/magmortar.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Son bras peut expulser des boules enflamm\u00E9es d\u2019une temp\u00E9rature de 2 000 \u00B0C. S\u2019il en tire trop d\u2019un coup, son bras commence \u00E0 fondre.",
       "base": {
          "hp": 75,
          "attack": 95,
@@ -9948,7 +9948,7 @@
          "fly"
       ],
       "image": "https://img.pokemondb.net/artwork/large/togekiss.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "On dit que ce Pok\u00E9mon dispense ses bienfaits, ce qui explique pourquoi il est repr\u00E9sent\u00E9 sur les porte-bonheurs depuis fort longtemps.",
       "base": {
          "hp": 85,
          "attack": 50,
@@ -9968,7 +9968,7 @@
          "fly"
       ],
       "image": "https://img.pokemondb.net/artwork/large/yanmega.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Il peut voler avec aise tout en portant un adulte dans ses six pattes. Les ailes de sa queue lui servent de balancier.",
       "base": {
          "hp": 86,
          "attack": 76,
@@ -9987,7 +9987,7 @@
          "grass"
       ],
       "image": "https://img.pokemondb.net/artwork/large/leafeon.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Les habitants de Galar adorent l\u2019odeur unique qui se d\u00E9gage de ses feuilles, aussi entrent-elles dans la composition d\u2019un parfum tr\u00E8s populaire.",
       "base": {
          "hp": 65,
          "attack": 110,
@@ -10006,7 +10006,7 @@
          "ice"
       ],
       "image": "https://img.pokemondb.net/artwork/large/glaceon.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Totalement subjugu\u00E9es par la beaut\u00E9 des cristaux de glace qu\u2019il fait tomber, ses proies ne r\u00E9alisent que trop tard qu\u2019elles sont en train de geler.",
       "base": {
          "hp": 65,
          "attack": 60,
@@ -10026,7 +10026,7 @@
          "fly"
       ],
       "image": "https://img.pokemondb.net/artwork/large/gliscor.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Il guette sa proie, pendu \u00E0 une branche la t\u00EAte en bas, et s'en saisit \u00E0 la premi\u00E8re occasion.",
       "base": {
          "hp": 75,
          "attack": 95,
@@ -10046,7 +10046,7 @@
          "ground"
       ],
       "image": "https://img.pokemondb.net/artwork/large/mamoswine.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Comme son physique le laisse deviner, il est tr\u00E8s fort. La taille de ses d\u00E9fenses de glace augmente \u00E0 mesure que la temp\u00E9rature baisse.",
       "base": {
          "hp": 110,
          "attack": 130,
@@ -10065,7 +10065,7 @@
          "normal"
       ],
       "image": "https://img.pokemondb.net/artwork/large/porygon-z.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Un nouveau logiciel \u00E9tait cens\u00E9 lui permettre de voyager entre les dimensions, mais tout ne se passe pas comme pr\u00E9vu et il y a des bugs.",
       "base": {
          "hp": 85,
          "attack": 80,
@@ -10085,7 +10085,7 @@
          "fight"
       ],
       "image": "https://img.pokemondb.net/artwork/large/gallade.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Ce Pok\u00E9mon, que l\u2019on surnomme \u00AB l\u2019escrimeur \u00BB, ne se sert de ses coudes en forme de lames que s\u2019il doit d\u00E9fendre quelque chose.",
       "base": {
          "hp": 68,
          "attack": 125,
@@ -10105,7 +10105,7 @@
          "steel"
       ],
       "image": "https://img.pokemondb.net/artwork/large/probopass.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Il utilise ses trois petites unit\u00E9s pour combattre ses ennemis et capturer ses proies. Le reste de son corps se contente de donner des ordres.",
       "base": {
          "hp": 60,
          "attack": 55,
@@ -10124,7 +10124,7 @@
          "ghost"
       ],
       "image": "https://img.pokemondb.net/artwork/large/dusknoir.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "L\u2019antenne sur sa t\u00EAte capte les ondes \u00E9mises par les esprits. Ceux-ci lui ordonnent d\u2019emmener les \u00EAtres humains dans l\u2019au-del\u00E0, et il s\u2019ex\u00E9cute.",
       "base": {
          "hp": 45,
          "attack": 100,
@@ -10144,7 +10144,7 @@
          "ghost"
       ],
       "image": "https://img.pokemondb.net/artwork/large/froslass.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "On dit qu\u2019il appara\u00EEt dans les zones habit\u00E9es les soirs de temp\u00EAte de neige. Si vous entendez toquer \u00E0 la porte, n\u2019allez pas ouvrir !",
       "base": {
          "hp": 70,
          "attack": 80,
@@ -10164,7 +10164,7 @@
          "ghost"
       ],
       "image": "https://img.pokemondb.net/artwork/large/rotom.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Ce Pok\u00E9mon est connu pour jouer des tours en s\u2019infiltrant dans des appareils \u00E9lectriques. Son corps est fait de plasma.",
       "base": {
          "hp": 50,
          "attack": 50,
@@ -10184,7 +10184,7 @@
          "fire"
       ],
       "image": "https://img.pokemondb.net/artwork/large/rotom-heat.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Ce Pok\u00E9mon est connu pour jouer des tours en s\u2019infiltrant dans des appareils \u00E9lectriques. Son corps est fait de plasma.",
       "base": {
          "hp": 50,
          "attack": 65,
@@ -10204,7 +10204,7 @@
          "water"
       ],
       "image": "https://img.pokemondb.net/artwork/large/rotom-wash.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Ce Pok\u00E9mon est connu pour jouer des tours en s\u2019infiltrant dans des appareils \u00E9lectriques. Son corps est fait de plasma.",
       "base": {
          "hp": 50,
          "attack": 65,
@@ -10224,7 +10224,7 @@
          "ice"
       ],
       "image": "https://img.pokemondb.net/artwork/large/rotom-frost.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Ce Pok\u00E9mon est connu pour jouer des tours en s\u2019infiltrant dans des appareils \u00E9lectriques. Son corps est fait de plasma.",
       "base": {
          "hp": 50,
          "attack": 65,
@@ -10244,7 +10244,7 @@
          "fly"
       ],
       "image": "https://img.pokemondb.net/artwork/large/rotom-fan.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Ce Pok\u00E9mon est connu pour jouer des tours en s\u2019infiltrant dans des appareils \u00E9lectriques. Son corps est fait de plasma.",
       "base": {
          "hp": 50,
          "attack": 65,
@@ -10264,7 +10264,7 @@
          "grass"
       ],
       "image": "https://img.pokemondb.net/artwork/large/rotom-mow.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Ce Pok\u00E9mon est connu pour jouer des tours en s\u2019infiltrant dans des appareils \u00E9lectriques. Son corps est fait de plasma.",
       "base": {
          "hp": 50,
          "attack": 65,
@@ -10283,7 +10283,7 @@
          "psy"
       ],
       "image": "https://img.pokemondb.net/artwork/large/uxie.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "On l\u2019appelle \u00AB l\u2019\u00EAtre du savoir \u00BB. On dit qu\u2019il a le pouvoir d\u2019effacer la m\u00E9moire de ceux qui croisent son regard.",
       "base": {
          "hp": 75,
          "attack": 75,
@@ -10302,7 +10302,7 @@
          "psy"
       ],
       "image": "https://img.pokemondb.net/artwork/large/mesprit.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "On l\u2019appelle \u00AB l\u2019\u00EAtre de l\u2019\u00E9motion \u00BB. Il a enseign\u00E9 aux \u00EAtres humains la douleur de la tristesse et la noblesse de la joie.",
       "base": {
          "hp": 80,
          "attack": 105,
@@ -10321,7 +10321,7 @@
          "psy"
       ],
       "image": "https://img.pokemondb.net/artwork/large/azelf.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "On l\u2019appelle \u00AB l\u2019\u00EAtre de la volont\u00E9 \u00BB. Il dort au fond d\u2019un lac et maintient l\u2019\u00E9quilibre du monde.",
       "base": {
          "hp": 75,
          "attack": 125,
@@ -10341,7 +10341,7 @@
          "dragon"
       ],
       "image": "https://img.pokemondb.net/artwork/large/dialga.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Ce Pok\u00E9mon capable de contr\u00F4ler le temps est consid\u00E9r\u00E9 comme une divinit\u00E9 \u00E0 Sinnoh et appara\u00EEt dans les mythes de cette r\u00E9gion.",
       "base": {
          "hp": 100,
          "attack": 120,
@@ -10361,7 +10361,7 @@
          "dragon"
       ],
       "image": "https://img.pokemondb.net/artwork/large/dialga-origin.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Ce Pok\u00E9mon capable de contr\u00F4ler le temps est consid\u00E9r\u00E9 comme une divinit\u00E9 \u00E0 Sinnoh et appara\u00EEt dans les mythes de cette r\u00E9gion.",
       "base": {
          "hp": 100,
          "attack": 100,
@@ -10381,7 +10381,7 @@
          "dragon"
       ],
       "image": "https://img.pokemondb.net/artwork/large/palkia.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Ce Pok\u00E9mon capable de distordre l\u2019espace est d\u00E9crit comme une divinit\u00E9 dans les mythes de la r\u00E9gion de Sinnoh.",
       "base": {
          "hp": 90,
          "attack": 120,
@@ -10401,7 +10401,7 @@
          "dragon"
       ],
       "image": "https://img.pokemondb.net/artwork/large/palkia-origin.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Ce Pok\u00E9mon capable de distordre l\u2019espace est d\u00E9crit comme une divinit\u00E9 dans les mythes de la r\u00E9gion de Sinnoh.",
       "base": {
          "hp": 90,
          "attack": 100,
@@ -10421,7 +10421,7 @@
          "steel"
       ],
       "image": "https://img.pokemondb.net/artwork/large/heatran.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Ce Pok\u00E9mon vit dans les grottes volcaniques. Il rampe sur les murs et aux plafonds en y plantant ses griffes dispos\u00E9es en croix.",
       "base": {
          "hp": 91,
          "attack": 90,
@@ -10440,7 +10440,7 @@
          "normal"
       ],
       "image": "https://img.pokemondb.net/artwork/large/regigigas.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "On raconte qu\u2019apr\u00E8s avoir cr\u00E9\u00E9 des Pok\u00E9mon avec diff\u00E9rentes mati\u00E8res, il aurait plac\u00E9 les continents \u00E0 leur position actuelle.",
       "base": {
          "hp": 110,
          "attack": 160,
@@ -10460,7 +10460,7 @@
          "dragon"
       ],
       "image": "https://img.pokemondb.net/artwork/large/giratina-altered.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Sa grande violence lui a valu d\u2019\u00EAtre banni. Il observe les hommes en silence depuis le Monde Distorsion.",
       "base": {
          "hp": 150,
          "attack": 100,
@@ -10480,7 +10480,7 @@
          "dragon"
       ],
       "image": "https://img.pokemondb.net/artwork/large/giratina-origin.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Sa grande violence lui a valu d\u2019\u00EAtre banni. Il observe les hommes en silence depuis le Monde Distorsion.",
       "base": {
          "hp": 150,
          "attack": 100,
@@ -10499,7 +10499,7 @@
          "psy"
       ],
       "image": "https://img.pokemondb.net/artwork/large/cresselia.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Lorsqu\u2019il vole, ses ailes semblables \u00E0 des voiles lib\u00E8rent des particules brillantes. On l\u2019appelle \u00AB l\u2019avatar du croissant de lune \u00BB.",
       "base": {
          "hp": 120,
          "attack": 70,
@@ -10518,7 +10518,7 @@
          "water"
       ],
       "image": "https://img.pokemondb.net/artwork/large/phione.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Ce Pok\u00E9mon vit dans les mers chaudes et gonfle l\u2019organe de flottaison sur sa t\u00EAte pour nager au creux des vagues, en qu\u00EAte de nourriture.",
       "base": {
          "hp": 80,
          "attack": 80,
@@ -10537,7 +10537,7 @@
          "water"
       ],
       "image": "https://img.pokemondb.net/artwork/large/manaphy.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Ce Pok\u00E9mon parcourt de grandes distances pour retourner dans les profondeurs froides de l\u2019oc\u00E9an, o\u00F9 il est n\u00E9.",
       "base": {
          "hp": 100,
          "attack": 100,
@@ -10556,7 +10556,7 @@
          "dark"
       ],
       "image": "https://img.pokemondb.net/artwork/large/darkrai.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Ce Pok\u00E9mon a le pouvoir de plonger les gens dans un profond sommeil pour les forcer \u00E0 r\u00EAver. Il est actif les nuits de nouvelle lune.",
       "base": {
          "hp": 70,
          "attack": 90,
@@ -10575,7 +10575,7 @@
          "grass"
       ],
       "image": "https://img.pokemondb.net/artwork/large/shaymin-land.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Il peut d\u00E9composer les toxines pr\u00E9sentes dans l\u2019air pour transformer instantan\u00E9ment des terres arides en champs de fleurs.",
       "base": {
          "hp": 100,
          "attack": 100,
@@ -10595,7 +10595,7 @@
          "fly"
       ],
       "image": "https://img.pokemondb.net/artwork/large/shaymin-sky.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "Il peut d\u00E9composer les toxines pr\u00E9sentes dans l\u2019air pour transformer instantan\u00E9ment des terres arides en champs de fleurs.",
       "base": {
          "hp": 100,
          "attack": 103,
@@ -10614,7 +10614,7 @@
          "normal"
       ],
       "image": "https://img.pokemondb.net/artwork/large/arceus.jpg",
-      "description": "On dit que Mew poss\u00E8de le code g\u00E9n\u00E9tique de tous les autres Pok\u00E9mon. Il peut se rendre invisible \u00E0 sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.",
+      "description": "La mythologie le d\u00E9crit comme le Pok\u00E9mon qui a fa\u00E7onn\u00E9 l\u2019univers avec ses mille bras.",
       "base": {
          "hp": 120,
          "attack": 120,
