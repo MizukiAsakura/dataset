@@ -19,9 +19,9 @@
       "form": "normal",
       "generation": 1,
       "abilities": [
-         104
-      ],
-      "hidden": 56
+         104,
+         56
+      ]
    },
    {
       "number": 2,
@@ -43,9 +43,9 @@
       "form": "normal",
       "generation": 1,
       "abilities": [
-         104
-      ],
-      "hidden": 56
+         104,
+         56
+      ]
    },
    {
       "number": 3,
@@ -67,9 +67,9 @@
       "form": "normal",
       "generation": 1,
       "abilities": [
-         104
-      ],
-      "hidden": 56
+         104,
+         56
+      ]
    },
    {
       "number": 4,
@@ -90,9 +90,9 @@
       "form": "normal",
       "generation": 1,
       "abilities": [
-         44
-      ],
-      "hidden": 125
+         44,
+         125
+      ]
    },
    {
       "number": 5,
@@ -113,9 +113,9 @@
       "form": "normal",
       "generation": 1,
       "abilities": [
-         44
-      ],
-      "hidden": 125
+         44,
+         125
+      ]
    },
    {
       "number": 6,
@@ -137,9 +137,9 @@
       "form": "normal",
       "generation": 1,
       "abilities": [
-         44
-      ],
-      "hidden": 125
+         44,
+         125
+      ]
    },
    {
       "number": 7,
@@ -160,9 +160,9 @@
       "form": "normal",
       "generation": 1,
       "abilities": [
-         282
-      ],
-      "hidden": 83
+         282,
+         83
+      ]
    },
    {
       "number": 8,
@@ -183,9 +183,9 @@
       "form": "normal",
       "generation": 1,
       "abilities": [
-         282
-      ],
-      "hidden": 83
+         282,
+         83
+      ]
    },
    {
       "number": 9,
@@ -206,9 +206,9 @@
       "form": "normal",
       "generation": 1,
       "abilities": [
-         282
-      ],
-      "hidden": 83
+         282,
+         83
+      ]
    },
    {
       "number": 10,
@@ -229,9 +229,9 @@
       "form": "normal",
       "generation": 1,
       "abilities": [
-         100
-      ],
-      "hidden": 128
+         100,
+         128
+      ]
    },
    {
       "number": 11,
@@ -275,9 +275,9 @@
       "form": "normal",
       "generation": 1,
       "abilities": [
-         194
-      ],
-      "hidden": 161
+         194,
+         161
+      ]
    },
    {
       "number": 13,
@@ -298,9 +298,9 @@
       "form": "normal",
       "generation": 1,
       "abilities": [
-         100
-      ],
-      "hidden": 128
+         100,
+         128
+      ]
    },
    {
       "number": 14,
@@ -344,9 +344,9 @@
       "form": "normal",
       "generation": 1,
       "abilities": [
-         111
-      ],
-      "hidden": 254
+         111,
+         254
+      ]
    },
    {
       "number": 16,
@@ -369,9 +369,9 @@
       "generation": 1,
       "abilities": [
          240,
-         211
-      ],
-      "hidden": 58
+         211,
+         58
+      ]
    },
    {
       "number": 17,
@@ -394,9 +394,9 @@
       "generation": 1,
       "abilities": [
          240,
-         211
-      ],
-      "hidden": 58
+         211,
+         58
+      ]
    },
    {
       "number": 18,
@@ -419,9 +419,9 @@
       "generation": 1,
       "abilities": [
          240,
-         211
-      ],
-      "hidden": 58
+         211,
+         58
+      ]
    },
    {
       "number": 19,
@@ -443,9 +443,9 @@
       "generation": 1,
       "abilities": [
          128,
-         77
-      ],
-      "hidden": 8
+         77,
+         8
+      ]
    },
    {
       "number": 19,
@@ -468,9 +468,9 @@
       "generation": 1,
       "abilities": [
          135,
-         8
-      ],
-      "hidden": 157
+         8,
+         157
+      ]
    },
    {
       "number": 20,
@@ -492,9 +492,9 @@
       "generation": 1,
       "abilities": [
          128,
-         77
-      ],
-      "hidden": 8
+         77,
+         8
+      ]
    },
    {
       "number": 20,
@@ -517,9 +517,9 @@
       "generation": 1,
       "abilities": [
          135,
-         8
-      ],
-      "hidden": 157
+         8,
+         157
+      ]
    },
    {
       "number": 21,
@@ -541,9 +541,9 @@
       "form": "normal",
       "generation": 1,
       "abilities": [
-         240
-      ],
-      "hidden": 254
+         240,
+         254
+      ]
    },
    {
       "number": 22,
@@ -565,9 +565,9 @@
       "form": "normal",
       "generation": 1,
       "abilities": [
-         240
-      ],
-      "hidden": 254
+         240,
+         254
+      ]
    },
    {
       "number": 23,
@@ -589,9 +589,9 @@
       "generation": 1,
       "abilities": [
          156,
-         186
-      ],
-      "hidden": 273
+         186,
+         273
+      ]
    },
    {
       "number": 24,
@@ -613,9 +613,9 @@
       "generation": 1,
       "abilities": [
          156,
-         186
-      ],
-      "hidden": 273
+         186,
+         273
+      ]
    },
    {
       "number": 25,
@@ -636,9 +636,9 @@
       "form": "normal",
       "generation": 1,
       "abilities": [
-         260
-      ],
-      "hidden": 199
+         260,
+         199
+      ]
    },
    {
       "number": 26,
@@ -659,9 +659,9 @@
       "form": "normal",
       "generation": 1,
       "abilities": [
-         260
-      ],
-      "hidden": 199
+         260,
+         199
+      ]
    },
    {
       "number": 26,
@@ -705,9 +705,9 @@
       "form": "normal",
       "generation": 1,
       "abilities": [
-         294
-      ],
-      "hidden": 30
+         294,
+         30
+      ]
    },
    {
       "number": 27,
@@ -729,9 +729,9 @@
       "form": "alola",
       "generation": 1,
       "abilities": [
-         243
-      ],
-      "hidden": 53
+         243,
+         53
+      ]
    },
    {
       "number": 28,
@@ -752,9 +752,9 @@
       "form": "normal",
       "generation": 1,
       "abilities": [
-         294
-      ],
-      "hidden": 30
+         294,
+         30
+      ]
    },
    {
       "number": 28,
@@ -776,9 +776,9 @@
       "form": "alola",
       "generation": 1,
       "abilities": [
-         243
-      ],
-      "hidden": 53
+         243,
+         53
+      ]
    },
    {
       "number": 29,
@@ -800,9 +800,9 @@
       "generation": 1,
       "abilities": [
          217,
-         244
-      ],
-      "hidden": 8
+         244,
+         8
+      ]
    },
    {
       "number": 30,
@@ -824,9 +824,9 @@
       "generation": 1,
       "abilities": [
          217,
-         244
-      ],
-      "hidden": 8
+         244,
+         8
+      ]
    },
    {
       "number": 31,
@@ -849,9 +849,9 @@
       "generation": 1,
       "abilities": [
          217,
-         244
-      ],
-      "hidden": 248
+         244,
+         248
+      ]
    },
    {
       "number": 32,
@@ -873,9 +873,9 @@
       "generation": 1,
       "abilities": [
          217,
-         244
-      ],
-      "hidden": 8
+         244,
+         8
+      ]
    },
    {
       "number": 33,
@@ -897,9 +897,9 @@
       "generation": 1,
       "abilities": [
          217,
-         244
-      ],
-      "hidden": 8
+         244,
+         8
+      ]
    },
    {
       "number": 34,
@@ -922,9 +922,9 @@
       "generation": 1,
       "abilities": [
          217,
-         244
-      ],
-      "hidden": 248
+         244,
+         248
+      ]
    },
    {
       "number": 35,
@@ -946,9 +946,9 @@
       "generation": 1,
       "abilities": [
          158,
-         130
-      ],
-      "hidden": 129
+         130,
+         129
+      ]
    },
    {
       "number": 36,
@@ -970,9 +970,9 @@
       "generation": 1,
       "abilities": [
          158,
-         130
-      ],
-      "hidden": 153
+         130,
+         153
+      ]
    },
    {
       "number": 37,
@@ -993,9 +993,9 @@
       "form": "normal",
       "generation": 1,
       "abilities": [
-         281
-      ],
-      "hidden": 249
+         281,
+         249
+      ]
    },
    {
       "number": 37,
@@ -1016,9 +1016,9 @@
       "form": "alola",
       "generation": 1,
       "abilities": [
-         243
-      ],
-      "hidden": 11
+         243,
+         11
+      ]
    },
    {
       "number": 38,
@@ -1039,9 +1039,9 @@
       "form": "normal",
       "generation": 1,
       "abilities": [
-         281
-      ],
-      "hidden": 249
+         281,
+         249
+      ]
    },
    {
       "number": 38,
@@ -1063,9 +1063,9 @@
       "form": "alola",
       "generation": 1,
       "abilities": [
-         243
-      ],
-      "hidden": 11
+         243,
+         11
+      ]
    },
    {
       "number": 39,
@@ -1088,9 +1088,9 @@
       "generation": 1,
       "abilities": [
          158,
-         33
-      ],
-      "hidden": 129
+         33,
+         129
+      ]
    },
    {
       "number": 40,
@@ -1113,9 +1113,9 @@
       "generation": 1,
       "abilities": [
          158,
-         33
-      ],
-      "hidden": 126
+         33,
+         126
+      ]
    },
    {
       "number": 41,
@@ -1137,9 +1137,9 @@
       "form": "normal",
       "generation": 1,
       "abilities": [
-         26
-      ],
-      "hidden": 154
+         26,
+         154
+      ]
    },
    {
       "number": 42,
@@ -1161,9 +1161,9 @@
       "form": "normal",
       "generation": 1,
       "abilities": [
-         26
-      ],
-      "hidden": 154
+         26,
+         154
+      ]
    },
    {
       "number": 43,
@@ -1185,9 +1185,9 @@
       "form": "normal",
       "generation": 1,
       "abilities": [
-         56
-      ],
-      "hidden": 128
+         56,
+         128
+      ]
    },
    {
       "number": 44,
@@ -1209,9 +1209,9 @@
       "form": "normal",
       "generation": 1,
       "abilities": [
-         56
-      ],
-      "hidden": 230
+         56,
+         230
+      ]
    },
    {
       "number": 45,
@@ -1233,9 +1233,9 @@
       "form": "normal",
       "generation": 1,
       "abilities": [
-         56
-      ],
-      "hidden": 220
+         56,
+         220
+      ]
    },
    {
       "number": 46,
@@ -1258,9 +1258,9 @@
       "generation": 1,
       "abilities": [
          220,
-         207
-      ],
-      "hidden": 182
+         207,
+         182
+      ]
    },
    {
       "number": 47,
@@ -1283,9 +1283,9 @@
       "generation": 1,
       "abilities": [
          220,
-         207
-      ],
-      "hidden": 182
+         207,
+         182
+      ]
    },
    {
       "number": 48,
@@ -1308,9 +1308,9 @@
       "generation": 1,
       "abilities": [
          194,
-         161
-      ],
-      "hidden": 128
+         161,
+         128
+      ]
    },
    {
       "number": 49,
@@ -1333,9 +1333,9 @@
       "generation": 1,
       "abilities": [
          100,
-         161
-      ],
-      "hidden": 206
+         161,
+         206
+      ]
    },
    {
       "number": 50,
@@ -1357,9 +1357,9 @@
       "generation": 1,
       "abilities": [
          294,
-         295
-      ],
-      "hidden": 124
+         295,
+         124
+      ]
    },
    {
       "number": 50,
@@ -1382,9 +1382,9 @@
       "generation": 1,
       "abilities": [
          294,
-         173
-      ],
-      "hidden": 124
+         173,
+         124
+      ]
    },
    {
       "number": 51,
@@ -1406,9 +1406,9 @@
       "generation": 1,
       "abilities": [
          294,
-         295
-      ],
-      "hidden": 124
+         295,
+         124
+      ]
    },
    {
       "number": 51,
@@ -1431,9 +1431,9 @@
       "generation": 1,
       "abilities": [
          294,
-         173
-      ],
-      "hidden": 124
+         173,
+         124
+      ]
    },
    {
       "number": 52,
@@ -1455,9 +1455,9 @@
       "generation": 1,
       "abilities": [
          235,
-         268
-      ],
-      "hidden": 273
+         268,
+         273
+      ]
    },
    {
       "number": 52,
@@ -1479,9 +1479,9 @@
       "generation": 1,
       "abilities": [
          235,
-         268
-      ],
-      "hidden": 209
+         268,
+         209
+      ]
    },
    {
       "number": 52,
@@ -1503,9 +1503,9 @@
       "generation": 1,
       "abilities": [
          235,
-         139
-      ],
-      "hidden": 273
+         139,
+         273
+      ]
    },
    {
       "number": 53,
@@ -1527,9 +1527,9 @@
       "generation": 1,
       "abilities": [
          235,
-         268
-      ],
-      "hidden": 273
+         268,
+         273
+      ]
    },
    {
       "number": 53,
@@ -1551,9 +1551,9 @@
       "generation": 1,
       "abilities": [
          279,
-         268
-      ],
-      "hidden": 209
+         268,
+         209
+      ]
    },
    {
       "number": 54,
@@ -1575,9 +1575,9 @@
       "generation": 1,
       "abilities": [
          182,
-         57
-      ],
-      "hidden": 134
+         57,
+         134
+      ]
    },
    {
       "number": 55,
@@ -1599,9 +1599,9 @@
       "generation": 1,
       "abilities": [
          182,
-         57
-      ],
-      "hidden": 134
+         57,
+         134
+      ]
    },
    {
       "number": 56,
@@ -1623,9 +1623,9 @@
       "generation": 1,
       "abilities": [
          110,
-         61
-      ],
-      "hidden": 5
+         61,
+         5
+      ]
    },
    {
       "number": 57,
@@ -1647,9 +1647,9 @@
       "generation": 1,
       "abilities": [
          110,
-         61
-      ],
-      "hidden": 5
+         61,
+         5
+      ]
    },
    {
       "number": 58,
@@ -1671,9 +1671,9 @@
       "generation": 1,
       "abilities": [
          156,
-         281
-      ],
-      "hidden": 59
+         281,
+         59
+      ]
    },
    {
       "number": 58,
@@ -1696,9 +1696,9 @@
       "generation": 1,
       "abilities": [
          156,
-         276
-      ],
-      "hidden": 281
+         276,
+         281
+      ]
    },
    {
       "number": 59,
@@ -1720,9 +1720,9 @@
       "generation": 1,
       "abilities": [
          156,
-         281
-      ],
-      "hidden": 59
+         281,
+         59
+      ]
    },
    {
       "number": 59,
@@ -1745,9 +1745,9 @@
       "generation": 1,
       "abilities": [
          156,
-         276
-      ],
-      "hidden": 281
+         276,
+         281
+      ]
    },
    {
       "number": 60,
@@ -1769,9 +1769,9 @@
       "generation": 1,
       "abilities": [
          2,
-         182
-      ],
-      "hidden": 57
+         182,
+         57
+      ]
    },
    {
       "number": 61,
@@ -1793,9 +1793,9 @@
       "generation": 1,
       "abilities": [
          2,
-         182
-      ],
-      "hidden": 57
+         182,
+         57
+      ]
    },
    {
       "number": 62,
@@ -1818,9 +1818,9 @@
       "generation": 1,
       "abilities": [
          2,
-         182
-      ],
-      "hidden": 57
+         182,
+         57
+      ]
    },
    {
       "number": 63,
@@ -1842,9 +1842,9 @@
       "generation": 1,
       "abilities": [
          265,
-         26
-      ],
-      "hidden": 130
+         26,
+         130
+      ]
    },
    {
       "number": 64,
@@ -1866,9 +1866,9 @@
       "generation": 1,
       "abilities": [
          265,
-         26
-      ],
-      "hidden": 130
+         26,
+         130
+      ]
    },
    {
       "number": 65,
@@ -1890,9 +1890,9 @@
       "generation": 1,
       "abilities": [
          265,
-         26
-      ],
-      "hidden": 130
+         26,
+         130
+      ]
    },
    {
       "number": 66,
@@ -1914,9 +1914,9 @@
       "generation": 1,
       "abilities": [
          77,
-         16
-      ],
-      "hidden": 149
+         16,
+         149
+      ]
    },
    {
       "number": 67,
@@ -1938,9 +1938,9 @@
       "generation": 1,
       "abilities": [
          77,
-         16
-      ],
-      "hidden": 149
+         16,
+         149
+      ]
    },
    {
       "number": 68,
@@ -1962,9 +1962,9 @@
       "generation": 1,
       "abilities": [
          77,
-         16
-      ],
-      "hidden": 149
+         16,
+         149
+      ]
    },
    {
       "number": 69,
@@ -1986,9 +1986,9 @@
       "form": "normal",
       "generation": 1,
       "abilities": [
-         56
-      ],
-      "hidden": 135
+         56,
+         135
+      ]
    },
    {
       "number": 70,
@@ -2010,9 +2010,9 @@
       "form": "normal",
       "generation": 1,
       "abilities": [
-         56
-      ],
-      "hidden": 135
+         56,
+         135
+      ]
    },
    {
       "number": 71,
@@ -2034,9 +2034,9 @@
       "form": "normal",
       "generation": 1,
       "abilities": [
-         56
-      ],
-      "hidden": 135
+         56,
+         135
+      ]
    },
    {
       "number": 72,
@@ -2059,9 +2059,9 @@
       "generation": 1,
       "abilities": [
          73,
-         261
-      ],
-      "hidden": 83
+         261,
+         83
+      ]
    },
    {
       "number": 73,
@@ -2084,9 +2084,9 @@
       "generation": 1,
       "abilities": [
          73,
-         261
-      ],
-      "hidden": 83
+         261,
+         83
+      ]
    },
    {
       "number": 74,
@@ -2109,9 +2109,9 @@
       "generation": 1,
       "abilities": [
          276,
-         117
-      ],
-      "hidden": 294
+         117,
+         294
+      ]
    },
    {
       "number": 74,
@@ -2134,9 +2134,9 @@
       "generation": 1,
       "abilities": [
          168,
-         117
-      ],
-      "hidden": 203
+         117,
+         203
+      ]
    },
    {
       "number": 75,
@@ -2159,9 +2159,9 @@
       "generation": 1,
       "abilities": [
          276,
-         117
-      ],
-      "hidden": 294
+         117,
+         294
+      ]
    },
    {
       "number": 75,
@@ -2184,9 +2184,9 @@
       "generation": 1,
       "abilities": [
          168,
-         117
-      ],
-      "hidden": 203
+         117,
+         203
+      ]
    },
    {
       "number": 76,
@@ -2209,9 +2209,9 @@
       "generation": 1,
       "abilities": [
          276,
-         117
-      ],
-      "hidden": 294
+         117,
+         294
+      ]
    },
    {
       "number": 76,
@@ -2234,9 +2234,9 @@
       "generation": 1,
       "abilities": [
          168,
-         117
-      ],
-      "hidden": 203
+         117,
+         203
+      ]
    },
    {
       "number": 77,
@@ -2258,9 +2258,9 @@
       "generation": 1,
       "abilities": [
          128,
-         281
-      ],
-      "hidden": 67
+         281,
+         67
+      ]
    },
    {
       "number": 77,
@@ -2282,9 +2282,9 @@
       "generation": 1,
       "abilities": [
          128,
-         293
-      ],
-      "hidden": 18
+         293,
+         18
+      ]
    },
    {
       "number": 78,
@@ -2306,9 +2306,9 @@
       "generation": 1,
       "abilities": [
          128,
-         281
-      ],
-      "hidden": 67
+         281,
+         67
+      ]
    },
    {
       "number": 78,
@@ -2331,9 +2331,9 @@
       "generation": 1,
       "abilities": [
          128,
-         293
-      ],
-      "hidden": 18
+         293,
+         18
+      ]
    },
    {
       "number": 79,
@@ -2356,9 +2356,9 @@
       "generation": 1,
       "abilities": [
          35,
-         272
-      ],
-      "hidden": 241
+         272,
+         241
+      ]
    },
    {
       "number": 79,
@@ -2380,9 +2380,9 @@
       "generation": 1,
       "abilities": [
          278,
-         272
-      ],
-      "hidden": 241
+         272,
+         241
+      ]
    },
    {
       "number": 80,
@@ -2405,9 +2405,9 @@
       "generation": 1,
       "abilities": [
          35,
-         272
-      ],
-      "hidden": 241
+         272,
+         241
+      ]
    },
    {
       "number": 80,
@@ -2430,9 +2430,9 @@
       "generation": 1,
       "abilities": [
          135,
-         272
-      ],
-      "hidden": 241
+         272,
+         241
+      ]
    },
    {
       "number": 81,
@@ -2455,9 +2455,9 @@
       "generation": 1,
       "abilities": [
          168,
-         117
-      ],
-      "hidden": 14
+         117,
+         14
+      ]
    },
    {
       "number": 82,
@@ -2480,9 +2480,9 @@
       "generation": 1,
       "abilities": [
          168,
-         117
-      ],
-      "hidden": 14
+         117,
+         14
+      ]
    },
    {
       "number": 83,
@@ -2505,9 +2505,9 @@
       "generation": 1,
       "abilities": [
          26,
-         240
-      ],
-      "hidden": 5
+         240,
+         5
+      ]
    },
    {
       "number": 83,
@@ -2528,9 +2528,9 @@
       "form": "galar",
       "generation": 1,
       "abilities": [
-         149
-      ],
-      "hidden": 232
+         149,
+         232
+      ]
    },
    {
       "number": 84,
@@ -2553,9 +2553,9 @@
       "generation": 1,
       "abilities": [
          128,
-         171
-      ],
-      "hidden": 211
+         171,
+         211
+      ]
    },
    {
       "number": 85,
@@ -2578,9 +2578,9 @@
       "generation": 1,
       "abilities": [
          128,
-         171
-      ],
-      "hidden": 211
+         171,
+         211
+      ]
    },
    {
       "number": 86,
@@ -2602,9 +2602,9 @@
       "generation": 1,
       "abilities": [
          157,
-         143
-      ],
-      "hidden": 71
+         143,
+         71
+      ]
    },
    {
       "number": 87,
@@ -2627,9 +2627,9 @@
       "generation": 1,
       "abilities": [
          157,
-         143
-      ],
-      "hidden": 71
+         143,
+         71
+      ]
    },
    {
       "number": 88,
@@ -2651,9 +2651,9 @@
       "generation": 1,
       "abilities": [
          230,
-         137
-      ],
-      "hidden": 283
+         137,
+         283
+      ]
    },
    {
       "number": 88,
@@ -2676,9 +2676,9 @@
       "generation": 1,
       "abilities": [
          283,
-         135
-      ],
-      "hidden": 196
+         135,
+         196
+      ]
    },
    {
       "number": 89,
@@ -2700,9 +2700,9 @@
       "generation": 1,
       "abilities": [
          230,
-         137
-      ],
-      "hidden": 283
+         137,
+         283
+      ]
    },
    {
       "number": 89,
@@ -2725,9 +2725,9 @@
       "generation": 1,
       "abilities": [
          283,
-         135
-      ],
-      "hidden": 196
+         135,
+         196
+      ]
    },
    {
       "number": 90,
@@ -2749,9 +2749,9 @@
       "generation": 1,
       "abilities": [
          66,
-         187
-      ],
-      "hidden": 106
+         187,
+         106
+      ]
    },
    {
       "number": 91,
@@ -2774,9 +2774,9 @@
       "generation": 1,
       "abilities": [
          66,
-         187
-      ],
-      "hidden": 106
+         187,
+         106
+      ]
    },
    {
       "number": 92,
@@ -2868,9 +2868,9 @@
       "generation": 1,
       "abilities": [
          276,
-         117
-      ],
-      "hidden": 24
+         117,
+         24
+      ]
    },
    {
       "number": 96,
@@ -2892,9 +2892,9 @@
       "generation": 1,
       "abilities": [
          155,
-         222
-      ],
-      "hidden": 26
+         222,
+         26
+      ]
    },
    {
       "number": 97,
@@ -2916,9 +2916,9 @@
       "generation": 1,
       "abilities": [
          155,
-         222
-      ],
-      "hidden": 26
+         222,
+         26
+      ]
    },
    {
       "number": 98,
@@ -2940,9 +2940,9 @@
       "generation": 1,
       "abilities": [
          144,
-         66
-      ],
-      "hidden": 248
+         66,
+         248
+      ]
    },
    {
       "number": 99,
@@ -2964,9 +2964,9 @@
       "generation": 1,
       "abilities": [
          144,
-         66
-      ],
-      "hidden": 248
+         66,
+         248
+      ]
    },
    {
       "number": 100,
@@ -2988,9 +2988,9 @@
       "generation": 1,
       "abilities": [
          260,
-         17
-      ],
-      "hidden": 39
+         17,
+         39
+      ]
    },
    {
       "number": 100,
@@ -3013,9 +3013,9 @@
       "generation": 1,
       "abilities": [
          260,
-         17
-      ],
-      "hidden": 39
+         17,
+         39
+      ]
    },
    {
       "number": 101,
@@ -3037,9 +3037,9 @@
       "generation": 1,
       "abilities": [
          260,
-         17
-      ],
-      "hidden": 39
+         17,
+         39
+      ]
    },
    {
       "number": 101,
@@ -3062,9 +3062,9 @@
       "generation": 1,
       "abilities": [
          260,
-         17
-      ],
-      "hidden": 39
+         17,
+         39
+      ]
    },
    {
       "number": 102,
@@ -3085,9 +3085,9 @@
       "form": "normal",
       "generation": 1,
       "abilities": [
-         56
-      ],
-      "hidden": 239
+         56,
+         239
+      ]
    },
    {
       "number": 103,
@@ -3109,9 +3109,9 @@
       "form": "normal",
       "generation": 1,
       "abilities": [
-         56
-      ],
-      "hidden": 239
+         56,
+         239
+      ]
    },
    {
       "number": 103,
@@ -3133,9 +3133,9 @@
       "form": "alola",
       "generation": 1,
       "abilities": [
-         126
-      ],
-      "hidden": 239
+         126,
+         239
+      ]
    },
    {
       "number": 104,
@@ -3157,9 +3157,9 @@
       "generation": 1,
       "abilities": [
          276,
-         199
-      ],
-      "hidden": 21
+         199,
+         21
+      ]
    },
    {
       "number": 105,
@@ -3181,9 +3181,9 @@
       "generation": 1,
       "abilities": [
          276,
-         199
-      ],
-      "hidden": 21
+         199,
+         21
+      ]
    },
    {
       "number": 105,
@@ -3206,9 +3206,9 @@
       "generation": 1,
       "abilities": [
          72,
-         199
-      ],
-      "hidden": 276
+         199,
+         276
+      ]
    },
    {
       "number": 106,
@@ -3230,9 +3230,9 @@
       "generation": 1,
       "abilities": [
          98,
-         271
-      ],
-      "hidden": 91
+         271,
+         91
+      ]
    },
    {
       "number": 107,
@@ -3254,9 +3254,9 @@
       "generation": 1,
       "abilities": [
          240,
-         215
-      ],
-      "hidden": 26
+         215,
+         26
+      ]
    },
    {
       "number": 108,
@@ -3278,9 +3278,9 @@
       "generation": 1,
       "abilities": [
          35,
-         272
-      ],
-      "hidden": 57
+         272,
+         57
+      ]
    },
    {
       "number": 109,
@@ -3302,9 +3302,9 @@
       "generation": 1,
       "abilities": [
          162,
-         132
-      ],
-      "hidden": 230
+         132,
+         230
+      ]
    },
    {
       "number": 110,
@@ -3326,9 +3326,9 @@
       "generation": 1,
       "abilities": [
          162,
-         132
-      ],
-      "hidden": 230
+         132,
+         230
+      ]
    },
    {
       "number": 110,
@@ -3351,9 +3351,9 @@
       "generation": 1,
       "abilities": [
          162,
-         132
-      ],
-      "hidden": 78
+         132,
+         78
+      ]
    },
    {
       "number": 111,
@@ -3376,9 +3376,9 @@
       "generation": 1,
       "abilities": [
          199,
-         276
-      ],
-      "hidden": 271
+         276,
+         271
+      ]
    },
    {
       "number": 112,
@@ -3401,9 +3401,9 @@
       "generation": 1,
       "abilities": [
          199,
-         276
-      ],
-      "hidden": 271
+         276,
+         271
+      ]
    },
    {
       "number": 113,
@@ -3425,9 +3425,9 @@
       "generation": 1,
       "abilities": [
          174,
-         252
-      ],
-      "hidden": 60
+         252,
+         60
+      ]
    },
    {
       "number": 114,
@@ -3449,9 +3449,9 @@
       "generation": 1,
       "abilities": [
          56,
-         118
-      ],
-      "hidden": 241
+         118,
+         241
+      ]
    },
    {
       "number": 115,
@@ -3473,9 +3473,9 @@
       "generation": 1,
       "abilities": [
          171,
-         232
-      ],
-      "hidden": 26
+         232,
+         26
+      ]
    },
    {
       "number": 116,
@@ -3497,9 +3497,9 @@
       "generation": 1,
       "abilities": [
          134,
-         254
-      ],
-      "hidden": 182
+         254,
+         182
+      ]
    },
    {
       "number": 117,
@@ -3521,9 +3521,9 @@
       "generation": 1,
       "abilities": [
          217,
-         254
-      ],
-      "hidden": 182
+         254,
+         182
+      ]
    },
    {
       "number": 118,
@@ -3545,9 +3545,9 @@
       "generation": 1,
       "abilities": [
          134,
-         147
-      ],
-      "hidden": 199
+         147,
+         199
+      ]
    },
    {
       "number": 119,
@@ -3569,9 +3569,9 @@
       "generation": 1,
       "abilities": [
          134,
-         147
-      ],
-      "hidden": 199
+         147,
+         199
+      ]
    },
    {
       "number": 120,
@@ -3593,9 +3593,9 @@
       "generation": 1,
       "abilities": [
          174,
-         165
-      ],
-      "hidden": 14
+         165,
+         14
+      ]
    },
    {
       "number": 121,
@@ -3618,9 +3618,9 @@
       "generation": 1,
       "abilities": [
          174,
-         165
-      ],
-      "hidden": 14
+         165,
+         14
+      ]
    },
    {
       "number": 122,
@@ -3643,9 +3643,9 @@
       "generation": 1,
       "abilities": [
          17,
-         120
-      ],
-      "hidden": 268
+         120,
+         268
+      ]
    },
    {
       "number": 122,
@@ -3668,9 +3668,9 @@
       "generation": 1,
       "abilities": [
          110,
-         47
-      ],
-      "hidden": 71
+         47,
+         71
+      ]
    },
    {
       "number": 123,
@@ -3693,9 +3693,9 @@
       "generation": 1,
       "abilities": [
          111,
-         268
-      ],
-      "hidden": 149
+         268,
+         149
+      ]
    },
    {
       "number": 124,
@@ -3718,9 +3718,9 @@
       "generation": 1,
       "abilities": [
          35,
-         222
-      ],
-      "hidden": 207
+         222,
+         207
+      ]
    },
    {
       "number": 125,
@@ -3741,9 +3741,9 @@
       "form": "normal",
       "generation": 1,
       "abilities": [
-         260
-      ],
-      "hidden": 110
+         260,
+         110
+      ]
    },
    {
       "number": 126,
@@ -3764,9 +3764,9 @@
       "form": "normal",
       "generation": 1,
       "abilities": [
-         67
-      ],
-      "hidden": 110
+         67,
+         110
+      ]
    },
    {
       "number": 127,
@@ -3788,9 +3788,9 @@
       "generation": 1,
       "abilities": [
          144,
-         46
-      ],
-      "hidden": 151
+         46,
+         151
+      ]
    },
    {
       "number": 128,
@@ -3812,9 +3812,9 @@
       "generation": 1,
       "abilities": [
          156,
-         61
-      ],
-      "hidden": 258
+         61,
+         258
+      ]
    },
    {
       "number": 129,
@@ -3835,9 +3835,9 @@
       "form": "normal",
       "generation": 1,
       "abilities": [
-         134
-      ],
-      "hidden": 209
+         134,
+         209
+      ]
    },
    {
       "number": 130,
@@ -3859,9 +3859,9 @@
       "form": "normal",
       "generation": 1,
       "abilities": [
-         156
-      ],
-      "hidden": 151
+         156,
+         151
+      ]
    },
    {
       "number": 131,
@@ -3884,9 +3884,9 @@
       "generation": 1,
       "abilities": [
          2,
-         66
-      ],
-      "hidden": 143
+         66,
+         143
+      ]
    },
    {
       "number": 132,
@@ -3907,9 +3907,9 @@
       "form": "normal",
       "generation": 1,
       "abilities": [
-         98
-      ],
-      "hidden": 150
+         98,
+         150
+      ]
    },
    {
       "number": 133,
@@ -3931,9 +3931,9 @@
       "generation": 1,
       "abilities": [
          128,
-         6
-      ],
-      "hidden": 18
+         6,
+         18
+      ]
    },
    {
       "number": 134,
@@ -3954,9 +3954,9 @@
       "form": "normal",
       "generation": 1,
       "abilities": [
-         2
-      ],
-      "hidden": 66
+         2,
+         66
+      ]
    },
    {
       "number": 135,
@@ -3977,9 +3977,9 @@
       "form": "normal",
       "generation": 1,
       "abilities": [
-         3
-      ],
-      "hidden": 212
+         3,
+         212
+      ]
    },
    {
       "number": 136,
@@ -4000,9 +4000,9 @@
       "form": "normal",
       "generation": 1,
       "abilities": [
-         281
-      ],
-      "hidden": 77
+         281,
+         77
+      ]
    },
    {
       "number": 137,
@@ -4024,9 +4024,9 @@
       "generation": 1,
       "abilities": [
          48,
-         269
-      ],
-      "hidden": 14
+         269,
+         14
+      ]
    },
    {
       "number": 138,
@@ -4049,9 +4049,9 @@
       "generation": 1,
       "abilities": [
          134,
-         66
-      ],
-      "hidden": 24
+         66,
+         24
+      ]
    },
    {
       "number": 139,
@@ -4074,9 +4074,9 @@
       "generation": 1,
       "abilities": [
          134,
-         66
-      ],
-      "hidden": 24
+         66,
+         24
+      ]
    },
    {
       "number": 140,
@@ -4099,9 +4099,9 @@
       "generation": 1,
       "abilities": [
          134,
-         21
-      ],
-      "hidden": 24
+         21,
+         24
+      ]
    },
    {
       "number": 141,
@@ -4124,9 +4124,9 @@
       "generation": 1,
       "abilities": [
          134,
-         21
-      ],
-      "hidden": 24
+         21,
+         24
+      ]
    },
    {
       "number": 142,
@@ -4149,9 +4149,9 @@
       "generation": 1,
       "abilities": [
          276,
-         223
-      ],
-      "hidden": 273
+         223,
+         273
+      ]
    },
    {
       "number": 143,
@@ -4173,9 +4173,9 @@
       "generation": 1,
       "abilities": [
          290,
-         157
-      ],
-      "hidden": 135
+         157,
+         135
+      ]
    },
    {
       "number": 144,
@@ -4197,9 +4197,9 @@
       "form": "normal",
       "generation": 1,
       "abilities": [
-         223
-      ],
-      "hidden": 243
+         223,
+         243
+      ]
    },
    {
       "number": 144,
@@ -4244,9 +4244,9 @@
       "form": "normal",
       "generation": 1,
       "abilities": [
-         223
-      ],
-      "hidden": 260
+         223,
+         260
+      ]
    },
    {
       "number": 145,
@@ -4291,9 +4291,9 @@
       "form": "normal",
       "generation": 1,
       "abilities": [
-         223
-      ],
-      "hidden": 67
+         223,
+         67
+      ]
    },
    {
       "number": 146,
@@ -4337,9 +4337,9 @@
       "form": "normal",
       "generation": 1,
       "abilities": [
-         186
-      ],
-      "hidden": 96
+         186,
+         96
+      ]
    },
    {
       "number": 148,
@@ -4360,9 +4360,9 @@
       "form": "normal",
       "generation": 1,
       "abilities": [
-         186
-      ],
-      "hidden": 96
+         186,
+         96
+      ]
    },
    {
       "number": 149,
@@ -4384,9 +4384,9 @@
       "form": "normal",
       "generation": 1,
       "abilities": [
-         26
-      ],
-      "hidden": 188
+         26,
+         188
+      ]
    },
    {
       "number": 150,
@@ -4407,9 +4407,9 @@
       "form": "normal",
       "generation": 1,
       "abilities": [
-         223
-      ],
-      "hidden": 273
+         223,
+         273
+      ]
    },
    {
       "number": 151,
@@ -4452,9 +4452,9 @@
       "form": "normal",
       "generation": 2,
       "abilities": [
-         104
-      ],
-      "hidden": 118
+         104,
+         118
+      ]
    },
    {
       "number": 153,
@@ -4475,9 +4475,9 @@
       "form": "normal",
       "generation": 2,
       "abilities": [
-         104
-      ],
-      "hidden": 118
+         104,
+         118
+      ]
    },
    {
       "number": 154,
@@ -4498,9 +4498,9 @@
       "form": "normal",
       "generation": 2,
       "abilities": [
-         104
-      ],
-      "hidden": 118
+         104,
+         118
+      ]
    },
    {
       "number": 155,
@@ -4521,9 +4521,9 @@
       "form": "normal",
       "generation": 2,
       "abilities": [
-         44
-      ],
-      "hidden": 281
+         44,
+         281
+      ]
    },
    {
       "number": 156,
@@ -4544,9 +4544,9 @@
       "form": "normal",
       "generation": 2,
       "abilities": [
-         44
-      ],
-      "hidden": 281
+         44,
+         281
+      ]
    },
    {
       "number": 157,
@@ -4567,9 +4567,9 @@
       "form": "normal",
       "generation": 2,
       "abilities": [
-         44
-      ],
-      "hidden": 281
+         44,
+         281
+      ]
    },
    {
       "number": 157,
@@ -4591,9 +4591,9 @@
       "form": "hisui",
       "generation": 2,
       "abilities": [
-         44
-      ],
-      "hidden": 126
+         44,
+         126
+      ]
    },
    {
       "number": 158,
@@ -4614,9 +4614,9 @@
       "form": "normal",
       "generation": 2,
       "abilities": [
-         282
-      ],
-      "hidden": 248
+         282,
+         248
+      ]
    },
    {
       "number": 159,
@@ -4637,9 +4637,9 @@
       "form": "normal",
       "generation": 2,
       "abilities": [
-         282
-      ],
-      "hidden": 248
+         282,
+         248
+      ]
    },
    {
       "number": 160,
@@ -4660,9 +4660,9 @@
       "form": "normal",
       "generation": 2,
       "abilities": [
-         282
-      ],
-      "hidden": 248
+         282,
+         248
+      ]
    },
    {
       "number": 161,
@@ -4684,9 +4684,9 @@
       "generation": 2,
       "abilities": [
          128,
-         240
-      ],
-      "hidden": 126
+         240,
+         126
+      ]
    },
    {
       "number": 162,
@@ -4708,9 +4708,9 @@
       "generation": 2,
       "abilities": [
          128,
-         240
-      ],
-      "hidden": 126
+         240,
+         126
+      ]
    },
    {
       "number": 163,
@@ -4733,9 +4733,9 @@
       "generation": 2,
       "abilities": [
          155,
-         240
-      ],
-      "hidden": 161
+         240,
+         161
+      ]
    },
    {
       "number": 164,
@@ -4758,9 +4758,9 @@
       "generation": 2,
       "abilities": [
          155,
-         240
-      ],
-      "hidden": 161
+         240,
+         161
+      ]
    },
    {
       "number": 165,
@@ -4783,9 +4783,9 @@
       "generation": 2,
       "abilities": [
          111,
-         171
-      ],
-      "hidden": 209
+         171,
+         209
+      ]
    },
    {
       "number": 166,
@@ -4808,9 +4808,9 @@
       "generation": 2,
       "abilities": [
          111,
-         171
-      ],
-      "hidden": 215
+         171,
+         215
+      ]
    },
    {
       "number": 167,
@@ -4833,9 +4833,9 @@
       "generation": 2,
       "abilities": [
          111,
-         171
-      ],
-      "hidden": 254
+         171,
+         254
+      ]
    },
    {
       "number": 168,
@@ -4858,9 +4858,9 @@
       "generation": 2,
       "abilities": [
          111,
-         171
-      ],
-      "hidden": 254
+         171,
+         254
+      ]
    },
    {
       "number": 169,
@@ -4882,9 +4882,9 @@
       "form": "normal",
       "generation": 2,
       "abilities": [
-         26
-      ],
-      "hidden": 154
+         26,
+         154
+      ]
    },
    {
       "number": 170,
@@ -4907,9 +4907,9 @@
       "generation": 2,
       "abilities": [
          2,
-         165
-      ],
-      "hidden": 3
+         165,
+         3
+      ]
    },
    {
       "number": 171,
@@ -4932,9 +4932,9 @@
       "generation": 2,
       "abilities": [
          2,
-         165
-      ],
-      "hidden": 3
+         165,
+         3
+      ]
    },
    {
       "number": 172,
@@ -4955,9 +4955,9 @@
       "form": "normal",
       "generation": 2,
       "abilities": [
-         260
-      ],
-      "hidden": 199
+         260,
+         199
+      ]
    },
    {
       "number": 173,
@@ -4979,9 +4979,9 @@
       "generation": 2,
       "abilities": [
          158,
-         130
-      ],
-      "hidden": 129
+         130,
+         129
+      ]
    },
    {
       "number": 174,
@@ -5004,9 +5004,9 @@
       "generation": 2,
       "abilities": [
          158,
-         33
-      ],
-      "hidden": 129
+         33,
+         129
+      ]
    },
    {
       "number": 175,
@@ -5028,9 +5028,9 @@
       "generation": 2,
       "abilities": [
          252,
-         8
-      ],
-      "hidden": 51
+         8,
+         51
+      ]
    },
    {
       "number": 176,
@@ -5052,9 +5052,9 @@
       "generation": 2,
       "abilities": [
          252,
-         8
-      ],
-      "hidden": 51
+         8,
+         51
+      ]
    },
    {
       "number": 177,
@@ -5077,9 +5077,9 @@
       "generation": 2,
       "abilities": [
          265,
-         171
-      ],
-      "hidden": 180
+         171,
+         180
+      ]
    },
    {
       "number": 178,
@@ -5102,9 +5102,9 @@
       "generation": 2,
       "abilities": [
          265,
-         171
-      ],
-      "hidden": 180
+         171,
+         180
+      ]
    },
    {
       "number": 179,
@@ -5125,9 +5125,9 @@
       "form": "normal",
       "generation": 2,
       "abilities": [
-         260
-      ],
-      "hidden": 214
+         260,
+         214
+      ]
    },
    {
       "number": 180,
@@ -5148,9 +5148,9 @@
       "form": "normal",
       "generation": 2,
       "abilities": [
-         260
-      ],
-      "hidden": 214
+         260,
+         214
+      ]
    },
    {
       "number": 181,
@@ -5171,9 +5171,9 @@
       "form": "normal",
       "generation": 2,
       "abilities": [
-         260
-      ],
-      "hidden": 214
+         260,
+         214
+      ]
    },
    {
       "number": 182,
@@ -5194,9 +5194,9 @@
       "form": "normal",
       "generation": 2,
       "abilities": [
-         56
-      ],
-      "hidden": 60
+         56,
+         60
+      ]
    },
    {
       "number": 183,
@@ -5219,9 +5219,9 @@
       "generation": 2,
       "abilities": [
          157,
-         63
-      ],
-      "hidden": 141
+         63,
+         141
+      ]
    },
    {
       "number": 184,
@@ -5244,9 +5244,9 @@
       "generation": 2,
       "abilities": [
          157,
-         63
-      ],
-      "hidden": 141
+         63,
+         141
+      ]
    },
    {
       "number": 185,
@@ -5268,9 +5268,9 @@
       "generation": 2,
       "abilities": [
          117,
-         276
-      ],
-      "hidden": 209
+         276,
+         209
+      ]
    },
    {
       "number": 186,
@@ -5292,9 +5292,9 @@
       "generation": 2,
       "abilities": [
          2,
-         182
-      ],
-      "hidden": 76
+         182,
+         76
+      ]
    },
    {
       "number": 187,
@@ -5317,9 +5317,9 @@
       "generation": 2,
       "abilities": [
          56,
-         118
-      ],
-      "hidden": 154
+         118,
+         154
+      ]
    },
    {
       "number": 188,
@@ -5342,9 +5342,9 @@
       "generation": 2,
       "abilities": [
          56,
-         118
-      ],
-      "hidden": 154
+         118,
+         154
+      ]
    },
    {
       "number": 189,
@@ -5367,9 +5367,9 @@
       "generation": 2,
       "abilities": [
          56,
-         118
-      ],
-      "hidden": 154
+         118,
+         154
+      ]
    },
    {
       "number": 190,
@@ -5391,9 +5391,9 @@
       "generation": 2,
       "abilities": [
          128,
-         235
-      ],
-      "hidden": 187
+         235,
+         187
+      ]
    },
    {
       "number": 191,
@@ -5415,9 +5415,9 @@
       "generation": 2,
       "abilities": [
          56,
-         125
-      ],
-      "hidden": 171
+         125,
+         171
+      ]
    },
    {
       "number": 192,
@@ -5439,9 +5439,9 @@
       "generation": 2,
       "abilities": [
          56,
-         125
-      ],
-      "hidden": 171
+         125,
+         171
+      ]
    },
    {
       "number": 193,
@@ -5464,9 +5464,9 @@
       "generation": 2,
       "abilities": [
          287,
-         194
-      ],
-      "hidden": 126
+         194,
+         126
+      ]
    },
    {
       "number": 194,
@@ -5489,9 +5489,9 @@
       "generation": 2,
       "abilities": [
          2,
-         182
-      ],
-      "hidden": 153
+         182,
+         153
+      ]
    },
    {
       "number": 195,
@@ -5514,9 +5514,9 @@
       "generation": 2,
       "abilities": [
          2,
-         182
-      ],
-      "hidden": 153
+         182,
+         153
+      ]
    },
    {
       "number": 196,
@@ -5537,9 +5537,9 @@
       "form": "normal",
       "generation": 2,
       "abilities": [
-         265
-      ],
-      "hidden": 180
+         265,
+         180
+      ]
    },
    {
       "number": 197,
@@ -5560,9 +5560,9 @@
       "form": "normal",
       "generation": 2,
       "abilities": [
-         265
-      ],
-      "hidden": 26
+         265,
+         26
+      ]
    },
    {
       "number": 198,
@@ -5585,9 +5585,9 @@
       "generation": 2,
       "abilities": [
          155,
-         51
-      ],
-      "hidden": 116
+         51,
+         116
+      ]
    },
    {
       "number": 199,
@@ -5610,9 +5610,9 @@
       "generation": 2,
       "abilities": [
          35,
-         272
-      ],
-      "hidden": 241
+         272,
+         241
+      ]
    },
    {
       "number": 199,
@@ -5635,9 +5635,9 @@
       "generation": 2,
       "abilities": [
          45,
-         272
-      ],
-      "hidden": 241
+         272,
+         241
+      ]
    },
    {
       "number": 200,
@@ -5702,9 +5702,9 @@
       "form": "normal",
       "generation": 2,
       "abilities": [
-         170
-      ],
-      "hidden": 270
+         170,
+         270
+      ]
    },
    {
       "number": 203,
@@ -5727,9 +5727,9 @@
       "generation": 2,
       "abilities": [
          26,
-         171
-      ],
-      "hidden": 141
+         171,
+         141
+      ]
    },
    {
       "number": 204,
@@ -5750,9 +5750,9 @@
       "form": "normal",
       "generation": 2,
       "abilities": [
-         117
-      ],
-      "hidden": 106
+         117,
+         106
+      ]
    },
    {
       "number": 205,
@@ -5774,9 +5774,9 @@
       "form": "normal",
       "generation": 2,
       "abilities": [
-         117
-      ],
-      "hidden": 106
+         117,
+         106
+      ]
    },
    {
       "number": 206,
@@ -5798,9 +5798,9 @@
       "generation": 2,
       "abilities": [
          252,
-         128
-      ],
-      "hidden": 209
+         128,
+         209
+      ]
    },
    {
       "number": 207,
@@ -5823,9 +5823,9 @@
       "generation": 2,
       "abilities": [
          294,
-         144
-      ],
-      "hidden": 290
+         144,
+         290
+      ]
    },
    {
       "number": 208,
@@ -5848,9 +5848,9 @@
       "generation": 2,
       "abilities": [
          276,
-         117
-      ],
-      "hidden": 24
+         117,
+         24
+      ]
    },
    {
       "number": 209,
@@ -5872,9 +5872,9 @@
       "generation": 2,
       "abilities": [
          128,
-         156
-      ],
-      "hidden": 290
+         156,
+         290
+      ]
    },
    {
       "number": 210,
@@ -5896,9 +5896,9 @@
       "generation": 2,
       "abilities": [
          128,
-         156
-      ],
-      "hidden": 290
+         156,
+         290
+      ]
    },
    {
       "number": 211,
@@ -5921,9 +5921,9 @@
       "generation": 2,
       "abilities": [
          134,
-         217
-      ],
-      "hidden": 156
+         217,
+         156
+      ]
    },
    {
       "number": 211,
@@ -5946,9 +5946,9 @@
       "generation": 2,
       "abilities": [
          217,
-         134
-      ],
-      "hidden": 156
+         134,
+         156
+      ]
    },
    {
       "number": 212,
@@ -5971,9 +5971,9 @@
       "generation": 2,
       "abilities": [
          111,
-         268
-      ],
-      "hidden": 163
+         268,
+         163
+      ]
    },
    {
       "number": 213,
@@ -5996,9 +5996,9 @@
       "generation": 2,
       "abilities": [
          117,
-         135
-      ],
-      "hidden": 65
+         135,
+         65
+      ]
    },
    {
       "number": 214,
@@ -6021,9 +6021,9 @@
       "generation": 2,
       "abilities": [
          77,
-         111
-      ],
-      "hidden": 151
+         111,
+         151
+      ]
    },
    {
       "number": 215,
@@ -6046,9 +6046,9 @@
       "generation": 2,
       "abilities": [
          26,
-         240
-      ],
-      "hidden": 210
+         240,
+         210
+      ]
    },
    {
       "number": 215,
@@ -6071,9 +6071,9 @@
       "generation": 2,
       "abilities": [
          26,
-         240
-      ],
-      "hidden": 210
+         240,
+         210
+      ]
    },
    {
       "number": 216,
@@ -6095,9 +6095,9 @@
       "generation": 2,
       "abilities": [
          235,
-         212
-      ],
-      "hidden": 54
+         212,
+         54
+      ]
    },
    {
       "number": 217,
@@ -6119,9 +6119,9 @@
       "generation": 2,
       "abilities": [
          77,
-         212
-      ],
-      "hidden": 273
+         212,
+         273
+      ]
    },
    {
       "number": 218,
@@ -6143,9 +6143,9 @@
       "generation": 2,
       "abilities": [
          20,
-         67
-      ],
-      "hidden": 24
+         67,
+         24
+      ]
    },
    {
       "number": 219,
@@ -6168,9 +6168,9 @@
       "generation": 2,
       "abilities": [
          20,
-         67
-      ],
-      "hidden": 24
+         67,
+         24
+      ]
    },
    {
       "number": 220,
@@ -6193,9 +6193,9 @@
       "generation": 2,
       "abilities": [
          35,
-         243
-      ],
-      "hidden": 157
+         243,
+         157
+      ]
    },
    {
       "number": 221,
@@ -6218,9 +6218,9 @@
       "generation": 2,
       "abilities": [
          35,
-         243
-      ],
-      "hidden": 157
+         243,
+         157
+      ]
    },
    {
       "number": 222,
@@ -6243,9 +6243,9 @@
       "generation": 2,
       "abilities": [
          8,
-         174
-      ],
-      "hidden": 241
+         174,
+         241
+      ]
    },
    {
       "number": 222,
@@ -6266,9 +6266,9 @@
       "form": "galar",
       "generation": 2,
       "abilities": [
-         24
-      ],
-      "hidden": 72
+         24,
+         72
+      ]
    },
    {
       "number": 223,
@@ -6290,9 +6290,9 @@
       "generation": 2,
       "abilities": [
          8,
-         254
-      ],
-      "hidden": 166
+         254,
+         166
+      ]
    },
    {
       "number": 224,
@@ -6314,9 +6314,9 @@
       "generation": 2,
       "abilities": [
          8,
-         254
-      ],
-      "hidden": 166
+         254,
+         166
+      ]
    },
    {
       "number": 225,
@@ -6339,9 +6339,9 @@
       "generation": 2,
       "abilities": [
          110,
-         8
-      ],
-      "hidden": 155
+         8,
+         155
+      ]
    },
    {
       "number": 226,
@@ -6364,9 +6364,9 @@
       "generation": 2,
       "abilities": [
          134,
-         2
-      ],
-      "hidden": 147
+         2,
+         147
+      ]
    },
    {
       "number": 227,
@@ -6389,9 +6389,9 @@
       "generation": 2,
       "abilities": [
          117,
-         240
-      ],
-      "hidden": 24
+         240,
+         24
+      ]
    },
    {
       "number": 228,
@@ -6414,9 +6414,9 @@
       "generation": 2,
       "abilities": [
          281,
-         171
-      ],
-      "hidden": 273
+         171,
+         273
+      ]
    },
    {
       "number": 229,
@@ -6439,9 +6439,9 @@
       "generation": 2,
       "abilities": [
          281,
-         171
-      ],
-      "hidden": 273
+         171,
+         273
+      ]
    },
    {
       "number": 230,
@@ -6464,9 +6464,9 @@
       "generation": 2,
       "abilities": [
          134,
-         254
-      ],
-      "hidden": 182
+         254,
+         182
+      ]
    },
    {
       "number": 231,
@@ -6487,9 +6487,9 @@
       "form": "normal",
       "generation": 2,
       "abilities": [
-         235
-      ],
-      "hidden": 294
+         235,
+         294
+      ]
    },
    {
       "number": 232,
@@ -6510,9 +6510,9 @@
       "form": "normal",
       "generation": 2,
       "abilities": [
-         117
-      ],
-      "hidden": 294
+         117,
+         294
+      ]
    },
    {
       "number": 233,
@@ -6534,9 +6534,9 @@
       "generation": 2,
       "abilities": [
          48,
-         269
-      ],
-      "hidden": 14
+         269,
+         14
+      ]
    },
    {
       "number": 234,
@@ -6558,9 +6558,9 @@
       "generation": 2,
       "abilities": [
          156,
-         126
-      ],
-      "hidden": 141
+         126,
+         141
+      ]
    },
    {
       "number": 235,
@@ -6582,9 +6582,9 @@
       "generation": 2,
       "abilities": [
          268,
-         272
-      ],
-      "hidden": 166
+         272,
+         166
+      ]
    },
    {
       "number": 236,
@@ -6606,9 +6606,9 @@
       "generation": 2,
       "abilities": [
          77,
-         149
-      ],
-      "hidden": 110
+         149,
+         110
+      ]
    },
    {
       "number": 237,
@@ -6630,9 +6630,9 @@
       "generation": 2,
       "abilities": [
          156,
-         149
-      ],
-      "hidden": 110
+         149,
+         110
+      ]
    },
    {
       "number": 238,
@@ -6655,9 +6655,9 @@
       "generation": 2,
       "abilities": [
          35,
-         222
-      ],
-      "hidden": 207
+         222,
+         207
+      ]
    },
    {
       "number": 239,
@@ -6678,9 +6678,9 @@
       "form": "normal",
       "generation": 2,
       "abilities": [
-         260
-      ],
-      "hidden": 110
+         260,
+         110
+      ]
    },
    {
       "number": 240,
@@ -6701,9 +6701,9 @@
       "form": "normal",
       "generation": 2,
       "abilities": [
-         67
-      ],
-      "hidden": 110
+         67,
+         110
+      ]
    },
    {
       "number": 241,
@@ -6725,9 +6725,9 @@
       "generation": 2,
       "abilities": [
          157,
-         232
-      ],
-      "hidden": 141
+         232,
+         141
+      ]
    },
    {
       "number": 242,
@@ -6749,9 +6749,9 @@
       "generation": 2,
       "abilities": [
          174,
-         252
-      ],
-      "hidden": 60
+         252,
+         60
+      ]
    },
    {
       "number": 243,
@@ -6772,9 +6772,9 @@
       "form": "normal",
       "generation": 2,
       "abilities": [
-         223
-      ],
-      "hidden": 26
+         223,
+         26
+      ]
    },
    {
       "number": 244,
@@ -6795,9 +6795,9 @@
       "form": "normal",
       "generation": 2,
       "abilities": [
-         223
-      ],
-      "hidden": 26
+         223,
+         26
+      ]
    },
    {
       "number": 245,
@@ -6818,9 +6818,9 @@
       "form": "normal",
       "generation": 2,
       "abilities": [
-         223
-      ],
-      "hidden": 26
+         223,
+         26
+      ]
    },
    {
       "number": 246,
@@ -6842,9 +6842,9 @@
       "form": "normal",
       "generation": 2,
       "abilities": [
-         77
-      ],
-      "hidden": 294
+         77,
+         294
+      ]
    },
    {
       "number": 247,
@@ -6889,9 +6889,9 @@
       "form": "normal",
       "generation": 2,
       "abilities": [
-         294
-      ],
-      "hidden": 273
+         294,
+         273
+      ]
    },
    {
       "number": 249,
@@ -6913,9 +6913,9 @@
       "form": "normal",
       "generation": 2,
       "abilities": [
-         223
-      ],
-      "hidden": 188
+         223,
+         188
+      ]
    },
    {
       "number": 250,
@@ -6937,9 +6937,9 @@
       "form": "normal",
       "generation": 2,
       "abilities": [
-         223
-      ],
-      "hidden": 241
+         223,
+         241
+      ]
    },
    {
       "number": 251,
@@ -6983,9 +6983,9 @@
       "form": "normal",
       "generation": 3,
       "abilities": [
-         104
-      ],
-      "hidden": 91
+         104,
+         91
+      ]
    },
    {
       "number": 253,
@@ -7006,9 +7006,9 @@
       "form": "normal",
       "generation": 3,
       "abilities": [
-         104
-      ],
-      "hidden": 91
+         104,
+         91
+      ]
    },
    {
       "number": 254,
@@ -7029,9 +7029,9 @@
       "form": "normal",
       "generation": 3,
       "abilities": [
-         104
-      ],
-      "hidden": 91
+         104,
+         91
+      ]
    },
    {
       "number": 255,
@@ -7052,9 +7052,9 @@
       "form": "normal",
       "generation": 3,
       "abilities": [
-         44
-      ],
-      "hidden": 287
+         44,
+         287
+      ]
    },
    {
       "number": 256,
@@ -7076,9 +7076,9 @@
       "form": "normal",
       "generation": 3,
       "abilities": [
-         44
-      ],
-      "hidden": 287
+         44,
+         287
+      ]
    },
    {
       "number": 257,
@@ -7100,9 +7100,9 @@
       "form": "normal",
       "generation": 3,
       "abilities": [
-         44
-      ],
-      "hidden": 287
+         44,
+         287
+      ]
    },
    {
       "number": 258,
@@ -7123,9 +7123,9 @@
       "form": "normal",
       "generation": 3,
       "abilities": [
-         282
-      ],
-      "hidden": 182
+         282,
+         182
+      ]
    },
    {
       "number": 259,
@@ -7147,9 +7147,9 @@
       "form": "normal",
       "generation": 3,
       "abilities": [
-         282
-      ],
-      "hidden": 182
+         282,
+         182
+      ]
    },
    {
       "number": 260,
@@ -7171,9 +7171,9 @@
       "form": "normal",
       "generation": 3,
       "abilities": [
-         282
-      ],
-      "hidden": 182
+         282,
+         182
+      ]
    },
    {
       "number": 261,
@@ -7195,9 +7195,9 @@
       "generation": 3,
       "abilities": [
          128,
-         212
-      ],
-      "hidden": 209
+         212,
+         209
+      ]
    },
    {
       "number": 262,
@@ -7219,9 +7219,9 @@
       "generation": 3,
       "abilities": [
          156,
-         212
-      ],
-      "hidden": 151
+         212,
+         151
+      ]
    },
    {
       "number": 263,
@@ -7243,9 +7243,9 @@
       "generation": 3,
       "abilities": [
          235,
-         135
-      ],
-      "hidden": 212
+         135,
+         212
+      ]
    },
    {
       "number": 263,
@@ -7268,9 +7268,9 @@
       "generation": 3,
       "abilities": [
          235,
-         135
-      ],
-      "hidden": 212
+         135,
+         212
+      ]
    },
    {
       "number": 264,
@@ -7292,9 +7292,9 @@
       "generation": 3,
       "abilities": [
          235,
-         135
-      ],
-      "hidden": 212
+         135,
+         212
+      ]
    },
    {
       "number": 264,
@@ -7317,9 +7317,9 @@
       "generation": 3,
       "abilities": [
          235,
-         135
-      ],
-      "hidden": 212
+         135,
+         212
+      ]
    },
    {
       "number": 265,
@@ -7340,9 +7340,9 @@
       "form": "normal",
       "generation": 3,
       "abilities": [
-         100
-      ],
-      "hidden": 128
+         100,
+         128
+      ]
    },
    {
       "number": 266,
@@ -7386,9 +7386,9 @@
       "form": "normal",
       "generation": 3,
       "abilities": [
-         111
-      ],
-      "hidden": 244
+         111,
+         244
+      ]
    },
    {
       "number": 268,
@@ -7432,9 +7432,9 @@
       "form": "normal",
       "generation": 3,
       "abilities": [
-         100
-      ],
-      "hidden": 194
+         100,
+         194
+      ]
    },
    {
       "number": 270,
@@ -7457,9 +7457,9 @@
       "generation": 3,
       "abilities": [
          134,
-         83
-      ],
-      "hidden": 272
+         83,
+         272
+      ]
    },
    {
       "number": 271,
@@ -7482,9 +7482,9 @@
       "generation": 3,
       "abilities": [
          134,
-         83
-      ],
-      "hidden": 272
+         83,
+         272
+      ]
    },
    {
       "number": 272,
@@ -7507,9 +7507,9 @@
       "generation": 3,
       "abilities": [
          134,
-         83
-      ],
-      "hidden": 272
+         83,
+         272
+      ]
    },
    {
       "number": 273,
@@ -7531,9 +7531,9 @@
       "generation": 3,
       "abilities": [
          56,
-         171
-      ],
-      "hidden": 210
+         171,
+         210
+      ]
    },
    {
       "number": 274,
@@ -7556,9 +7556,9 @@
       "generation": 3,
       "abilities": [
          56,
-         171
-      ],
-      "hidden": 210
+         171,
+         210
+      ]
    },
    {
       "number": 275,
@@ -7581,9 +7581,9 @@
       "generation": 3,
       "abilities": [
          56,
-         171
-      ],
-      "hidden": 210
+         171,
+         210
+      ]
    },
    {
       "number": 276,
@@ -7605,9 +7605,9 @@
       "form": "normal",
       "generation": 3,
       "abilities": [
-         77
-      ],
-      "hidden": 232
+         77,
+         232
+      ]
    },
    {
       "number": 277,
@@ -7629,9 +7629,9 @@
       "form": "normal",
       "generation": 3,
       "abilities": [
-         77
-      ],
-      "hidden": 232
+         77,
+         232
+      ]
    },
    {
       "number": 278,
@@ -7654,9 +7654,9 @@
       "generation": 3,
       "abilities": [
          240,
-         143
-      ],
-      "hidden": 83
+         143,
+         83
+      ]
    },
    {
       "number": 279,
@@ -7679,9 +7679,9 @@
       "generation": 3,
       "abilities": [
          240,
-         143
-      ],
-      "hidden": 83
+         143,
+         83
+      ]
    },
    {
       "number": 280,
@@ -7704,9 +7704,9 @@
       "generation": 3,
       "abilities": [
          265,
-         48
-      ],
-      "hidden": 270
+         48,
+         270
+      ]
    },
    {
       "number": 281,
@@ -7729,9 +7729,9 @@
       "generation": 3,
       "abilities": [
          265,
-         48
-      ],
-      "hidden": 270
+         48,
+         270
+      ]
    },
    {
       "number": 282,
@@ -7754,9 +7754,9 @@
       "generation": 3,
       "abilities": [
          265,
-         48
-      ],
-      "hidden": 270
+         48,
+         270
+      ]
    },
    {
       "number": 283,
@@ -7778,9 +7778,9 @@
       "form": "normal",
       "generation": 3,
       "abilities": [
-         134
-      ],
-      "hidden": 83
+         134,
+         83
+      ]
    },
    {
       "number": 284,
@@ -7802,9 +7802,9 @@
       "form": "normal",
       "generation": 3,
       "abilities": [
-         156
-      ],
-      "hidden": 273
+         156,
+         273
+      ]
    },
    {
       "number": 285,
@@ -7826,9 +7826,9 @@
       "generation": 3,
       "abilities": [
          220,
-         255
-      ],
-      "hidden": 212
+         255,
+         212
+      ]
    },
    {
       "number": 286,
@@ -7851,9 +7851,9 @@
       "generation": 3,
       "abilities": [
          220,
-         255
-      ],
-      "hidden": 212
+         255,
+         212
+      ]
    },
    {
       "number": 287,
@@ -7941,9 +7941,9 @@
       "form": "normal",
       "generation": 3,
       "abilities": [
-         194
-      ],
-      "hidden": 128
+         194,
+         128
+      ]
    },
    {
       "number": 291,
@@ -7965,9 +7965,9 @@
       "form": "normal",
       "generation": 3,
       "abilities": [
-         287
-      ],
-      "hidden": 154
+         287,
+         154
+      ]
    },
    {
       "number": 292,
@@ -8011,9 +8011,9 @@
       "form": "normal",
       "generation": 3,
       "abilities": [
-         17
-      ],
-      "hidden": 209
+         17,
+         209
+      ]
    },
    {
       "number": 294,
@@ -8034,9 +8034,9 @@
       "form": "normal",
       "generation": 3,
       "abilities": [
-         17
-      ],
-      "hidden": 232
+         17,
+         232
+      ]
    },
    {
       "number": 295,
@@ -8057,9 +8057,9 @@
       "form": "normal",
       "generation": 3,
       "abilities": [
-         17
-      ],
-      "hidden": 232
+         17,
+         232
+      ]
    },
    {
       "number": 296,
@@ -8081,9 +8081,9 @@
       "generation": 3,
       "abilities": [
          157,
-         77
-      ],
-      "hidden": 248
+         77,
+         248
+      ]
    },
    {
       "number": 297,
@@ -8105,9 +8105,9 @@
       "generation": 3,
       "abilities": [
          157,
-         77
-      ],
-      "hidden": 248
+         77,
+         248
+      ]
    },
    {
       "number": 298,
@@ -8130,9 +8130,9 @@
       "generation": 3,
       "abilities": [
          157,
-         63
-      ],
-      "hidden": 141
+         63,
+         141
+      ]
    },
    {
       "number": 299,
@@ -8154,9 +8154,9 @@
       "generation": 3,
       "abilities": [
          117,
-         168
-      ],
-      "hidden": 124
+         168,
+         124
+      ]
    },
    {
       "number": 300,
@@ -8178,9 +8178,9 @@
       "generation": 3,
       "abilities": [
          158,
-         192
-      ],
-      "hidden": 206
+         192,
+         206
+      ]
    },
    {
       "number": 301,
@@ -8202,9 +8202,9 @@
       "generation": 3,
       "abilities": [
          158,
-         192
-      ],
-      "hidden": 206
+         192,
+         206
+      ]
    },
    {
       "number": 302,
@@ -8227,9 +8227,9 @@
       "generation": 3,
       "abilities": [
          240,
-         127
-      ],
-      "hidden": 116
+         127,
+         116
+      ]
    },
    {
       "number": 303,
@@ -8252,9 +8252,9 @@
       "generation": 3,
       "abilities": [
          144,
-         156
-      ],
-      "hidden": 248
+         156,
+         248
+      ]
    },
    {
       "number": 304,
@@ -8277,9 +8277,9 @@
       "generation": 3,
       "abilities": [
          117,
-         276
-      ],
-      "hidden": 140
+         276,
+         140
+      ]
    },
    {
       "number": 305,
@@ -8302,9 +8302,9 @@
       "generation": 3,
       "abilities": [
          117,
-         276
-      ],
-      "hidden": 140
+         276,
+         140
+      ]
    },
    {
       "number": 306,
@@ -8327,9 +8327,9 @@
       "generation": 3,
       "abilities": [
          117,
-         276
-      ],
-      "hidden": 140
+         276,
+         140
+      ]
    },
    {
       "number": 307,
@@ -8351,9 +8351,9 @@
       "form": "normal",
       "generation": 3,
       "abilities": [
-         123
-      ],
-      "hidden": 270
+         123,
+         270
+      ]
    },
    {
       "number": 308,
@@ -8375,9 +8375,9 @@
       "form": "normal",
       "generation": 3,
       "abilities": [
-         123
-      ],
-      "hidden": 270
+         123,
+         270
+      ]
    },
    {
       "number": 309,
@@ -8399,9 +8399,9 @@
       "generation": 3,
       "abilities": [
          199,
-         260
-      ],
-      "hidden": 179
+         260,
+         179
+      ]
    },
    {
       "number": 310,
@@ -8423,9 +8423,9 @@
       "generation": 3,
       "abilities": [
          199,
-         260
-      ],
-      "hidden": 179
+         260,
+         179
+      ]
    },
    {
       "number": 311,
@@ -8446,9 +8446,9 @@
       "form": "normal",
       "generation": 3,
       "abilities": [
-         214
-      ],
-      "hidden": 199
+         214,
+         199
+      ]
    },
    {
       "number": 312,
@@ -8469,9 +8469,9 @@
       "form": "normal",
       "generation": 3,
       "abilities": [
-         179
-      ],
-      "hidden": 3
+         179,
+         3
+      ]
    },
    {
       "number": 313,
@@ -8493,9 +8493,9 @@
       "generation": 3,
       "abilities": [
          165,
-         111
-      ],
-      "hidden": 116
+         111,
+         116
+      ]
    },
    {
       "number": 314,
@@ -8517,9 +8517,9 @@
       "generation": 3,
       "abilities": [
          35,
-         161
-      ],
-      "hidden": 116
+         161,
+         116
+      ]
    },
    {
       "number": 315,
@@ -8542,9 +8542,9 @@
       "generation": 3,
       "abilities": [
          174,
-         217
-      ],
-      "hidden": 118
+         217,
+         118
+      ]
    },
    {
       "number": 316,
@@ -8566,9 +8566,9 @@
       "generation": 3,
       "abilities": [
          261,
-         137
-      ],
-      "hidden": 135
+         137,
+         135
+      ]
    },
    {
       "number": 317,
@@ -8590,9 +8590,9 @@
       "generation": 3,
       "abilities": [
          261,
-         137
-      ],
-      "hidden": 135
+         137,
+         135
+      ]
    },
    {
       "number": 318,
@@ -8614,9 +8614,9 @@
       "form": "normal",
       "generation": 3,
       "abilities": [
-         202
-      ],
-      "hidden": 287
+         202,
+         287
+      ]
    },
    {
       "number": 319,
@@ -8638,9 +8638,9 @@
       "form": "normal",
       "generation": 3,
       "abilities": [
-         202
-      ],
-      "hidden": 287
+         202,
+         287
+      ]
    },
    {
       "number": 320,
@@ -8662,9 +8662,9 @@
       "generation": 3,
       "abilities": [
          147,
-         35
-      ],
-      "hidden": 223
+         35,
+         223
+      ]
    },
    {
       "number": 321,
@@ -8686,9 +8686,9 @@
       "generation": 3,
       "abilities": [
          147,
-         35
-      ],
-      "hidden": 223
+         35,
+         223
+      ]
    },
    {
       "number": 322,
@@ -8711,9 +8711,9 @@
       "generation": 3,
       "abilities": [
          35,
-         253
-      ],
-      "hidden": 272
+         253,
+         272
+      ]
    },
    {
       "number": 323,
@@ -8736,9 +8736,9 @@
       "generation": 3,
       "abilities": [
          20,
-         256
-      ],
-      "hidden": 63
+         256,
+         63
+      ]
    },
    {
       "number": 324,
@@ -8760,9 +8760,9 @@
       "generation": 3,
       "abilities": [
          99,
-         249
-      ],
-      "hidden": 66
+         249,
+         66
+      ]
    },
    {
       "number": 325,
@@ -8784,9 +8784,9 @@
       "generation": 3,
       "abilities": [
          157,
-         272
-      ],
-      "hidden": 135
+         272,
+         135
+      ]
    },
    {
       "number": 326,
@@ -8808,9 +8808,9 @@
       "generation": 3,
       "abilities": [
          157,
-         272
-      ],
-      "hidden": 135
+         272,
+         135
+      ]
    },
    {
       "number": 327,
@@ -8832,9 +8832,9 @@
       "generation": 3,
       "abilities": [
          272,
-         211
-      ],
-      "hidden": 65
+         211,
+         65
+      ]
    },
    {
       "number": 328,
@@ -8856,9 +8856,9 @@
       "generation": 3,
       "abilities": [
          144,
-         295
-      ],
-      "hidden": 248
+         295,
+         248
+      ]
    },
    {
       "number": 329,
@@ -8925,9 +8925,9 @@
       "form": "normal",
       "generation": 3,
       "abilities": [
-         295
-      ],
-      "hidden": 2
+         295,
+         2
+      ]
    },
    {
       "number": 332,
@@ -8949,9 +8949,9 @@
       "form": "normal",
       "generation": 3,
       "abilities": [
-         295
-      ],
-      "hidden": 2
+         295,
+         2
+      ]
    },
    {
       "number": 333,
@@ -8973,9 +8973,9 @@
       "form": "normal",
       "generation": 3,
       "abilities": [
-         174
-      ],
-      "hidden": 57
+         174,
+         57
+      ]
    },
    {
       "number": 334,
@@ -8997,9 +8997,9 @@
       "form": "normal",
       "generation": 3,
       "abilities": [
-         174
-      ],
-      "hidden": 57
+         174,
+         57
+      ]
    },
    {
       "number": 335,
@@ -9020,9 +9020,9 @@
       "form": "normal",
       "generation": 3,
       "abilities": [
-         290
-      ],
-      "hidden": 234
+         290,
+         234
+      ]
    },
    {
       "number": 336,
@@ -9043,9 +9043,9 @@
       "form": "normal",
       "generation": 3,
       "abilities": [
-         186
-      ],
-      "hidden": 154
+         186,
+         154
+      ]
    },
    {
       "number": 337,
@@ -9114,9 +9114,9 @@
       "generation": 3,
       "abilities": [
          35,
-         18
-      ],
-      "hidden": 143
+         18,
+         143
+      ]
    },
    {
       "number": 340,
@@ -9139,9 +9139,9 @@
       "generation": 3,
       "abilities": [
          35,
-         18
-      ],
-      "hidden": 143
+         18,
+         143
+      ]
    },
    {
       "number": 341,
@@ -9163,9 +9163,9 @@
       "generation": 3,
       "abilities": [
          144,
-         66
-      ],
-      "hidden": 6
+         66,
+         6
+      ]
    },
    {
       "number": 342,
@@ -9188,9 +9188,9 @@
       "generation": 3,
       "abilities": [
          144,
-         66
-      ],
-      "hidden": 6
+         66,
+         6
+      ]
    },
    {
       "number": 343,
@@ -9258,9 +9258,9 @@
       "form": "normal",
       "generation": 3,
       "abilities": [
-         291
-      ],
-      "hidden": 160
+         291,
+         160
+      ]
    },
    {
       "number": 346,
@@ -9282,9 +9282,9 @@
       "form": "normal",
       "generation": 3,
       "abilities": [
-         291
-      ],
-      "hidden": 160
+         291,
+         160
+      ]
    },
    {
       "number": 347,
@@ -9306,9 +9306,9 @@
       "form": "normal",
       "generation": 3,
       "abilities": [
-         21
-      ],
-      "hidden": 134
+         21,
+         134
+      ]
    },
    {
       "number": 348,
@@ -9330,9 +9330,9 @@
       "form": "normal",
       "generation": 3,
       "abilities": [
-         21
-      ],
-      "hidden": 134
+         21,
+         134
+      ]
    },
    {
       "number": 349,
@@ -9354,9 +9354,9 @@
       "generation": 3,
       "abilities": [
          134,
-         18
-      ],
-      "hidden": 6
+         18,
+         6
+      ]
    },
    {
       "number": 350,
@@ -9378,9 +9378,9 @@
       "generation": 3,
       "abilities": [
          96,
-         33
-      ],
-      "hidden": 158
+         33,
+         158
+      ]
    },
    {
       "number": 351,
@@ -9423,9 +9423,9 @@
       "form": "normal",
       "generation": 3,
       "abilities": [
-         296
-      ],
-      "hidden": 229
+         296,
+         229
+      ]
    },
    {
       "number": 353,
@@ -9447,9 +9447,9 @@
       "generation": 3,
       "abilities": [
          155,
-         126
-      ],
-      "hidden": 72
+         126,
+         72
+      ]
    },
    {
       "number": 354,
@@ -9471,9 +9471,9 @@
       "generation": 3,
       "abilities": [
          155,
-         126
-      ],
-      "hidden": 72
+         126,
+         72
+      ]
    },
    {
       "number": 355,
@@ -9494,9 +9494,9 @@
       "form": "normal",
       "generation": 3,
       "abilities": [
-         162
-      ],
-      "hidden": 126
+         162,
+         126
+      ]
    },
    {
       "number": 356,
@@ -9517,9 +9517,9 @@
       "form": "normal",
       "generation": 3,
       "abilities": [
-         223
-      ],
-      "hidden": 126
+         223,
+         126
+      ]
    },
    {
       "number": 357,
@@ -9542,9 +9542,9 @@
       "generation": 3,
       "abilities": [
          56,
-         125
-      ],
-      "hidden": 239
+         125,
+         239
+      ]
    },
    {
       "number": 358,
@@ -9588,9 +9588,9 @@
       "generation": 3,
       "abilities": [
          239,
-         51
-      ],
-      "hidden": 59
+         51,
+         59
+      ]
    },
    {
       "number": 360,
@@ -9611,9 +9611,9 @@
       "form": "normal",
       "generation": 3,
       "abilities": [
-         170
-      ],
-      "hidden": 270
+         170,
+         270
+      ]
    },
    {
       "number": 361,
@@ -9635,9 +9635,9 @@
       "generation": 3,
       "abilities": [
          26,
-         71
-      ],
-      "hidden": 166
+         71,
+         166
+      ]
    },
    {
       "number": 362,
@@ -9659,9 +9659,9 @@
       "generation": 3,
       "abilities": [
          26,
-         71
-      ],
-      "hidden": 166
+         71,
+         166
+      ]
    },
    {
       "number": 363,
@@ -9684,9 +9684,9 @@
       "generation": 3,
       "abilities": [
          157,
-         71
-      ],
-      "hidden": 35
+         71,
+         35
+      ]
    },
    {
       "number": 364,
@@ -9709,9 +9709,9 @@
       "generation": 3,
       "abilities": [
          157,
-         71
-      ],
-      "hidden": 35
+         71,
+         35
+      ]
    },
    {
       "number": 365,
@@ -9734,9 +9734,9 @@
       "generation": 3,
       "abilities": [
          157,
-         71
-      ],
-      "hidden": 35
+         71,
+         35
+      ]
    },
    {
       "number": 366,
@@ -9757,9 +9757,9 @@
       "form": "normal",
       "generation": 3,
       "abilities": [
-         66
-      ],
-      "hidden": 209
+         66,
+         209
+      ]
    },
    {
       "number": 367,
@@ -9780,9 +9780,9 @@
       "form": "normal",
       "generation": 3,
       "abilities": [
-         134
-      ],
-      "hidden": 147
+         134,
+         147
+      ]
    },
    {
       "number": 368,
@@ -9803,9 +9803,9 @@
       "form": "normal",
       "generation": 3,
       "abilities": [
-         134
-      ],
-      "hidden": 143
+         134,
+         143
+      ]
    },
    {
       "number": 369,
@@ -9828,9 +9828,9 @@
       "generation": 3,
       "abilities": [
          134,
-         276
-      ],
-      "hidden": 117
+         276,
+         117
+      ]
    },
    {
       "number": 370,
@@ -9851,9 +9851,9 @@
       "form": "normal",
       "generation": 3,
       "abilities": [
-         134
-      ],
-      "hidden": 143
+         134,
+         143
+      ]
    },
    {
       "number": 371,
@@ -9874,9 +9874,9 @@
       "form": "normal",
       "generation": 3,
       "abilities": [
-         276
-      ],
-      "hidden": 248
+         276,
+         248
+      ]
    },
    {
       "number": 372,
@@ -9897,9 +9897,9 @@
       "form": "normal",
       "generation": 3,
       "abilities": [
-         276
-      ],
-      "hidden": 106
+         276,
+         106
+      ]
    },
    {
       "number": 373,
@@ -9921,9 +9921,9 @@
       "form": "normal",
       "generation": 3,
       "abilities": [
-         156
-      ],
-      "hidden": 151
+         156,
+         151
+      ]
    },
    {
       "number": 374,
@@ -9945,9 +9945,9 @@
       "form": "normal",
       "generation": 3,
       "abilities": [
-         73
-      ],
-      "hidden": 163
+         73,
+         163
+      ]
    },
    {
       "number": 375,
@@ -9969,9 +9969,9 @@
       "form": "normal",
       "generation": 3,
       "abilities": [
-         73
-      ],
-      "hidden": 163
+         73,
+         163
+      ]
    },
    {
       "number": 376,
@@ -9993,9 +9993,9 @@
       "form": "normal",
       "generation": 3,
       "abilities": [
-         73
-      ],
-      "hidden": 163
+         73,
+         163
+      ]
    },
    {
       "number": 377,
@@ -10016,9 +10016,9 @@
       "form": "normal",
       "generation": 3,
       "abilities": [
-         73
-      ],
-      "hidden": 117
+         73,
+         117
+      ]
    },
    {
       "number": 378,
@@ -10039,9 +10039,9 @@
       "form": "normal",
       "generation": 3,
       "abilities": [
-         73
-      ],
-      "hidden": 71
+         73,
+         71
+      ]
    },
    {
       "number": 379,
@@ -10062,9 +10062,9 @@
       "form": "normal",
       "generation": 3,
       "abilities": [
-         73
-      ],
-      "hidden": 163
+         73,
+         163
+      ]
    },
    {
       "number": 380,
@@ -10309,9 +10309,9 @@
       "form": "normal",
       "generation": 4,
       "abilities": [
-         104
-      ],
-      "hidden": 66
+         104,
+         66
+      ]
    },
    {
       "number": 388,
@@ -10332,9 +10332,9 @@
       "form": "normal",
       "generation": 4,
       "abilities": [
-         104
-      ],
-      "hidden": 66
+         104,
+         66
+      ]
    },
    {
       "number": 389,
@@ -10356,9 +10356,9 @@
       "form": "normal",
       "generation": 4,
       "abilities": [
-         104
-      ],
-      "hidden": 66
+         104,
+         66
+      ]
    },
    {
       "number": 390,
@@ -10379,9 +10379,9 @@
       "form": "normal",
       "generation": 4,
       "abilities": [
-         44
-      ],
-      "hidden": 215
+         44,
+         215
+      ]
    },
    {
       "number": 391,
@@ -10403,9 +10403,9 @@
       "form": "normal",
       "generation": 4,
       "abilities": [
-         44
-      ],
-      "hidden": 215
+         44,
+         215
+      ]
    },
    {
       "number": 392,
@@ -10427,9 +10427,9 @@
       "form": "normal",
       "generation": 4,
       "abilities": [
-         44
-      ],
-      "hidden": 215
+         44,
+         215
+      ]
    },
    {
       "number": 393,
@@ -10450,9 +10450,9 @@
       "form": "normal",
       "generation": 4,
       "abilities": [
-         282
-      ],
-      "hidden": 5
+         282,
+         5
+      ]
    },
    {
       "number": 394,
@@ -10473,9 +10473,9 @@
       "form": "normal",
       "generation": 4,
       "abilities": [
-         282
-      ],
-      "hidden": 5
+         282,
+         5
+      ]
    },
    {
       "number": 395,
@@ -10497,9 +10497,9 @@
       "form": "normal",
       "generation": 4,
       "abilities": [
-         282
-      ],
-      "hidden": 5
+         282,
+         5
+      ]
    },
    {
       "number": 396,
@@ -10521,9 +10521,9 @@
       "form": "normal",
       "generation": 4,
       "abilities": [
-         240
-      ],
-      "hidden": 271
+         240,
+         271
+      ]
    },
    {
       "number": 397,
@@ -10545,9 +10545,9 @@
       "form": "normal",
       "generation": 4,
       "abilities": [
-         156
-      ],
-      "hidden": 271
+         156,
+         271
+      ]
    },
    {
       "number": 398,
@@ -10569,9 +10569,9 @@
       "form": "normal",
       "generation": 4,
       "abilities": [
-         156
-      ],
-      "hidden": 271
+         156,
+         271
+      ]
    },
    {
       "number": 399,
@@ -10593,9 +10593,9 @@
       "generation": 4,
       "abilities": [
          253,
-         153
-      ],
-      "hidden": 162
+         153,
+         162
+      ]
    },
    {
       "number": 400,
@@ -10618,9 +10618,9 @@
       "generation": 4,
       "abilities": [
          253,
-         153
-      ],
-      "hidden": 162
+         153,
+         162
+      ]
    },
    {
       "number": 401,
@@ -10641,9 +10641,9 @@
       "form": "normal",
       "generation": 4,
       "abilities": [
-         186
-      ],
-      "hidden": 128
+         186,
+         128
+      ]
    },
    {
       "number": 402,
@@ -10664,9 +10664,9 @@
       "form": "normal",
       "generation": 4,
       "abilities": [
-         111
-      ],
-      "hidden": 268
+         111,
+         268
+      ]
    },
    {
       "number": 403,
@@ -10688,9 +10688,9 @@
       "generation": 4,
       "abilities": [
          271,
-         244
-      ],
-      "hidden": 77
+         244,
+         77
+      ]
    },
    {
       "number": 404,
@@ -10712,9 +10712,9 @@
       "generation": 4,
       "abilities": [
          271,
-         244
-      ],
-      "hidden": 77
+         244,
+         77
+      ]
    },
    {
       "number": 405,
@@ -10736,9 +10736,9 @@
       "generation": 4,
       "abilities": [
          271,
-         244
-      ],
-      "hidden": 77
+         244,
+         77
+      ]
    },
    {
       "number": 406,
@@ -10761,9 +10761,9 @@
       "generation": 4,
       "abilities": [
          174,
-         217
-      ],
-      "hidden": 118
+         217,
+         118
+      ]
    },
    {
       "number": 407,
@@ -10786,9 +10786,9 @@
       "generation": 4,
       "abilities": [
          174,
-         217
-      ],
-      "hidden": 268
+         217,
+         268
+      ]
    },
    {
       "number": 408,
@@ -10809,9 +10809,9 @@
       "form": "normal",
       "generation": 4,
       "abilities": [
-         46
-      ],
-      "hidden": 248
+         46,
+         248
+      ]
    },
    {
       "number": 409,
@@ -10832,9 +10832,9 @@
       "form": "normal",
       "generation": 4,
       "abilities": [
-         46
-      ],
-      "hidden": 248
+         46,
+         248
+      ]
    },
    {
       "number": 410,
@@ -10856,9 +10856,9 @@
       "form": "normal",
       "generation": 4,
       "abilities": [
-         117
-      ],
-      "hidden": 17
+         117,
+         17
+      ]
    },
    {
       "number": 411,
@@ -10880,9 +10880,9 @@
       "form": "normal",
       "generation": 4,
       "abilities": [
-         117
-      ],
-      "hidden": 17
+         117,
+         17
+      ]
    },
    {
       "number": 412,
@@ -10903,9 +10903,9 @@
       "form": "normal",
       "generation": 4,
       "abilities": [
-         186
-      ],
-      "hidden": 106
+         186,
+         106
+      ]
    },
    {
       "number": 413,
@@ -10927,9 +10927,9 @@
       "form": "normal",
       "generation": 4,
       "abilities": [
-         18
-      ],
-      "hidden": 106
+         18,
+         106
+      ]
    },
    {
       "number": 414,
@@ -10951,9 +10951,9 @@
       "form": "normal",
       "generation": 4,
       "abilities": [
-         111
-      ],
-      "hidden": 161
+         111,
+         161
+      ]
    },
    {
       "number": 415,
@@ -10975,9 +10975,9 @@
       "form": "normal",
       "generation": 4,
       "abilities": [
-         54
-      ],
-      "hidden": 8
+         54,
+         8
+      ]
    },
    {
       "number": 416,
@@ -10999,9 +10999,9 @@
       "form": "normal",
       "generation": 4,
       "abilities": [
-         223
-      ],
-      "hidden": 273
+         223,
+         273
+      ]
    },
    {
       "number": 417,
@@ -11023,9 +11023,9 @@
       "generation": 4,
       "abilities": [
          128,
-         235
-      ],
-      "hidden": 3
+         235,
+         3
+      ]
    },
    {
       "number": 418,
@@ -11046,9 +11046,9 @@
       "form": "normal",
       "generation": 4,
       "abilities": [
-         134
-      ],
-      "hidden": 147
+         134,
+         147
+      ]
    },
    {
       "number": 419,
@@ -11069,9 +11069,9 @@
       "form": "normal",
       "generation": 4,
       "abilities": [
-         134
-      ],
-      "hidden": 147
+         134,
+         147
+      ]
    },
    {
       "number": 420,
@@ -11137,9 +11137,9 @@
       "generation": 4,
       "abilities": [
          137,
-         160
-      ],
-      "hidden": 124
+         160,
+         124
+      ]
    },
    {
       "number": 423,
@@ -11162,9 +11162,9 @@
       "generation": 4,
       "abilities": [
          137,
-         160
-      ],
-      "hidden": 124
+         160,
+         124
+      ]
    },
    {
       "number": 424,
@@ -11186,9 +11186,9 @@
       "generation": 4,
       "abilities": [
          268,
-         235
-      ],
-      "hidden": 187
+         235,
+         187
+      ]
    },
    {
       "number": 425,
@@ -11211,9 +11211,9 @@
       "generation": 4,
       "abilities": [
          39,
-         91
-      ],
-      "hidden": 233
+         91,
+         233
+      ]
    },
    {
       "number": 426,
@@ -11236,9 +11236,9 @@
       "generation": 4,
       "abilities": [
          39,
-         91
-      ],
-      "hidden": 233
+         91,
+         233
+      ]
    },
    {
       "number": 427,
@@ -11260,9 +11260,9 @@
       "generation": 4,
       "abilities": [
          128,
-         169
-      ],
-      "hidden": 98
+         169,
+         98
+      ]
    },
    {
       "number": 428,
@@ -11284,9 +11284,9 @@
       "generation": 4,
       "abilities": [
          158,
-         169
-      ],
-      "hidden": 98
+         169,
+         98
+      ]
    },
    {
       "number": 429,
@@ -11331,9 +11331,9 @@
       "generation": 4,
       "abilities": [
          155,
-         51
-      ],
-      "hidden": 151
+         51,
+         151
+      ]
    },
    {
       "number": 431,
@@ -11355,9 +11355,9 @@
       "generation": 4,
       "abilities": [
          98,
-         272
-      ],
-      "hidden": 240
+         272,
+         240
+      ]
    },
    {
       "number": 432,
@@ -11379,9 +11379,9 @@
       "generation": 4,
       "abilities": [
          157,
-         272
-      ],
-      "hidden": 5
+         272,
+         5
+      ]
    },
    {
       "number": 433,
@@ -11426,9 +11426,9 @@
       "generation": 4,
       "abilities": [
          230,
-         39
-      ],
-      "hidden": 240
+         39,
+         240
+      ]
    },
    {
       "number": 435,
@@ -11451,9 +11451,9 @@
       "generation": 4,
       "abilities": [
          230,
-         39
-      ],
-      "hidden": 240
+         39,
+         240
+      ]
    },
    {
       "number": 436,
@@ -11476,9 +11476,9 @@
       "generation": 4,
       "abilities": [
          162,
-         146
-      ],
-      "hidden": 140
+         146,
+         140
+      ]
    },
    {
       "number": 437,
@@ -11501,9 +11501,9 @@
       "generation": 4,
       "abilities": [
          162,
-         146
-      ],
-      "hidden": 140
+         146,
+         140
+      ]
    },
    {
       "number": 438,
@@ -11525,9 +11525,9 @@
       "generation": 4,
       "abilities": [
          117,
-         276
-      ],
-      "hidden": 209
+         276,
+         209
+      ]
    },
    {
       "number": 439,
@@ -11550,9 +11550,9 @@
       "generation": 4,
       "abilities": [
          17,
-         120
-      ],
-      "hidden": 268
+         120,
+         268
+      ]
    },
    {
       "number": 440,
@@ -11574,9 +11574,9 @@
       "generation": 4,
       "abilities": [
          174,
-         252
-      ],
-      "hidden": 129
+         252,
+         129
+      ]
    },
    {
       "number": 441,
@@ -11599,9 +11599,9 @@
       "generation": 4,
       "abilities": [
          240,
-         211
-      ],
-      "hidden": 58
+         211,
+         58
+      ]
    },
    {
       "number": 442,
@@ -11623,9 +11623,9 @@
       "form": "normal",
       "generation": 4,
       "abilities": [
-         223
-      ],
-      "hidden": 154
+         223,
+         154
+      ]
    },
    {
       "number": 443,
@@ -11647,9 +11647,9 @@
       "form": "normal",
       "generation": 4,
       "abilities": [
-         294
-      ],
-      "hidden": 202
+         294,
+         202
+      ]
    },
    {
       "number": 444,
@@ -11671,9 +11671,9 @@
       "form": "normal",
       "generation": 4,
       "abilities": [
-         294
-      ],
-      "hidden": 202
+         294,
+         202
+      ]
    },
    {
       "number": 445,
@@ -11695,9 +11695,9 @@
       "form": "normal",
       "generation": 4,
       "abilities": [
-         294
-      ],
-      "hidden": 202
+         294,
+         202
+      ]
    },
    {
       "number": 446,
@@ -11719,9 +11719,9 @@
       "generation": 4,
       "abilities": [
          235,
-         157
-      ],
-      "hidden": 135
+         157,
+         135
+      ]
    },
    {
       "number": 447,
@@ -11743,9 +11743,9 @@
       "generation": 4,
       "abilities": [
          26,
-         149
-      ],
-      "hidden": 116
+         149,
+         116
+      ]
    },
    {
       "number": 448,
@@ -11768,9 +11768,9 @@
       "generation": 4,
       "abilities": [
          26,
-         149
-      ],
-      "hidden": 59
+         149,
+         59
+      ]
    },
    {
       "number": 449,
@@ -11791,9 +11791,9 @@
       "form": "normal",
       "generation": 4,
       "abilities": [
-         294
-      ],
-      "hidden": 124
+         294,
+         124
+      ]
    },
    {
       "number": 450,
@@ -11814,9 +11814,9 @@
       "form": "normal",
       "generation": 4,
       "abilities": [
-         294
-      ],
-      "hidden": 124
+         294,
+         124
+      ]
    },
    {
       "number": 451,
@@ -11839,9 +11839,9 @@
       "generation": 4,
       "abilities": [
          21,
-         254
-      ],
-      "hidden": 240
+         254,
+         240
+      ]
    },
    {
       "number": 452,
@@ -11864,9 +11864,9 @@
       "generation": 4,
       "abilities": [
          21,
-         254
-      ],
-      "hidden": 240
+         254,
+         240
+      ]
    },
    {
       "number": 453,
@@ -11889,9 +11889,9 @@
       "generation": 4,
       "abilities": [
          18,
-         207
-      ],
-      "hidden": 283
+         207,
+         283
+      ]
    },
    {
       "number": 454,
@@ -11914,9 +11914,9 @@
       "generation": 4,
       "abilities": [
          18,
-         207
-      ],
-      "hidden": 283
+         207,
+         283
+      ]
    },
    {
       "number": 455,
@@ -11960,9 +11960,9 @@
       "generation": 4,
       "abilities": [
          160,
-         134
-      ],
-      "hidden": 147
+         134,
+         147
+      ]
    },
    {
       "number": 457,
@@ -11984,9 +11984,9 @@
       "generation": 4,
       "abilities": [
          160,
-         134
-      ],
-      "hidden": 147
+         134,
+         147
+      ]
    },
    {
       "number": 458,
@@ -12009,9 +12009,9 @@
       "generation": 4,
       "abilities": [
          134,
-         2
-      ],
-      "hidden": 147
+         2,
+         147
+      ]
    },
    {
       "number": 459,
@@ -12106,9 +12106,9 @@
       "generation": 4,
       "abilities": [
          168,
-         117
-      ],
-      "hidden": 14
+         117,
+         14
+      ]
    },
    {
       "number": 463,
@@ -12130,9 +12130,9 @@
       "generation": 4,
       "abilities": [
          35,
-         272
-      ],
-      "hidden": 57
+         272,
+         57
+      ]
    },
    {
       "number": 464,
@@ -12155,9 +12155,9 @@
       "generation": 4,
       "abilities": [
          199,
-         256
-      ],
-      "hidden": 271
+         256,
+         271
+      ]
    },
    {
       "number": 465,
@@ -12179,9 +12179,9 @@
       "generation": 4,
       "abilities": [
          56,
-         118
-      ],
-      "hidden": 241
+         118,
+         241
+      ]
    },
    {
       "number": 466,
@@ -12202,9 +12202,9 @@
       "form": "normal",
       "generation": 4,
       "abilities": [
-         260
-      ],
-      "hidden": 110
+         260,
+         110
+      ]
    },
    {
       "number": 467,
@@ -12225,9 +12225,9 @@
       "form": "normal",
       "generation": 4,
       "abilities": [
-         67
-      ],
-      "hidden": 110
+         67,
+         110
+      ]
    },
    {
       "number": 468,
@@ -12250,9 +12250,9 @@
       "generation": 4,
       "abilities": [
          252,
-         8
-      ],
-      "hidden": 51
+         8,
+         51
+      ]
    },
    {
       "number": 469,
@@ -12275,9 +12275,9 @@
       "generation": 4,
       "abilities": [
          287,
-         161
-      ],
-      "hidden": 126
+         161,
+         126
+      ]
    },
    {
       "number": 470,
@@ -12298,9 +12298,9 @@
       "form": "normal",
       "generation": 4,
       "abilities": [
-         118
-      ],
-      "hidden": 56
+         118,
+         56
+      ]
    },
    {
       "number": 471,
@@ -12321,9 +12321,9 @@
       "form": "normal",
       "generation": 4,
       "abilities": [
-         243
-      ],
-      "hidden": 71
+         243,
+         71
+      ]
    },
    {
       "number": 472,
@@ -12346,9 +12346,9 @@
       "generation": 4,
       "abilities": [
          144,
-         294
-      ],
-      "hidden": 255
+         294,
+         255
+      ]
    },
    {
       "number": 473,
@@ -12371,9 +12371,9 @@
       "generation": 4,
       "abilities": [
          35,
-         243
-      ],
-      "hidden": 157
+         243,
+         157
+      ]
    },
    {
       "number": 474,
@@ -12395,9 +12395,9 @@
       "generation": 4,
       "abilities": [
          6,
-         269
-      ],
-      "hidden": 14
+         269,
+         14
+      ]
    },
    {
       "number": 475,
@@ -12420,9 +12420,9 @@
       "generation": 4,
       "abilities": [
          149,
-         152
-      ],
-      "hidden": 59
+         152,
+         59
+      ]
    },
    {
       "number": 476,
@@ -12445,9 +12445,9 @@
       "generation": 4,
       "abilities": [
          117,
-         168
-      ],
-      "hidden": 294
+         168,
+         294
+      ]
    },
    {
       "number": 477,
@@ -12468,9 +12468,9 @@
       "form": "normal",
       "generation": 4,
       "abilities": [
-         223
-      ],
-      "hidden": 126
+         223,
+         126
+      ]
    },
    {
       "number": 478,
@@ -12492,9 +12492,9 @@
       "form": "normal",
       "generation": 4,
       "abilities": [
-         243
-      ],
-      "hidden": 72
+         243,
+         72
+      ]
    },
    {
       "number": 479,
@@ -12720,9 +12720,9 @@
       "form": "normal",
       "generation": 4,
       "abilities": [
-         223
-      ],
-      "hidden": 270
+         223,
+         270
+      ]
    },
    {
       "number": 483,
@@ -12744,9 +12744,9 @@
       "form": "originelle",
       "generation": 4,
       "abilities": [
-         223
-      ],
-      "hidden": 270
+         223,
+         270
+      ]
    },
    {
       "number": 484,
@@ -12768,9 +12768,9 @@
       "form": "normal",
       "generation": 4,
       "abilities": [
-         223
-      ],
-      "hidden": 270
+         223,
+         270
+      ]
    },
    {
       "number": 484,
@@ -12792,9 +12792,9 @@
       "form": "originelle",
       "generation": 4,
       "abilities": [
-         223
-      ],
-      "hidden": 270
+         223,
+         270
+      ]
    },
    {
       "number": 485,
@@ -12816,9 +12816,9 @@
       "form": "normal",
       "generation": 4,
       "abilities": [
-         281
-      ],
-      "hidden": 67
+         281,
+         67
+      ]
    },
    {
       "number": 486,
@@ -12862,9 +12862,9 @@
       "form": "normal",
       "generation": 4,
       "abilities": [
-         223
-      ],
-      "hidden": 270
+         223,
+         270
+      ]
    },
    {
       "number": 487,
@@ -13086,9 +13086,9 @@
       "form": "normal",
       "generation": 5,
       "abilities": [
-         104
-      ],
-      "hidden": 65
+         104,
+         65
+      ]
    },
    {
       "number": 496,
@@ -13109,9 +13109,9 @@
       "form": "normal",
       "generation": 5,
       "abilities": [
-         104
-      ],
-      "hidden": 65
+         104,
+         65
+      ]
    },
    {
       "number": 497,
@@ -13132,9 +13132,9 @@
       "form": "normal",
       "generation": 5,
       "abilities": [
-         104
-      ],
-      "hidden": 65
+         104,
+         65
+      ]
    },
    {
       "number": 498,
@@ -13155,9 +13155,9 @@
       "form": "normal",
       "generation": 5,
       "abilities": [
-         44
-      ],
-      "hidden": 157
+         44,
+         157
+      ]
    },
    {
       "number": 499,
@@ -13179,9 +13179,9 @@
       "form": "normal",
       "generation": 5,
       "abilities": [
-         44
-      ],
-      "hidden": 157
+         44,
+         157
+      ]
    },
    {
       "number": 500,
@@ -13203,9 +13203,9 @@
       "form": "normal",
       "generation": 5,
       "abilities": [
-         44
-      ],
-      "hidden": 157
+         44,
+         157
+      ]
    },
    {
       "number": 501,
@@ -13226,9 +13226,9 @@
       "form": "normal",
       "generation": 5,
       "abilities": [
-         282
-      ],
-      "hidden": 66
+         282,
+         66
+      ]
    },
    {
       "number": 502,
@@ -13249,9 +13249,9 @@
       "form": "normal",
       "generation": 5,
       "abilities": [
-         282
-      ],
-      "hidden": 66
+         282,
+         66
+      ]
    },
    {
       "number": 503,
@@ -13272,9 +13272,9 @@
       "form": "normal",
       "generation": 5,
       "abilities": [
-         282
-      ],
-      "hidden": 66
+         282,
+         66
+      ]
    },
    {
       "number": 503,
@@ -13296,9 +13296,9 @@
       "form": "hisui",
       "generation": 5,
       "abilities": [
-         282
-      ],
-      "hidden": 152
+         282,
+         152
+      ]
    },
    {
       "number": 504,
@@ -13320,9 +13320,9 @@
       "generation": 5,
       "abilities": [
          128,
-         240
-      ],
-      "hidden": 14
+         240,
+         14
+      ]
    },
    {
       "number": 505,
@@ -13344,9 +13344,9 @@
       "generation": 5,
       "abilities": [
          165,
-         240
-      ],
-      "hidden": 14
+         240,
+         14
+      ]
    },
    {
       "number": 506,
@@ -13368,9 +13368,9 @@
       "generation": 5,
       "abilities": [
          110,
-         235
-      ],
-      "hidden": 128
+         235,
+         128
+      ]
    },
    {
       "number": 507,
@@ -13392,9 +13392,9 @@
       "generation": 5,
       "abilities": [
          156,
-         30
-      ],
-      "hidden": 232
+         30,
+         232
+      ]
    },
    {
       "number": 508,
@@ -13416,9 +13416,9 @@
       "generation": 5,
       "abilities": [
          156,
-         30
-      ],
-      "hidden": 232
+         30,
+         232
+      ]
    },
    {
       "number": 509,
@@ -13440,9 +13440,9 @@
       "generation": 5,
       "abilities": [
          98,
-         91
-      ],
-      "hidden": 116
+         91,
+         116
+      ]
    },
    {
       "number": 510,
@@ -13464,9 +13464,9 @@
       "generation": 5,
       "abilities": [
          98,
-         91
-      ],
-      "hidden": 116
+         91,
+         116
+      ]
    },
    {
       "number": 511,
@@ -13487,9 +13487,9 @@
       "form": "normal",
       "generation": 5,
       "abilities": [
-         135
-      ],
-      "hidden": 104
+         135,
+         104
+      ]
    },
    {
       "number": 512,
@@ -13510,9 +13510,9 @@
       "form": "normal",
       "generation": 5,
       "abilities": [
-         135
-      ],
-      "hidden": 104
+         135,
+         104
+      ]
    },
    {
       "number": 513,
@@ -13533,9 +13533,9 @@
       "form": "normal",
       "generation": 5,
       "abilities": [
-         135
-      ],
-      "hidden": 44
+         135,
+         44
+      ]
    },
    {
       "number": 514,
@@ -13556,9 +13556,9 @@
       "form": "normal",
       "generation": 5,
       "abilities": [
-         135
-      ],
-      "hidden": 44
+         135,
+         44
+      ]
    },
    {
       "number": 515,
@@ -13579,9 +13579,9 @@
       "form": "normal",
       "generation": 5,
       "abilities": [
-         135
-      ],
-      "hidden": 282
+         135,
+         282
+      ]
    },
    {
       "number": 516,
@@ -13602,9 +13602,9 @@
       "form": "normal",
       "generation": 5,
       "abilities": [
-         135
-      ],
-      "hidden": 282
+         135,
+         282
+      ]
    },
    {
       "number": 517,
@@ -13626,9 +13626,9 @@
       "generation": 5,
       "abilities": [
          222,
-         265
-      ],
-      "hidden": 270
+         265,
+         270
+      ]
    },
    {
       "number": 518,
@@ -13650,9 +13650,9 @@
       "generation": 5,
       "abilities": [
          222,
-         265
-      ],
-      "hidden": 270
+         265,
+         270
+      ]
    },
    {
       "number": 519,
@@ -13675,9 +13675,9 @@
       "generation": 5,
       "abilities": [
          58,
-         51
-      ],
-      "hidden": 244
+         51,
+         244
+      ]
    },
    {
       "number": 520,
@@ -13700,9 +13700,9 @@
       "generation": 5,
       "abilities": [
          58,
-         51
-      ],
-      "hidden": 244
+         51,
+         244
+      ]
    },
    {
       "number": 521,
@@ -13725,9 +13725,9 @@
       "generation": 5,
       "abilities": [
          58,
-         51
-      ],
-      "hidden": 244
+         51,
+         244
+      ]
    },
    {
       "number": 522,
@@ -13749,9 +13749,9 @@
       "generation": 5,
       "abilities": [
          199,
-         185
-      ],
-      "hidden": 141
+         185,
+         141
+      ]
    },
    {
       "number": 523,
@@ -13773,9 +13773,9 @@
       "generation": 5,
       "abilities": [
          199,
-         185
-      ],
-      "hidden": 141
+         185,
+         141
+      ]
    },
    {
       "number": 524,
@@ -13797,9 +13797,9 @@
       "generation": 5,
       "abilities": [
          117,
-         24
-      ],
-      "hidden": 124
+         24,
+         124
+      ]
    },
    {
       "number": 525,
@@ -13821,9 +13821,9 @@
       "generation": 5,
       "abilities": [
          117,
-         24
-      ],
-      "hidden": 124
+         24,
+         124
+      ]
    },
    {
       "number": 526,
@@ -13845,9 +13845,9 @@
       "generation": 5,
       "abilities": [
          117,
-         24
-      ],
-      "hidden": 124
+         24,
+         124
+      ]
    },
    {
       "number": 527,
@@ -13870,9 +13870,9 @@
       "generation": 5,
       "abilities": [
          153,
-         169
-      ],
-      "hidden": 253
+         169,
+         253
+      ]
    },
    {
       "number": 528,
@@ -13895,9 +13895,9 @@
       "generation": 5,
       "abilities": [
          153,
-         169
-      ],
-      "hidden": 253
+         169,
+         253
+      ]
    },
    {
       "number": 529,
@@ -13919,9 +13919,9 @@
       "generation": 5,
       "abilities": [
          30,
-         124
-      ],
-      "hidden": 46
+         124,
+         46
+      ]
    },
    {
       "number": 530,
@@ -13944,9 +13944,9 @@
       "generation": 5,
       "abilities": [
          30,
-         124
-      ],
-      "hidden": 46
+         124,
+         46
+      ]
    },
    {
       "number": 531,
@@ -13968,9 +13968,9 @@
       "generation": 5,
       "abilities": [
          60,
-         241
-      ],
-      "hidden": 169
+         241,
+         169
+      ]
    },
    {
       "number": 532,
@@ -13992,9 +13992,9 @@
       "generation": 5,
       "abilities": [
          77,
-         248
-      ],
-      "hidden": 215
+         248,
+         215
+      ]
    },
    {
       "number": 533,
@@ -14016,9 +14016,9 @@
       "generation": 5,
       "abilities": [
          77,
-         248
-      ],
-      "hidden": 215
+         248,
+         215
+      ]
    },
    {
       "number": 534,
@@ -14040,9 +14040,9 @@
       "generation": 5,
       "abilities": [
          77,
-         248
-      ],
-      "hidden": 215
+         248,
+         215
+      ]
    },
    {
       "number": 535,
@@ -14064,9 +14064,9 @@
       "generation": 5,
       "abilities": [
          134,
-         143
-      ],
-      "hidden": 2
+         143,
+         2
+      ]
    },
    {
       "number": 536,
@@ -14089,9 +14089,9 @@
       "generation": 5,
       "abilities": [
          134,
-         143
-      ],
-      "hidden": 2
+         143,
+         2
+      ]
    },
    {
       "number": 537,
@@ -14114,9 +14114,9 @@
       "generation": 5,
       "abilities": [
          134,
-         143
-      ],
-      "hidden": 2
+         143,
+         2
+      ]
    },
    {
       "number": 538,
@@ -14138,9 +14138,9 @@
       "generation": 5,
       "abilities": [
          77,
-         26
-      ],
-      "hidden": 215
+         26,
+         215
+      ]
    },
    {
       "number": 539,
@@ -14162,9 +14162,9 @@
       "generation": 5,
       "abilities": [
          117,
-         26
-      ],
-      "hidden": 215
+         26,
+         215
+      ]
    },
    {
       "number": 540,
@@ -14187,9 +14187,9 @@
       "generation": 5,
       "abilities": [
          111,
-         56
-      ],
-      "hidden": 106
+         56,
+         106
+      ]
    },
    {
       "number": 541,
@@ -14212,9 +14212,9 @@
       "generation": 5,
       "abilities": [
          118,
-         56
-      ],
-      "hidden": 106
+         56,
+         106
+      ]
    },
    {
       "number": 542,
@@ -14237,9 +14237,9 @@
       "generation": 5,
       "abilities": [
          111,
-         56
-      ],
-      "hidden": 106
+         56,
+         106
+      ]
    },
    {
       "number": 543,
@@ -14262,9 +14262,9 @@
       "generation": 5,
       "abilities": [
          217,
-         111
-      ],
-      "hidden": 287
+         111,
+         287
+      ]
    },
    {
       "number": 544,
@@ -14287,9 +14287,9 @@
       "generation": 5,
       "abilities": [
          217,
-         111
-      ],
-      "hidden": 287
+         111,
+         287
+      ]
    },
    {
       "number": 545,
@@ -14312,9 +14312,9 @@
       "generation": 5,
       "abilities": [
          217,
-         111
-      ],
-      "hidden": 287
+         111,
+         287
+      ]
    },
    {
       "number": 546,
@@ -14337,9 +14337,9 @@
       "generation": 5,
       "abilities": [
          116,
-         154
-      ],
-      "hidden": 56
+         154,
+         56
+      ]
    },
    {
       "number": 547,
@@ -14362,9 +14362,9 @@
       "generation": 5,
       "abilities": [
          116,
-         154
-      ],
-      "hidden": 56
+         154,
+         56
+      ]
    },
    {
       "number": 548,
@@ -14386,9 +14386,9 @@
       "generation": 5,
       "abilities": [
          56,
-         272
-      ],
-      "hidden": 118
+         272,
+         118
+      ]
    },
    {
       "number": 549,
@@ -14410,9 +14410,9 @@
       "generation": 5,
       "abilities": [
          56,
-         8
-      ],
-      "hidden": 118
+         8,
+         118
+      ]
    },
    {
       "number": 549,
@@ -14435,9 +14435,9 @@
       "generation": 5,
       "abilities": [
          56,
-         272
-      ],
-      "hidden": 118
+         272,
+         118
+      ]
    },
    {
       "number": 550,
@@ -14460,9 +14460,9 @@
       "generation": 5,
       "abilities": [
          6,
-         271
-      ],
-      "hidden": 46
+         271,
+         46
+      ]
    },
    {
       "number": 551,
@@ -14485,9 +14485,9 @@
       "generation": 5,
       "abilities": [
          156,
-         151
-      ],
-      "hidden": 61
+         151,
+         61
+      ]
    },
    {
       "number": 552,
@@ -14510,9 +14510,9 @@
       "generation": 5,
       "abilities": [
          156,
-         151
-      ],
-      "hidden": 61
+         151,
+         61
+      ]
    },
    {
       "number": 553,
@@ -14535,9 +14535,9 @@
       "generation": 5,
       "abilities": [
          156,
-         151
-      ],
-      "hidden": 61
+         151,
+         61
+      ]
    },
    {
       "number": 554,
@@ -14558,9 +14558,9 @@
       "form": "normal",
       "generation": 5,
       "abilities": [
-         8
-      ],
-      "hidden": 26
+         8,
+         26
+      ]
    },
    {
       "number": 554,
@@ -14581,9 +14581,9 @@
       "form": "galar",
       "generation": 5,
       "abilities": [
-         8
-      ],
-      "hidden": 26
+         8,
+         26
+      ]
    },
    {
       "number": 555,
@@ -14604,9 +14604,9 @@
       "form": "normal",
       "generation": 5,
       "abilities": [
-         248
-      ],
-      "hidden": 181
+         248,
+         181
+      ]
    },
    {
       "number": 555,
@@ -14628,9 +14628,9 @@
       "form": "transe",
       "generation": 5,
       "abilities": [
-         248
-      ],
-      "hidden": 181
+         248,
+         181
+      ]
    },
    {
       "number": 555,
@@ -14651,9 +14651,9 @@
       "form": "galar",
       "generation": 5,
       "abilities": [
-         105
-      ],
-      "hidden": 181
+         105,
+         181
+      ]
    },
    {
       "number": 555,
@@ -14675,9 +14675,9 @@
       "form": "transe galar",
       "generation": 5,
       "abilities": [
-         105
-      ],
-      "hidden": 181
+         105,
+         181
+      ]
    },
    {
       "number": 556,
@@ -14700,9 +14700,9 @@
       "generation": 5,
       "abilities": [
          2,
-         56
-      ],
-      "hidden": 160
+         56,
+         160
+      ]
    },
    {
       "number": 557,
@@ -14725,9 +14725,9 @@
       "generation": 5,
       "abilities": [
          117,
-         66
-      ],
-      "hidden": 24
+         66,
+         24
+      ]
    },
    {
       "number": 558,
@@ -14750,9 +14750,9 @@
       "generation": 5,
       "abilities": [
          117,
-         66
-      ],
-      "hidden": 24
+         66,
+         24
+      ]
    },
    {
       "number": 559,
@@ -14775,9 +14775,9 @@
       "generation": 5,
       "abilities": [
          186,
-         151
-      ],
-      "hidden": 156
+         151,
+         156
+      ]
    },
    {
       "number": 560,
@@ -14800,9 +14800,9 @@
       "generation": 5,
       "abilities": [
          186,
-         151
-      ],
-      "hidden": 156
+         151,
+         156
+      ]
    },
    {
       "number": 561,
@@ -14825,9 +14825,9 @@
       "generation": 5,
       "abilities": [
          206,
-         130
-      ],
-      "hidden": 161
+         130,
+         161
+      ]
    },
    {
       "number": 562,
@@ -14916,9 +14916,9 @@
       "generation": 5,
       "abilities": [
          256,
-         117
-      ],
-      "hidden": 134
+         117,
+         134
+      ]
    },
    {
       "number": 565,
@@ -14941,9 +14941,9 @@
       "generation": 5,
       "abilities": [
          256,
-         117
-      ],
-      "hidden": 134
+         117,
+         134
+      ]
    },
    {
       "number": 566,
@@ -15010,9 +15010,9 @@
       "generation": 5,
       "abilities": [
          230,
-         137
-      ],
-      "hidden": 39
+         137,
+         39
+      ]
    },
    {
       "number": 569,
@@ -15034,9 +15034,9 @@
       "generation": 5,
       "abilities": [
          230,
-         137
-      ],
-      "hidden": 39
+         137,
+         39
+      ]
    },
    {
       "number": 570,
@@ -15148,9 +15148,9 @@
       "generation": 5,
       "abilities": [
          158,
-         268
-      ],
-      "hidden": 187
+         268,
+         187
+      ]
    },
    {
       "number": 573,
@@ -15172,9 +15172,9 @@
       "generation": 5,
       "abilities": [
          158,
-         268
-      ],
-      "hidden": 187
+         268,
+         187
+      ]
    },
    {
       "number": 574,
@@ -15196,9 +15196,9 @@
       "generation": 5,
       "abilities": [
          126,
-         33
-      ],
-      "hidden": 170
+         33,
+         170
+      ]
    },
    {
       "number": 575,
@@ -15220,9 +15220,9 @@
       "generation": 5,
       "abilities": [
          126,
-         33
-      ],
-      "hidden": 170
+         33,
+         170
+      ]
    },
    {
       "number": 576,
@@ -15244,9 +15244,9 @@
       "generation": 5,
       "abilities": [
          126,
-         33
-      ],
-      "hidden": 170
+         33,
+         170
+      ]
    },
    {
       "number": 577,
@@ -15268,9 +15268,9 @@
       "generation": 5,
       "abilities": [
          106,
-         130
-      ],
-      "hidden": 241
+         130,
+         241
+      ]
    },
    {
       "number": 578,
@@ -15292,9 +15292,9 @@
       "generation": 5,
       "abilities": [
          106,
-         130
-      ],
-      "hidden": 241
+         130,
+         241
+      ]
    },
    {
       "number": 579,
@@ -15316,9 +15316,9 @@
       "generation": 5,
       "abilities": [
          106,
-         130
-      ],
-      "hidden": 241
+         130,
+         241
+      ]
    },
    {
       "number": 580,
@@ -15341,9 +15341,9 @@
       "generation": 5,
       "abilities": [
          240,
-         58
-      ],
-      "hidden": 143
+         58,
+         143
+      ]
    },
    {
       "number": 581,
@@ -15366,9 +15366,9 @@
       "generation": 5,
       "abilities": [
          240,
-         58
-      ],
-      "hidden": 143
+         58,
+         143
+      ]
    },
    {
       "number": 582,
@@ -15390,9 +15390,9 @@
       "generation": 5,
       "abilities": [
          71,
-         243
-      ],
-      "hidden": 24
+         243,
+         24
+      ]
    },
    {
       "number": 583,
@@ -15414,9 +15414,9 @@
       "generation": 5,
       "abilities": [
          71,
-         243
-      ],
-      "hidden": 24
+         243,
+         24
+      ]
    },
    {
       "number": 584,
@@ -15438,9 +15438,9 @@
       "generation": 5,
       "abilities": [
          71,
-         243
-      ],
-      "hidden": 24
+         243,
+         24
+      ]
    },
    {
       "number": 585,
@@ -15463,9 +15463,9 @@
       "generation": 5,
       "abilities": [
          56,
-         141
-      ],
-      "hidden": 252
+         141,
+         252
+      ]
    },
    {
       "number": 586,
@@ -15488,9 +15488,9 @@
       "generation": 5,
       "abilities": [
          56,
-         141
-      ],
-      "hidden": 252
+         141,
+         252
+      ]
    },
    {
       "number": 587,
@@ -15512,9 +15512,9 @@
       "form": "normal",
       "generation": 5,
       "abilities": [
-         260
-      ],
-      "hidden": 185
+         260,
+         185
+      ]
    },
    {
       "number": 588,
@@ -15536,9 +15536,9 @@
       "generation": 5,
       "abilities": [
          111,
-         186
-      ],
-      "hidden": 16
+         186,
+         16
+      ]
    },
    {
       "number": 589,
@@ -15561,9 +15561,9 @@
       "generation": 5,
       "abilities": [
          11,
-         66
-      ],
-      "hidden": 106
+         66,
+         106
+      ]
    },
    {
       "number": 590,
@@ -15585,9 +15585,9 @@
       "form": "normal",
       "generation": 5,
       "abilities": [
-         220
-      ],
-      "hidden": 241
+         220,
+         241
+      ]
    },
    {
       "number": 591,
@@ -15609,9 +15609,9 @@
       "form": "normal",
       "generation": 5,
       "abilities": [
-         220
-      ],
-      "hidden": 241
+         220,
+         241
+      ]
    },
    {
       "number": 592,
@@ -15634,9 +15634,9 @@
       "generation": 5,
       "abilities": [
          2,
-         72
-      ],
-      "hidden": 182
+         72,
+         182
+      ]
    },
    {
       "number": 593,
@@ -15659,9 +15659,9 @@
       "generation": 5,
       "abilities": [
          2,
-         72
-      ],
-      "hidden": 182
+         72,
+         182
+      ]
    },
    {
       "number": 594,
@@ -15683,9 +15683,9 @@
       "generation": 5,
       "abilities": [
          143,
-         60
-      ],
-      "hidden": 241
+         60,
+         241
+      ]
    },
    {
       "number": 595,
@@ -15708,9 +15708,9 @@
       "generation": 5,
       "abilities": [
          194,
-         273
-      ],
-      "hidden": 111
+         273,
+         111
+      ]
    },
    {
       "number": 596,
@@ -15733,9 +15733,9 @@
       "generation": 5,
       "abilities": [
          194,
-         273
-      ],
-      "hidden": 111
+         273,
+         111
+      ]
    },
    {
       "number": 597,
@@ -15780,9 +15780,9 @@
       "form": "normal",
       "generation": 5,
       "abilities": [
-         108
-      ],
-      "hidden": 18
+         108,
+         18
+      ]
    },
    {
       "number": 599,
@@ -15804,9 +15804,9 @@
       "generation": 5,
       "abilities": [
          214,
-         179
-      ],
-      "hidden": 73
+         179,
+         73
+      ]
    },
    {
       "number": 600,
@@ -15828,9 +15828,9 @@
       "generation": 5,
       "abilities": [
          214,
-         179
-      ],
-      "hidden": 73
+         179,
+         73
+      ]
    },
    {
       "number": 601,
@@ -15852,9 +15852,9 @@
       "generation": 5,
       "abilities": [
          214,
-         179
-      ],
-      "hidden": 73
+         179,
+         73
+      ]
    },
    {
       "number": 602,
@@ -15942,9 +15942,9 @@
       "generation": 5,
       "abilities": [
          270,
-         265
-      ],
-      "hidden": 14
+         265,
+         14
+      ]
    },
    {
       "number": 606,
@@ -15966,9 +15966,9 @@
       "generation": 5,
       "abilities": [
          270,
-         265
-      ],
-      "hidden": 14
+         265,
+         14
+      ]
    },
    {
       "number": 607,
@@ -15991,9 +15991,9 @@
       "generation": 5,
       "abilities": [
          281,
-         67
-      ],
-      "hidden": 154
+         67,
+         154
+      ]
    },
    {
       "number": 608,
@@ -16016,9 +16016,9 @@
       "generation": 5,
       "abilities": [
          281,
-         67
-      ],
-      "hidden": 154
+         67,
+         154
+      ]
    },
    {
       "number": 609,
@@ -16041,9 +16041,9 @@
       "generation": 5,
       "abilities": [
          281,
-         67
-      ],
-      "hidden": 154
+         67,
+         154
+      ]
    },
    {
       "number": 610,
@@ -16065,9 +16065,9 @@
       "generation": 5,
       "abilities": [
          244,
-         46
-      ],
-      "hidden": 273
+         46,
+         273
+      ]
    },
    {
       "number": 611,
@@ -16089,9 +16089,9 @@
       "generation": 5,
       "abilities": [
          244,
-         46
-      ],
-      "hidden": 273
+         46,
+         273
+      ]
    },
    {
       "number": 612,
@@ -16113,9 +16113,9 @@
       "generation": 5,
       "abilities": [
          244,
-         46
-      ],
-      "hidden": 273
+         46,
+         273
+      ]
    },
    {
       "number": 613,
@@ -16137,9 +16137,9 @@
       "generation": 5,
       "abilities": [
          243,
-         53
-      ],
-      "hidden": 209
+         53,
+         209
+      ]
    },
    {
       "number": 614,
@@ -16161,9 +16161,9 @@
       "generation": 5,
       "abilities": [
          243,
-         53
-      ],
-      "hidden": 209
+         53,
+         209
+      ]
    },
    {
       "number": 615,
@@ -16207,9 +16207,9 @@
       "generation": 5,
       "abilities": [
          143,
-         66
-      ],
-      "hidden": 106
+         66,
+         106
+      ]
    },
    {
       "number": 617,
@@ -16231,9 +16231,9 @@
       "generation": 5,
       "abilities": [
          143,
-         137
-      ],
-      "hidden": 91
+         137,
+         91
+      ]
    },
    {
       "number": 618,
@@ -16256,9 +16256,9 @@
       "generation": 5,
       "abilities": [
          260,
-         98
-      ],
-      "hidden": 294
+         98,
+         294
+      ]
    },
    {
       "number": 618,
@@ -16303,9 +16303,9 @@
       "generation": 5,
       "abilities": [
          241,
-         26
-      ],
-      "hidden": 271
+         26,
+         271
+      ]
    },
    {
       "number": 620,
@@ -16327,9 +16327,9 @@
       "generation": 5,
       "abilities": [
          241,
-         26
-      ],
-      "hidden": 271
+         26,
+         271
+      ]
    },
    {
       "number": 621,
@@ -16351,9 +16351,9 @@
       "generation": 5,
       "abilities": [
          202,
-         248
-      ],
-      "hidden": 46
+         248,
+         46
+      ]
    },
    {
       "number": 622,
@@ -16376,9 +16376,9 @@
       "generation": 5,
       "abilities": [
          215,
-         169
-      ],
-      "hidden": 16
+         169,
+         16
+      ]
    },
    {
       "number": 623,
@@ -16401,9 +16401,9 @@
       "generation": 5,
       "abilities": [
          215,
-         169
-      ],
-      "hidden": 16
+         169,
+         16
+      ]
    },
    {
       "number": 624,
@@ -16426,9 +16426,9 @@
       "generation": 5,
       "abilities": [
          5,
-         26
-      ],
-      "hidden": 223
+         26,
+         223
+      ]
    },
    {
       "number": 625,
@@ -16451,9 +16451,9 @@
       "generation": 5,
       "abilities": [
          5,
-         26
-      ],
-      "hidden": 223
+         26,
+         223
+      ]
    },
    {
       "number": 626,
@@ -16475,9 +16475,9 @@
       "generation": 5,
       "abilities": [
          271,
-         141
-      ],
-      "hidden": 17
+         141,
+         17
+      ]
    },
    {
       "number": 627,
@@ -16500,9 +16500,9 @@
       "generation": 5,
       "abilities": [
          240,
-         248
-      ],
-      "hidden": 8
+         248,
+         8
+      ]
    },
    {
       "number": 628,
@@ -16525,9 +16525,9 @@
       "generation": 5,
       "abilities": [
          240,
-         248
-      ],
-      "hidden": 5
+         248,
+         5
+      ]
    },
    {
       "number": 628,
@@ -16550,9 +16550,9 @@
       "generation": 5,
       "abilities": [
          240,
-         248
-      ],
-      "hidden": 161
+         248,
+         161
+      ]
    },
    {
       "number": 629,
@@ -16575,9 +16575,9 @@
       "generation": 5,
       "abilities": [
          58,
-         106
-      ],
-      "hidden": 24
+         106,
+         24
+      ]
    },
    {
       "number": 630,
@@ -16600,9 +16600,9 @@
       "generation": 5,
       "abilities": [
          58,
-         106
-      ],
-      "hidden": 24
+         106,
+         24
+      ]
    },
    {
       "number": 631,
@@ -16624,9 +16624,9 @@
       "generation": 5,
       "abilities": [
          135,
-         281
-      ],
-      "hidden": 99
+         281,
+         99
+      ]
    },
    {
       "number": 632,
@@ -16649,9 +16649,9 @@
       "generation": 5,
       "abilities": [
          111,
-         8
-      ],
-      "hidden": 1
+         8,
+         1
+      ]
    },
    {
       "number": 633,
@@ -16742,9 +16742,9 @@
       "form": "normal",
       "generation": 5,
       "abilities": [
-         67
-      ],
-      "hidden": 111
+         67,
+         111
+      ]
    },
    {
       "number": 637,
@@ -16766,9 +16766,9 @@
       "form": "normal",
       "generation": 5,
       "abilities": [
-         67
-      ],
-      "hidden": 111
+         67,
+         111
+      ]
    },
    {
       "number": 638,
@@ -16858,9 +16858,9 @@
       "form": "normal",
       "generation": 5,
       "abilities": [
-         116
-      ],
-      "hidden": 5
+         116,
+         5
+      ]
    },
    {
       "number": 641,
@@ -16904,9 +16904,9 @@
       "form": "normal",
       "generation": 5,
       "abilities": [
-         116
-      ],
-      "hidden": 5
+         116,
+         5
+      ]
    },
    {
       "number": 642,
@@ -17181,9 +17181,9 @@
       "form": "normal",
       "generation": 6,
       "abilities": [
-         104
-      ],
-      "hidden": 200
+         104,
+         200
+      ]
    },
    {
       "number": 651,
@@ -17204,9 +17204,9 @@
       "form": "normal",
       "generation": 6,
       "abilities": [
-         104
-      ],
-      "hidden": 200
+         104,
+         200
+      ]
    },
    {
       "number": 652,
@@ -17228,9 +17228,9 @@
       "form": "normal",
       "generation": 6,
       "abilities": [
-         104
-      ],
-      "hidden": 200
+         104,
+         200
+      ]
    },
    {
       "number": 653,
@@ -17251,9 +17251,9 @@
       "form": "normal",
       "generation": 6,
       "abilities": [
-         44
-      ],
-      "hidden": 167
+         44,
+         167
+      ]
    },
    {
       "number": 654,
@@ -17274,9 +17274,9 @@
       "form": "normal",
       "generation": 6,
       "abilities": [
-         44
-      ],
-      "hidden": 167
+         44,
+         167
+      ]
    },
    {
       "number": 655,
@@ -17298,9 +17298,9 @@
       "form": "normal",
       "generation": 6,
       "abilities": [
-         44
-      ],
-      "hidden": 167
+         44,
+         167
+      ]
    },
    {
       "number": 656,
@@ -17321,9 +17321,9 @@
       "form": "normal",
       "generation": 6,
       "abilities": [
-         282
-      ],
-      "hidden": 229
+         282,
+         229
+      ]
    },
    {
       "number": 657,
@@ -17344,9 +17344,9 @@
       "form": "normal",
       "generation": 6,
       "abilities": [
-         282
-      ],
-      "hidden": 229
+         282,
+         229
+      ]
    },
    {
       "number": 658,
@@ -17368,9 +17368,9 @@
       "form": "normal",
       "generation": 6,
       "abilities": [
-         282
-      ],
-      "hidden": 229
+         282,
+         229
+      ]
    },
    {
       "number": 658,
@@ -17415,9 +17415,9 @@
       "generation": 6,
       "abilities": [
          235,
-         31
-      ],
-      "hidden": 63
+         31,
+         63
+      ]
    },
    {
       "number": 660,
@@ -17440,9 +17440,9 @@
       "generation": 6,
       "abilities": [
          235,
-         31
-      ],
-      "hidden": 63
+         31,
+         63
+      ]
    },
    {
       "number": 661,
@@ -17464,9 +17464,9 @@
       "form": "normal",
       "generation": 6,
       "abilities": [
-         58
-      ],
-      "hidden": 9
+         58,
+         9
+      ]
    },
    {
       "number": 662,
@@ -17488,9 +17488,9 @@
       "form": "normal",
       "generation": 6,
       "abilities": [
-         67
-      ],
-      "hidden": 9
+         67,
+         9
+      ]
    },
    {
       "number": 663,
@@ -17512,9 +17512,9 @@
       "form": "normal",
       "generation": 6,
       "abilities": [
-         67
-      ],
-      "hidden": 9
+         67,
+         9
+      ]
    },
    {
       "number": 664,
@@ -17536,9 +17536,9 @@
       "generation": 6,
       "abilities": [
          194,
-         100
-      ],
-      "hidden": 129
+         100,
+         129
+      ]
    },
    {
       "number": 665,
@@ -17559,9 +17559,9 @@
       "form": "normal",
       "generation": 6,
       "abilities": [
-         186
-      ],
-      "hidden": 129
+         186,
+         129
+      ]
    },
    {
       "number": 666,
@@ -17584,9 +17584,9 @@
       "generation": 6,
       "abilities": [
          194,
-         100
-      ],
-      "hidden": 129
+         100,
+         129
+      ]
    },
    {
       "number": 667,
@@ -17609,9 +17609,9 @@
       "generation": 6,
       "abilities": [
          244,
-         273
-      ],
-      "hidden": 151
+         273,
+         151
+      ]
    },
    {
       "number": 668,
@@ -17634,9 +17634,9 @@
       "generation": 6,
       "abilities": [
          244,
-         273
-      ],
-      "hidden": 151
+         273,
+         151
+      ]
    },
    {
       "number": 669,
@@ -17657,9 +17657,9 @@
       "form": "normal",
       "generation": 6,
       "abilities": [
-         121
-      ],
-      "hidden": 264
+         121,
+         264
+      ]
    },
    {
       "number": 670,
@@ -17680,9 +17680,9 @@
       "form": "normal",
       "generation": 6,
       "abilities": [
-         121
-      ],
-      "hidden": 264
+         121,
+         264
+      ]
    },
    {
       "number": 671,
@@ -17703,9 +17703,9 @@
       "form": "normal",
       "generation": 6,
       "abilities": [
-         121
-      ],
-      "hidden": 264
+         121,
+         264
+      ]
    },
    {
       "number": 672,
@@ -17726,9 +17726,9 @@
       "form": "normal",
       "generation": 6,
       "abilities": [
-         141
-      ],
-      "hidden": 280
+         141,
+         280
+      ]
    },
    {
       "number": 673,
@@ -17749,9 +17749,9 @@
       "form": "normal",
       "generation": 6,
       "abilities": [
-         141
-      ],
-      "hidden": 280
+         141,
+         280
+      ]
    },
    {
       "number": 674,
@@ -17773,9 +17773,9 @@
       "generation": 6,
       "abilities": [
          45,
-         215
-      ],
-      "hidden": 232
+         215,
+         232
+      ]
    },
    {
       "number": 675,
@@ -17798,9 +17798,9 @@
       "generation": 6,
       "abilities": [
          45,
-         215
-      ],
-      "hidden": 232
+         215,
+         232
+      ]
    },
    {
       "number": 676,
@@ -17844,9 +17844,9 @@
       "generation": 6,
       "abilities": [
          154,
-         240
-      ],
-      "hidden": 272
+         240,
+         272
+      ]
    },
    {
       "number": 678,
@@ -17868,9 +17868,9 @@
       "generation": 6,
       "abilities": [
          154,
-         240
-      ],
-      "hidden": 116
+         240,
+         116
+      ]
    },
    {
       "number": 678,
@@ -17892,9 +17892,9 @@
       "generation": 6,
       "abilities": [
          154,
-         240
-      ],
-      "hidden": 33
+         240,
+         33
+      ]
    },
    {
       "number": 679,
@@ -17984,9 +17984,9 @@
       "form": "normal",
       "generation": 6,
       "abilities": [
-         60
-      ],
-      "hidden": 25
+         60,
+         25
+      ]
    },
    {
       "number": 683,
@@ -18007,9 +18007,9 @@
       "form": "normal",
       "generation": 6,
       "abilities": [
-         60
-      ],
-      "hidden": 25
+         60,
+         25
+      ]
    },
    {
       "number": 684,
@@ -18030,9 +18030,9 @@
       "form": "normal",
       "generation": 6,
       "abilities": [
-         136
-      ],
-      "hidden": 91
+         136,
+         91
+      ]
    },
    {
       "number": 685,
@@ -18053,9 +18053,9 @@
       "form": "normal",
       "generation": 6,
       "abilities": [
-         136
-      ],
-      "hidden": 91
+         136,
+         91
+      ]
    },
    {
       "number": 686,
@@ -18078,9 +18078,9 @@
       "generation": 6,
       "abilities": [
          291,
-         65
-      ],
-      "hidden": 154
+         65,
+         154
+      ]
    },
    {
       "number": 687,
@@ -18103,9 +18103,9 @@
       "generation": 6,
       "abilities": [
          291,
-         65
-      ],
-      "hidden": 154
+         65,
+         154
+      ]
    },
    {
       "number": 688,
@@ -18128,9 +18128,9 @@
       "generation": 6,
       "abilities": [
          254,
-         139
-      ],
-      "hidden": 210
+         139,
+         210
+      ]
    },
    {
       "number": 689,
@@ -18153,9 +18153,9 @@
       "generation": 6,
       "abilities": [
          254,
-         139
-      ],
-      "hidden": 210
+         139,
+         210
+      ]
    },
    {
       "number": 690,
@@ -18178,9 +18178,9 @@
       "generation": 6,
       "abilities": [
          217,
-         283
-      ],
-      "hidden": 6
+         283,
+         6
+      ]
    },
    {
       "number": 691,
@@ -18203,9 +18203,9 @@
       "generation": 6,
       "abilities": [
          217,
-         283
-      ],
-      "hidden": 6
+         283,
+         6
+      ]
    },
    {
       "number": 692,
@@ -18272,9 +18272,9 @@
       "generation": 6,
       "abilities": [
          207,
-         294
-      ],
-      "hidden": 124
+         294,
+         124
+      ]
    },
    {
       "number": 695,
@@ -18297,9 +18297,9 @@
       "generation": 6,
       "abilities": [
          207,
-         294
-      ],
-      "hidden": 124
+         294,
+         124
+      ]
    },
    {
       "number": 696,
@@ -18321,9 +18321,9 @@
       "form": "normal",
       "generation": 6,
       "abilities": [
-         227
-      ],
-      "hidden": 117
+         227,
+         117
+      ]
    },
    {
       "number": 697,
@@ -18345,9 +18345,9 @@
       "form": "normal",
       "generation": 6,
       "abilities": [
-         227
-      ],
-      "hidden": 276
+         227,
+         276
+      ]
    },
    {
       "number": 698,
@@ -18369,9 +18369,9 @@
       "form": "normal",
       "generation": 6,
       "abilities": [
-         205
-      ],
-      "hidden": 11
+         205,
+         11
+      ]
    },
    {
       "number": 699,
@@ -18393,9 +18393,9 @@
       "form": "normal",
       "generation": 6,
       "abilities": [
-         205
-      ],
-      "hidden": 11
+         205,
+         11
+      ]
    },
    {
       "number": 700,
@@ -18416,9 +18416,9 @@
       "form": "normal",
       "generation": 6,
       "abilities": [
-         158
-      ],
-      "hidden": 204
+         158,
+         204
+      ]
    },
    {
       "number": 701,
@@ -18441,9 +18441,9 @@
       "generation": 6,
       "abilities": [
          98,
-         91
-      ],
-      "hidden": 46
+         91,
+         46
+      ]
    },
    {
       "number": 702,
@@ -18466,9 +18466,9 @@
       "generation": 6,
       "abilities": [
          235,
-         31
-      ],
-      "hidden": 214
+         31,
+         214
+      ]
    },
    {
       "number": 703,
@@ -18490,9 +18490,9 @@
       "form": "normal",
       "generation": 6,
       "abilities": [
-         73
-      ],
-      "hidden": 117
+         73,
+         117
+      ]
    },
    {
       "number": 704,
@@ -18514,9 +18514,9 @@
       "generation": 6,
       "abilities": [
          143,
-         141
-      ],
-      "hidden": 218
+         141,
+         218
+      ]
    },
    {
       "number": 705,
@@ -18538,9 +18538,9 @@
       "generation": 6,
       "abilities": [
          143,
-         141
-      ],
-      "hidden": 218
+         141,
+         218
+      ]
    },
    {
       "number": 705,
@@ -18563,9 +18563,9 @@
       "generation": 6,
       "abilities": [
          143,
-         66
-      ],
-      "hidden": 218
+         66,
+         218
+      ]
    },
    {
       "number": 706,
@@ -18587,9 +18587,9 @@
       "generation": 6,
       "abilities": [
          143,
-         141
-      ],
-      "hidden": 218
+         141,
+         218
+      ]
    },
    {
       "number": 706,
@@ -18612,9 +18612,9 @@
       "generation": 6,
       "abilities": [
          143,
-         66
-      ],
-      "hidden": 218
+         66,
+         218
+      ]
    },
    {
       "number": 707,
@@ -18636,9 +18636,9 @@
       "form": "normal",
       "generation": 6,
       "abilities": [
-         116
-      ],
-      "hidden": 167
+         116,
+         167
+      ]
    },
    {
       "number": 708,
@@ -18661,9 +18661,9 @@
       "generation": 6,
       "abilities": [
          174,
-         126
-      ],
-      "hidden": 239
+         126,
+         239
+      ]
    },
    {
       "number": 709,
@@ -18686,9 +18686,9 @@
       "generation": 6,
       "abilities": [
          174,
-         126
-      ],
-      "hidden": 239
+         126,
+         239
+      ]
    },
    {
       "number": 710,
@@ -18711,9 +18711,9 @@
       "generation": 6,
       "abilities": [
          235,
-         126
-      ],
-      "hidden": 155
+         126,
+         155
+      ]
    },
    {
       "number": 710,
@@ -18736,9 +18736,9 @@
       "generation": 6,
       "abilities": [
          235,
-         126
-      ],
-      "hidden": 155
+         126,
+         155
+      ]
    },
    {
       "number": 710,
@@ -18761,9 +18761,9 @@
       "generation": 6,
       "abilities": [
          235,
-         126
-      ],
-      "hidden": 155
+         126,
+         155
+      ]
    },
    {
       "number": 710,
@@ -18786,9 +18786,9 @@
       "generation": 6,
       "abilities": [
          235,
-         126
-      ],
-      "hidden": 155
+         126,
+         155
+      ]
    },
    {
       "number": 711,
@@ -18811,9 +18811,9 @@
       "generation": 6,
       "abilities": [
          235,
-         126
-      ],
-      "hidden": 155
+         126,
+         155
+      ]
    },
    {
       "number": 711,
@@ -18836,9 +18836,9 @@
       "generation": 6,
       "abilities": [
          235,
-         126
-      ],
-      "hidden": 155
+         126,
+         155
+      ]
    },
    {
       "number": 711,
@@ -18861,9 +18861,9 @@
       "generation": 6,
       "abilities": [
          235,
-         126
-      ],
-      "hidden": 155
+         126,
+         155
+      ]
    },
    {
       "number": 711,
@@ -18886,9 +18886,9 @@
       "generation": 6,
       "abilities": [
          235,
-         126
-      ],
-      "hidden": 155
+         126,
+         155
+      ]
    },
    {
       "number": 712,
@@ -18910,9 +18910,9 @@
       "generation": 6,
       "abilities": [
          272,
-         71
-      ],
-      "hidden": 117
+         71,
+         117
+      ]
    },
    {
       "number": 713,
@@ -18934,9 +18934,9 @@
       "generation": 6,
       "abilities": [
          272,
-         71
-      ],
-      "hidden": 117
+         71,
+         117
+      ]
    },
    {
       "number": 713,
@@ -18959,9 +18959,9 @@
       "generation": 6,
       "abilities": [
          227,
-         71
-      ],
-      "hidden": 117
+         71,
+         117
+      ]
    },
    {
       "number": 714,
@@ -18984,9 +18984,9 @@
       "generation": 6,
       "abilities": [
          126,
-         154
-      ],
-      "hidden": 270
+         154,
+         270
+      ]
    },
    {
       "number": 715,
@@ -19009,9 +19009,9 @@
       "generation": 6,
       "abilities": [
          126,
-         154
-      ],
-      "hidden": 270
+         154,
+         270
+      ]
    },
    {
       "number": 716,
@@ -19193,9 +19193,9 @@
       "form": "normal",
       "generation": 7,
       "abilities": [
-         104
-      ],
-      "hidden": 164
+         104,
+         164
+      ]
    },
    {
       "number": 723,
@@ -19217,9 +19217,9 @@
       "form": "normal",
       "generation": 7,
       "abilities": [
-         104
-      ],
-      "hidden": 164
+         104,
+         164
+      ]
    },
    {
       "number": 724,
@@ -19241,9 +19241,9 @@
       "form": "normal",
       "generation": 7,
       "abilities": [
-         104
-      ],
-      "hidden": 164
+         104,
+         164
+      ]
    },
    {
       "number": 724,
@@ -19265,9 +19265,9 @@
       "form": "hisui",
       "generation": 7,
       "abilities": [
-         104
-      ],
-      "hidden": 232
+         104,
+         232
+      ]
    },
    {
       "number": 725,
@@ -19288,9 +19288,9 @@
       "form": "normal",
       "generation": 7,
       "abilities": [
-         44
-      ],
-      "hidden": 156
+         44,
+         156
+      ]
    },
    {
       "number": 726,
@@ -19311,9 +19311,9 @@
       "form": "normal",
       "generation": 7,
       "abilities": [
-         44
-      ],
-      "hidden": 156
+         44,
+         156
+      ]
    },
    {
       "number": 727,
@@ -19335,9 +19335,9 @@
       "form": "normal",
       "generation": 7,
       "abilities": [
-         44
-      ],
-      "hidden": 156
+         44,
+         156
+      ]
    },
    {
       "number": 728,
@@ -19358,9 +19358,9 @@
       "form": "normal",
       "generation": 7,
       "abilities": [
-         282
-      ],
-      "hidden": 142
+         282,
+         142
+      ]
    },
    {
       "number": 729,
@@ -19381,9 +19381,9 @@
       "form": "normal",
       "generation": 7,
       "abilities": [
-         282
-      ],
-      "hidden": 142
+         282,
+         142
+      ]
    },
    {
       "number": 730,
@@ -19405,9 +19405,9 @@
       "form": "normal",
       "generation": 7,
       "abilities": [
-         282
-      ],
-      "hidden": 142
+         282,
+         142
+      ]
    },
    {
       "number": 731,
@@ -19430,9 +19430,9 @@
       "generation": 7,
       "abilities": [
          240,
-         187
-      ],
-      "hidden": 235
+         187,
+         235
+      ]
    },
    {
       "number": 732,
@@ -19455,9 +19455,9 @@
       "generation": 7,
       "abilities": [
          240,
-         187
-      ],
-      "hidden": 235
+         187,
+         235
+      ]
    },
    {
       "number": 733,
@@ -19480,9 +19480,9 @@
       "generation": 7,
       "abilities": [
          240,
-         187
-      ],
-      "hidden": 248
+         187,
+         248
+      ]
    },
    {
       "number": 734,
@@ -19504,9 +19504,9 @@
       "generation": 7,
       "abilities": [
          119,
-         227
-      ],
-      "hidden": 6
+         227,
+         6
+      ]
    },
    {
       "number": 735,
@@ -19528,9 +19528,9 @@
       "generation": 7,
       "abilities": [
          119,
-         227
-      ],
-      "hidden": 6
+         227,
+         6
+      ]
    },
    {
       "number": 736,
@@ -19620,9 +19620,9 @@
       "generation": 7,
       "abilities": [
          144,
-         215
-      ],
-      "hidden": 61
+         215,
+         61
+      ]
    },
    {
       "number": 740,
@@ -19645,9 +19645,9 @@
       "generation": 7,
       "abilities": [
          144,
-         215
-      ],
-      "hidden": 61
+         215,
+         61
+      ]
    },
    {
       "number": 741,
@@ -19762,9 +19762,9 @@
       "generation": 7,
       "abilities": [
          54,
-         100
-      ],
-      "hidden": 136
+         100,
+         136
+      ]
    },
    {
       "number": 743,
@@ -19787,9 +19787,9 @@
       "generation": 7,
       "abilities": [
          54,
-         100
-      ],
-      "hidden": 136
+         100,
+         136
+      ]
    },
    {
       "number": 744,
@@ -19811,9 +19811,9 @@
       "generation": 7,
       "abilities": [
          240,
-         110
-      ],
-      "hidden": 149
+         110,
+         149
+      ]
    },
    {
       "number": 745,
@@ -19835,9 +19835,9 @@
       "generation": 7,
       "abilities": [
          240,
-         30
-      ],
-      "hidden": 149
+         30,
+         149
+      ]
    },
    {
       "number": 745,
@@ -19859,9 +19859,9 @@
       "generation": 7,
       "abilities": [
          240,
-         110
-      ],
-      "hidden": 16
+         110,
+         16
+      ]
    },
    {
       "number": 745,
@@ -19950,9 +19950,9 @@
       "generation": 7,
       "abilities": [
          82,
-         98
-      ],
-      "hidden": 241
+         98,
+         241
+      ]
    },
    {
       "number": 748,
@@ -19975,9 +19975,9 @@
       "generation": 7,
       "abilities": [
          82,
-         98
-      ],
-      "hidden": 241
+         98,
+         241
+      ]
    },
    {
       "number": 749,
@@ -19999,9 +19999,9 @@
       "generation": 7,
       "abilities": [
          272,
-         103
-      ],
-      "hidden": 26
+         103,
+         26
+      ]
    },
    {
       "number": 750,
@@ -20023,9 +20023,9 @@
       "generation": 7,
       "abilities": [
          272,
-         103
-      ],
-      "hidden": 26
+         103,
+         26
+      ]
    },
    {
       "number": 751,
@@ -20047,9 +20047,9 @@
       "form": "normal",
       "generation": 7,
       "abilities": [
-         19
-      ],
-      "hidden": 2
+         19,
+         2
+      ]
    },
    {
       "number": 752,
@@ -20071,9 +20071,9 @@
       "form": "normal",
       "generation": 7,
       "abilities": [
-         19
-      ],
-      "hidden": 2
+         19,
+         2
+      ]
    },
    {
       "number": 753,
@@ -20094,9 +20094,9 @@
       "form": "normal",
       "generation": 7,
       "abilities": [
-         118
-      ],
-      "hidden": 65
+         118,
+         65
+      ]
    },
    {
       "number": 754,
@@ -20117,9 +20117,9 @@
       "form": "normal",
       "generation": 7,
       "abilities": [
-         118
-      ],
-      "hidden": 65
+         118,
+         65
+      ]
    },
    {
       "number": 755,
@@ -20142,9 +20142,9 @@
       "generation": 7,
       "abilities": [
          165,
-         220
-      ],
-      "hidden": 83
+         220,
+         83
+      ]
    },
    {
       "number": 756,
@@ -20167,9 +20167,9 @@
       "generation": 7,
       "abilities": [
          165,
-         220
-      ],
-      "hidden": 83
+         220,
+         83
+      ]
    },
    {
       "number": 757,
@@ -20191,9 +20191,9 @@
       "form": "normal",
       "generation": 7,
       "abilities": [
-         74
-      ],
-      "hidden": 35
+         74,
+         35
+      ]
    },
    {
       "number": 758,
@@ -20215,9 +20215,9 @@
       "form": "normal",
       "generation": 7,
       "abilities": [
-         74
-      ],
-      "hidden": 35
+         74,
+         35
+      ]
    },
    {
       "number": 759,
@@ -20240,9 +20240,9 @@
       "generation": 7,
       "abilities": [
          43,
-         169
-      ],
-      "hidden": 158
+         169,
+         158
+      ]
    },
    {
       "number": 760,
@@ -20265,9 +20265,9 @@
       "generation": 7,
       "abilities": [
          43,
-         169
-      ],
-      "hidden": 158
+         169,
+         158
+      ]
    },
    {
       "number": 761,
@@ -20289,9 +20289,9 @@
       "generation": 7,
       "abilities": [
          118,
-         35
-      ],
-      "hidden": 136
+         35,
+         136
+      ]
    },
    {
       "number": 762,
@@ -20313,9 +20313,9 @@
       "generation": 7,
       "abilities": [
          118,
-         35
-      ],
-      "hidden": 136
+         35,
+         136
+      ]
    },
    {
       "number": 763,
@@ -20337,9 +20337,9 @@
       "generation": 7,
       "abilities": [
          118,
-         224
-      ],
-      "hidden": 136
+         224,
+         136
+      ]
    },
    {
       "number": 764,
@@ -20361,9 +20361,9 @@
       "generation": 7,
       "abilities": [
          121,
-         225
-      ],
-      "hidden": 174
+         225,
+         174
+      ]
    },
    {
       "number": 765,
@@ -20386,9 +20386,9 @@
       "generation": 7,
       "abilities": [
          26,
-         270
-      ],
-      "hidden": 264
+         270,
+         264
+      ]
    },
    {
       "number": 766,
@@ -20409,9 +20409,9 @@
       "form": "normal",
       "generation": 7,
       "abilities": [
-         238
-      ],
-      "hidden": 5
+         238,
+         5
+      ]
    },
    {
       "number": 767,
@@ -20479,9 +20479,9 @@
       "form": "normal",
       "generation": 7,
       "abilities": [
-         246
-      ],
-      "hidden": 294
+         246,
+         294
+      ]
    },
    {
       "number": 770,
@@ -20503,9 +20503,9 @@
       "form": "normal",
       "generation": 7,
       "abilities": [
-         246
-      ],
-      "hidden": 294
+         246,
+         294
+      ]
    },
    {
       "number": 771,
@@ -20526,9 +20526,9 @@
       "form": "normal",
       "generation": 7,
       "abilities": [
-         114
-      ],
-      "hidden": 153
+         114,
+         153
+      ]
    },
    {
       "number": 772,
@@ -20686,9 +20686,9 @@
       "generation": 7,
       "abilities": [
          108,
-         199
-      ],
-      "hidden": 117
+         199,
+         117
+      ]
    },
    {
       "number": 778,
@@ -20734,9 +20734,9 @@
       "generation": 7,
       "abilities": [
          68,
-         227
-      ],
-      "hidden": 206
+         227,
+         206
+      ]
    },
    {
       "number": 780,
@@ -20759,9 +20759,9 @@
       "generation": 7,
       "abilities": [
          95,
-         141
-      ],
-      "hidden": 57
+         141,
+         57
+      ]
    },
    {
       "number": 781,
@@ -20806,9 +20806,9 @@
       "generation": 7,
       "abilities": [
          200,
-         17
-      ],
-      "hidden": 106
+         17,
+         106
+      ]
    },
    {
       "number": 783,
@@ -20831,9 +20831,9 @@
       "generation": 7,
       "abilities": [
          200,
-         17
-      ],
-      "hidden": 106
+         17,
+         106
+      ]
    },
    {
       "number": 784,
@@ -20856,9 +20856,9 @@
       "generation": 7,
       "abilities": [
          200,
-         17
-      ],
-      "hidden": 106
+         17,
+         106
+      ]
    },
    {
       "number": 785,
@@ -20880,9 +20880,9 @@
       "form": "normal",
       "generation": 7,
       "abilities": [
-         79
-      ],
-      "hidden": 270
+         79,
+         270
+      ]
    },
    {
       "number": 786,
@@ -20904,9 +20904,9 @@
       "form": "normal",
       "generation": 7,
       "abilities": [
-         81
-      ],
-      "hidden": 270
+         81,
+         270
+      ]
    },
    {
       "number": 787,
@@ -20928,9 +20928,9 @@
       "form": "normal",
       "generation": 7,
       "abilities": [
-         80
-      ],
-      "hidden": 270
+         80,
+         270
+      ]
    },
    {
       "number": 788,
@@ -20952,9 +20952,9 @@
       "form": "normal",
       "generation": 7,
       "abilities": [
-         78
-      ],
-      "hidden": 270
+         78,
+         270
+      ]
    },
    {
       "number": 789,
@@ -21520,9 +21520,9 @@
       "form": "normal",
       "generation": 8,
       "abilities": [
-         104
-      ],
-      "hidden": 80
+         104,
+         80
+      ]
    },
    {
       "number": 811,
@@ -21543,9 +21543,9 @@
       "form": "normal",
       "generation": 8,
       "abilities": [
-         104
-      ],
-      "hidden": 80
+         104,
+         80
+      ]
    },
    {
       "number": 812,
@@ -21566,9 +21566,9 @@
       "form": "normal",
       "generation": 8,
       "abilities": [
-         104
-      ],
-      "hidden": 80
+         104,
+         80
+      ]
    },
    {
       "number": 813,
@@ -21589,9 +21589,9 @@
       "form": "normal",
       "generation": 8,
       "abilities": [
-         44
-      ],
-      "hidden": 297
+         44,
+         297
+      ]
    },
    {
       "number": 814,
@@ -21612,9 +21612,9 @@
       "form": "normal",
       "generation": 8,
       "abilities": [
-         44
-      ],
-      "hidden": 297
+         44,
+         297
+      ]
    },
    {
       "number": 815,
@@ -21635,9 +21635,9 @@
       "form": "normal",
       "generation": 8,
       "abilities": [
-         44
-      ],
-      "hidden": 297
+         44,
+         297
+      ]
    },
    {
       "number": 816,
@@ -21658,9 +21658,9 @@
       "form": "normal",
       "generation": 8,
       "abilities": [
-         282
-      ],
-      "hidden": 254
+         282,
+         254
+      ]
    },
    {
       "number": 817,
@@ -21681,9 +21681,9 @@
       "form": "normal",
       "generation": 8,
       "abilities": [
-         282
-      ],
-      "hidden": 254
+         282,
+         254
+      ]
    },
    {
       "number": 818,
@@ -21704,9 +21704,9 @@
       "form": "normal",
       "generation": 8,
       "abilities": [
-         282
-      ],
-      "hidden": 254
+         282,
+         254
+      ]
    },
    {
       "number": 819,
@@ -21727,9 +21727,9 @@
       "form": "normal",
       "generation": 8,
       "abilities": [
-         31
-      ],
-      "hidden": 135
+         31,
+         135
+      ]
    },
    {
       "number": 820,
@@ -21750,9 +21750,9 @@
       "form": "normal",
       "generation": 8,
       "abilities": [
-         31
-      ],
-      "hidden": 135
+         31,
+         135
+      ]
    },
    {
       "number": 821,
@@ -21774,9 +21774,9 @@
       "generation": 8,
       "abilities": [
          240,
-         273
-      ],
-      "hidden": 58
+         273,
+         58
+      ]
    },
    {
       "number": 822,
@@ -21798,9 +21798,9 @@
       "generation": 8,
       "abilities": [
          240,
-         273
-      ],
-      "hidden": 58
+         273,
+         58
+      ]
    },
    {
       "number": 823,
@@ -21823,9 +21823,9 @@
       "generation": 8,
       "abilities": [
          223,
-         273
-      ],
-      "hidden": 23
+         273,
+         23
+      ]
    },
    {
       "number": 824,
@@ -21847,9 +21847,9 @@
       "generation": 8,
       "abilities": [
          111,
-         194
-      ],
-      "hidden": 270
+         194,
+         270
+      ]
    },
    {
       "number": 825,
@@ -21872,9 +21872,9 @@
       "generation": 8,
       "abilities": [
          111,
-         194
-      ],
-      "hidden": 270
+         194,
+         270
+      ]
    },
    {
       "number": 826,
@@ -21897,9 +21897,9 @@
       "generation": 8,
       "abilities": [
          111,
-         126
-      ],
-      "hidden": 270
+         126,
+         270
+      ]
    },
    {
       "number": 827,
@@ -21921,9 +21921,9 @@
       "generation": 8,
       "abilities": [
          128,
-         91
-      ],
-      "hidden": 119
+         91,
+         119
+      ]
    },
    {
       "number": 828,
@@ -21945,9 +21945,9 @@
       "generation": 8,
       "abilities": [
          128,
-         91
-      ],
-      "hidden": 119
+         91,
+         119
+      ]
    },
    {
       "number": 829,
@@ -21969,9 +21969,9 @@
       "generation": 8,
       "abilities": [
          101,
-         241
-      ],
-      "hidden": 220
+         241,
+         220
+      ]
    },
    {
       "number": 830,
@@ -21993,9 +21993,9 @@
       "generation": 8,
       "abilities": [
          101,
-         241
-      ],
-      "hidden": 220
+         241,
+         220
+      ]
    },
    {
       "number": 831,
@@ -22017,9 +22017,9 @@
       "generation": 8,
       "abilities": [
          43,
-         128
-      ],
-      "hidden": 200
+         128,
+         200
+      ]
    },
    {
       "number": 832,
@@ -22041,9 +22041,9 @@
       "generation": 8,
       "abilities": [
          43,
-         128
-      ],
-      "hidden": 200
+         128,
+         200
+      ]
    },
    {
       "number": 833,
@@ -22065,9 +22065,9 @@
       "generation": 8,
       "abilities": [
          227,
-         66
-      ],
-      "hidden": 134
+         66,
+         134
+      ]
    },
    {
       "number": 834,
@@ -22090,9 +22090,9 @@
       "generation": 8,
       "abilities": [
          227,
-         66
-      ],
-      "hidden": 134
+         66,
+         134
+      ]
    },
    {
       "number": 835,
@@ -22113,9 +22113,9 @@
       "form": "normal",
       "generation": 8,
       "abilities": [
-         235
-      ],
-      "hidden": 209
+         235,
+         209
+      ]
    },
    {
       "number": 836,
@@ -22136,9 +22136,9 @@
       "form": "normal",
       "generation": 8,
       "abilities": [
-         227
-      ],
-      "hidden": 33
+         227,
+         33
+      ]
    },
    {
       "number": 837,
@@ -22160,9 +22160,9 @@
       "generation": 8,
       "abilities": [
          285,
-         146
-      ],
-      "hidden": 281
+         146,
+         281
+      ]
    },
    {
       "number": 838,
@@ -22185,9 +22185,9 @@
       "generation": 8,
       "abilities": [
          285,
-         67
-      ],
-      "hidden": 281
+         67,
+         281
+      ]
    },
    {
       "number": 839,
@@ -22210,9 +22210,9 @@
       "generation": 8,
       "abilities": [
          285,
-         67
-      ],
-      "hidden": 281
+         67,
+         281
+      ]
    },
    {
       "number": 840,
@@ -22235,9 +22235,9 @@
       "generation": 8,
       "abilities": [
          190,
-         135
-      ],
-      "hidden": 200
+         135,
+         200
+      ]
    },
    {
       "number": 841,
@@ -22260,9 +22260,9 @@
       "generation": 8,
       "abilities": [
          190,
-         135
-      ],
-      "hidden": 8
+         135,
+         8
+      ]
    },
    {
       "number": 842,
@@ -22285,9 +22285,9 @@
       "generation": 8,
       "abilities": [
          190,
-         135
-      ],
-      "hidden": 157
+         135,
+         157
+      ]
    },
    {
       "number": 843,
@@ -22309,9 +22309,9 @@
       "generation": 8,
       "abilities": [
          113,
-         186
-      ],
-      "hidden": 294
+         186,
+         294
+      ]
    },
    {
       "number": 844,
@@ -22333,9 +22333,9 @@
       "generation": 8,
       "abilities": [
          113,
-         186
-      ],
-      "hidden": 294
+         186,
+         294
+      ]
    },
    {
       "number": 845,
@@ -22379,9 +22379,9 @@
       "form": "normal",
       "generation": 8,
       "abilities": [
-         134
-      ],
-      "hidden": 228
+         134,
+         228
+      ]
    },
    {
       "number": 847,
@@ -22402,9 +22402,9 @@
       "form": "normal",
       "generation": 8,
       "abilities": [
-         134
-      ],
-      "hidden": 228
+         134,
+         228
+      ]
    },
    {
       "number": 848,
@@ -22427,9 +22427,9 @@
       "generation": 8,
       "abilities": [
          209,
-         260
-      ],
-      "hidden": 169
+         260,
+         169
+      ]
    },
    {
       "number": 849,
@@ -22452,9 +22452,9 @@
       "generation": 8,
       "abilities": [
          231,
-         214
-      ],
-      "hidden": 268
+         214,
+         268
+      ]
    },
    {
       "number": 850,
@@ -22477,9 +22477,9 @@
       "generation": 8,
       "abilities": [
          281,
-         99
-      ],
-      "hidden": 67
+         99,
+         67
+      ]
    },
    {
       "number": 851,
@@ -22502,9 +22502,9 @@
       "generation": 8,
       "abilities": [
          281,
-         99
-      ],
-      "hidden": 67
+         99,
+         67
+      ]
    },
    {
       "number": 852,
@@ -22525,9 +22525,9 @@
       "form": "normal",
       "generation": 8,
       "abilities": [
-         98
-      ],
-      "hidden": 268
+         98,
+         268
+      ]
    },
    {
       "number": 853,
@@ -22548,9 +22548,9 @@
       "form": "normal",
       "generation": 8,
       "abilities": [
-         98
-      ],
-      "hidden": 268
+         98,
+         268
+      ]
    },
    {
       "number": 854,
@@ -22571,9 +22571,9 @@
       "form": "normal",
       "generation": 8,
       "abilities": [
-         72
-      ],
-      "hidden": 24
+         72,
+         24
+      ]
    },
    {
       "number": 855,
@@ -22594,9 +22594,9 @@
       "form": "normal",
       "generation": 8,
       "abilities": [
-         72
-      ],
-      "hidden": 24
+         72,
+         24
+      ]
    },
    {
       "number": 856,
@@ -22618,9 +22618,9 @@
       "generation": 8,
       "abilities": [
          60,
-         18
-      ],
-      "hidden": 180
+         18,
+         180
+      ]
    },
    {
       "number": 857,
@@ -22642,9 +22642,9 @@
       "generation": 8,
       "abilities": [
          60,
-         18
-      ],
-      "hidden": 180
+         18,
+         180
+      ]
    },
    {
       "number": 858,
@@ -22667,9 +22667,9 @@
       "generation": 8,
       "abilities": [
          60,
-         18
-      ],
-      "hidden": 180
+         18,
+         180
+      ]
    },
    {
       "number": 859,
@@ -22692,9 +22692,9 @@
       "generation": 8,
       "abilities": [
          116,
-         126
-      ],
-      "hidden": 210
+         126,
+         210
+      ]
    },
    {
       "number": 860,
@@ -22717,9 +22717,9 @@
       "generation": 8,
       "abilities": [
          116,
-         126
-      ],
-      "hidden": 210
+         126,
+         210
+      ]
    },
    {
       "number": 861,
@@ -22742,9 +22742,9 @@
       "generation": 8,
       "abilities": [
          116,
-         126
-      ],
-      "hidden": 210
+         126,
+         210
+      ]
    },
    {
       "number": 862,
@@ -22766,9 +22766,9 @@
       "generation": 8,
       "abilities": [
          271,
-         77
-      ],
-      "hidden": 5
+         77,
+         5
+      ]
    },
    {
       "number": 863,
@@ -22789,9 +22789,9 @@
       "form": "normal",
       "generation": 8,
       "abilities": [
-         21
-      ],
-      "hidden": 40
+         21,
+         40
+      ]
    },
    {
       "number": 864,
@@ -22812,9 +22812,9 @@
       "form": "normal",
       "generation": 8,
       "abilities": [
-         24
-      ],
-      "hidden": 69
+         24,
+         69
+      ]
    },
    {
       "number": 865,
@@ -22835,9 +22835,9 @@
       "form": "normal",
       "generation": 8,
       "abilities": [
-         149
-      ],
-      "hidden": 232
+         149,
+         232
+      ]
    },
    {
       "number": 866,
@@ -22860,9 +22860,9 @@
       "generation": 8,
       "abilities": [
          211,
-         47
-      ],
-      "hidden": 71
+         47,
+         71
+      ]
    },
    {
       "number": 867,
@@ -22906,9 +22906,9 @@
       "form": "normal",
       "generation": 8,
       "abilities": [
-         136
-      ],
-      "hidden": 25
+         136,
+         25
+      ]
    },
    {
       "number": 869,
@@ -22929,9 +22929,9 @@
       "form": "normal",
       "generation": 8,
       "abilities": [
-         136
-      ],
-      "hidden": 25
+         136,
+         25
+      ]
    },
    {
       "number": 870,
@@ -22952,9 +22952,9 @@
       "form": "normal",
       "generation": 8,
       "abilities": [
-         21
-      ],
-      "hidden": 5
+         21,
+         5
+      ]
    },
    {
       "number": 871,
@@ -22975,9 +22975,9 @@
       "form": "normal",
       "generation": 8,
       "abilities": [
-         199
-      ],
-      "hidden": 79
+         199,
+         79
+      ]
    },
    {
       "number": 872,
@@ -22999,9 +22999,9 @@
       "form": "normal",
       "generation": 8,
       "abilities": [
-         100
-      ],
-      "hidden": 97
+         100,
+         97
+      ]
    },
    {
       "number": 873,
@@ -23023,9 +23023,9 @@
       "form": "normal",
       "generation": 8,
       "abilities": [
-         100
-      ],
-      "hidden": 97
+         100,
+         97
+      ]
    },
    {
       "number": 874,
@@ -23114,9 +23114,9 @@
       "generation": 8,
       "abilities": [
          26,
-         265
-      ],
-      "hidden": 81
+         265,
+         81
+      ]
    },
    {
       "number": 876,
@@ -23139,9 +23139,9 @@
       "generation": 8,
       "abilities": [
          272,
-         265
-      ],
-      "hidden": 81
+         265,
+         81
+      ]
    },
    {
       "number": 877,
@@ -23185,9 +23185,9 @@
       "form": "normal",
       "generation": 8,
       "abilities": [
-         248
-      ],
-      "hidden": 140
+         248,
+         140
+      ]
    },
    {
       "number": 879,
@@ -23208,9 +23208,9 @@
       "form": "normal",
       "generation": 8,
       "abilities": [
-         248
-      ],
-      "hidden": 140
+         248,
+         140
+      ]
    },
    {
       "number": 880,
@@ -23233,9 +23233,9 @@
       "generation": 8,
       "abilities": [
          3,
-         8
-      ],
-      "hidden": 30
+         8,
+         30
+      ]
    },
    {
       "number": 881,
@@ -23258,9 +23258,9 @@
       "generation": 8,
       "abilities": [
          3,
-         260
-      ],
-      "hidden": 53
+         260,
+         53
+      ]
    },
    {
       "number": 882,
@@ -23283,9 +23283,9 @@
       "generation": 8,
       "abilities": [
          2,
-         227
-      ],
-      "hidden": 30
+         227,
+         30
+      ]
    },
    {
       "number": 883,
@@ -23308,9 +23308,9 @@
       "generation": 8,
       "abilities": [
          2,
-         71
-      ],
-      "hidden": 53
+         71,
+         53
+      ]
    },
    {
       "number": 884,
@@ -23333,9 +23333,9 @@
       "generation": 8,
       "abilities": [
          163,
-         140
-      ],
-      "hidden": 191
+         140,
+         191
+      ]
    },
    {
       "number": 885,
@@ -23358,9 +23358,9 @@
       "generation": 8,
       "abilities": [
          73,
-         154
-      ],
-      "hidden": 72
+         154,
+         72
+      ]
    },
    {
       "number": 886,
@@ -23383,9 +23383,9 @@
       "generation": 8,
       "abilities": [
          73,
-         154
-      ],
-      "hidden": 72
+         154,
+         72
+      ]
    },
    {
       "number": 887,
@@ -23408,9 +23408,9 @@
       "generation": 8,
       "abilities": [
          73,
-         154
-      ],
-      "hidden": 72
+         154,
+         72
+      ]
    },
    {
       "number": 888,
@@ -23794,9 +23794,9 @@
       "generation": 8,
       "abilities": [
          156,
-         126
-      ],
-      "hidden": 141
+         126,
+         141
+      ]
    },
    {
       "number": 900,
@@ -23819,9 +23819,9 @@
       "generation": 8,
       "abilities": [
          111,
-         248
-      ],
-      "hidden": 153
+         248,
+         153
+      ]
    },
    {
       "number": 901,
@@ -23844,9 +23844,9 @@
       "generation": 8,
       "abilities": [
          77,
-         200
-      ],
-      "hidden": 273
+         200,
+         273
+      ]
    },
    {
       "number": 902,
@@ -23869,9 +23869,9 @@
       "generation": 8,
       "abilities": [
          134,
-         6
-      ],
-      "hidden": 46
+         6,
+         46
+      ]
    },
    {
       "number": 902,
@@ -23917,9 +23917,9 @@
       "generation": 8,
       "abilities": [
          223,
-         91
-      ],
-      "hidden": 217
+         91,
+         217
+      ]
    },
    {
       "number": 904,
@@ -23942,9 +23942,9 @@
       "generation": 8,
       "abilities": [
          217,
-         134
-      ],
-      "hidden": 156
+         134,
+         156
+      ]
    },
    {
       "number": 905,
@@ -23966,9 +23966,9 @@
       "form": "normal",
       "generation": 8,
       "abilities": [
-         158
-      ],
-      "hidden": 65
+         158,
+         65
+      ]
    },
    {
       "number": 905,
@@ -24011,9 +24011,9 @@
       "form": "normal",
       "generation": 9,
       "abilities": [
-         104
-      ],
-      "hidden": 229
+         104,
+         229
+      ]
    },
    {
       "number": 907,
@@ -24033,9 +24033,9 @@
       "form": "normal",
       "generation": 9,
       "abilities": [
-         104
-      ],
-      "hidden": 229
+         104,
+         229
+      ]
    },
    {
       "number": 908,
@@ -24056,9 +24056,9 @@
       "form": "normal",
       "generation": 9,
       "abilities": [
-         104
-      ],
-      "hidden": 229
+         104,
+         229
+      ]
    },
    {
       "number": 909,
@@ -24078,9 +24078,9 @@
       "form": "normal",
       "generation": 9,
       "abilities": [
-         44
-      ],
-      "hidden": 153
+         44,
+         153
+      ]
    },
    {
       "number": 910,
@@ -24100,9 +24100,9 @@
       "form": "normal",
       "generation": 9,
       "abilities": [
-         44
-      ],
-      "hidden": 153
+         44,
+         153
+      ]
    },
    {
       "number": 911,
@@ -24123,9 +24123,9 @@
       "form": "normal",
       "generation": 9,
       "abilities": [
-         44
-      ],
-      "hidden": 153
+         44,
+         153
+      ]
    },
    {
       "number": 912,
@@ -24145,9 +24145,9 @@
       "form": "normal",
       "generation": 9,
       "abilities": [
-         282
-      ],
-      "hidden": 151
+         282,
+         151
+      ]
    },
    {
       "number": 913,
@@ -24167,9 +24167,9 @@
       "form": "normal",
       "generation": 9,
       "abilities": [
-         282
-      ],
-      "hidden": 151
+         282,
+         151
+      ]
    },
    {
       "number": 914,
@@ -24190,9 +24190,9 @@
       "form": "normal",
       "generation": 9,
       "abilities": [
-         282
-      ],
-      "hidden": 151
+         282,
+         151
+      ]
    },
    {
       "number": 915,
@@ -24213,9 +24213,9 @@
       "generation": 9,
       "abilities": [
          25,
-         135
-      ],
-      "hidden": 157
+         135,
+         157
+      ]
    },
    {
       "number": 916,
@@ -24236,9 +24236,9 @@
       "generation": 9,
       "abilities": [
          193,
-         135
-      ],
-      "hidden": 157
+         135,
+         157
+      ]
    },
    {
       "number": 916,
@@ -24259,9 +24259,9 @@
       "generation": 9,
       "abilities": [
          25,
-         135
-      ],
-      "hidden": 157
+         135,
+         157
+      ]
    },
    {
       "number": 917,
@@ -24281,9 +24281,9 @@
       "form": "normal",
       "generation": 9,
       "abilities": [
-         155
-      ],
-      "hidden": 119
+         155,
+         119
+      ]
    },
    {
       "number": 918,
@@ -24303,9 +24303,9 @@
       "form": "normal",
       "generation": 9,
       "abilities": [
-         155
-      ],
-      "hidden": 119
+         155,
+         119
+      ]
    },
    {
       "number": 919,
@@ -24325,9 +24325,9 @@
       "form": "normal",
       "generation": 9,
       "abilities": [
-         111
-      ],
-      "hidden": 161
+         111,
+         161
+      ]
    },
    {
       "number": 920,
@@ -24348,9 +24348,9 @@
       "form": "normal",
       "generation": 9,
       "abilities": [
-         111
-      ],
-      "hidden": 161
+         111,
+         161
+      ]
    },
    {
       "number": 921,
@@ -24371,9 +24371,9 @@
       "generation": 9,
       "abilities": [
          260,
-         174
-      ],
-      "hidden": 215
+         174,
+         215
+      ]
    },
    {
       "number": 922,
@@ -24395,9 +24395,9 @@
       "generation": 9,
       "abilities": [
          2,
-         174
-      ],
-      "hidden": 215
+         174,
+         215
+      ]
    },
    {
       "number": 923,
@@ -24419,9 +24419,9 @@
       "generation": 9,
       "abilities": [
          2,
-         174
-      ],
-      "hidden": 215
+         174,
+         215
+      ]
    },
    {
       "number": 924,
@@ -24442,9 +24442,9 @@
       "generation": 9,
       "abilities": [
          128,
-         235
-      ],
-      "hidden": 272
+         235,
+         272
+      ]
    },
    {
       "number": 925,
@@ -24465,9 +24465,9 @@
       "generation": 9,
       "abilities": [
          129,
-         31
-      ],
-      "hidden": 268
+         31,
+         268
+      ]
    },
    {
       "number": 926,
@@ -24488,9 +24488,9 @@
       "generation": 9,
       "abilities": [
          129,
-         31
-      ],
-      "hidden": 268
+         31,
+         268
+      ]
    },
    {
       "number": 926,
@@ -24510,9 +24510,9 @@
       "form": "normal",
       "generation": 9,
       "abilities": [
-         272
-      ],
-      "hidden": 169
+         272,
+         169
+      ]
    },
    {
       "number": 927,
@@ -24532,9 +24532,9 @@
       "form": "normal",
       "generation": 9,
       "abilities": [
-         36
-      ],
-      "hidden": 25
+         36,
+         25
+      ]
    },
    {
       "number": 928,
@@ -24555,9 +24555,9 @@
       "form": "normal",
       "generation": 9,
       "abilities": [
-         171
-      ],
-      "hidden": 239
+         171,
+         239
+      ]
    },
    {
       "number": 929,
@@ -24578,9 +24578,9 @@
       "form": "normal",
       "generation": 9,
       "abilities": [
-         171
-      ],
-      "hidden": 239
+         171,
+         239
+      ]
    },
    {
       "number": 930,
@@ -24601,9 +24601,9 @@
       "form": "normal",
       "generation": 9,
       "abilities": [
-         251
-      ],
-      "hidden": 239
+         251,
+         239
+      ]
    },
    {
       "number": 931,
@@ -24625,9 +24625,9 @@
       "generation": 9,
       "abilities": [
          8,
-         156
-      ],
-      "hidden": 77
+         156,
+         77
+      ]
    },
    {
       "number": 932,
@@ -24649,9 +24649,9 @@
       "generation": 9,
       "abilities": [
          8,
-         156
-      ],
-      "hidden": 77
+         156,
+         77
+      ]
    },
    {
       "number": 932,
@@ -24673,9 +24673,9 @@
       "generation": 9,
       "abilities": [
          8,
-         156
-      ],
-      "hidden": 248
+         156,
+         248
+      ]
    },
    {
       "number": 932,
@@ -24697,9 +24697,9 @@
       "generation": 9,
       "abilities": [
          8,
-         156
-      ],
-      "hidden": 248
+         156,
+         248
+      ]
    },
    {
       "number": 932,
@@ -24720,9 +24720,9 @@
       "generation": 9,
       "abilities": [
          250,
-         117
-      ],
-      "hidden": 73
+         117,
+         73
+      ]
    },
    {
       "number": 933,
@@ -24743,9 +24743,9 @@
       "generation": 9,
       "abilities": [
          250,
-         117
-      ],
-      "hidden": 73
+         117,
+         73
+      ]
    },
    {
       "number": 934,
@@ -24766,9 +24766,9 @@
       "generation": 9,
       "abilities": [
          250,
-         117
-      ],
-      "hidden": 73
+         117,
+         73
+      ]
    },
    {
       "number": 935,
@@ -24788,9 +24788,9 @@
       "form": "normal",
       "generation": 9,
       "abilities": [
-         281
-      ],
-      "hidden": 67
+         281,
+         67
+      ]
    },
    {
       "number": 936,
@@ -24811,9 +24811,9 @@
       "form": "normal",
       "generation": 9,
       "abilities": [
-         281
-      ],
-      "hidden": 24
+         281,
+         24
+      ]
    },
    {
       "number": 937,
@@ -24834,9 +24834,9 @@
       "form": "normal",
       "generation": 9,
       "abilities": [
-         281
-      ],
-      "hidden": 24
+         281,
+         24
+      ]
    },
    {
       "number": 938,
@@ -24857,9 +24857,9 @@
       "generation": 9,
       "abilities": [
          272,
-         260
-      ],
-      "hidden": 182
+         260,
+         182
+      ]
    },
    {
       "number": 939,
@@ -24880,9 +24880,9 @@
       "generation": 9,
       "abilities": [
          138,
-         260
-      ],
-      "hidden": 182
+         260,
+         182
+      ]
    },
    {
       "number": 940,
@@ -24904,9 +24904,9 @@
       "generation": 9,
       "abilities": [
          3,
-         286
-      ],
-      "hidden": 33
+         286,
+         33
+      ]
    },
    {
       "number": 941,
@@ -24928,9 +24928,9 @@
       "generation": 9,
       "abilities": [
          3,
-         286
-      ],
-      "hidden": 33
+         286,
+         33
+      ]
    },
    {
       "number": 942,
@@ -24951,9 +24951,9 @@
       "generation": 9,
       "abilities": [
          128,
-         156
-      ],
-      "hidden": 119
+         156,
+         119
+      ]
    },
    {
       "number": 943,
@@ -24974,9 +24974,9 @@
       "generation": 9,
       "abilities": [
          55,
-         156
-      ],
-      "hidden": 119
+         156,
+         119
+      ]
    },
    {
       "number": 944,
@@ -24998,9 +24998,9 @@
       "generation": 9,
       "abilities": [
          91,
-         210
-      ],
-      "hidden": 116
+         210,
+         116
+      ]
    },
    {
       "number": 945,
@@ -25022,9 +25022,9 @@
       "generation": 9,
       "abilities": [
          91,
-         283
-      ],
-      "hidden": 116
+         283,
+         116
+      ]
    },
    {
       "number": 946,
@@ -25045,9 +25045,9 @@
       "form": "normal",
       "generation": 9,
       "abilities": [
-         7
-      ],
-      "hidden": 154
+         7,
+         154
+      ]
    },
    {
       "number": 947,
@@ -25068,9 +25068,9 @@
       "form": "normal",
       "generation": 9,
       "abilities": [
-         7
-      ],
-      "hidden": 154
+         7,
+         154
+      ]
    },
    {
       "number": 948,
@@ -25135,9 +25135,9 @@
       "generation": 9,
       "abilities": [
          75,
-         66
-      ],
-      "hidden": 241
+         66,
+         241
+      ]
    },
    {
       "number": 951,
@@ -25158,9 +25158,9 @@
       "generation": 9,
       "abilities": [
          56,
-         155
-      ],
-      "hidden": 169
+         155,
+         169
+      ]
    },
    {
       "number": 952,
@@ -25182,9 +25182,9 @@
       "generation": 9,
       "abilities": [
          56,
-         155
-      ],
-      "hidden": 166
+         155,
+         166
+      ]
    },
    {
       "number": 953,
@@ -25204,9 +25204,9 @@
       "form": "normal",
       "generation": 9,
       "abilities": [
-         194
-      ],
-      "hidden": 186
+         194,
+         186
+      ]
    },
    {
       "number": 954,
@@ -25227,9 +25227,9 @@
       "form": "normal",
       "generation": 9,
       "abilities": [
-         265
-      ],
-      "hidden": 270
+         265,
+         270
+      ]
    },
    {
       "number": 955,
@@ -25250,9 +25250,9 @@
       "generation": 9,
       "abilities": [
          126,
-         18
-      ],
-      "hidden": 287
+         18,
+         287
+      ]
    },
    {
       "number": 956,
@@ -25273,9 +25273,9 @@
       "generation": 9,
       "abilities": [
          195,
-         126
-      ],
-      "hidden": 287
+         126,
+         287
+      ]
    },
    {
       "number": 957,
@@ -25297,9 +25297,9 @@
       "generation": 9,
       "abilities": [
          46,
-         272
-      ],
-      "hidden": 210
+         272,
+         210
+      ]
    },
    {
       "number": 958,
@@ -25321,9 +25321,9 @@
       "generation": 9,
       "abilities": [
          46,
-         272
-      ],
-      "hidden": 210
+         272,
+         210
+      ]
    },
    {
       "number": 959,
@@ -25345,9 +25345,9 @@
       "generation": 9,
       "abilities": [
          46,
-         272
-      ],
-      "hidden": 210
+         272,
+         210
+      ]
    },
    {
       "number": 960,
@@ -25368,9 +25368,9 @@
       "generation": 9,
       "abilities": [
          218,
-         209
-      ],
-      "hidden": 294
+         209,
+         294
+      ]
    },
    {
       "number": 961,
@@ -25391,9 +25391,9 @@
       "generation": 9,
       "abilities": [
          218,
-         209
-      ],
-      "hidden": 294
+         209,
+         294
+      ]
    },
    {
       "number": 962,
@@ -25415,9 +25415,9 @@
       "generation": 9,
       "abilities": [
          58,
-         240
-      ],
-      "hidden": 219
+         240,
+         219
+      ]
    },
    {
       "number": 963,
@@ -25501,9 +25501,9 @@
       "form": "normal",
       "generation": 9,
       "abilities": [
-         106
-      ],
-      "hidden": 85
+         106,
+         85
+      ]
    },
    {
       "number": 966,
@@ -25524,9 +25524,9 @@
       "form": "normal",
       "generation": 9,
       "abilities": [
-         106
-      ],
-      "hidden": 120
+         106,
+         120
+      ]
    },
    {
       "number": 967,
@@ -25547,9 +25547,9 @@
       "form": "normal",
       "generation": 9,
       "abilities": [
-         186
-      ],
-      "hidden": 241
+         186,
+         241
+      ]
    },
    {
       "number": 968,
@@ -25569,9 +25569,9 @@
       "form": "normal",
       "generation": 9,
       "abilities": [
-         4
-      ],
-      "hidden": 294
+         4,
+         294
+      ]
    },
    {
       "number": 969,
@@ -25592,9 +25592,9 @@
       "form": "normal",
       "generation": 9,
       "abilities": [
-         93
-      ],
-      "hidden": 74
+         93,
+         74
+      ]
    },
    {
       "number": 970,
@@ -25615,9 +25615,9 @@
       "form": "normal",
       "generation": 9,
       "abilities": [
-         93
-      ],
-      "hidden": 74
+         93,
+         74
+      ]
    },
    {
       "number": 971,
@@ -25637,9 +25637,9 @@
       "form": "normal",
       "generation": 9,
       "abilities": [
-         235
-      ],
-      "hidden": 43
+         235,
+         43
+      ]
    },
    {
       "number": 972,
@@ -25659,9 +25659,9 @@
       "form": "normal",
       "generation": 9,
       "abilities": [
-         30
-      ],
-      "hidden": 43
+         30,
+         43
+      ]
    },
    {
       "number": 973,
@@ -25683,9 +25683,9 @@
       "generation": 9,
       "abilities": [
          232,
-         211
-      ],
-      "hidden": 62
+         211,
+         62
+      ]
    },
    {
       "number": 974,
@@ -25706,9 +25706,9 @@
       "generation": 9,
       "abilities": [
          157,
-         243
-      ],
-      "hidden": 248
+         243,
+         248
+      ]
    },
    {
       "number": 975,
@@ -25729,9 +25729,9 @@
       "generation": 9,
       "abilities": [
          157,
-         243
-      ],
-      "hidden": 248
+         243,
+         248
+      ]
    },
    {
       "number": 976,
@@ -25752,9 +25752,9 @@
       "form": "normal",
       "generation": 9,
       "abilities": [
-         46
-      ],
-      "hidden": 152
+         46,
+         152
+      ]
    },
    {
       "number": 977,
@@ -25775,9 +25775,9 @@
       "generation": 9,
       "abilities": [
          153,
-         35
-      ],
-      "hidden": 147
+         35,
+         147
+      ]
    },
    {
       "number": 978,
@@ -25798,9 +25798,9 @@
       "form": "normal",
       "generation": 9,
       "abilities": [
-         64
-      ],
-      "hidden": 160
+         64,
+         160
+      ]
    },
    {
       "number": 979,
@@ -25822,9 +25822,9 @@
       "generation": 9,
       "abilities": [
          110,
-         26
-      ],
-      "hidden": 5
+         26,
+         5
+      ]
    },
    {
       "number": 980,
@@ -25846,9 +25846,9 @@
       "generation": 9,
       "abilities": [
          2,
-         217
-      ],
-      "hidden": 153
+         217,
+         153
+      ]
    },
    {
       "number": 981,
@@ -25870,9 +25870,9 @@
       "generation": 9,
       "abilities": [
          245,
-         22
-      ],
-      "hidden": 141
+         22,
+         141
+      ]
    },
    {
       "number": 982,
@@ -25893,9 +25893,9 @@
       "generation": 9,
       "abilities": [
          252,
-         128
-      ],
-      "hidden": 209
+         128,
+         209
+      ]
    },
    {
       "number": 983,
@@ -25916,9 +25916,9 @@
       "generation": 9,
       "abilities": [
          252,
-         128
-      ],
-      "hidden": 209
+         128,
+         209
+      ]
    },
    {
       "number": 983,
@@ -25940,9 +25940,9 @@
       "generation": 9,
       "abilities": [
          5,
-         133
-      ],
-      "hidden": 223
+         133,
+         223
+      ]
    },
    {
       "number": 984,
@@ -26227,9 +26227,9 @@
       "form": "normal",
       "generation": 9,
       "abilities": [
-         277
-      ],
-      "hidden": 71
+         277,
+         71
+      ]
    },
    {
       "number": 997,
@@ -26250,9 +26250,9 @@
       "form": "normal",
       "generation": 9,
       "abilities": [
-         277
-      ],
-      "hidden": 71
+         277,
+         71
+      ]
    },
    {
       "number": 998,
@@ -26273,9 +26273,9 @@
       "form": "normal",
       "generation": 9,
       "abilities": [
-         277
-      ],
-      "hidden": 71
+         277,
+         71
+      ]
    },
    {
       "number": 999,
@@ -26536,9 +26536,9 @@
       "form": "paldea",
       "generation": 2,
       "abilities": [
-         217
-      ],
-      "hidden": 2
+         217,
+         2
+      ]
    },
    {
       "number": 128,
@@ -26559,9 +26559,9 @@
       "generation": 1,
       "abilities": [
          156,
-         61
-      ],
-      "hidden": 245
+         61,
+         245
+      ]
    },
    {
       "number": 128,
@@ -26583,9 +26583,9 @@
       "generation": 1,
       "abilities": [
          156,
-         61
-      ],
-      "hidden": 245
+         61,
+         245
+      ]
    },
    {
       "number": 128,
@@ -26607,8 +26607,8 @@
       "generation": 1,
       "abilities": [
          156,
-         61
-      ],
-      "hidden": 245
+         61,
+         245
+      ]
    }
 ]
