@@ -1,0 +1,1486 @@
+[
+   {
+      "id": 1,
+      "name": "Absent\u00E9isme",
+      "description": "Le Pok\u00E9mon n'attaque qu'un tour sur deux."
+   },
+   {
+      "id": 2,
+      "name": "Absorb Eau",
+      "description": "Les attaques de type Eau re\u00E7ues par le Pok\u00E9mon r\u00E9g\u00E9n\u00E8rent 1/4 de ses PV."
+   },
+   {
+      "id": 3,
+      "name": "Absorb Volt",
+      "description": "Les attaques de type \u00C9lectrik re\u00E7ues par le Pok\u00E9mon r\u00E9g\u00E9n\u00E8rent 1/4 de ses PV."
+   },
+   {
+      "id": 4,
+      "name": "Absorbe-Terre",
+      "description": "Si le Pok\u00E9mon est touch\u00E9 par une capacit\u00E9 de type Sol, il regagne des PV au lieu de subir des d\u00E9g\u00E2ts."
+   },
+   {
+      "id": 5,
+      "name": "Acharn\u00E9",
+      "description": "Monte l'Attaque du Pok\u00E9mon de deux niveaux si l'une de ses statistiques est baiss\u00E9e par l'adversaire."
+   },
+   {
+      "id": 6,
+      "name": "Adaptabilit\u00E9",
+      "description": "Si ce Pok\u00E9mon utilise une attaque de son type, la puissance de l'attaque est multipli\u00E9e par 2 au lieu de 1.5."
+   },
+   {
+      "id": 7,
+      "name": "A\u00E9roport\u00E9",
+      "description": "L\u2019Attaque du Pok\u00E9mon augmente si un vent arri\u00E8re souffle ou s\u2019il est touch\u00E9 par une capacit\u00E9 faisant appel au vent. Dans ce dernier cas, il ne subit aucun d\u00E9g\u00E2t."
+   },
+   {
+      "id": 8,
+      "name": "Agitation",
+      "description": "Augmente l'attaque de 50% mais baisse la pr\u00E9cision de 20%."
+   },
+   {
+      "id": 9,
+      "name": "Ailes Bourrasque",
+      "description": "Augmente la priorit\u00E9 des capacit\u00E9s de type Vol."
+   },
+   {
+      "id": 10,
+      "name": "Air Lock",
+      "description": "Annule les effets du climat."
+   },
+   {
+      "id": 11,
+      "name": "Alerte Neige",
+      "description": "Le Pok\u00E9mon d\u00E9clenche une gr\u00EAle lorsqu'il est envoy\u00E9 au combat."
+   },
+   {
+      "id": 12,
+      "name": "\u00C2me Vagabonde",
+      "description": "Lorsque le Pok\u00E9mon est directement touch\u00E9 par une attaque, il \u00E9change son talent avec celui de l'assaillant."
+   },
+   {
+      "id": 13,
+      "name": "Amour Filial",
+      "description": "Permet au lanceur de porter deux coups par tour au lieu d'un, le deuxi\u00E8me coup fera deux fois moins de d\u00E9g\u00E2ts que le premier."
+   },
+   {
+      "id": 14,
+      "name": "Analyste",
+      "description": "Si le Pok\u00E9mon frappe en dernier durant le tour, la puissance de son attaque est augment\u00E9e de 30%."
+   },
+   {
+      "id": 15,
+      "name": "Animac\u0153ur",
+      "description": "Augmente l'Attaque Sp\u00E9ciale lorsqu'un Pok\u00E9mon est mis hors combat."
+   },
+   {
+      "id": 16,
+      "name": "Annule Garde",
+      "description": "Toutes les attaques du Pok\u00E9mon et de son adversaire ont une pr\u00E9cision de 100%."
+   },
+   {
+      "id": 17,
+      "name": "Anti-Bruit",
+      "description": "Annule les effets dus \u00E0 une attaque sonore."
+   },
+   {
+      "id": 18,
+      "name": "Anticipation",
+      "description": "Alerte et prot\u00E8ge lorsque le Pok\u00E9mon adverse poss\u00E8de certaines attaques."
+   },
+   {
+      "id": 19,
+      "name": "Aquabulle",
+      "description": "R\u00E9duit la puissance des capacit\u00E9s Feu subies, immunise contre les br\u00FBlures et double la puissance des capacit\u00E9s Eau"
+   },
+   {
+      "id": 20,
+      "name": "Armumagma",
+      "description": "Immunise contre le gel."
+   },
+   {
+      "id": 21,
+      "name": "Armurbaston",
+      "description": "Annule les chances de coups critiques du Pok\u00E9mon ennemi."
+   },
+   {
+      "id": 22,
+      "name": "Armure Caudale",
+      "description": "L\u2019\u00E9trange queue qui recouvre la t\u00EAte du Pok\u00E9mon emp\u00EAche ce dernier d\u2019\u00EAtre vis\u00E9 par une capacit\u00E9 prioritaire."
+   },
+   {
+      "id": 23,
+      "name": "Armure Miroir",
+      "description": "Renvoie tous les effets r\u00E9ducteurs de statistiques."
+   },
+   {
+      "id": 24,
+      "name": "Armurouill\u00E9e",
+      "description": "Le Pok\u00E9mon touch\u00E9 par une attaque physique voit sa d\u00E9fense diminu\u00E9e d'un niveau et sa vitesse augment\u00E9e de deux."
+   },
+   {
+      "id": 25,
+      "name": "Aroma-Voile",
+      "description": "Prot\u00E8ge les Pok\u00E9mon alli\u00E9s des capacit\u00E9s ayant un effet sur l'\u00E9tat mental tels que Attraction ou Tourmente."
+   },
+   {
+      "id": 26,
+      "name": "Attention",
+      "description": "Immunise contre la peur."
+   },
+   {
+      "id": 27,
+      "name": "Aura F\u00E9\u00E9rique",
+      "description": "Augmente la puissance des attaques de type F\u00E9e des Pok\u00E9mon pr\u00E9sents sur le terrain."
+   },
+   {
+      "id": 28,
+      "name": "Aura Invers\u00E9e",
+      "description": "Inverse les effets des talents Aura."
+   },
+   {
+      "id": 29,
+      "name": "Aura T\u00E9n\u00E9breuse",
+      "description": "Augmente la puissance des attaques de type T\u00E9n\u00E8bres des Pok\u00E9mon pr\u00E9sents sur le terrain."
+   },
+   {
+      "id": 30,
+      "name": "Baigne Sable",
+      "description": "Double la Vitesse du Pok\u00E9mon lors d'une temp\u00EAte de sable. Immunise contre les d\u00E9g\u00E2ts de la temp\u00EAte."
+   },
+   {
+      "id": 31,
+      "name": "Bajoues",
+      "description": "Lorsque le Pok\u00E9mon mange une Baie, il obtient ses effets et regagne des PV en plus."
+   },
+   {
+      "id": 32,
+      "name": "Banc",
+      "description": "Permet de changer de forme (sous certaines conditions)."
+   },
+   {
+      "id": 33,
+      "name": "Battant",
+      "description": "Augmente l'Attaque Sp\u00E9ciale par deux niveaux lorsque n'importe quelle stat est baiss\u00E9e par un Pok\u00E9mon adverse."
+   },
+   {
+      "id": 34,
+      "name": "Batterie",
+      "description": "Augmente la puissance des capacit\u00E9s sp\u00E9ciales des alli\u00E9s."
+   },
+   {
+      "id": 35,
+      "name": "Ben\u00EAt",
+      "description": "Immunise contre l'attraction. \u00C0 partir de la 6e g\u00E9n\u00E9ration, ce talent immunise aussi contre la provocation."
+   },
+   {
+      "id": 36,
+      "name": "Bien Cuit",
+      "description": "Si le Pok\u00E9mon est touch\u00E9 par une capacit\u00E9 de type Feu, il ne subit aucun d\u00E9g\u00E2t et sa D\u00E9fense augmente beaucoup."
+   },
+   {
+      "id": 37,
+      "name": "Blanche RuadeTEC",
+      "description": "Quand le Pok\u00E9mon met un ennemi K.O., son Attaque augmente d'un niveau."
+   },
+   {
+      "id": 38,
+      "name": "Bois du Fl\u00E9au",
+      "description": "Le pouvoir du bois qui appelle le fl\u00E9au affaiblit l\u2019Attaque de tous les autres Pok\u00E9mon."
+   },
+   {
+      "id": 39,
+      "name": "Boom Final",
+      "description": "Enl\u00E8ve 1/4 des PV totaux du Pok\u00E9mon ennemi mettant K.O. par contact."
+   },
+   {
+      "id": 40,
+      "name": "Boost Acier",
+      "description": "Augmente de 50% la puissance d'Attaque des capacit\u00E9s de type Acier des Pok\u00E9mon alli\u00E9s."
+   },
+   {
+      "id": 41,
+      "name": "Boost Chim\u00E8re",
+      "description": "Augmente la stat la plus \u00E9lev\u00E9e du Pok\u00E9mon quand il met K.O. un autre Pok\u00E9mon."
+   },
+   {
+      "id": 42,
+      "name": "Bouclier-Carcan",
+      "description": "Conf\u00E8re une bonne d\u00E9fense et prot\u00E8ge des alt\u00E9rations de statuts tant que les PV sont au-dessus de la moiti\u00E9."
+   },
+   {
+      "id": 43,
+      "name": "Boule de Poils",
+      "description": "Divise par 2 les d\u00E9g\u00E2ts des capacit\u00E9s directes mais les multiplie par 2 si elles sont de type Feu."
+   },
+   {
+      "id": 44,
+      "name": "Brasier",
+      "description": "Augmente la puissance des attaques de type Feu de 50% lorsque le Pok\u00E9mon a moins d'1/3 de ses PV totaux."
+   },
+   {
+      "id": 45,
+      "name": "Breuvage SuspectTEC",
+      "description": "Quand il entre au combat, tous les changements de stats de ses alli\u00E9s sont annul\u00E9s."
+   },
+   {
+      "id": 46,
+      "name": "Brise Moule",
+      "description": "Peut toucher un Pok\u00E9mon adverse malgr\u00E9 son talent."
+   },
+   {
+      "id": 47,
+      "name": "Brise-Barri\u00E8re",
+      "description": "Quand le Pok\u00E9mon entre au combat, les effets de Mur Lumi\u00E8re, Protection et Voile Aurore disparaissent pour les alli\u00E9s comme pour les ennemis."
+   },
+   {
+      "id": 48,
+      "name": "Calque",
+      "description": "Copie le talent du Pok\u00E9mon adverse."
+   },
+   {
+      "id": 49,
+      "name": "Cercle d'\u00C9nergie",
+      "description": "Augmente la puissance des capacit\u00E9s des Pok\u00E9mon alli\u00E9s de 30 %."
+   },
+   {
+      "id": 50,
+      "name": "C\u00E9r\u00E9bro-Force",
+      "description": "Augmente la puissance des capacit\u00E9s super efficaces."
+   },
+   {
+      "id": 51,
+      "name": "Chanceux",
+      "description": "Double les chances de porter un coup critique."
+   },
+   {
+      "id": 52,
+      "name": "Charge Quantique",
+      "description": "Quand un Champ \u00C9lectrifi\u00E9 est actif ou que le Pok\u00E9mon tient une capsule d\u2019\u00C9nergie Booster, sa statistique la plus \u00E9lev\u00E9e augmente."
+   },
+   {
+      "id": 53,
+      "name": "Chasse-Neige",
+      "description": "Double la Vitesse sous la Gr\u00EAle."
+   },
+   {
+      "id": 54,
+      "name": "Cherche Miel",
+      "description": "le Pok\u00E9mon peut parfois trouver du Miel apr\u00E8s un combat"
+   },
+   {
+      "id": 55,
+      "name": "Chien de Garde",
+      "description": "L\u2019Attaque du Pok\u00E9mon augmente s\u2019il subit l\u2019effet du talent Intimidation. Les capacit\u00E9s ou objets qui font changer de Pok\u00E9mon n\u2019ont aucun effet sur lui."
+   },
+   {
+      "id": 56,
+      "name": "Chlorophylle",
+      "description": "Augmente la vitesse au soleil."
+   },
+   {
+      "id": 57,
+      "name": "Ciel Gris",
+      "description": "Annule les effets du climat."
+   },
+   {
+      "id": 58,
+      "name": "C\u0153ur de Coq",
+      "description": "Emp\u00EAche la d\u00E9fense du Pok\u00E9mon d'\u00EAtre baiss\u00E9e par les attaques adverses."
+   },
+   {
+      "id": 59,
+      "name": "C\u0153ur Noble",
+      "description": "Si le Pok\u00E9mon est touch\u00E9 par une attaque de type T\u00E9n\u00E8bres, son attaque augmente d'un niveau."
+   },
+   {
+      "id": 60,
+      "name": "C\u0153ur Soin",
+      "description": "\u00C0 la fin de chaque tour, le Pok\u00E9mon a 30% de chance de gu\u00E9rir ses alli\u00E9s d'une alt\u00E9ration d'\u00E9tat en Combat Double ou triple."
+   },
+   {
+      "id": 61,
+      "name": "Col\u00E9rique",
+      "description": "L'attaque du Pok\u00E9mon est fortement augment\u00E9e lorsqu'il subit un coup critique."
+   },
+   {
+      "id": 62,
+      "name": "Collab",
+      "description": "Quand le Pok\u00E9mon entre sur le terrain, il copie les changements de statistiques de son alli\u00E9."
+   },
+   {
+      "id": 63,
+      "name": "Coloforce",
+      "description": "Double l'attaque du Pok\u00E9mon."
+   },
+   {
+      "id": 64,
+      "name": "Commandant",
+      "description": "Si un Oyacata alli\u00E9 est sur le terrain quand ce Pok\u00E9mon rejoint le combat, ce dernier entre dans sa bouche et devient son commandant."
+   },
+   {
+      "id": 65,
+      "name": "Contestation",
+      "description": "Inverse les effets des attaques modifiant les statistiques."
+   },
+   {
+      "id": 66,
+      "name": "Coque Armure",
+      "description": "Annule les chances de coups critiques du Pok\u00E9mon ennemi."
+   },
+   {
+      "id": 67,
+      "name": "Corps Ardent",
+      "description": "30% de chance de provoquer une br\u00FBlure sur le Pok\u00E9mon adverse ayant attaqu\u00E9."
+   },
+   {
+      "id": 68,
+      "name": "Corps Color\u00E9",
+      "description": "Emp\u00EAche l'adversaire d'utiliser des attaques de priorit\u00E9."
+   },
+   {
+      "id": 69,
+      "name": "Corps Condamn\u00E9",
+      "description": "Lorsque le Pok\u00E9mon est directement touch\u00E9 par une attaque, l'assaillant et lui tomberont K.O. dans trois tours, \u00E0 moins qu'ils ne soient remplac\u00E9s entre temps."
+   },
+   {
+      "id": 70,
+      "name": "Corps en Or",
+      "description": "Le corps en or pur et robuste du Pok\u00E9mon l\u2019immunise contre les capacit\u00E9s de statut des autres Pok\u00E9mon."
+   },
+   {
+      "id": 71,
+      "name": "Corps Gel",
+      "description": "R\u00E9g\u00E9n\u00E8re 1/16e des PV par temps de gr\u00EAle. Immunise les Pok\u00E9mon n'ayant pas le type Glace contre la gr\u00EAle."
+   },
+   {
+      "id": 72,
+      "name": "Corps Maudit",
+      "description": "Toute attaque port\u00E9e par l'adversaire a 30% de chance de s'entraver."
+   },
+   {
+      "id": 73,
+      "name": "Corps Sain",
+      "description": "Emp\u00EAche la diminution de statistiques par le Pok\u00E9mon adverse."
+   },
+   {
+      "id": 74,
+      "name": "Corrosion",
+      "description": "Permet d'empoisonner n'importe quel Pok\u00E9mon quel que soit son type."
+   },
+   {
+      "id": 75,
+      "name": "Courroupace",
+      "description": "Le Pok\u00E9mon enrage s\u2019il a moins de la moiti\u00E9 de ses PV apr\u00E8s avoir subi une attaque. Sa D\u00E9fense et sa D\u00E9fense Sp\u00E9ciale baissent, et son Attaque, son Attaque Sp\u00E9ciale et sa Vitesse augmentent."
+   },
+   {
+      "id": 76,
+      "name": "Crachin",
+      "description": "Fait tomber la pluie tant que le Pok\u00E9mon est en jeu."
+   },
+   {
+      "id": 77,
+      "name": "Cran",
+      "description": "Augmente de 50% l'attaque du Pok\u00E9mon s'il subit un changement de statut."
+   },
+   {
+      "id": 78,
+      "name": "Cr\u00E9a-Brume",
+      "description": "Pose un Champ Brumeux qui diminue la puissance des attaques Dragon et emp\u00EAche les alt\u00E9rations de statuts."
+   },
+   {
+      "id": 79,
+      "name": "Cr\u00E9a-\u00C9lec",
+      "description": "Pose un Champ \u00C9lectrifi\u00E9 qui augmente la puissance des attaques \u00C9lectrik et emp\u00EAche le sommeil."
+   },
+   {
+      "id": 80,
+      "name": "Cr\u00E9a-Herbe",
+      "description": "Pose un Champ Herbu qui restaure 1/16 des PV max."
+   },
+   {
+      "id": 81,
+      "name": "Cr\u00E9a-Psy",
+      "description": "Pose un champ psychique qui bloque toute attaque de priorit\u00E9."
+   },
+   {
+      "id": 82,
+      "name": "Cruaut\u00E9",
+      "description": "Inflige toujours des coups critiques \u00E0 un ennemi empoisonn\u00E9."
+   },
+   {
+      "id": 83,
+      "name": "Cuvette",
+      "description": "R\u00E9g\u00E9n\u00E8re 1/16e des PV par temps de pluie."
+   },
+   {
+      "id": 84,
+      "name": "Danseuse",
+      "description": "Le Pok\u00E9mon reproduit les capacit\u00E9s de danse de l'adversaire."
+   },
+   {
+      "id": 85,
+      "name": "D\u00E9but Calme",
+      "description": "Divise par deux l'attaque et la vitesse du Pok\u00E9mon pendant 5 tours."
+   },
+   {
+      "id": 86,
+      "name": "D\u00E9clic Fringale",
+      "description": "Le Pok\u00E9mon change de forme et le type de la capacit\u00E9 Roue Libre. Celle-ci est de type \u00C9lectrik en Mode Rassasi\u00E9, et de type T\u00E9n\u00E8bres en Mode Affam\u00E9."
+   },
+   {
+      "id": 87,
+      "name": "D\u00E9clic Tactique",
+      "description": "Change la forme du Pok\u00E9mon selon le combat."
+   },
+   {
+      "id": 88,
+      "name": "D\u00E9faitiste",
+      "description": "Divise par deux l'attaque et l'attaque sp\u00E9ciale du Pok\u00E9mon s'il a moins de la moiti\u00E9 de ses PV totaux."
+   },
+   {
+      "id": 89,
+      "name": "D\u00E9gobage",
+      "description": "Si le Pok\u00E9mon utilise la capacit\u00E9 Surf ou Plong\u00E9e, il r\u00E9appara\u00EEt avec une prise dans le bec. S'il subit des d\u00E9g\u00E2ts pendant qu'il tient une prise, Le Pok\u00E9mon riposte en recrachant ce qu'il a dans le bec."
+   },
+   {
+      "id": 90,
+      "name": "D\u00E9guisement",
+      "description": "Change le type du Pok\u00E9mon en celui de la derni\u00E8re attaque subie. Renomm\u00E9 Homochromie dans Pok\u00E9mon \u00C9p\u00E9e et Bouclier."
+   },
+   {
+      "id": 91,
+      "name": "D\u00E9lestage",
+      "description": "Augmente la vitesse lorsqu'un objet tenu est utilis\u00E9, lanc\u00E9 ou perdu."
+   },
+   {
+      "id": 92,
+      "name": "Dent de DragonTEC",
+      "description": "Augmente de 50% la puissance des attaques de type Dragon du Pok\u00E9mon."
+   },
+   {
+      "id": 93,
+      "name": "D\u00E9p\u00F4t Toxique",
+      "description": "Quand le Pok\u00E9mon est touch\u00E9 par une capacit\u00E9 physique, il r\u00E9pand des pics toxiques dans le camp adverse."
+   },
+   {
+      "id": 94,
+      "name": "Don Floral",
+      "description": "Augmente l'attaque et la d\u00E9fense sp\u00E9ciale de 50% par temps ensoleill\u00E9."
+   },
+   {
+      "id": 95,
+      "name": "Dracol\u00E8re",
+      "description": "Augmente l'Attaque Sp\u00E9ciale du Pok\u00E9mon lorsqu'il perd plus de la moiti\u00E9 de ses PV."
+   },
+   {
+      "id": 96,
+      "name": "\u00C9caille Sp\u00E9ciale",
+      "description": "Augmente la d\u00E9fense de 50% lorsque le Pok\u00E9mon subit un changement de statut."
+   },
+   {
+      "id": 97,
+      "name": "\u00C9cailles Glac\u00E9es",
+      "description": "Le Pok\u00E9mon est prot\u00E9g\u00E9 par des \u00E9cailles de glace. Les d\u00E9g\u00E2ts qu'il subit par des capacit\u00E9s sp\u00E9ciales sont divis\u00E9s par deux."
+   },
+   {
+      "id": 98,
+      "name": "\u00C9chauffement",
+      "description": "Immunise contre la paralysie."
+   },
+   {
+      "id": 99,
+      "name": "\u00C9cran Fum\u00E9e",
+      "description": "Emp\u00EAche la diminution de statistiques par le Pok\u00E9mon adverse."
+   },
+   {
+      "id": 100,
+      "name": "\u00C9cran Poudre",
+      "description": "Emp\u00EAche les effets secondaires des attaques subies."
+   },
+   {
+      "id": 101,
+      "name": "Effilochage",
+      "description": "Quand son possesseur est touch\u00E9 par une attaque, il lib\u00E8re des fils de coton qui diminuent la Vitesse du Pok\u00E9mon adverse."
+   },
+   {
+      "id": 102,
+      "name": "\u00C9gide Inflexible",
+      "description": "Augmente la D\u00E9fense d'un cran lorsque le Pok\u00E9mon entre sur le terrain."
+   },
+   {
+      "id": 103,
+      "name": "Endurance",
+      "description": "Augmente la D\u00E9fense lorsque le Pok\u00E9mon est touch\u00E9 par une attaque."
+   },
+   {
+      "id": 104,
+      "name": "Engrais",
+      "description": "Augmente la puissance des attaques de type Plante de 50% lorsque le Pok\u00E9mon a moins d'1/3 de ses PV totaux."
+   },
+   {
+      "id": 105,
+      "name": "Ent\u00EAtement",
+      "description": "Augmente l'Attaque, mais emp\u00EAche d'utiliser toute autre capacit\u00E9 que celle utilis\u00E9e en premier par le Pok\u00E9mon."
+   },
+   {
+      "id": 106,
+      "name": "Envelocape",
+      "description": "Immunise contre les d\u00E9g\u00E2ts caus\u00E9s par la gr\u00EAle et les temp\u00EAtes de sable."
+   },
+   {
+      "id": 107,
+      "name": "\u00C9p\u00E9e du Fl\u00E9au",
+      "description": "Le pouvoir de l\u2019\u00E9p\u00E9e qui appelle le fl\u00E9au affaiblit la D\u00E9fense de tous les autres Pok\u00E9mon."
+   },
+   {
+      "id": 108,
+      "name": "\u00C9pine de Fer",
+      "description": "Retire 1/8 de ses PV \u00E0 l'adversaire lorsque celui-ci porte une capacit\u00E9 directe."
+   },
+   {
+      "id": 109,
+      "name": "Escampette",
+      "description": "Force la fuite ou le switch si le Pok\u00E9mon perd plus de la moiti\u00E9 de ses PV."
+   },
+   {
+      "id": 110,
+      "name": "Esprit Vital",
+      "description": "Emp\u00EAche le Pok\u00E9mon d'\u00EAtre endormi."
+   },
+   {
+      "id": 111,
+      "name": "Essaim",
+      "description": "Augmente la puissance des attaques de type Insecte de 50% lorsque le Pok\u00E9mon a moins d'1/3 de ses PV totaux."
+   },
+   {
+      "id": 112,
+      "name": "Expert Acier",
+      "description": "Augmente la puissance des capacit\u00E9s de type Acier."
+   },
+   {
+      "id": 113,
+      "name": "Expul'Sable",
+      "description": "Le Pok\u00E9mon d\u00E9clenche une temp\u00EAte de sable quand il subit une attaque."
+   },
+   {
+      "id": 114,
+      "name": "Expuls'Organes",
+      "description": "Inflige des d\u00E9g\u00E2ts \u00E9quivalents aux PV restants avant le coup de gr\u00E2ce."
+   },
+   {
+      "id": 115,
+      "name": "Fant\u00F4masque",
+      "description": "Le premier coup port\u00E9 au lanceur est absorb\u00E9 par le d\u00E9guisement."
+   },
+   {
+      "id": 116,
+      "name": "Farceur",
+      "description": "Augmente la priorit\u00E9 des attaques de statut d'un niveau."
+   },
+   {
+      "id": 117,
+      "name": "Fermet\u00E9",
+      "description": "Immunise contre les attaques OHKO. \u00C0 partir de la 5e g\u00E9n\u00E9ration, ce talent fait aussi conserver 1 PV au Pok\u00E9mon m\u00EAme apr\u00E8s une attaque qui aurait d\u00FB le terrasser, s'il a tous ses PV."
+   },
+   {
+      "id": 118,
+      "name": "Feuille Garde",
+      "description": "Soigne les alt\u00E9rations d'\u00E9tat par temps ensoleill\u00E9."
+   },
+   {
+      "id": 119,
+      "name": "Filature",
+      "description": "Inflige le double de d\u00E9g\u00E2ts aux Pok\u00E9mon arrivant au milieu d'un combat."
+   },
+   {
+      "id": 120,
+      "name": "Filtre",
+      "description": "Retire 1/4 des d\u00E9g\u00E2ts subits lors d'une attaque super efficace."
+   },
+   {
+      "id": 121,
+      "name": "Flora-Voile",
+      "description": "Emp\u00EAche la diminution des statistiques des alli\u00E9s de type Plante par les Pok\u00E9mon adverses."
+   },
+   {
+      "id": 122,
+      "name": "Force Fongique",
+      "description": "Le Pok\u00E9mon agit toujours plus lentement quand il utilise une capacit\u00E9 de statut, mais il ignore les talents adverses."
+   },
+   {
+      "id": 123,
+      "name": "Force Pure",
+      "description": "Double l'attaque du Pok\u00E9mon."
+   },
+   {
+      "id": 124,
+      "name": "Force Sable",
+      "description": "Lors d'une temp\u00EAte de sable, la puissance des attaques de type Acier, Roche et Sol augmente de 30 %."
+   },
+   {
+      "id": 125,
+      "name": "Force Soleil",
+      "description": "Augmente l'attaque sp\u00E9ciale de 50% par temps ensoleill\u00E9, mais diminue les PV de 1/8e par tour."
+   },
+   {
+      "id": 126,
+      "name": "Fouille",
+      "description": "Permet de connaitre l'objet tenu d'un Pok\u00E9mon adverse."
+   },
+   {
+      "id": 127,
+      "name": "Frein",
+      "description": "Le Pok\u00E9mon attaque toujours en second pour deux attaques de m\u00EAme priorit\u00E9."
+   },
+   {
+      "id": 128,
+      "name": "Fuite",
+      "description": "Assure la fuite contre les Pok\u00E9mon sauvages."
+   },
+   {
+      "id": 129,
+      "name": "Garde Amie",
+      "description": "R\u00E9duire de 25% les d\u00E9g\u00E2ts inflig\u00E9s aux alli\u00E9s en Combat Double ou triple."
+   },
+   {
+      "id": 130,
+      "name": "Garde Magik",
+      "description": "Le Pok\u00E9mon ne subit de d\u00E9g\u00E2ts que lors d'attaques directes."
+   },
+   {
+      "id": 131,
+      "name": "Garde Mystik",
+      "description": "Ne subit que les d\u00E9g\u00E2ts d'attaques super efficaces."
+   },
+   {
+      "id": 132,
+      "name": "Gaz Inhibiteur",
+      "description": "Neutralise les talents des autres Pok\u00E9mon."
+   },
+   {
+      "id": 133,
+      "name": "G\u00E9n\u00E9ral Supr\u00EAme",
+      "description": "Quand le Pok\u00E9mon entre sur le terrain, son Attaque et son Attaque Sp\u00E9ciale augmentent l\u00E9g\u00E8rement pour chaque alli\u00E9 mis K.O. auparavant."
+   },
+   {
+      "id": 134,
+      "name": "Glissade",
+      "description": "Double la vitesse par temps de pluie."
+   },
+   {
+      "id": 135,
+      "name": "Gloutonnerie",
+      "description": "Le Pok\u00E9mon utilise la baie port\u00E9e lorsque les PV descendent en dessous de 50%."
+   },
+   {
+      "id": 136,
+      "name": "Gluco-Voile",
+      "description": "Emp\u00EAche les Pok\u00E9mon alli\u00E9s de s'endormir."
+   },
+   {
+      "id": 137,
+      "name": "Glue",
+      "description": "Emp\u00EAche la perte de l'objet tenu."
+   },
+   {
+      "id": 138,
+      "name": "Grecharge",
+      "description": "Si le Pok\u00E9mon subit des d\u00E9g\u00E2ts, il se charge en \u00E9lectricit\u00E9."
+   },
+   {
+      "id": 139,
+      "name": "Griffe Dure",
+      "description": "Augmente d'un tiers la puissance des attaques directes."
+   },
+   {
+      "id": 140,
+      "name": "Heavy Metal",
+      "description": "Double la masse du Pok\u00E9mon."
+   },
+   {
+      "id": 141,
+      "name": "Herbivore",
+      "description": "Si le Pok\u00E9mon est touch\u00E9 par une attaque de type Plante, son attaque augmente d'un niveau."
+   },
+   {
+      "id": 142,
+      "name": "Hydrata-Son",
+      "description": "Toutes les attaques sonores du Pok\u00E9mon prennent le type Eau."
+   },
+   {
+      "id": 143,
+      "name": "Hydratation",
+      "description": "Soigne les alt\u00E9rations d'\u00E9tat par temps de pluie."
+   },
+   {
+      "id": 144,
+      "name": "Hyper Cutter",
+      "description": "Emp\u00EAche la diminution d'attaque du Pok\u00E9mon."
+   },
+   {
+      "id": 145,
+      "name": "Hypersommeil",
+      "description": "Emp\u00EAche de subir toute alt\u00E9ration de statut autres que le sommeil."
+   },
+   {
+      "id": 146,
+      "name": "Ignifug\u00E9",
+      "description": "Divise par 2 les d\u00E9g\u00E2ts des attaques de type Feu et les effets de br\u00FBlure subis par le Pok\u00E9mon."
+   },
+   {
+      "id": 147,
+      "name": "Ignifu-Voile",
+      "description": "Immunise contre la br\u00FBlure."
+   },
+   {
+      "id": 148,
+      "name": "Illusion",
+      "description": "Lorsqu'il entre en combat, le Pok\u00E9mon prend l'apparence du dernier Pok\u00E9mon de l'\u00E9quipe."
+   },
+   {
+      "id": 149,
+      "name": "Impassible",
+      "description": "Augmente d'un niveau la vitesse du Pok\u00E9mon lorsqu'il est apeur\u00E9."
+   },
+   {
+      "id": 150,
+      "name": "Imposteur",
+      "description": "Le Pok\u00E9mon entrant en combat prend automatiquement l'apparence du Pok\u00E9mon adverse."
+   },
+   {
+      "id": 151,
+      "name": "Impudence",
+      "description": "Monte l'attaque du Pok\u00E9mon d'un niveau lorsqu'il met un adversaire K.O."
+   },
+   {
+      "id": 152,
+      "name": "Incisif",
+      "description": "Augmente la puissance des capacit\u00E9s tranchantes."
+   },
+   {
+      "id": 153,
+      "name": "Inconscient",
+      "description": "Ignore les am\u00E9liorations de statistiques du Pok\u00E9mon adverse, \u00E0 l'exception de sa Vitesse."
+   },
+   {
+      "id": 154,
+      "name": "Infiltration",
+      "description": "Emp\u00EAche les attaques de protection adverses tels que Protection ou Mur Lumi\u00E8re de fonctionner. N'influe pas sur D\u00E9tection et Abri."
+   },
+   {
+      "id": 155,
+      "name": "Insomnia",
+      "description": "Emp\u00EAche le Pok\u00E9mon d'\u00EAtre endormi."
+   },
+   {
+      "id": 156,
+      "name": "Intimidation",
+      "description": "Diminue d'un niveau l'attaque du Pok\u00E9mon adverse."
+   },
+   {
+      "id": 157,
+      "name": "Isograisse",
+      "description": "Les d\u00E9g\u00E2ts provoqu\u00E9s par les attaques des types Feu ou Glace sont divis\u00E9s par 2."
+   },
+   {
+      "id": 158,
+      "name": "Joli Sourire",
+      "description": "A 30% de chance de provoquer l'attirance du Pok\u00E9mon adverse ayant attaqu\u00E9."
+   },
+   {
+      "id": 159,
+      "name": "Lame Indomptable",
+      "description": "Augmente l'Attaque d'un cran lorsque le Pok\u00E9mon entre sur le terrain."
+   },
+   {
+      "id": 160,
+      "name": "Lavabo",
+      "description": "Attire toutes les attaques de type Eau. \u00C0 partir de la 5e g\u00E9n\u00E9ration, ce talent augmente aussi l'Attaque Sp\u00E9ciale du Pok\u00E9mon recevant l'attaque."
+   },
+   {
+      "id": 161,
+      "name": "Lentiteint\u00E9e",
+      "description": "Double les d\u00E9g\u00E2ts des attaques peu efficaces port\u00E9es au Pok\u00E9mon adverse."
+   },
+   {
+      "id": 162,
+      "name": "L\u00E9vitation",
+      "description": "Immunise contre les attaques de type Sol."
+   },
+   {
+      "id": 163,
+      "name": "Light Metal",
+      "description": "Divise par deux la masse du Pok\u00E9mon."
+   },
+   {
+      "id": 164,
+      "name": "Longue Port\u00E9e",
+      "description": "Toutes les capacit\u00E9s du Pok\u00E9mon sont consid\u00E9r\u00E9es comme sans contact."
+   },
+   {
+      "id": 165,
+      "name": "Lumiattirance",
+      "description": "Aucun effet en combat"
+   },
+   {
+      "id": 166,
+      "name": "Lunatique",
+      "description": "Al\u00E9atoirement, \u00E0 la fin de chaque tour, une statistique du Pok\u00E9mon augmente de deux niveaux, et une autre baisse d'un niveau (pr\u00E9cision et esquive comprises)."
+   },
+   {
+      "id": 167,
+      "name": "Magicien",
+      "description": "Vole l'objet d'une cible apr\u00E8s l'avoir touch\u00E9 avec une attaque directe."
+   },
+   {
+      "id": 168,
+      "name": "Magn\u00E9pi\u00E8ge",
+      "description": "Emp\u00EAche la fuite et le changement des Pok\u00E9mon de type Acier."
+   },
+   {
+      "id": 169,
+      "name": "Maladresse",
+      "description": "Emp\u00EAche l'utilisation et/ou ignore l'effet des objets tenus en combat."
+   },
+   {
+      "id": 170,
+      "name": "Marque Ombre",
+      "description": "Emp\u00EAche la fuite des Pok\u00E9mon sauvage et le changement du Pok\u00E9mon adverse."
+   },
+   {
+      "id": 171,
+      "name": "Matinal",
+      "description": "R\u00E9duit le nombre de tours de sommeil du Pok\u00E9mon."
+   },
+   {
+      "id": 172,
+      "name": "Mauvais R\u00EAve",
+      "description": "Fait perdre 1/8e de ses PV au Pok\u00E9mon adverse s'il est endormi."
+   },
+   {
+      "id": 173,
+      "name": "M\u00E8che Rebelle",
+      "description": "Baisse la Vitesse de l'attaquant lorsque le Pok\u00E9mon subit une attaque directe."
+   },
+   {
+      "id": 174,
+      "name": "M\u00E9dic Nature",
+      "description": "Le Pok\u00E9mon est soign\u00E9 de toute alt\u00E9ration d'\u00E9tat lorsqu'il est chang\u00E9 ou en fin de combat."
+   },
+   {
+      "id": 175,
+      "name": "M\u00E9ga Blaster",
+      "description": "Un Pok\u00E9mon dot\u00E9 de ce talent verra la puissance de ses capacit\u00E9s d'aura augment\u00E9e."
+   },
+   {
+      "id": 176,
+      "name": "M\u00E9tallo-Garde",
+      "description": "Emp\u00EAche la r\u00E9duction de statistiques impos\u00E9es par l'adversaire (que ce soit par capacit\u00E9s ou talents)."
+   },
+   {
+      "id": 177,
+      "name": "M\u00E9t\u00E9o",
+      "description": "Change le type et la forme du Pok\u00E9mon selon le climat."
+   },
+   {
+      "id": 178,
+      "name": "Mim\u00E9tisme",
+      "description": "Le Pok\u00E9mon adopte le m\u00EAme type que le terrain lorsqu'un champ est actif."
+   },
+   {
+      "id": 179,
+      "name": "Moins",
+      "description": "Augmente l'attaque sp\u00E9ciale de 50% si le partenaire \u00E0 le talent Plus."
+   },
+   {
+      "id": 180,
+      "name": "Miroir Magik",
+      "description": "Retourne les attaques de statut contre l'adversaire."
+   },
+   {
+      "id": 181,
+      "name": "Mode Transe",
+      "description": "Le Pok\u00E9mon change de forme et modifie la r\u00E9partition de ses statistiques lorsque ses PV sont inf\u00E9rieurs \u00E0 50%."
+   },
+   {
+      "id": 182,
+      "name": "Moiteur",
+      "description": "\u00C9mp\u00EAche l'utilisation d'attaques auto-destructrices par le Pok\u00E9mon adverse."
+   },
+   {
+      "id": 183,
+      "name": "Momie",
+      "description": "Si le Pok\u00E9mon subit une attaque de contact, le talent de l'adversaire devient Momie. Ce talent est sans effet en lui-m\u00EAme."
+   },
+   {
+      "id": 184,
+      "name": "Moteur \u00E0 Hadrons",
+      "description": "Le Pok\u00E9mon cr\u00E9e un Champ \u00C9lectrifi\u00E9 quand il rejoint le combat. Une machine du futur fait monter son Attaque Sp\u00E9ciale si un Champ \u00C9lectrifi\u00E9 est actif."
+   },
+   {
+      "id": 185,
+      "name": "Motoris\u00E9",
+      "description": "Immunise le Pok\u00E9mon contre les attaques de type \u00C9lectrik et augmente la vitesse du Pok\u00E9mon d'un niveau par attaque \u00C9lectrik subie."
+   },
+   {
+      "id": 186,
+      "name": "Mue",
+      "description": "\u00C0 chaque tour, le Pok\u00E9mon a 33% de chance d'\u00EAtre soign\u00E9 d'une alt\u00E9ration d'\u00E9tat."
+   },
+   {
+      "id": 187,
+      "name": "Multi-Coups",
+      "description": "Utilise toujours le nombre de coups maximum d'une attaque."
+   },
+   {
+      "id": 188,
+      "name": "Multi\u00E9caille",
+      "description": "Si le Pok\u00E9mon poss\u00E8de 100% de ses PV, alors les d\u00E9g\u00E2ts inflig\u00E9s par l'adversaire sont divis\u00E9s par deux."
+   },
+   {
+      "id": 189,
+      "name": "Multitype",
+      "description": "Le type et la forme du Pok\u00E9mon changent en fonction de la plaque qu'il porte."
+   },
+   {
+      "id": 190,
+      "name": "M\u00FBrissement",
+      "description": "Le Pok\u00E9mon fait m\u00FBrir la Baie qu'il tient et double ainsi son effet."
+   },
+   {
+      "id": 191,
+      "name": "Nerfs d'Acier",
+      "description": "Permet d'ignorer l'effet des capacit\u00E9s ou des talents qui attirent les capacit\u00E9s."
+   },
+   {
+      "id": 192,
+      "name": "Normalise",
+      "description": "Toutes les attaques du Pok\u00E9mon sont consid\u00E9r\u00E9es comme \u00E9tant de type Normal."
+   },
+   {
+      "id": 193,
+      "name": "Odeur Tenace",
+      "description": "Lorsque le Pok\u00E9mon subit une attaque directe, le talent de l\u2019attaquant est remplac\u00E9 par Odeur Tenace."
+   },
+   {
+      "id": 194,
+      "name": "\u0152il Compos\u00E9",
+      "description": "Augmente de 30% la pr\u00E9cision du Pok\u00E9mon."
+   },
+   {
+      "id": 195,
+      "name": "Opportuniste",
+      "description": "Quand les statistiques de l\u2019ennemi augmentent, le Pok\u00E9mon en profite pour augmenter ses statistiques de la m\u00EAme mani\u00E8re."
+   },
+   {
+      "id": 196,
+      "name": "Osmose",
+      "description": "Obtient le Talent du Pok\u00E9mon alli\u00E9 tomb\u00E9 K.O."
+   },
+   {
+      "id": 197,
+      "name": "Osmose \u00C9quineTEC",
+      "description": "Combine les talents Tension et Blanche Ruade pour Sylveroy, le Cavalier du Froid ou Tension et Sombre Ruade pour Sylveroy, le Cavalier d'Effroi."
+   },
+   {
+      "id": 198,
+      "name": "Pal\u00E9osynth\u00E8se",
+      "description": "Quand le soleil brille ou que le Pok\u00E9mon tient une capsule d\u2019\u00C9nergie Booster, sa statistique la plus \u00E9lev\u00E9e augmente."
+   },
+   {
+      "id": 199,
+      "name": "Paratonnerre",
+      "description": "Attire toutes les attaques de type \u00C9lectrik. \u00C0 partir de la 5e g\u00E9n\u00E9ration, ce talent augmente aussi l'Attaque Sp\u00E9ciale du Pok\u00E9mon recevant l'attaque."
+   },
+   {
+      "id": 200,
+      "name": "Pare-Balles",
+      "description": "Prot\u00E8ge contre les capacit\u00E9s balles et bombes, par exemple Balle Graine ou Canon Graine."
+   },
+   {
+      "id": 201,
+      "name": "Peau C\u00E9leste",
+      "description": "Transforme les capacit\u00E9s de type Normal en type Vol et augmente leur puissance de 20% (30% dans la sixi\u00E8me g\u00E9n\u00E9ration)."
+   },
+   {
+      "id": 202,
+      "name": "Peau Dure",
+      "description": "Fait perdre 1/8 des PV du Pok\u00E9mon adverse ayant lanc\u00E9 une attaque de contact"
+   },
+   {
+      "id": 203,
+      "name": "Peau \u00C9lectrique",
+      "description": "Transforme les capacit\u00E9s de type Normal en type \u00C9lectrik et augmente leur puissance de 20%."
+   },
+   {
+      "id": 204,
+      "name": "Peau F\u00E9\u00E9rique",
+      "description": "Transforme les capacit\u00E9s de type Normal en type F\u00E9e et augmente leur puissance de 20% (30% dans la sixi\u00E8me g\u00E9n\u00E9ration)."
+   },
+   {
+      "id": 205,
+      "name": "Peau Gel\u00E9e",
+      "description": "Transforme les capacit\u00E9s de type Normal en type Glace et augmente leur puissance de 20% (30% dans la sixi\u00E8me g\u00E9n\u00E9ration)."
+   },
+   {
+      "id": 206,
+      "name": "Peau Miracle",
+      "description": "50% de chance de faire \u00E9chouer les attaques de statut port\u00E9es par l'adversaire."
+   },
+   {
+      "id": 207,
+      "name": "Peau S\u00E8che",
+      "description": "Les attaques de type Eau soignent le Pok\u00E9mon, qui regagne 1/4 de ses PV totaux. Par temps de pluie, il gagne 1/8e de ses PV par tour. Les attaques de type Feu infligent 25% de d\u00E9g\u00E2ts en plus. Par temps ensoleill\u00E9, il perd 1/8e de ses PV par tour."
+   },
+   {
+      "id": 208,
+      "name": "Perles du Fl\u00E9au",
+      "description": "Le pouvoir des perles qui appellent le fl\u00E9au affaiblit la D\u00E9fense Sp\u00E9ciale de tous les autres Pok\u00E9mon."
+   },
+   {
+      "id": 209,
+      "name": "Phobique",
+      "description": "Si le Pok\u00E9mon est touch\u00E9 par une attaque de type Insecte, Spectre ou T\u00E9n\u00E8bres, sa vitesse augmente d'un niveau."
+   },
+   {
+      "id": 210,
+      "name": "Pickpocket",
+      "description": "Si le Pok\u00E9mon subit une attaque physique, il r\u00E9cup\u00E8re l'objet tenu par son adversaire."
+   },
+   {
+      "id": 211,
+      "name": "Pied Confus",
+      "description": "Augmente l'esquive de 20% lorsque le Pok\u00E9mon est confus."
+   },
+   {
+      "id": 212,
+      "name": "Pied V\u00E9loce",
+      "description": "Augmente la vitesse de 50% lorsque le Pok\u00E9mon subit une alt\u00E9ration d'\u00E9tat."
+   },
+   {
+      "id": 213,
+      "name": "Pi\u00E8ge",
+      "description": "Emp\u00EAche la fuite et le changement du Pok\u00E9mon adverse, s'il est au sol. Renomm\u00E9 Pi\u00E8ge Sable depuis Pok\u00E9mon Soleil et Lune."
+   },
+   {
+      "id": 214,
+      "name": "Plus",
+      "description": "Augmente l'attaque sp\u00E9ciale de 50% en Match Double, si le partenaire \u00E0 le talent Minus (ou le m\u00EAme talent, depuis Pok\u00E9mon Noir et Blanc)."
+   },
+   {
+      "id": 215,
+      "name": "Poing de Fer",
+      "description": "Augmente de 20% la puissance des attaques de \"Poing\"."
+   },
+   {
+      "id": 216,
+      "name": "Poing InvisibleISA",
+      "description": "Permet d'ignorer Abri et ses \u00E9quivalents (sauf Gardomax) si la capacit\u00E9 utilis\u00E9e fait contact."
+   },
+   {
+      "id": 217,
+      "name": "Point Poison",
+      "description": "30% de chance de provoquer l'empoisonnement du Pok\u00E9mon adverse ayant lanc\u00E9 une attaque de contact."
+   },
+   {
+      "id": 218,
+      "name": "Poisseux",
+      "description": "Baisse la Vitesse des Pok\u00E9mon qui touchent ce Pok\u00E9mon avec une attaque directe."
+   },
+   {
+      "id": 219,
+      "name": "Porte-Roche",
+      "description": "Augmente la puissance des capacit\u00E9s de type Roche."
+   },
+   {
+      "id": 220,
+      "name": "Pose Spore",
+      "description": "30% de chance de provoquer l'empoisonnement, le sommeil ou la paralysie du Pok\u00E9mon adverse ayant lanc\u00E9 une attaque de contact."
+   },
+   {
+      "id": 221,
+      "name": "Pouls Orichalque",
+      "description": "Le Pok\u00E9mon invoque le soleil quand il rejoint le combat. Quand les rayons du soleil sont intenses, une pulsation primitive augmente son Attaque."
+   },
+   {
+      "id": 222,
+      "name": "Pr\u00E9diction",
+      "description": "Alerte le Pok\u00E9mon de l'attaque la plus puissante du Pok\u00E9mon adverse."
+   },
+   {
+      "id": 223,
+      "name": "Pression",
+      "description": "Double l'utilisation de PP des attaques offensives du Pok\u00E9mon adverse."
+   },
+   {
+      "id": 224,
+      "name": "Prestance Royale",
+      "description": "Emp\u00EAche l'adversaire d'utiliser des attaques de priorit\u00E9."
+   },
+   {
+      "id": 225,
+      "name": "Priogu\u00E9rison",
+      "description": "Donne la priorit\u00E9 aux capacit\u00E9s de soin."
+   },
+   {
+      "id": 226,
+      "name": "Prisme-Armure",
+      "description": "R\u00E9duit de 1/4 les d\u00E9g\u00E2ts subis lorsque le Pok\u00E9mon est touch\u00E9 par une capacit\u00E9 super efficace."
+   },
+   {
+      "id": 227,
+      "name": "Prognathe",
+      "description": "Augmente la puissance des attaques \u00E0 base de morsures."
+   },
+   {
+      "id": 228,
+      "name": "Propulseur",
+      "description": "Permet d'ignorer l'effet des capacit\u00E9s ou des talents qui attirent les capacit\u00E9s."
+   },
+   {
+      "id": 229,
+      "name": "Prot\u00E9en",
+      "description": "Change le type du Pok\u00E9mon en celui de toute capacit\u00E9 qu'il utilise."
+   },
+   {
+      "id": 230,
+      "name": "Puanteur",
+      "description": "Les attaques physiques ont 10% d'apeurer la cible. Uniquement \u00E0 partir de la 5e g\u00E9n\u00E9ration."
+   },
+   {
+      "id": 231,
+      "name": "Punk Rock",
+      "description": "Augmente la puissance des capacit\u00E9s bas\u00E9es sur le son. Le Pok\u00E9mon ne subit que la moiti\u00E9 des d\u00E9g\u00E2ts quand il est touch\u00E9 par ce genre de capacit\u00E9s."
+   },
+   {
+      "id": 232,
+      "name": "Querelleur",
+      "description": "Permet de toucher les Pok\u00E9mon de type Spectre avec des attaques de type Normal ou Combat."
+   },
+   {
+      "id": 233,
+      "name": "Rage Br\u00FBlure",
+      "description": "Augmente l'attaque sp\u00E9ciale du Pok\u00E9mon de 50% en cas de br\u00FBlure."
+   },
+   {
+      "id": 234,
+      "name": "Rage Poison",
+      "description": "Augmente l'attaque du Pok\u00E9mon de 50% en cas d'empoisonnement."
+   },
+   {
+      "id": 235,
+      "name": "Ramassage",
+      "description": "Donne une chance au Pok\u00E9mon de ramasser un objet apr\u00E8s un combat."
+   },
+   {
+      "id": 236,
+      "name": "Ramasse Ball",
+      "description": "Si le d\u00E9tenteur de Ramasse Ball ne tient pas d'objet et que son Dresseur rate la capture d'un Pok\u00E9mon sauvage, il r\u00E9cup\u00E8re la premi\u00E8re Ball perdue, quel que soit son mod\u00E8le."
+   },
+   {
+      "id": 237,
+      "name": "Rassemblement",
+      "description": "Lorsque Zygarde poss\u00E8de moins de la moiti\u00E9 de ses PV, il peut acc\u00E9der \u00E0 la Forme Parfaite."
+   },
+   {
+      "id": 238,
+      "name": "Receveur",
+      "description": "Obtient le Talent du Pok\u00E9mon alli\u00E9 tomb\u00E9 K.O."
+   },
+   {
+      "id": 239,
+      "name": "R\u00E9colte",
+      "description": "Une baie consomm\u00E9e par le Pok\u00E9mon a 50% de chances d'\u00EAtre r\u00E9cup\u00E9r\u00E9e \u00E0 la fin de chaque tour."
+   },
+   {
+      "id": 240,
+      "name": "Regard Vif",
+      "description": "Emp\u00EAche la perte de pr\u00E9cision."
+   },
+   {
+      "id": 241,
+      "name": "R\u00E9g\u00E9-Force",
+      "description": "Restaure 1/3 des PV totaux si le Pok\u00E9mon est retir\u00E9 du combat."
+   },
+   {
+      "id": 242,
+      "name": "Repli Tactique",
+      "description": "Fuit le combat ou \u00E9change sa place avec un autre Pok\u00E9mon de l'\u00E9quipe si le Pok\u00E9mon perd plus de la moiti\u00E9 de ses PV."
+   },
+   {
+      "id": 243,
+      "name": "Rideau Neige",
+      "description": "Augmente l'esquive de 20% par temps de gr\u00EAle. Immunise les Pok\u00E9mon n'ayant pas le type Glace contre la gr\u00EAle."
+   },
+   {
+      "id": 244,
+      "name": "Rivalit\u00E9",
+      "description": "Augmente l'attaque et l'attaque sp\u00E9ciale de 25% si le Pok\u00E9mon adverse est de m\u00EAme sexe. Les diminue s'il est de sexe oppos\u00E9."
+   },
+   {
+      "id": 245,
+      "name": "Ruminant",
+      "description": "Quand le Pok\u00E9mon mange une Baie, il la r\u00E9gurgite \u00E0 la fin du tour suivant et la mange une nouvelle fois."
+   },
+   {
+      "id": 246,
+      "name": "Sable Humide",
+      "description": "Augmente la d\u00E9fense du Pok\u00E9mon de deux crans s'il est touch\u00E9 par une attaque de type Eau."
+   },
+   {
+      "id": 247,
+      "name": "Sable Volant",
+      "description": "D\u00E9clenche une temp\u00EAte de sable tant que le Pok\u00E9mon est en jeu."
+   },
+   {
+      "id": 248,
+      "name": "Sans Limite",
+      "description": "Augmente de 30% la puissance des attaques pouvant avoir un effet secondaire. L'effet secondaire est annul\u00E9."
+   },
+   {
+      "id": 249,
+      "name": "S\u00E9cheresse",
+      "description": "Cr\u00E9e un temps ensoleill\u00E9 tant que le Pok\u00E9mon est en jeu."
+   },
+   {
+      "id": 250,
+      "name": "Sel Purificateur",
+      "description": "Le sel pur immunise le Pok\u00E9mon contre les alt\u00E9rations de statut, et diminue de moiti\u00E9 les d\u00E9g\u00E2ts des capacit\u00E9s de type Spectre."
+   },
+   {
+      "id": 251,
+      "name": "Semencier",
+      "description": "Le Pok\u00E9mon cr\u00E9e un Champ Herbu quand il subit une attaque."
+   },
+   {
+      "id": 252,
+      "name": "S\u00E9r\u00E9nit\u00E9",
+      "description": "Double les chances de r\u00E9ussite des effets secondaires des attaques."
+   },
+   {
+      "id": 253,
+      "name": "Simple",
+      "description": "Double les effets des modifications de statistiques, positives ou n\u00E9gatives."
+   },
+   {
+      "id": 254,
+      "name": "Sniper",
+      "description": "Triple la puissance des coups critiques."
+   },
+   {
+      "id": 255,
+      "name": "Soin Poison",
+      "description": "Le Pok\u00E9mon r\u00E9cup\u00E8re 1/8\u00E8 de ses PV par tour lors d'un empoisonnement."
+   },
+   {
+      "id": 256,
+      "name": "Solide Roc",
+      "description": "Retire 1/4 des d\u00E9g\u00E2ts subits si le Pok\u00E9mon re\u00E7oit une attaque super efficace."
+   },
+   {
+      "id": 257,
+      "name": "Sombre RuadeTEC",
+      "description": "Quand le Pok\u00E9mon met un ennemi K.O., son Attaque Sp\u00E9ciale augmente d'un niveau."
+   },
+   {
+      "id": 258,
+      "name": "Souffle DeltaROSA",
+      "description": "Annule tout effet de climat, m\u00EAme Mer Primaire et Terre Finale. Annule les faiblesses du type Vol."
+   },
+   {
+      "id": 259,
+      "name": "Spectro-Bouclier",
+      "description": "R\u00E9duit les d\u00E9g\u00E2ts inflig\u00E9s par une capacit\u00E9 si les PV sont au maximum."
+   },
+   {
+      "id": 260,
+      "name": "Statik",
+      "description": "30% de chance de provoquer la paralysie du Pok\u00E9mon adverse ayant lanc\u00E9 une attaque de contact."
+   },
+   {
+      "id": 261,
+      "name": "Suintement",
+      "description": "Les attaques absorbantes du Pok\u00E9mon adverse lui font perdre des PV."
+   },
+   {
+      "id": 262,
+      "name": "Supermutation",
+      "description": "Le Pok\u00E9mon prend sa Forme Super en quittant le combat."
+   },
+   {
+      "id": 263,
+      "name": "Surf Caudal",
+      "description": "Double la vitesse du Pok\u00E9mon lorsqu'il y a un Champ \u00C9lectrifi\u00E9."
+   },
+   {
+      "id": 264,
+      "name": "Symbiose",
+      "description": "Passe un objet tenu \u00E0 un Pok\u00E9mon alli\u00E9 lorsque l'alli\u00E9 utilise son objet."
+   },
+   {
+      "id": 265,
+      "name": "Synchro",
+      "description": "Toute alt\u00E9ration d'\u00E9tat subie est transmise au Pok\u00E9mon adverse."
+   },
+   {
+      "id": 266,
+      "name": "Synergie",
+      "description": "Le Pok\u00E9mon change de forme et la puissance de l'attaque Sheauriken augmente apr\u00E8s avoir mis K.O. un Pok\u00E9mon adverse."
+   },
+   {
+      "id": 267,
+      "name": "Syst\u00E8me Alpha",
+      "description": "Permet de changer de type selon l'objet tenu."
+   },
+   {
+      "id": 268,
+      "name": "Technicien",
+      "description": "Augmente de 50% la puissance des attaques dont la puissance est inf\u00E9rieure ou \u00E9gale \u00E0 60."
+   },
+   {
+      "id": 269,
+      "name": "T\u00E9l\u00E9charge",
+      "description": "Augmente l'attaque ou l'attaque sp\u00E9ciale du Pok\u00E9mon, selon la statistique de d\u00E9fense la plus faible du Pok\u00E9mon adverse."
+   },
+   {
+      "id": 270,
+      "name": "T\u00E9l\u00E9pathe",
+      "description": "Anticipe et \u00E9vite les attaques des alli\u00E9s en Combat Double ou triple."
+   },
+   {
+      "id": 271,
+      "name": "T\u00E9m\u00E9raire",
+      "description": "Augmente de 20% la puissance des attaques infligeant un contrecoup."
+   },
+   {
+      "id": 272,
+      "name": "Tempo Perso",
+      "description": "Immunise contre la confusion."
+   },
+   {
+      "id": 273,
+      "name": "Tension",
+      "description": "Emp\u00EAche l'adversaire de consommer sa baie."
+   },
+   {
+      "id": 274,
+      "name": "T\u00E9ra-Voltage",
+      "description": "Peut toucher un Pok\u00E9mon adverse malgr\u00E9 son talent."
+   },
+   {
+      "id": 275,
+      "name": "T\u00EAte de Gel",
+      "description": "Le gla\u00E7on sur la t\u00EAte du Pok\u00E9mon encaisse une attaque physique \u00E0 sa place, mais sa destruction modifie son apparence. Le gla\u00E7on se reforme quand il gr\u00EAle."
+   },
+   {
+      "id": 276,
+      "name": "T\u00EAte de Roc",
+      "description": "Le Pok\u00E9mon ne subit pas de d\u00E9g\u00E2ts de contrecoup."
+   },
+   {
+      "id": 277,
+      "name": "Thermodynamique",
+      "description": "Lorsque le Pok\u00E9mon est touch\u00E9 par une capacit\u00E9 de type Feu, il ne subit aucun d\u00E9g\u00E2t et son Attaque augmente."
+   },
+   {
+      "id": 278,
+      "name": "Tir Vif",
+      "description": "Le Pok\u00E9mon a 20% de chance d'attaquer en premier."
+   },
+   {
+      "id": 279,
+      "name": "Toison \u00C9paisse",
+      "description": "Divise par deux les d\u00E9g\u00E2ts re\u00E7us lors d'une attaque physique."
+   },
+   {
+      "id": 280,
+      "name": "Toison Herbue",
+      "description": "Augmente la D\u00E9fense lorsque Champ Herbu est en vigueur."
+   },
+   {
+      "id": 281,
+      "name": "Torche",
+      "description": "Annule les d\u00E9g\u00E2ts des attaques de type Feu subies et augmente de 50% la puissance des attaques de type Feu lanc\u00E9es."
+   },
+   {
+      "id": 282,
+      "name": "Torrent",
+      "description": "Augmente la puissance des attaques de type Eau de 50% lorsque le Pok\u00E9mon a moins d'1/3 de ses PV totaux."
+   },
+   {
+      "id": 283,
+      "name": "Toxitouche",
+      "description": "Peut empoisonner l'adversaire apr\u00E8s lui avoir port\u00E9 une attaque physique."
+   },
+   {
+      "id": 284,
+      "name": "Transistor",
+      "description": "Augmente de 50% la puissance des attaques de type \u00C9lectrik du Pok\u00E9mon."
+   },
+   {
+      "id": 285,
+      "name": "Turbine",
+      "description": "La Vitesse du Pok\u00E9mon augmente de 6 niveaux s'il est touch\u00E9 par une capacit\u00E9 de type Feu ou Eau en combat."
+   },
+   {
+      "id": 286,
+      "name": "Turbine \u00C9olienne",
+      "description": "Si le Pok\u00E9mon est touch\u00E9 par une capacit\u00E9 faisant appel au vent, il se charge en \u00E9lectricit\u00E9."
+   },
+   {
+      "id": 287,
+      "name": "Turbo",
+      "description": "La vitesse du Pok\u00E9mon augmente \u00E0 chaque tour."
+   },
+   {
+      "id": 288,
+      "name": "Turbo Brasier",
+      "description": "Peut toucher un Pok\u00E9mon adverse malgr\u00E9 son talent."
+   },
+   {
+      "id": 289,
+      "name": "Urne du Fl\u00E9au",
+      "description": "Le pouvoir de l\u2019urne qui appelle le fl\u00E9au affaiblit l\u2019Attaque Sp\u00E9ciale de tous les autres Pok\u00E9mon."
+   },
+   {
+      "id": 290,
+      "name": "Vaccin",
+      "description": "Immunise contre l'empoisonnement."
+   },
+   {
+      "id": 291,
+      "name": "Ventouse",
+      "description": "Emp\u00EAche d'\u00EAtre chang\u00E9 de force par une attaque adverse."
+   },
+   {
+      "id": 292,
+      "name": "Victorieux",
+      "description": "Monte de 10% la pr\u00E9cision des alli\u00E9s en Combat Double ou triple."
+   },
+   {
+      "id": 293,
+      "name": "Voile Pastel",
+      "description": "Prot\u00E8ge le Pok\u00E9mon et ses alli\u00E9s contre toutes les alt\u00E9rations de statut li\u00E9es \u00E0 l'empoisonnement. En Combat Duo et Multi, soigne un alli\u00E9 empoisonn\u00E9 lorsque le Pok\u00E9mon arrive sur le terrain."
+   },
+   {
+      "id": 294,
+      "name": "Voile Sable",
+      "description": "Augmente l'esquive de 20% lors d'une temp\u00EAte de sable et immunise contre ses d\u00E9g\u00E2ts."
+   },
+   {
+      "id": 295,
+      "name": "Pi\u00E8ge Sable"
+   },
+   {
+      "id": 296,
+      "name": "Homochromie",
+      "description": "Un Pok\u00E9mon dot\u00E9 de ce talent voit son type changer s'il est touch\u00E9 par une capacit\u00E9 infligeant des d\u00E9g\u00E2ts. Ainsi, il prend le type de cette capacit\u00E9."
+   },
+   {
+      "id": 297,
+      "name": "Lib\u00E9ro",
+      "description": "Change le type du Pok\u00E9mon en celui de toute capacit\u00E9 qu'il utilise."
+   }
+]
