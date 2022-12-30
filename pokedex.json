@@ -22750,7 +22750,8 @@
       "number": 862,
       "name": "Ixon",
       "types": [
-         "dark"
+         "dark",
+         "normal"
       ],
       "image": "https://img.pokemondb.net/artwork/large/obstagoon.jpg",
       "description": "Il a \u00E9volu\u00E9 apr\u00E8s avoir encha\u00EEn\u00E9 de nombreux combats. Le cri qu\u2019il pousse lorsqu\u2019il fait un \u00AB X \u00BB avec ses bras \u00E9branle n\u2019importe quel ennemi.",
