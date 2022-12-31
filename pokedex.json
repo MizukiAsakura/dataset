@@ -26556,7 +26556,7 @@
          "spDefense": 70,
          "speed": 100
       },
-      "form": "padea race combative",
+      "form": "padea combative",
       "generation": 1,
       "abilities": [
          156,
@@ -26580,7 +26580,7 @@
          "spDefense": 70,
          "speed": 100
       },
-      "form": "paldea race flamboyante",
+      "form": "paldea flamboyante",
       "generation": 1,
       "abilities": [
          156,
@@ -26604,7 +26604,7 @@
          "spDefense": 70,
          "speed": 100
       },
-      "form": "paldea race aquatique",
+      "form": "paldea aquatique",
       "generation": 1,
       "abilities": [
          156,
