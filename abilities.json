@@ -557,7 +557,7 @@
    {
       "id": 112,
       "name": "Expert Acier",
-      "description": "Augmente la puissance des capacit\u00E9s de type Acier."
+      "description": "Augmente la puissance des capacit\u00E9s de type Acier de 50%."
    },
    {
       "id": 113,
@@ -1092,7 +1092,7 @@
    {
       "id": 219,
       "name": "Porte-Roche",
-      "description": "Augmente la puissance des capacit\u00E9s de type Roche."
+      "description": "Augmente la puissance des capacit\u00E9s de type Roche de 50%."
    },
    {
       "id": 220,
