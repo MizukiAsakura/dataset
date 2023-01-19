@@ -24001,6 +24001,7 @@
       "types": [
          "grass"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/sprigatito.jpg",
       "description": "Il d\u00E9gage une odeur sucr\u00E9e qui fascine les \u00EAtres alentour. Celle-ci est plus forte lorsqu'il est expos\u00E9 au soleil.",
       "base": {
          "hp": 40,
@@ -24023,6 +24024,7 @@
       "types": [
          "grass"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/floragato.jpg",
       "description": "La rigidit\u00E9 de ses poils d\u00E9pend de son \u00E9tat d'esprit. Quand il se pr\u00E9pare au combat, ceux-ci se h\u00E9rissent et sont ac\u00E9r\u00E9s comme des aiguilles.",
       "base": {
          "hp": 61,
@@ -24046,6 +24048,7 @@
          "grass",
          "dark"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/meowscarada.jpg",
       "description": "Il d\u00E9tourne habilement l'attention de ses ennemis et disperse subrepticement des bombes florales bourr\u00E9es de pollen qu'il fait ensuite exploser.",
       "base": {
          "hp": 76,
@@ -24068,6 +24071,7 @@
       "types": [
          "fire"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/fuecoco.jpg",
       "description": "Sa poche \u00E0 flammes est trop petite pour contenir toute l'\u00E9nergie qu'il produit. Le surplus s'\u00E9chappe en vacillant par la cavit\u00E9 sur sa t\u00EAte.",
       "base": {
          "hp": 67,
@@ -24090,6 +24094,7 @@
       "types": [
          "fire"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/crocalor.jpg",
       "description": "Ses cordes vocales et la valve de sa poche \u00E0 flammes sont \u00E9troitement li\u00E9es, ce qui lui permet de pousser des cris gutturaux en crachant du feu.",
       "base": {
          "hp": 81,
@@ -24113,6 +24118,7 @@
          "fire",
          "ghost"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/skeledirge.jpg",
       "description": "Il est capable de carboniser ses adversaires avec des flammes \u00E0 3 000 \u00B0C. Sa voix douce poss\u00E8de des vertus apaisantes pour l'\u00E2me.",
       "base": {
          "hp": 104,
@@ -24135,6 +24141,7 @@
       "types": [
          "water"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/quaxly.jpg",
       "description": "Ce Pok\u00E9mon perfectionniste aime la propret\u00E9. Ses pattes puissantes lui permettent de nager avec aisance, m\u00EAme lorsque le courant est fort.",
       "base": {
          "hp": 55,
@@ -24157,6 +24164,7 @@
       "types": [
          "water"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/quaxwell.jpg",
       "description": "Tr\u00E8s diligent, il observe les mouvements de Pok\u00E9mon et d'individus d'origines diverses pour s'en inspirer quand il danse.",
       "base": {
          "hp": 70,
@@ -24180,6 +24188,7 @@
          "water",
          "fight"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/quaquaval.jpg",
       "description": "Sa danse insolite est captivante. Il met ses adversaires en pi\u00E8ces \u00E0 l'aide de ses plumes ornementales compos\u00E9es d'eau.",
       "base": {
          "hp": 85,
@@ -24202,6 +24211,7 @@
       "types": [
          "normal"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/lechonk.jpg",
       "description": "Il ne mange que des mets raffin\u00E9s. Son corps d\u00E9gage une odeur d'herbes que les Pok\u00E9mon Insecte ex\u00E8crent.",
       "base": {
          "hp": 54,
@@ -24225,6 +24235,7 @@
       "types": [
          "normal"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/oinkologne.jpg",
       "description": "Ce Pok\u00E9mon m\u00E9ticuleux aime la propret\u00E9. Il est envelopp\u00E9 d'un parfum floral qui rass\u00E9r\u00E8ne les Pok\u00E9mon alentour.",
       "base": {
          "hp": 110,
@@ -24248,6 +24259,7 @@
       "types": [
          "normal"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/oinkologne-female.jpg",
       "description": "Ce Pok\u00E9mon m\u00E9ticuleux aime la propret\u00E9. Il est envelopp\u00E9 d'un parfum floral qui rass\u00E9r\u00E8ne les Pok\u00E9mon alentour.",
       "base": {
          "hp": 115,
@@ -24271,6 +24283,7 @@
       "types": [
          "bug"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/tarountula.jpg",
       "description": "Son post\u00E9rieur s\u00E9cr\u00E8te un fil aussi r\u00E9sistant qu'un c\u00E2ble en fer. Cette solidit\u00E9 inexpliqu\u00E9e fait actuellement l'objet de recherches.",
       "base": {
          "hp": 35,
@@ -24293,6 +24306,7 @@
       "types": [
          "bug"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/spidops.jpg",
       "description": "Il recouvre son territoire de fil solide et collant pour pi\u00E9ger les ind\u00E9sirables qui s'y aventurent.",
       "base": {
          "hp": 60,
@@ -24315,6 +24329,7 @@
       "types": [
          "bug"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/nymble.jpg",
       "description": "En combat, sa capacit\u00E9 \u00E0 bondir lui permet d'infliger des d\u00E9g\u00E2ts tout en \u00E9vitant les attaques.",
       "base": {
          "hp": 33,
@@ -24338,6 +24353,7 @@
          "bug",
          "dark"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/lokix.jpg",
       "description": "En mode assaut, il se tient sur sa troisi\u00E8me paire de pattes habituellement repli\u00E9e, mais il s'\u00E9puise relativement rapidement.",
       "base": {
          "hp": 71,
@@ -24360,6 +24376,7 @@
       "types": [
          "electrik"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/pawmi.jpg",
       "description": "Ses coussinets servent \u00E0 projeter de l'\u00E9lectricit\u00E9. Quand il parvient \u00E0 se tenir sur ses pattes arri\u00E8re, il envoie des d\u00E9charges avec ses pattes avant.",
       "base": {
          "hp": 45,
@@ -24384,6 +24401,7 @@
          "electrik",
          "fight"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/pawmo.jpg",
       "description": "Son style de combat unique consiste \u00E0 frapper ses adversaires avec ses paumes, tout en les \u00E9lectrocutant avec ses coussinets.",
       "base": {
          "hp": 60,
@@ -24408,6 +24426,7 @@
          "electrik",
          "fight"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/pawmot.jpg",
       "description": "Sa fourrure soyeuse fait office de batterie. Elle peut emmagasiner autant d'\u00E9nergie qu'une voiture \u00E9lectrique.",
       "base": {
          "hp": 70,
@@ -24431,6 +24450,7 @@
       "types": [
          "normal"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/tandemaus.jpg",
       "description": "Ces Pok\u00E9mon vont toujours par paire. Lorsqu'ils trouvent de la nourriture, ils la divisent en deux parts \u00E9gales avant de la d\u00E9guster.",
       "base": {
          "hp": 50,
@@ -24454,6 +24474,7 @@
       "types": [
          "normal"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/maushold.jpg",
       "description": "Les deux grands se battent et prot\u00E8gent les petits. Face \u00E0 des adversaires puissants, ils prennent tous part au combat.",
       "base": {
          "hp": 74,
@@ -24477,6 +24498,7 @@
       "types": [
          "normal"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/fidough.jpg",
       "description": "Les deux grands se battent et prot\u00E8gent les petits. Face \u00E0 des adversaires puissants, ils prennent tous part au combat.",
       "base": {
          "hp": 74,
@@ -24500,6 +24522,7 @@
       "types": [
          "fairy"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/fidough.jpg",
       "description": "Les \u00EAtres humains prot\u00E8gent ce Pok\u00E9mon depuis longtemps, car la levure que contient son souffle est utile pour cuisiner.",
       "base": {
          "hp": 37,
@@ -24522,6 +24545,7 @@
       "types": [
          "fairy"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/dachsbun.jpg",
       "description": "La surface de sa peau durcit lorsqu'elle est expos\u00E9e \u00E0 une forte chaleur. Son corps exhale un d\u00E9licieux parfum.",
       "base": {
          "hp": 57,
@@ -24545,6 +24569,7 @@
          "grass",
          "normal"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/smoliv.jpg",
       "description": "Ce Pok\u00E9mon convertit les nutriments en huile qu'il emmagasine dans le fruit qui surmonte sa t\u00EAte. Il peut passer une semaine sans boire ni manger.",
       "base": {
          "hp": 41,
@@ -24568,6 +24593,7 @@
          "grass",
          "normal"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/dolliv.jpg",
       "description": "Il s'expose au soleil jusqu'\u00E0 ce que les fruits sur sa t\u00EAte soient m\u00FBrs, puis il quitte les zones habit\u00E9es pour partir \u00E0 l'aventure.",
       "base": {
          "hp": 52,
@@ -24591,6 +24617,7 @@
          "grass",
          "normal"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/arboliva.jpg",
       "description": "Il repousse ses adversaires en projetant son huile riche en ar\u00F4mes avec suffisamment de force pour pulv\u00E9riser un rocher.",
       "base": {
          "hp": 78,
@@ -24614,6 +24641,7 @@
          "normal",
          "fly"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/squawkabilly.jpg",
       "description": "Ceux qui arborent un plumage vert ont le plus d'influence. Ils font un v\u00E9ritable vacarme le matin et le soir, quand ils cherchent de la nourriture.",
       "base": {
          "hp": 82,
@@ -24638,6 +24666,7 @@
          "normal",
          "fly"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/nacli.jpg",
       "description": "Les Tapato\u00E8s aux plumes bleues consid\u00E8rent les sp\u00E9cimens aux plumes vertes comme leurs rivaux, car ces derniers sont plus nombreux et puissants.",
       "base": {
          "hp": 82,
@@ -24662,6 +24691,7 @@
          "normal",
          "fly"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/naclstack.jpg",
       "description": "Les Tapato\u00E8s de couleur jaune sont extr\u00EAmement agressifs. Ils vont m\u00EAme jusqu'\u00E0 chasser les autres Pok\u00E9mon oiseaux des villes.",
       "base": {
          "hp": 82,
@@ -24686,6 +24716,7 @@
          "normal",
          "fly"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/garganacl.jpg",
       "description": "Les sp\u00E9cimens de cette couleur sont moins nombreux, mais comme ils se fondent dans le d\u00E9cor urbain, ils peuvent facilement vivre en ville.",
       "base": {
          "hp": 82,
@@ -24709,6 +24740,7 @@
       "types": [
          "rock"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/nacli.jpg",
       "description": "Ce Pok\u00E9mon est n\u00E9 dans des couches souterraines de sel gemme. Connu pour partager son pr\u00E9cieux sel, il \u00E9tait appr\u00E9ci\u00E9 autrefois.",
       "base": {
          "hp": 55,
@@ -24732,6 +24764,7 @@
       "types": [
          "rock"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/naclstack.jpg",
       "description": "Il compresse du sel gemme \u00E0 l'int\u00E9rieur de son corps et tire des balles de sel durci capables de transpercer des plaques de fer.",
       "base": {
          "hp": 60,
@@ -24755,6 +24788,7 @@
       "types": [
          "rock"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/garganacl.jpg",
       "description": "Nombreux sont les Pok\u00E9mon qui se rassemblent autour des Gigansel dans l'espoir de pouvoir l\u00E9cher leur sel riche en min\u00E9raux.",
       "base": {
          "hp": 100,
@@ -24778,6 +24812,7 @@
       "types": [
          "fire"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/charcadet.jpg",
       "description": "Ce Pok\u00E9mon est un charbon de bois consum\u00E9 qui a pris vie. Il est anim\u00E9 par un d\u00E9sir de combattre qui le pousse \u00E0 d\u00E9fier des adversaires puissants.",
       "base": {
          "hp": 40,
@@ -24801,6 +24836,7 @@
          "fire",
          "psy"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/armarouge.jpg",
       "description": "Ce Pok\u00E9mon porte une armure renforc\u00E9e par de l'\u00E9nergie de type Psy et de type Feu. Il lance des boules de feu \u00E0 tr\u00E8s haute temp\u00E9rature. Il a \u00E9volu\u00E9 gr\u00E2ce \u00E0 l'armure d'une illustre \u00E2me guerri\u00E8re. Ce Pok\u00E9mon est extr\u00EAmement loyal.",
       "base": {
          "hp": 85,
@@ -24824,6 +24860,7 @@
          "fire",
          "ghost"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/ceruledge.jpg",
       "description": "Les flammes de ses \u00E9p\u00E9es sont anim\u00E9es par la ranc\u0153ur d'une \u00E2me guerri\u00E8re qui a p\u00E9ri avant de pouvoir accomplir son but.\nIl a \u00E9volu\u00E9 gr\u00E2ce \u00E0 une vieille armure impr\u00E9gn\u00E9e de ranc\u0153ur. Ce Pok\u00E9mon lac\u00E8re ses ennemis sans aucune merci. ",
       "base": {
          "hp": 75,
@@ -24846,6 +24883,7 @@
       "types": [
          "electrik"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/tadbulb.jpg",
       "description": "Il flotte dans les airs gr\u00E2ce \u00E0 l'\u00E9lectricit\u00E9 emmagasin\u00E9e dans son corps. Les jours d'orage, il l\u00E9vite un peu plus haut qu'\u00E0 l'accoutum\u00E9e.",
       "base": {
          "hp": 61,
@@ -24869,6 +24907,7 @@
       "types": [
          "electrik"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/bellibolt.jpg",
       "description": "Ses organes semblables \u00E0 des yeux servent \u00E0 projeter l'\u00E9lectricit\u00E9 produite par son nombril-dynamo.",
       "base": {
          "hp": 109,
@@ -24893,6 +24932,7 @@
          "electrik",
          "fly"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/wattrel.jpg",
       "description": "Il niche sur les falaises c\u00F4ti\u00E8res. Son nid poss\u00E8de une texture particuli\u00E8re et un go\u00FBt naturellement p\u00E9tillant, ce qui en fait un mets tr\u00E8s recherch\u00E9.",
       "base": {
          "hp": 40,
@@ -24917,6 +24957,7 @@
          "electrik",
          "fly"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/kilowattrel.jpg",
       "description": "Il emmagasine l'\u00E9lectricit\u00E9 produite par ses ailes dans son sac gulaire. Il ne nage pas tr\u00E8s bien, car ses plumes sont peu huil\u00E9es.",
       "base": {
          "hp": 70,
@@ -24940,6 +24981,7 @@
       "types": [
          "dark"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/maschiff.jpg",
       "description": "Sa m\u00E2choire et ses crocs bien d\u00E9velopp\u00E9s sont assez puissants pour broyer des rochers. Sa graisse \u00E9paisse lui octroie une excellente protection.",
       "base": {
          "hp": 60,
@@ -24963,6 +25005,7 @@
       "types": [
          "dark"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/mabosstiff.jpg",
       "description": "Ce Pok\u00E9mon adore jouer avec les enfants. Il est doux en g\u00E9n\u00E9ral, mais lorsqu'il doit prot\u00E9ger sa famille, il prend un air mena\u00E7ant.",
       "base": {
          "hp": 80,
@@ -24987,6 +25030,7 @@
          "poison",
          "normal"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/shroodle.jpg",
       "description": "Afin de maintenir ses adversaires hors de son territoire, il dessine des symboles autour de son nid \u00E0 l'aide d'une toxine \u00E0 l'odeur irritante.",
       "base": {
          "hp": 40,
@@ -25011,6 +25055,7 @@
          "poison",
          "normal"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/grafaiai.jpg",
       "description": "Les Tag-Tag passent leur vie \u00E0 peindre toujours le m\u00EAme motif, qui varie selon l'individu.",
       "base": {
          "hp": 63,
@@ -25035,6 +25080,7 @@
          "grass",
          "ghost"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/bramblin.jpg",
       "description": "Ce Pok\u00E9mon roule \u00E0 travers les plaines arides, port\u00E9 par le vent, sans savoir lui m\u00EAme ou cela va le mener. Il d\u00E9teste \u00EAtre mouill\u00E9.",
       "base": {
          "hp": 40,
@@ -25058,6 +25104,7 @@
          "grass",
          "ghost"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/brambleghast.jpg",
       "description": "Ces Pok\u00E9mon errent \u00E0 travers les r\u00E9gions arides. En de tr\u00E8s rares occasions, ils apparaissent en masse et peuvent engloutir une ville enti\u00E8re.",
       "base": {
          "hp": 55,
@@ -25081,6 +25128,7 @@
          "ground",
          "grass"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/toedscool.jpg",
       "description": "Il ressemble \u00E0 un Tentacool, mais il n'en est pas un. Malgr\u00E9 leur finesse, ses pattes lui permettent de courir \u00E0 une vitesse de 50 km/h.",
       "base": {
          "hp": 40,
@@ -25103,6 +25151,7 @@
          "ground",
          "grass"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/toedscruel.jpg",
       "description": "Il enserre sa proie de ses dix tentacules et lui vole ses nutriments, ce qui est douloureux. Les plis au-dessus de ses yeux sont appr\u00E9ci\u00E9s pour leur go\u00FBt.",
       "base": {
          "hp": 80,
@@ -25124,6 +25173,7 @@
       "types": [
          "rock"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/klawf.jpg",
       "description": "Il vit sur les falaises escarp\u00E9es et esquive les attaques en se d\u00E9pla\u00E7ant sur le c\u00F4t\u00E9. Il vise les points faibles de ses adversaires avec ses pinces.",
       "base": {
          "hp": 70,
@@ -25147,6 +25197,7 @@
       "types": [
          "grass"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/capsakid.jpg",
       "description": "Une fois tomb\u00E9e, l'incisive de ce Pok\u00E9mon sert \u00E0 relever les plats de la r\u00E9gion de Paldea.",
       "base": {
          "hp": 50,
@@ -25171,6 +25222,7 @@
          "grass",
          "fire"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/scovillain.jpg",
       "description": "Sa t\u00EAte verte est agressive \u00E0 cause des substances \u00E9pic\u00E9es qui stimulent son cerveau. Quand elle s'\u00E9nerve, rien ne peut l'arr\u00EAter.",
       "base": {
          "hp": 65,
@@ -25194,6 +25246,7 @@
       "types": [
          "bug"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/rellor.jpg",
       "description": "Il fait rouler sa boule de boue jusqu'\u00E0 ce qu'il ait accumul\u00E9 l'\u00E9nergie n\u00E9cessaire \u00E0 son \u00E9volution.",
       "base": {
          "hp": 41,
@@ -25217,6 +25270,7 @@
          "bug",
          "psy"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/rabsca.jpg",
       "description": "Il fait doucement tourner sa sph\u00E8re avec ses pattes afin d'assurer le confort du nouveau-n\u00E9 qui dort \u00E0 l'int\u00E9rieur.",
       "base": {
          "hp": 75,
@@ -25239,6 +25293,7 @@
       "types": [
          "psy"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/flittle.jpg",
       "description": "Ce Pok\u00E9mon passe ses journ\u00E9es \u00E0 courir dans les terres en friche. Il poursuivra quiconque lui vole ses Baies ador\u00E9es pour se venger.",
       "base": {
          "hp": 30,
@@ -25262,6 +25317,7 @@
       "types": [
          "psy"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/espathra.jpg",
       "description": "Son \u00E9nergie psychique \u00E9mane des interstices situ\u00E9s entre ses volants color\u00E9s. Il peut courir \u00E0 une vitesse de 200 km/h.",
       "base": {
          "hp": 95,
@@ -25286,6 +25342,7 @@
          "fairy",
          "steel"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/tinkatink.jpg",
       "description": "Il se d\u00E9fend en brandissant un marteau qu'il a cr\u00E9\u00E9 lui-m\u00EAme, mais les Pok\u00E9mon qui se nourrissent de m\u00E9taux ont tendance \u00E0 le lui voler.",
       "base": {
          "hp": 50,
@@ -25310,6 +25367,7 @@
          "fairy",
          "steel"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/tinkatuff.jpg",
       "description": "Ce Pok\u00E9mon attaque des cohortes de Scalpion et de Scalproie pour rassembler le m\u00E9tal n\u00E9cessaire \u00E0 la confection d'un grand marteau robuste.",
       "base": {
          "hp": 65,
@@ -25334,6 +25392,7 @@
          "fairy",
          "steel"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/tinkaton.jpg",
       "description": "Ce Pok\u00E9mon s'empare de tout ce qu'il convoite en maniant sans effort son marteau de plus de 100 kg et ram\u00E8ne son butin chez lui.",
       "base": {
          "hp": 85,
@@ -25357,6 +25416,7 @@
       "types": [
          "water"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/wiglett.jpg",
       "description": "Sa ressemblance fortuite avec Taupiqueur serait le fruit d'une adaptation \u00E0 son milieu. Malgr\u00E9 leur similarit\u00E9, ils ne sont pas de la m\u00EAme esp\u00E8ce.",
       "base": {
          "hp": 10,
@@ -25380,6 +25440,7 @@
       "types": [
          "water"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/wugtrio.jpg",
       "description": "Par le pass\u00E9, ce Pok\u00E9mon poisson a parfois \u00E9t\u00E9 consid\u00E9r\u00E9 comme une forme r\u00E9gionale de Triopikeur.",
       "base": {
          "hp": 35,
@@ -25404,6 +25465,7 @@
          "fly",
          "dark"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/bombirdier.jpg",
       "description": "Ce Pok\u00E9mon transporte sa nourriture jusqu'\u00E0 son nid gr\u00E2ce \u00E0 son tablier. Il aime larguer des objets qui s'\u00E9crasent avec fracas.",
       "base": {
          "hp": 70,
@@ -25427,6 +25489,7 @@
       "types": [
          "water"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/finizen.jpg",
       "description": "Il a confectionn\u00E9 l'anneau autour de sa queue \u00E0 partir d'eau de mer et du liquide collant que son \u00E9vent s\u00E9cr\u00E8te.",
       "base": {
          "hp": 70,
@@ -25448,6 +25511,7 @@
       "types": [
          "water"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/palafin.jpg",
       "description": "Il a les m\u00EAmes capacit\u00E9s physiques qu'avant son \u00E9volution, mais quand ses cong\u00E9n\u00E8res sont en danger, il change de forme et devient plus fort.",
       "base": {
          "hp": 100,
@@ -25469,6 +25533,7 @@
       "types": [
          "water"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/palafin-hero.jpg",
       "description": "Il a les m\u00EAmes capacit\u00E9s physiques qu'avant son \u00E9volution, mais quand ses cong\u00E9n\u00E8res sont en danger, il change de forme et devient plus fort.",
       "base": {
          "hp": 100,
@@ -25491,6 +25556,7 @@
          "steel",
          "poison"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/varoom.jpg",
       "description": "Son corps correspond \u00E0 la partie en acier. Il s'accroche \u00E0 des roches et convertit les min\u00E9raux qu'elles contiennent en \u00E9nergie.",
       "base": {
          "hp": 45,
@@ -25514,6 +25580,7 @@
          "steel",
          "poison"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/revavroom.jpg",
       "description": "Ce Pok\u00E9mon intimide ses adversaires gr\u00E2ce au bruit de ses pots d'\u00E9chappement et r\u00E9pand du liquide empoisonn\u00E9 \u00E0 l'aide de sa langue.",
       "base": {
          "hp": 80,
@@ -25537,6 +25604,7 @@
          "dragon",
          "normal"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/cyclizar.jpg",
       "description": "Il peut courir \u00E0 120 km/h avec un \u00EAtre humain sur le dos. La chaleur corporelle des personnes qu'il transporte le r\u00E9chauffe et lui donne de l'\u00E9nergie.",
       "base": {
          "hp": 70,
@@ -25559,6 +25627,7 @@
       "types": [
          "steel"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/orthworm.jpg",
       "description": "Ce Pok\u00E9mon vit dans les d\u00E9serts arides. Il ing\u00E8re le fer que contient le sol afin d'entretenir son corps de m\u00E9tal.",
       "base": {
          "hp": 70,
@@ -25582,6 +25651,7 @@
          "rock",
          "poison"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/glimmet.jpg",
       "description": "Ses cristaux nocifs ressemblent en tout point \u00E0 des p\u00E9tales. Il r\u00E9pand une poudre toxique semblable \u00E0 du pollen pour se d\u00E9fendre.",
       "base": {
          "hp": 48,
@@ -25605,6 +25675,7 @@
          "rock",
          "poison"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/glimmora.jpg",
       "description": "On a r\u00E9cemment d\u00E9couvert que ses p\u00E9tales constitu\u00E9s d'\u00E9nergie toxique cristallis\u00E9e ressemblent \u00E0 des Joyaux T\u00E9racristal.",
       "base": {
          "hp": 83,
@@ -25627,6 +25698,7 @@
       "types": [
          "ghost"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/greavard.jpg",
       "description": "Il est sociable et n'aime pas la solitude. Une fois qu'une personne lui accorde la moindre attention, il ne la quitte plus d'une semelle.",
       "base": {
          "hp": 50,
@@ -25649,6 +25721,7 @@
       "types": [
          "ghost"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/houndstone.jpg",
       "description": "Il est la r\u00E9incarnation d'un Pok\u00E9mon regrett\u00E9 et il n'aime pas que l'on touche la protub\u00E9rance sur sa t\u00EAte.",
       "base": {
          "hp": 72,
@@ -25672,6 +25745,7 @@
          "fly",
          "fight"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/flamigo.jpg",
       "description": "Leur capacit\u00E9 \u00E0 se synchroniser permet \u00E0 toute une vol\u00E9e d'attaquer parfaitement \u00E0 l'unisson.",
       "base": {
          "hp": 82,
@@ -25695,6 +25769,7 @@
       "types": [
          "ice"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/cetoddle.jpg",
       "description": "Ces Pok\u00E9mon vivent g\u00E9n\u00E9ralement en groupes de cinq dans les r\u00E9gions froides. Ils raffolent des min\u00E9raux que contiennent la neige et la glace.",
       "base": {
          "hp": 108,
@@ -25718,6 +25793,7 @@
       "types": [
          "ice"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/cetitan.jpg",
       "description": "Il emmagasine de l'\u00E9nergie de type Glace dans la corne de sa m\u00E2choire, qui est si froide qu'elle g\u00E8le tout ce qui se trouve alentour.",
       "base": {
          "hp": 170,
@@ -25742,6 +25818,7 @@
          "water",
          "psy"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/veluza.jpg",
       "description": "Pass\u00E9 ma\u00EEtre dans l'art de la r\u00E9g\u00E9n\u00E9ration, ce Pok\u00E9mon se d\u00E9barrasse de sa chair en trop pour gagner en agilit\u00E9, puis il fond sur ses proies.",
       "base": {
          "hp": 90,
@@ -25764,6 +25841,7 @@
       "types": [
          "water"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/dondozo.jpg",
       "description": "Il semblerait que ce puissant Pok\u00E9mon ne se distingue pas par son intelligence. Il consid\u00E8re Nigirigon comme son sup\u00E9rieur.",
       "base": {
          "hp": 150,
@@ -25788,6 +25866,7 @@
          "dragon",
          "water"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/tatsugiri.jpg",
       "description": "C'est l'un des Pok\u00E9mon Dragon les plus intelligents. Il se camoufle en faisant gonfler son sac gulaire.",
       "base": {
          "hp": 68,
@@ -25811,6 +25890,7 @@
          "fight",
          "ghost"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/annihilape.jpg",
       "description": "Il an\u00E9antit ses adversaires en leur ass\u00E9nant des coups de poing anim\u00E9s par la rage enfouie tout au fond de lui.",
       "base": {
          "hp": 110,
@@ -25835,6 +25915,7 @@
          "poison",
          "ground"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/clodsire.jpg",
       "description": "Ce Pok\u00E9mon vit au fond des \u00E9tangs et des marais. Il porte des Axoloto sur son dos et nage jusqu'\u00E0 la rive oppos\u00E9e pour les aider \u00E0 traverser.",
       "base": {
          "hp": 130,
@@ -25859,6 +25940,7 @@
          "normal",
          "psy"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/farigiraf.jpg",
       "description": "Lorsqu'il fait tournoyer son cou pour frapper ses adversaires, il prot\u00E8ge sa t\u00EAte principale \u00E0 l'aide de sa t\u00EAte noire, qui est plus dure.",
       "base": {
          "hp": 120,
@@ -25882,6 +25964,7 @@
       "types": [
          "normal"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/dudunsparce.jpg",
       "description": "Une \u00E9tude r\u00E9cente a d\u00E9montr\u00E9 que le nombre de segments qui composent son corps est d\u00E9termin\u00E9 par ses g\u00E8nes.",
       "base": {
          "hp": 125,
@@ -25905,6 +25988,7 @@
       "types": [
          "normal"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/kingambit.jpg",
       "description": "Une \u00E9tude r\u00E9cente a d\u00E9montr\u00E9 que le nombre de segments qui composent son corps est d\u00E9termin\u00E9 par ses g\u00E8nes.",
       "base": {
          "hp": 125,
@@ -25929,6 +26013,7 @@
          "dark",
          "steel"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/kingambit.jpg",
       "description": "Seul un Scalproie qui s'est hiss\u00E9 au plus haut rang d'une grande arm\u00E9e peut \u00E9voluer en Scalpereur.",
       "base": {
          "hp": 100,
@@ -25953,6 +26038,7 @@
          "ground",
          "fight"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/great-tusk.jpg",
       "description": "Il ressemble \u00E0 un Pok\u00E9mon myst\u00E9rieux qui, selon une revue consacr\u00E9e aux ph\u00E9nom\u00E8nes paranormaux, existerait depuis la nuit des temps.",
       "base": {
          "hp": 115,
@@ -25975,6 +26061,7 @@
          "fairy",
          "psy"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/scream-tail.jpg",
       "description": "Il ressemble \u00E0 un Pok\u00E9mon myst\u00E9rieux qui serait un Rondoudou d'il y a un milliard d'ann\u00E9es, selon une revue sur les ph\u00E9nom\u00E8nes paranormaux.",
       "base": {
          "hp": 115,
@@ -25997,6 +26084,7 @@
          "grass",
          "dark"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/brute-bonnet.jpg",
       "description": "Il ressemble vaguement \u00E0 un Pok\u00E9mon mi-dinosaure mi-champignon \u00E9voqu\u00E9 dans une revue douteuse.",
       "base": {
          "hp": 111,
@@ -26019,6 +26107,7 @@
          "ghost",
          "fairy"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/flutte-mane.jpg",
       "description": "Il pr\u00E9sente des similitudes avec un fant\u00F4me de pt\u00E9rosaure \u00E9voqu\u00E9 dans une revue sur les ph\u00E9nom\u00E8nes paranormaux.",
       "base": {
          "hp": 55,
@@ -26041,6 +26130,7 @@
          "bug",
          "fight"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/slither-wing.jpg",
       "description": "Il ressemble vaguement \u00E0 une forme de Pyrax tr\u00E8s ancienne \u00E9voqu\u00E9e dans une revue douteuse.",
       "base": {
          "hp": 85,
@@ -26063,6 +26153,7 @@
          "electrik",
          "ground"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/sandy-shocks.jpg",
       "description": "Il ressemble vaguement \u00E0 un Magn\u00E9ton qui aurait v\u00E9cu 10 000 ans, selon un article paru dans une revue consacr\u00E9e aux ph\u00E9nom\u00E8nes paranormaux.",
       "base": {
          "hp": 85,
@@ -26085,6 +26176,7 @@
          "ground",
          "steel"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/iron-treads.jpg",
       "description": "Il ressemble beaucoup \u00E0 une arme sophistiqu\u00E9e qui serait d'origine extraterrestre, selon une revue consacr\u00E9e aux ph\u00E9nom\u00E8nes paranormaux.",
       "base": {
          "hp": 90,
@@ -26107,6 +26199,7 @@
          "ice",
          "water"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/iron-bundle.jpg",
       "description": "Sa forme est similaire \u00E0 celle d'un robot cr\u00E9\u00E9 par une civilisation antique, d'apr\u00E8s un article d'une revue consacr\u00E9e aux ph\u00E9nom\u00E8nes paranormaux.",
       "base": {
          "hp": 56,
@@ -26129,6 +26222,7 @@
          "fight",
          "electrik"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/iron-hands.jpg",
       "description": "Il ressemble \u00E0 l'athl\u00E8te transform\u00E9 en cyborg dont l'histoire avait \u00E9t\u00E9 r\u00E9v\u00E9l\u00E9e en exclusivit\u00E9 dans une revue sur les ph\u00E9nom\u00E8nes paranormaux.",
       "base": {
          "hp": 154,
@@ -26151,6 +26245,7 @@
          "dark",
          "fly"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/iron-jugulis.jpg",
       "description": "Il ressemble \u00E0 un Pok\u00E9mon qui serait l'enfant d'un Trioxhydre amoureux d'un robot, selon une revue consacr\u00E9e aux ph\u00E9nom\u00E8nes paranormaux.",
       "base": {
          "hp": 94,
@@ -26173,6 +26268,7 @@
          "fire",
          "poison"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/iron-moth.jpg",
       "description": "Il ressemble \u00E0 une entit\u00E9 \u00E9trange d\u00E9crite dans une revue sur les ph\u00E9nom\u00E8nes paranormaux. D'apr\u00E8s celle-ci, ce serait un ovni qui \u00E9pie la race humaine.",
       "base": {
          "hp": 80,
@@ -26195,6 +26291,7 @@
          "rock",
          "electrik"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/iron-thorns.jpg",
       "description": "Son apparence partage des similarit\u00E9s avec celle qu'auront les Tyranocif dans un milliard d'ann\u00E9es, selon une revue douteuse.",
       "base": {
          "hp": 100,
@@ -26217,6 +26314,7 @@
          "dragon",
          "ice"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/frigibax.jpg",
       "description": "Il vit dans les zones rocheuses et les for\u00EAts. Sa cr\u00EAte dorsale lui permet de refroidir l'int\u00E9rieur de son nid \u00E0 la mani\u00E8re d'un cong\u00E9lateur.",
       "base": {
          "hp": 65,
@@ -26240,6 +26338,7 @@
          "dragon",
          "ice"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/arctibax.jpg",
       "description": "Ses pattes et son dos muscl\u00E9s lui permettent de faire des sauts p\u00E9rilleux puis d'attaquer ses adversaires avec les lames glac\u00E9es de sa cr\u00EAte.",
       "base": {
          "hp": 90,
@@ -26263,6 +26362,7 @@
          "dragon",
          "ice"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/baxcalibur.jpg",
       "description": "Il se met t\u00EAte en bas et crache de l'air glac\u00E9 pour se propulser dans les airs et charger ses ennemis, qu'il \u00E9limine avec sa cr\u00EAte dorsale ac\u00E9r\u00E9e.",
       "base": {
          "hp": 115,
@@ -26285,6 +26385,7 @@
       "types": [
          "ghost"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/gimmighoul.jpg",
       "description": "Il vit dans un vieux coffre au tr\u00E9sor. On le trouve parfois dans un coin chez l'antiquaire, quand personne ne s'est aper\u00E7u que c'\u00E9tait un Pok\u00E9mon",
       "base": {
          "hp": 45,
@@ -26306,6 +26407,7 @@
       "types": [
          "ghost"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/gimmighoul-roaming.jpg",
       "description": "Il vit dans un vieux coffre au tr\u00E9sor. On le trouve parfois dans un coin chez l'antiquaire, quand personne ne s'est aper\u00E7u que c'\u00E9tait un Pok\u00E9mon",
       "base": {
          "hp": 45,
@@ -26328,6 +26430,7 @@
          "steel",
          "ghost"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/gholdengo.jpg",
       "description": "Son corps robuste est compos\u00E9 de pi\u00E8ces empil\u00E9es. Il accable ses adversaires en leur lan\u00E7ant des rafales de pi\u00E8ces.",
       "base": {
          "hp": 87,
@@ -26350,6 +26453,7 @@
          "dark",
          "grass"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/wo-chien.jpg",
       "description": "La ranc\u0153ur d'un \u00EAtre humain puni pour avoir not\u00E9 les m\u00E9faits d'un roi sur des tablettes en bois s'est m\u00EAl\u00E9e \u00E0 des feuilles mortes et a pris vie.",
       "base": {
          "hp": 85,
@@ -26372,6 +26476,7 @@
          "dark",
          "grass"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/chien-pao.jpg",
       "description": "Ce Pok\u00E9mon peut contr\u00F4ler 100 tonnes de neige tomb\u00E9e. Il s'amuse en sautant joyeusement dans les avalanches qu'il provoque.",
       "base": {
          "hp": 80,
@@ -26394,6 +26499,7 @@
          "dark",
          "ground"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/ting-lu.jpg",
       "description": "Sa t\u00EAte est si lourde que quand il la pose en douceur sur le sol, celui-ci se fend et une faille de 50 m\u00E8tres de profondeur se forme.",
       "base": {
          "hp": 155,
@@ -26416,6 +26522,7 @@
          "dark",
          "fire"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/chi-yu.jpg",
       "description": "Ce Pok\u00E9mon manipule des flammes \u00E0 3 000\u00B0C. Il nage tranquillement dans une mer de magma qu'il a cr\u00E9\u00E9e en faisant fondre de la roche et du gravier.",
       "base": {
          "hp": 55,
@@ -26438,6 +26545,7 @@
          "dragon",
          "dark"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/roaring-moon.jpg",
       "description": "Selon un article paru dans une revue douteuse, ce Pok\u00E9mon serait li\u00E9 \u00E0 un ph\u00E9nom\u00E8ne qui se produit dans certaines r\u00E9gions.",
       "base": {
          "hp": 105,
@@ -26460,6 +26568,7 @@
          "fairy",
          "fight"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/iron-valiant.jpg",
       "description": "Il ressemble un peu \u00E0 l'invention d'un cerveau d\u00E9ment mentionn\u00E9e dans une revue consacr\u00E9e aux ph\u00E9nom\u00E8nes paranormaux.",
       "base": {
          "hp": 74,
@@ -26482,6 +26591,7 @@
          "fight",
          "dragon"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/koraidon.jpg",
       "description": "Il s'agirait d'\u00AB\u00A0Ailes-Royales\u00A0\u00BB, une cr\u00E9ature qui, d'apr\u00E8s un vieux r\u00E9cit d'exploration, aurait fendu la terre par la force de ses poings.",
       "base": {
          "hp": 100,
@@ -26504,6 +26614,7 @@
          "electrik",
          "dragon"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/miraidon.jpg",
       "description": "Il semble \u00EAtre le \u00AB\u00A0Serpent-de-Fer\u00A0\u00BB mentionn\u00E9 dans un livre ancien. Il aurait r\u00E9duit la terre en cendres en la foudroyant.",
       "base": {
          "hp": 100,
@@ -26526,6 +26637,7 @@
          "ground",
          "poison"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/wooper-paldean.jpg",
       "description": "Depuis qu'une dispute territoriale l'a contraint \u00E0 vivre sur la terre ferme, il prot\u00E8ge son corps en le recouvrant d'un fluide toxique.",
       "base": {
          "hp": 55,
@@ -26548,6 +26660,7 @@
       "types": [
          "fight"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/tauros-paldean.jpg",
       "description": "Le Tauros de la Race Combative se caract\u00E9rise par son temp\u00E9rament agressif et par ses muscles aussi puissants que d\u00E9velopp\u00E9s.",
       "base": {
          "hp": 75,
@@ -26572,6 +26685,7 @@
          "fight",
          "fire"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/tauros-blaze.jpg",
       "description": "Le Tauros de la Race Flamboyante doit son nom au fait qu'il expire de l'air br\u00FBlant par les naseaux. Il poss\u00E8de trois queues tress\u00E9es.",
       "base": {
          "hp": 75,
@@ -26596,6 +26710,7 @@
          "fight",
          "water"
       ],
+      "image": "https://img.pokemondb.net/artwork/large/tauros-aqua.jpg",
       "description": "Le Tauros de la Race Aquatique expulse de l'eau par les cornes pour nager. Il se caract\u00E9rise par sa graisse abondante, qui lui permet de flotter.",
       "base": {
          "hp": 75,
