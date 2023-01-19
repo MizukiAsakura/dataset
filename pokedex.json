@@ -24498,7 +24498,7 @@
       "types": [
          "normal"
       ],
-      "image": "https://img.pokemondb.net/artwork/large/fidough.jpg",
+      "image": "https://img.pokemondb.net/artwork/large/maushold.jpg",
       "description": "Les deux grands se battent et prot\u00E8gent les petits. Face \u00E0 des adversaires puissants, ils prennent tous part au combat.",
       "base": {
          "hp": 74,
@@ -24666,7 +24666,7 @@
          "normal",
          "fly"
       ],
-      "image": "https://img.pokemondb.net/artwork/large/nacli.jpg",
+      "image": "https://img.pokemondb.net/artwork/large/squawkabilly.jpg",
       "description": "Les Tapato\u00E8s aux plumes bleues consid\u00E8rent les sp\u00E9cimens aux plumes vertes comme leurs rivaux, car ces derniers sont plus nombreux et puissants.",
       "base": {
          "hp": 82,
@@ -24691,7 +24691,7 @@
          "normal",
          "fly"
       ],
-      "image": "https://img.pokemondb.net/artwork/large/naclstack.jpg",
+      "image": "https://img.pokemondb.net/artwork/large/squawkabilly.jpg",
       "description": "Les Tapato\u00E8s de couleur jaune sont extr\u00EAmement agressifs. Ils vont m\u00EAme jusqu'\u00E0 chasser les autres Pok\u00E9mon oiseaux des villes.",
       "base": {
          "hp": 82,
@@ -24716,7 +24716,7 @@
          "normal",
          "fly"
       ],
-      "image": "https://img.pokemondb.net/artwork/large/garganacl.jpg",
+      "image": "https://img.pokemondb.net/artwork/large/squawkabilly.jpg",
       "description": "Les sp\u00E9cimens de cette couleur sont moins nombreux, mais comme ils se fondent dans le d\u00E9cor urbain, ils peuvent facilement vivre en ville.",
       "base": {
          "hp": 82,
@@ -25988,7 +25988,7 @@
       "types": [
          "normal"
       ],
-      "image": "https://img.pokemondb.net/artwork/large/kingambit.jpg",
+      "image": "https://img.pokemondb.net/artwork/large/dudunsparce.jpg",
       "description": "Une \u00E9tude r\u00E9cente a d\u00E9montr\u00E9 que le nombre de segments qui composent son corps est d\u00E9termin\u00E9 par ses g\u00E8nes.",
       "base": {
          "hp": 125,
@@ -26130,7 +26130,7 @@
          "bug",
          "fight"
       ],
-      "image": "https://img.pokemondb.net/artwork/large/slither-wing.jpg",
+      "image": "https://img.pokemondb.net/artwork/large/flutter-mane.jpg",
       "description": "Il ressemble vaguement \u00E0 une forme de Pyrax tr\u00E8s ancienne \u00E9voqu\u00E9e dans une revue douteuse.",
       "base": {
          "hp": 85,
