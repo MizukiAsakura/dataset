@@ -181,7 +181,7 @@
    },
    {
       "id": 37,
-      "name": "Blanche RuadeTEC",
+      "name": "Blanche Ruade",
       "description": "Quand le Pok\u00E9mon met un ennemi K.O., son Attaque augmente d'un niveau."
    },
    {
@@ -221,7 +221,7 @@
    },
    {
       "id": 45,
-      "name": "Breuvage SuspectTEC",
+      "name": "Breuvage Suspect",
       "description": "Quand il entre au combat, tous les changements de stats de ses alli\u00E9s sont annul\u00E9s."
    },
    {
@@ -456,7 +456,7 @@
    },
    {
       "id": 92,
-      "name": "Dent de DragonTEC",
+      "name": "Dent de Dragon",
       "description": "Augmente de 50% la puissance des attaques de type Dragon du Pok\u00E9mon."
    },
    {
@@ -557,7 +557,7 @@
    {
       "id": 112,
       "name": "Expert Acier",
-      "description": "Augmente la puissance des capacit\u00E9s de type Acier."
+      "description": "Augmente la puissance des capacit\u00E9s de type Acier de 50%."
    },
    {
       "id": 113,
@@ -981,7 +981,7 @@
    },
    {
       "id": 197,
-      "name": "Osmose \u00C9quineTEC",
+      "name": "Osmose \u00C9quine",
       "description": "Combine les talents Tension et Blanche Ruade pour Sylveroy, le Cavalier du Froid ou Tension et Sombre Ruade pour Sylveroy, le Cavalier d'Effroi."
    },
    {
@@ -1092,7 +1092,7 @@
    {
       "id": 219,
       "name": "Porte-Roche",
-      "description": "Augmente la puissance des capacit\u00E9s de type Roche."
+      "description": "Augmente la puissance des capacit\u00E9s de type Roche de 50%."
    },
    {
       "id": 220,
@@ -1281,12 +1281,12 @@
    },
    {
       "id": 257,
-      "name": "Sombre RuadeTEC",
+      "name": "Sombre Ruade",
       "description": "Quand le Pok\u00E9mon met un ennemi K.O., son Attaque Sp\u00E9ciale augmente d'un niveau."
    },
    {
       "id": 258,
-      "name": "Souffle DeltaROSA",
+      "name": "Souffle Delta",
       "description": "Annule tout effet de climat, m\u00EAme Mer Primaire et Terre Finale. Annule les faiblesses du type Vol."
    },
    {
