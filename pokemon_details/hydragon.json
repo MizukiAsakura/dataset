@@ -1,0 +1,28 @@
+{
+    "number": 882,
+    "name": "Hydragon",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water",
+                "dragon"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/dracovish.jpg",
+            "base": {
+                "hp": 90,
+                "attack": 90,
+                "defense": 100,
+                "spAttack": 70,
+                "spDefense": 80,
+                "speed": 75
+            },
+            "description": "La force de ses pattes et de ses m\u00e2choires le rendait presque invincible, mais \u00e0 trop chasser ses proies, celles-ci ont disparu, et lui avec.",
+            "abilities": [
+                2,
+                227,
+                30
+            ]
+        }
+    ]
+}

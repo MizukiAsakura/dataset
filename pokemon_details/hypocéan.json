@@ -1,0 +1,27 @@
+{
+    "number": 117,
+    "name": "Hypoc\u00e9an",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/seadra.jpg",
+            "base": {
+                "hp": 55,
+                "attack": 65,
+                "defense": 95,
+                "spAttack": 95,
+                "spDefense": 45,
+                "speed": 85
+            },
+            "description": "Hypoc\u00e9an s'accroche aux r\u00e9cifs de corail avant de s'endormir. Les p\u00eacheurs de coraux se font parfois piquer par les aiguillons de ce Pok\u00e9mon lorsqu'ils ne font pas attention.",
+            "abilities": [
+                217,
+                254,
+                182
+            ]
+        }
+    ]
+}

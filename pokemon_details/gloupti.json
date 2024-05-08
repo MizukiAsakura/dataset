@@ -1,0 +1,27 @@
+{
+    "number": 316,
+    "name": "Gloupti",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "poison"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/gulpin.jpg",
+            "base": {
+                "hp": 70,
+                "attack": 43,
+                "defense": 53,
+                "spAttack": 43,
+                "spDefense": 53,
+                "speed": 40
+            },
+            "description": "Virtuellement, le corps de GLOUPTI n'est qu'un estomac. Il est capable d'avaler des objets aussi gros que lui. L'estomac de ce POK\u00e9MON contient un fluide sp\u00e9cial qui lui permet de dig\u00e9rer n'importe quoi.",
+            "abilities": [
+                261,
+                137,
+                135
+            ]
+        }
+    ]
+}

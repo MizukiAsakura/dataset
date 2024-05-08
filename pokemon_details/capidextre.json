@@ -1,0 +1,27 @@
+{
+    "number": 424,
+    "name": "Capidextre",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/ambipom.jpg",
+            "base": {
+                "hp": 75,
+                "attack": 100,
+                "defense": 66,
+                "spAttack": 60,
+                "spDefense": 66,
+                "speed": 115
+            },
+            "description": "Il se nourrit de noix qu'il \u00e9pluche avec ses deux queues habiles. Il utilise de moins en moins ses bras. Ils travaillent en grandes colonies et relient leurs queues pour former un anneau en signe d'amiti\u00e9.",
+            "abilities": [
+                268,
+                235,
+                187
+            ]
+        }
+    ]
+}

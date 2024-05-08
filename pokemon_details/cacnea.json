@@ -1,0 +1,26 @@
+{
+    "number": 331,
+    "name": "Cacnea",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "grass"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/cacnea.jpg",
+            "base": {
+                "hp": 50,
+                "attack": 85,
+                "defense": 40,
+                "spAttack": 85,
+                "spDefense": 40,
+                "speed": 35
+            },
+            "description": "CACNEA vit dans les milieux arides, tels les d\u00e9serts. Sa fleur lib\u00e8re un parfum ent\u00eatant pour attirer sa proie. Lorsqu'elle s'approche, ce POK\u00e9MON envoie des \u00e9pines pour la neutraliser.",
+            "abilities": [
+                295,
+                2
+            ]
+        }
+    ]
+}

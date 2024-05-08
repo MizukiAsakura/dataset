@@ -1,0 +1,26 @@
+{
+    "number": 768,
+    "name": "Sarmura\u00ef",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "bug",
+                "water"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/golisopod.jpg",
+            "base": {
+                "hp": 75,
+                "attack": 125,
+                "defense": 140,
+                "spAttack": 60,
+                "spDefense": 90,
+                "speed": 40
+            },
+            "description": "Il ne recule devant rien pour gagner. Il profite de l\u2019inattention de son adversaire pour lui administrer un coup d\u00e9cisif de ses petites griffes ant\u00e9rieures.",
+            "abilities": [
+                242
+            ]
+        }
+    ]
+}

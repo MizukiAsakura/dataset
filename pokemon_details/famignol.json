@@ -1,0 +1,48 @@
+{
+    "number": 925,
+    "name": "Famignol",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/maushold.jpg",
+            "base": {
+                "hp": 74,
+                "attack": 75,
+                "defense": 70,
+                "spAttack": 65,
+                "spDefense": 75,
+                "speed": 111
+            },
+            "description": "Les deux grands se battent et prot\u00e8gent les petits. Face \u00e0 des adversaires puissants, ils prennent tous part au combat.",
+            "abilities": [
+                129,
+                31,
+                268
+            ]
+        },
+        {
+            "name": "famille de quatre",
+            "types": [
+                "normal"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/maushold.jpg",
+            "base": {
+                "hp": 74,
+                "attack": 75,
+                "defense": 70,
+                "spAttack": 65,
+                "spDefense": 75,
+                "speed": 111
+            },
+            "description": "Les deux grands se battent et prot\u00e8gent les petits. Face \u00e0 des adversaires puissants, ils prennent tous part au combat.",
+            "abilities": [
+                129,
+                31,
+                268
+            ]
+        }
+    ]
+}

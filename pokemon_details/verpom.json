@@ -1,0 +1,28 @@
+{
+    "number": 840,
+    "name": "Verpom",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "grass",
+                "dragon"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/applin.jpg",
+            "base": {
+                "hp": 40,
+                "attack": 40,
+                "defense": 80,
+                "spAttack": 40,
+                "spDefense": 40,
+                "speed": 20
+            },
+            "description": "Il vit toujours dans sa pomme. S\u2019il croise un Pok\u00e9mon oiseau, son pr\u00e9dateur naturel, il se fait passer pour un simple fruit pour se prot\u00e9ger.",
+            "abilities": [
+                190,
+                135,
+                200
+            ]
+        }
+    ]
+}

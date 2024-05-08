@@ -1,0 +1,44 @@
+{
+    "number": 999,
+    "name": "Mordudor",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "ghost"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/gimmighoul.jpg",
+            "base": {
+                "hp": 45,
+                "attack": 30,
+                "defense": 70,
+                "spAttack": 75,
+                "spDefense": 70,
+                "speed": 10
+            },
+            "description": "Il vit dans un vieux coffre au tr\u00e9sor. On le trouve parfois dans un coin chez l'antiquaire, quand personne ne s'est aper\u00e7u que c'\u00e9tait un Pok\u00e9mon",
+            "abilities": [
+                209
+            ]
+        },
+        {
+            "name": "marche",
+            "types": [
+                "ghost"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/gimmighoul-roaming.jpg",
+            "base": {
+                "hp": 45,
+                "attack": 30,
+                "defense": 25,
+                "spAttack": 75,
+                "spDefense": 45,
+                "speed": 80
+            },
+            "description": "Il vit dans un vieux coffre au tr\u00e9sor. On le trouve parfois dans un coin chez l'antiquaire, quand personne ne s'est aper\u00e7u que c'\u00e9tait un Pok\u00e9mon",
+            "abilities": [
+                209
+            ]
+        }
+    ]
+}

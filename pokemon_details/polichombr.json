@@ -1,0 +1,27 @@
+{
+    "number": 353,
+    "name": "Polichombr",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "ghost"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/shuppet.jpg",
+            "base": {
+                "hp": 44,
+                "attack": 75,
+                "defense": 35,
+                "spAttack": 63,
+                "spDefense": 33,
+                "speed": 45
+            },
+            "description": "Les POLICHOMBR sont attir\u00e9s par les sentiments de jalousie et les esprits revanchards. Si quelqu'un veut se venger, ces POK\u00e9MON apparaissent en nu\u00e9e et s'alignent devant la porte des gens concern\u00e9s.",
+            "abilities": [
+                155,
+                126,
+                72
+            ]
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "number": 170,
+    "name": "Loupio",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water",
+                "electrik"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/chinchou.jpg",
+            "base": {
+                "hp": 75,
+                "attack": 38,
+                "defense": 38,
+                "spAttack": 56,
+                "spDefense": 56,
+                "speed": 67
+            },
+            "description": "LOUPIO rel\u00e2che des charges \u00e9lectriques positives et n\u00e9gatives de ses deux antennes pour mettre sa proie K.O. Ce POK\u00e9MON illumine ses ampoules \u00e9lectriques pour communiquer avec ses cong\u00e9n\u00e8res.",
+            "abilities": [
+                2,
+                165,
+                3
+            ]
+        }
+    ]
+}

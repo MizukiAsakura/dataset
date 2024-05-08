@@ -1,0 +1,28 @@
+{
+    "number": 756,
+    "name": "Lampignon",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "grass",
+                "fairy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/shiinotic.jpg",
+            "base": {
+                "hp": 60,
+                "attack": 45,
+                "defense": 80,
+                "spAttack": 90,
+                "spDefense": 100,
+                "speed": 30
+            },
+            "description": "Il endort ses victimes puis aspire leur \u00e9nergie vitale avec ses doigts. Il aide ses cong\u00e9n\u00e8res affaiblis en partageant cette \u00e9nergie avec eux.",
+            "abilities": [
+                165,
+                220,
+                83
+            ]
+        }
+    ]
+}

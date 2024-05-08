@@ -1,0 +1,27 @@
+{
+    "number": 326,
+    "name": "Groret",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "psy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/grumpig.jpg",
+            "base": {
+                "hp": 80,
+                "attack": 45,
+                "defense": 65,
+                "spAttack": 90,
+                "spDefense": 110,
+                "speed": 80
+            },
+            "description": "GRORET utilise les perles noires situ\u00e9es sur son corps pour amplifier la puissance de ses ondes psychiques et prendre le contr\u00f4le de son ennemi. Quand il utilise son pouvoir sp\u00e9cial, ce POK\u00e9MON a du mal \u00e0 respirer.",
+            "abilities": [
+                157,
+                272,
+                135
+            ]
+        }
+    ]
+}

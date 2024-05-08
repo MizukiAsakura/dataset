@@ -1,0 +1,27 @@
+{
+    "number": 830,
+    "name": "Blancoton",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "grass"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/eldegoss.jpg",
+            "base": {
+                "hp": 60,
+                "attack": 50,
+                "defense": 90,
+                "spAttack": 80,
+                "spDefense": 120,
+                "speed": 60
+            },
+            "description": "Les graines de son duvet sont remplies de nutriments. Elles sont emport\u00e9es par le vent et redonnent vitalit\u00e9 aux plantes et aux Pok\u00e9mon.",
+            "abilities": [
+                101,
+                241,
+                220
+            ]
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "number": 359,
+    "name": "Absol",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "dark"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/absol.jpg",
+            "base": {
+                "hp": 65,
+                "attack": 130,
+                "defense": 60,
+                "spAttack": 75,
+                "spDefense": 60,
+                "speed": 75
+            },
+            "description": "Chaque fois qu'ABSOL appara\u00eet devant des gens, une catastrophe comme un tremblement de terre ou un raz de mar\u00e9e survient peu de temps apr\u00e8s. Il est devenu tristement c\u00e9l\u00e8bre sous l'appellation de POK\u00e9MON d\u00e9sastreux.",
+            "abilities": [
+                239,
+                51,
+                59
+            ]
+        }
+    ]
+}

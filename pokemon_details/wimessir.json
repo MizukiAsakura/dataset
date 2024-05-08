@@ -1,0 +1,50 @@
+{
+    "number": 876,
+    "name": "Wimessir",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "psy",
+                "normal"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/indeedee-male.jpg",
+            "base": {
+                "hp": 60,
+                "attack": 65,
+                "defense": 55,
+                "spAttack": 105,
+                "spDefense": 95,
+                "speed": 95
+            },
+            "description": "Il peut sentir les \u00e9motions d\u2019autrui avec ses cornes. Le m\u00e2le reste aux c\u00f4t\u00e9s de son Dresseur pour s\u2019occuper de lui, \u00e0 l\u2019image d\u2019un domestique.",
+            "abilities": [
+                26,
+                265,
+                81
+            ]
+        },
+        {
+            "name": "femelle",
+            "types": [
+                "psy",
+                "normal"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/indeedee-female.jpg",
+            "base": {
+                "hp": 70,
+                "attack": 55,
+                "defense": 65,
+                "spAttack": 95,
+                "spDefense": 105,
+                "speed": 85
+            },
+            "description": "Ils font l\u2019impossible pour s\u2019attirer la gratitude des humains et des Pok\u00e9mon. Les femelles sont d\u2019excellentes gardiennes d\u2019enfants.",
+            "abilities": [
+                272,
+                265,
+                81
+            ]
+        }
+    ]
+}

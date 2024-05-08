@@ -1,0 +1,26 @@
+{
+    "number": 412,
+    "name": "Cheniti",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "bug"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/burmy.jpg",
+            "base": {
+                "hp": 40,
+                "attack": 29,
+                "defense": 45,
+                "spAttack": 29,
+                "spDefense": 45,
+                "speed": 36
+            },
+            "description": "Pour se prot\u00e9ger des vents glac\u00e9s de l'hiver, il s'est tiss\u00e9 une cape de feuilles et de brindilles. S'il perd sa cape au combat, il en tisse rapidement une nouvelle avec ce qui lui tombe sous la main.",
+            "abilities": [
+                186,
+                106
+            ]
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "number": 944,
+    "name": "Gribouraigne",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "poison",
+                "normal"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/shroodle.jpg",
+            "base": {
+                "hp": 40,
+                "attack": 65,
+                "defense": 35,
+                "spAttack": 40,
+                "spDefense": 35,
+                "speed": 75
+            },
+            "description": "Afin de maintenir ses adversaires hors de son territoire, il dessine des symboles autour de son nid \u00e0 l'aide d'une toxine \u00e0 l'odeur irritante.",
+            "abilities": [
+                91,
+                210,
+                116
+            ]
+        }
+    ]
+}

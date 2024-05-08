@@ -1,0 +1,26 @@
+{
+    "number": 669,
+    "name": "Flab\u00e9b\u00e9",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fairy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/flabebe.jpg",
+            "base": {
+                "hp": 44,
+                "attack": 38,
+                "defense": 39,
+                "spAttack": 61,
+                "spDefense": 79,
+                "speed": 42
+            },
+            "description": "Bien qu\u2019il soit vuln\u00e9rable sans le pouvoir de sa fleur, il voyagera jusqu\u2019\u00e0 en trouver une de la couleur et de la forme qu\u2019il pr\u00e9f\u00e8re.",
+            "abilities": [
+                121,
+                264
+            ]
+        }
+    ]
+}

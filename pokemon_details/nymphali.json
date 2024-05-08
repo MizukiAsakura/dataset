@@ -1,0 +1,26 @@
+{
+    "number": 700,
+    "name": "Nymphali",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fairy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/sylveon.jpg",
+            "base": {
+                "hp": 95,
+                "attack": 65,
+                "defense": 65,
+                "spAttack": 110,
+                "spDefense": 130,
+                "speed": 60
+            },
+            "description": "Gr\u00e2ce \u00e0 ses antennes semblables \u00e0 des rubans, il peut \u00e9mettre des ondes neutralisant l\u2019hostilit\u00e9 et ainsi endormir la m\u00e9fiance de ses proies.",
+            "abilities": [
+                158,
+                204
+            ]
+        }
+    ]
+}

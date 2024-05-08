@@ -1,0 +1,25 @@
+{
+    "number": 491,
+    "name": "Darkrai",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "dark"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/darkrai.jpg",
+            "base": {
+                "hp": 70,
+                "attack": 90,
+                "defense": 90,
+                "spAttack": 135,
+                "spDefense": 90,
+                "speed": 125
+            },
+            "description": "Ce Pok\u00e9mon a le pouvoir de plonger les gens dans un profond sommeil pour les forcer \u00e0 r\u00eaver. Il est actif les nuits de nouvelle lune.",
+            "abilities": [
+                172
+            ]
+        }
+    ]
+}

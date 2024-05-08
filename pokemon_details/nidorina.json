@@ -1,0 +1,27 @@
+{
+    "number": 30,
+    "name": "Nidorina",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "poison"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/nidorina.jpg",
+            "base": {
+                "hp": 70,
+                "attack": 62,
+                "defense": 67,
+                "spAttack": 55,
+                "spDefense": 55,
+                "speed": 56
+            },
+            "description": "Lorsqu'un Nidorina est avec ses amis ou sa famille, il replie ses pointes pour ne pas blesser ses proches. Ce Pok\u00e9mon devient vite nerveux lorsqu'il est s\u00e9par\u00e9 de son groupe.",
+            "abilities": [
+                217,
+                244,
+                8
+            ]
+        }
+    ]
+}

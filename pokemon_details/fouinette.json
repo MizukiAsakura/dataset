@@ -1,0 +1,27 @@
+{
+    "number": 161,
+    "name": "Fouinette",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/sentret.jpg",
+            "base": {
+                "hp": 35,
+                "attack": 46,
+                "defense": 34,
+                "spAttack": 35,
+                "spDefense": 45,
+                "speed": 20
+            },
+            "description": "Lorsqu'un FOUINETTE dort, un autre monte la garde. La sentinelle r\u00e9veille les autres au moindre signe de danger. Si un de ces POK\u00e9MON est s\u00e9par\u00e9 de sa meute, il arr\u00eate de dormir, car il a peur.",
+            "abilities": [
+                128,
+                240,
+                126
+            ]
+        }
+    ]
+}

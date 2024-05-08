@@ -1,0 +1,28 @@
+{
+    "number": 178,
+    "name": "Xatu",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fly",
+                "psy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/xatu.jpg",
+            "base": {
+                "hp": 65,
+                "attack": 75,
+                "defense": 70,
+                "spAttack": 95,
+                "spDefense": 70,
+                "speed": 95
+            },
+            "description": "On sait que XATU se tient toute la journ\u00e9e debout, les yeux perdus vers l'horizon. Certaines personnes le v\u00e9n\u00e8rent comme un POK\u00e9MON mystique, persuad\u00e9es que XATU a le pouvoir de pr\u00e9dire l'avenir.",
+            "abilities": [
+                265,
+                171,
+                180
+            ]
+        }
+    ]
+}

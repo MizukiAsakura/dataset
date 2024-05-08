@@ -1,0 +1,27 @@
+{
+    "number": 531,
+    "name": "Nanm\u00e9ou\u00efe",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/audino.jpg",
+            "base": {
+                "hp": 103,
+                "attack": 60,
+                "defense": 86,
+                "spAttack": 60,
+                "spDefense": 86,
+                "speed": 50
+            },
+            "description": "Ce Pok\u00e9mon gentil est capable de deviner les \u00e9motions et l\u2019\u00e9tat de sant\u00e9 des autres rien qu\u2019en les touchant avec ses antennes.",
+            "abilities": [
+                60,
+                241,
+                169
+            ]
+        }
+    ]
+}

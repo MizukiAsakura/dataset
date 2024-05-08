@@ -1,0 +1,27 @@
+{
+    "number": 283,
+    "name": "Arakdo",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "bug",
+                "water"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/surskit.jpg",
+            "base": {
+                "hp": 40,
+                "attack": 30,
+                "defense": 32,
+                "spAttack": 50,
+                "spDefense": 52,
+                "speed": 65
+            },
+            "description": "Du bout de ses pattes, ARAKDO s\u00e9cr\u00e8te une huile lui permettant de marcher sur l'eau, comme s'il glissait. Ce POK\u00e9MON se nourrit des organismes microscopiques pr\u00e9sents dans les lacs et les \u00e9tangs.",
+            "abilities": [
+                134,
+                83
+            ]
+        }
+    ]
+}

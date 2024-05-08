@@ -1,0 +1,26 @@
+{
+    "number": 805,
+    "name": "Ama-Ama",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "rock",
+                "steel"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/stakataka.jpg",
+            "base": {
+                "hp": 61,
+                "attack": 131,
+                "defense": 211,
+                "spAttack": 53,
+                "spDefense": 101,
+                "speed": 13
+            },
+            "description": "On suppose que cette myst\u00e9rieuse forme de vie est une Ultra-Chim\u00e8re. Si un mur se met en branle et vous attaque sans pr\u00e9venir, c\u2019est lui.",
+            "abilities": [
+                41
+            ]
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "number": 455,
+    "name": "Vortente",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "grass"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/carnivine.jpg",
+            "base": {
+                "hp": 74,
+                "attack": 100,
+                "defense": 72,
+                "spAttack": 90,
+                "spDefense": 72,
+                "speed": 46
+            },
+            "description": "Il attire sa proie avec sa salive odorante avant de la croquer. Il lui faut une journ\u00e9e pour l'avaler. On dirait une plante, pendu aux branches avec ses tentacules. Il attend sa proie la bouche ouverte.",
+            "abilities": [
+                162
+            ]
+        }
+    ]
+}

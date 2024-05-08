@@ -1,0 +1,26 @@
+{
+    "number": 798,
+    "name": "Katagami",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "grass",
+                "steel"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/kartana.jpg",
+            "base": {
+                "hp": 59,
+                "attack": 181,
+                "defense": 131,
+                "spAttack": 59,
+                "spDefense": 31,
+                "speed": 109
+            },
+            "description": "Une Ultra-Chim\u00e8re venue de l\u2019Ultra-Br\u00e8che. Elle ne semble pas agressive, bien que son corps tout entier soit une arme tranchante.",
+            "abilities": [
+                41
+            ]
+        }
+    ]
+}

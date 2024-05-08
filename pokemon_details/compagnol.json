@@ -1,0 +1,27 @@
+{
+    "number": 924,
+    "name": "Compagnol",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/tandemaus.jpg",
+            "base": {
+                "hp": 50,
+                "attack": 50,
+                "defense": 45,
+                "spAttack": 40,
+                "spDefense": 45,
+                "speed": 75
+            },
+            "description": "Ces Pok\u00e9mon vont toujours par paire. Lorsqu'ils trouvent de la nourriture, ils la divisent en deux parts \u00e9gales avant de la d\u00e9guster.",
+            "abilities": [
+                128,
+                235,
+                272
+            ]
+        }
+    ]
+}

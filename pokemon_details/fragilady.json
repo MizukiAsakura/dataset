@@ -1,0 +1,49 @@
+{
+    "number": 549,
+    "name": "Fragilady",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "grass"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/lilligant.jpg",
+            "base": {
+                "hp": 70,
+                "attack": 60,
+                "defense": 75,
+                "spAttack": 110,
+                "spDefense": 75,
+                "speed": 90
+            },
+            "description": "Le parfum de sa fleur calme les nerfs et apaise l\u2019esprit. Il varie l\u00e9g\u00e8rement selon la composition de la terre dans laquelle Fragilady a pouss\u00e9.",
+            "abilities": [
+                56,
+                8,
+                118
+            ]
+        },
+        {
+            "name": "hisui",
+            "types": [
+                "grass",
+                "fight"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/lilligant-hisuian.jpg",
+            "base": {
+                "hp": 70,
+                "attack": 105,
+                "defense": 75,
+                "spAttack": 50,
+                "spDefense": 75,
+                "speed": 105
+            },
+            "description": "Le parfum de sa fleur calme les nerfs et apaise l\u2019esprit. Il varie l\u00e9g\u00e8rement selon la composition de la terre dans laquelle Fragilady a pouss\u00e9.",
+            "abilities": [
+                56,
+                272,
+                118
+            ]
+        }
+    ]
+}

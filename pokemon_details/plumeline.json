@@ -1,0 +1,86 @@
+{
+    "number": 741,
+    "name": "Plumeline",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fire",
+                "fly"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/oricorio-baile.jpg",
+            "base": {
+                "hp": 75,
+                "attack": 70,
+                "defense": 70,
+                "spAttack": 98,
+                "spDefense": 70,
+                "speed": 93
+            },
+            "description": "Il envo\u00fbte ses ennemis avec une danse fougueuse, et profite de leur inattention pour les noyer sous un torrent de flammes.",
+            "abilities": [
+                84
+            ]
+        },
+        {
+            "name": "pom-pom",
+            "types": [
+                "electrik",
+                "fly"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/oricorio-pom-pom.jpg",
+            "base": {
+                "hp": 75,
+                "attack": 70,
+                "defense": 70,
+                "spAttack": 98,
+                "spDefense": 70,
+                "speed": 93
+            },
+            "description": "Il envo\u00fbte ses ennemis avec une danse fougueuse, et profite de leur inattention pour les noyer sous un torrent de flammes.",
+            "abilities": [
+                84
+            ]
+        },
+        {
+            "name": "hula",
+            "types": [
+                "psy",
+                "fly"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/oricorio-pau.jpg",
+            "base": {
+                "hp": 75,
+                "attack": 70,
+                "defense": 70,
+                "spAttack": 98,
+                "spDefense": 70,
+                "speed": 93
+            },
+            "description": "Il envo\u00fbte ses ennemis avec une danse fougueuse, et profite de leur inattention pour les noyer sous un torrent de flammes.",
+            "abilities": [
+                84
+            ]
+        },
+        {
+            "name": "buyo",
+            "types": [
+                "ghost",
+                "fly"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/oricorio-sensu.jpg",
+            "base": {
+                "hp": 75,
+                "attack": 70,
+                "defense": 70,
+                "spAttack": 98,
+                "spDefense": 70,
+                "speed": 93
+            },
+            "description": "Il envo\u00fbte ses ennemis avec une danse fougueuse, et profite de leur inattention pour les noyer sous un torrent de flammes.",
+            "abilities": [
+                84
+            ]
+        }
+    ]
+}

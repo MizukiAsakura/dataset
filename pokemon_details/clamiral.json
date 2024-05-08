@@ -1,0 +1,47 @@
+{
+    "number": 503,
+    "name": "Clamiral",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/samurott.jpg",
+            "base": {
+                "hp": 95,
+                "attack": 100,
+                "defense": 85,
+                "spAttack": 108,
+                "spDefense": 70,
+                "speed": 70
+            },
+            "description": "Il peut terrasser ses ennemis d\u2019un coup de la lame ench\u00e2ss\u00e9e dans son armure, et les faire taire d\u2019un seul regard.",
+            "abilities": [
+                282,
+                66
+            ]
+        },
+        {
+            "name": "hisui",
+            "types": [
+                "water",
+                "dark"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/samurott-hisuian.jpg",
+            "base": {
+                "hp": 90,
+                "attack": 108,
+                "defense": 80,
+                "spAttack": 100,
+                "spDefense": 65,
+                "speed": 85
+            },
+            "description": "Il peut terrasser ses ennemis d\u2019un coup de la lame ench\u00e2ss\u00e9e dans son armure, et les faire taire d\u2019un seul regard.",
+            "abilities": [
+                282,
+                152
+            ]
+        }
+    ]
+}

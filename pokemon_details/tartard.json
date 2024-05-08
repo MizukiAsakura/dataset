@@ -1,0 +1,28 @@
+{
+    "number": 62,
+    "name": "Tartard",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water",
+                "fight"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/poliwrath.jpg",
+            "base": {
+                "hp": 90,
+                "attack": 95,
+                "defense": 95,
+                "spAttack": 70,
+                "spDefense": 90,
+                "speed": 70
+            },
+            "description": "Les muscles solides et surd\u00e9velopp\u00e9s de Tartard ne se fatiguent jamais, quels que soient les efforts qu'il produit. Ce Pok\u00e9mon est tellement endurant qu'il peut traverser un oc\u00e9an \u00e0 la nage avec une \u00e9tonnante facilit\u00e9.",
+            "abilities": [
+                2,
+                182,
+                57
+            ]
+        }
+    ]
+}

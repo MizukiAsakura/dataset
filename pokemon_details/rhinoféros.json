@@ -1,0 +1,28 @@
+{
+    "number": 112,
+    "name": "Rhinof\u00e9ros",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "ground",
+                "rock"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/rhydon.jpg",
+            "base": {
+                "hp": 105,
+                "attack": 130,
+                "defense": 120,
+                "spAttack": 45,
+                "spDefense": 45,
+                "speed": 40
+            },
+            "description": "La corne de Rhinof\u00e9ros peut m\u00eame casser du diamant brut. Et avec un simple coup de queue, il peut d\u00e9truire un b\u00e2timent. La peau de ce Pok\u00e9mon est incroyablement dure. Un boulet de canon ne lui ferait m\u00eame pas une \u00e9gratignure.",
+            "abilities": [
+                199,
+                276,
+                271
+            ]
+        }
+    ]
+}

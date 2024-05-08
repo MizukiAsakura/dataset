@@ -1,0 +1,26 @@
+{
+    "number": 672,
+    "name": "Cabriolaine",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "grass"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/skiddo.jpg",
+            "base": {
+                "hp": 66,
+                "attack": 65,
+                "defense": 48,
+                "spAttack": 62,
+                "spDefense": 57,
+                "speed": 52
+            },
+            "description": "Tant qu\u2019il a de l\u2019eau et du soleil en abondance, ce Pok\u00e9mon n\u2019a pas besoin de nourriture. Les feuilles sur son dos produisent son \u00e9nergie par photosynth\u00e8se.",
+            "abilities": [
+                141,
+                280
+            ]
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "number": 238,
+    "name": "Lippouti",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "ice",
+                "psy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/smoochum.jpg",
+            "base": {
+                "hp": 45,
+                "attack": 30,
+                "defense": 15,
+                "spAttack": 85,
+                "spDefense": 65,
+                "speed": 65
+            },
+            "description": "LIPPOUTI court dans tous les sens et tombe assez souvent. Quand il en a l'occasion, il regarde son reflet dans l'eau pour v\u00e9rifier si son visage n'a pas \u00e9t\u00e9 sali par ses chutes.",
+            "abilities": [
+                35,
+                222,
+                207
+            ]
+        }
+    ]
+}

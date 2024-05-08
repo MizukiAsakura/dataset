@@ -1,0 +1,27 @@
+{
+    "number": 376,
+    "name": "M\u00e9talosse",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "steel",
+                "psy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/metagross.jpg",
+            "base": {
+                "hp": 80,
+                "attack": 135,
+                "defense": 130,
+                "spAttack": 95,
+                "spDefense": 90,
+                "speed": 70
+            },
+            "description": "METALOSSE dispose de quatre cerveaux. Combin\u00e9s, ces cerveaux peuvent effectuer des calculs tr\u00e8s complexes plus vite qu'un ordinateur. Ce POK\u00e9MON peut flotter dans l'air en repliant ses jambes.",
+            "abilities": [
+                73,
+                163
+            ]
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "number": 321,
+    "name": "Wailord",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/wailord.jpg",
+            "base": {
+                "hp": 170,
+                "attack": 90,
+                "defense": 45,
+                "spAttack": 90,
+                "spDefense": 45,
+                "speed": 60
+            },
+            "description": "WAILORD est le plus grand POK\u00e9MON d\u00e9couvert \u00e0 ce jour. Ce POK\u00e9MON g\u00e9ant nage lascivement dans les grandes \u00e9tendues maritimes, avalant d'\u00e9normes quantit\u00e9s de nourriture en une seule de ses monstrueuses bouch\u00e9es.",
+            "abilities": [
+                147,
+                35,
+                223
+            ]
+        }
+    ]
+}

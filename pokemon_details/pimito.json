@@ -1,0 +1,27 @@
+{
+    "number": 951,
+    "name": "Pimito",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "grass"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/capsakid.jpg",
+            "base": {
+                "hp": 50,
+                "attack": 62,
+                "defense": 40,
+                "spAttack": 62,
+                "spDefense": 40,
+                "speed": 50
+            },
+            "description": "Une fois tomb\u00e9e, l'incisive de ce Pok\u00e9mon sert \u00e0 relever les plats de la r\u00e9gion de Paldea.",
+            "abilities": [
+                56,
+                155,
+                169
+            ]
+        }
+    ]
+}

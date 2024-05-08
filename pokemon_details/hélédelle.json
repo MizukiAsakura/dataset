@@ -1,0 +1,27 @@
+{
+    "number": 277,
+    "name": "H\u00e9l\u00e9delle",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal",
+                "fly"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/swellow.jpg",
+            "base": {
+                "hp": 60,
+                "attack": 85,
+                "defense": 60,
+                "spAttack": 75,
+                "spDefense": 50,
+                "speed": 125
+            },
+            "description": "HELEDELLE vole dans les cieux en dessinant de grands arcs. Ce POK\u00e9MON plonge en piqu\u00e9 d\u00e8s qu'il rep\u00e8re sa proie. Il attrape fermement la malheureuse cible dans ses serres, emp\u00eachant toute fuite.",
+            "abilities": [
+                77,
+                232
+            ]
+        }
+    ]
+}

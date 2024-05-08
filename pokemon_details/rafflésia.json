@@ -1,0 +1,27 @@
+{
+    "number": 45,
+    "name": "Raffl\u00e9sia",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "grass",
+                "poison"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/vileplume.jpg",
+            "base": {
+                "hp": 75,
+                "attack": 80,
+                "defense": 85,
+                "spAttack": 110,
+                "spDefense": 90,
+                "speed": 50
+            },
+            "description": "Le pollen toxique de Rafflesia d\u00e9clenche d'affreuses r\u00e9actions allergiques. C'est pourquoi il est conseill\u00e9 de ne jamais s'approcher des jolies fleurs trouv\u00e9es dans la jungle, m\u00eame lorsqu'elles sont magnifiques.",
+            "abilities": [
+                56,
+                220
+            ]
+        }
+    ]
+}

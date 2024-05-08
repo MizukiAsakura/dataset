@@ -1,0 +1,28 @@
+{
+    "number": 214,
+    "name": "Scarhino",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "bug",
+                "fight"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/heracross.jpg",
+            "base": {
+                "hp": 80,
+                "attack": 125,
+                "defense": 75,
+                "spAttack": 40,
+                "spDefense": 95,
+                "speed": 85
+            },
+            "description": "SCARHINO charge ses ennemis en ligne droite, se glisse dessous, les attrape et les projette violemment d'un coup de sa puissante corne. Ce POK\u00e9MON est tellement fort qu'il pourrait d\u00e9raciner un arbre.",
+            "abilities": [
+                77,
+                111,
+                151
+            ]
+        }
+    ]
+}

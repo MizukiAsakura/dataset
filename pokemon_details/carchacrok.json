@@ -1,0 +1,27 @@
+{
+    "number": 445,
+    "name": "Carchacrok",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "dragon",
+                "ground"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/garchomp.jpg",
+            "base": {
+                "hp": 108,
+                "attack": 130,
+                "defense": 95,
+                "spAttack": 80,
+                "spDefense": 85,
+                "speed": 102
+            },
+            "description": "Quand il se recroqueville et \u00e9tend ses ailes, on dirait un chasseur. Sa vitesse est supersonique. Il vole \u00e0 la vitesse d'un avion \u00e0 r\u00e9action et ne l\u00e2che jamais sa proie.",
+            "abilities": [
+                294,
+                202
+            ]
+        }
+    ]
+}

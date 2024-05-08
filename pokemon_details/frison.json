@@ -1,0 +1,27 @@
+{
+    "number": 626,
+    "name": "Frison",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/bouffalant.jpg",
+            "base": {
+                "hp": 95,
+                "attack": 110,
+                "defense": 95,
+                "spAttack": 40,
+                "spDefense": 95,
+                "speed": 55
+            },
+            "description": "Les Frison vivent en troupeau d\u2019une vingtaine d\u2019individus. Pour une raison inconnue, si l\u2019un d\u2019eux trahit le groupe, il perd sa crini\u00e8re.",
+            "abilities": [
+                271,
+                141,
+                17
+            ]
+        }
+    ]
+}

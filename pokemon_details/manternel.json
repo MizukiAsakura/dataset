@@ -1,0 +1,28 @@
+{
+    "number": 542,
+    "name": "Manternel",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "bug",
+                "grass"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/leavanny.jpg",
+            "base": {
+                "hp": 75,
+                "attack": 103,
+                "defense": 80,
+                "spAttack": 70,
+                "spDefense": 80,
+                "speed": 92
+            },
+            "description": "Il r\u00e9chauffe les \u0152ufs avec la chaleur de l\u2019humus. Il fabrique des langes pour les Larveyette avec des feuilles.",
+            "abilities": [
+                111,
+                56,
+                106
+            ]
+        }
+    ]
+}

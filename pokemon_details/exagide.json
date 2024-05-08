@@ -1,0 +1,26 @@
+{
+    "number": 681,
+    "name": "Exagide",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "steel",
+                "ghost"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/aegislash.jpg",
+            "base": {
+                "hp": 60,
+                "attack": 50,
+                "defense": 150,
+                "spAttack": 50,
+                "spDefense": 150,
+                "speed": 60
+            },
+            "description": "Il peut d\u00e9celer les qualit\u00e9s r\u00e9galiennes dans les \u00e2mes humaines. On raconte que celui ou celle qui obtient sa faveur deviendra \u00e0 coup s\u00fbr roi ou reine.",
+            "abilities": [
+                87
+            ]
+        }
+    ]
+}

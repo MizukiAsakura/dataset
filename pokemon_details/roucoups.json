@@ -1,0 +1,28 @@
+{
+    "number": 17,
+    "name": "Roucoups",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal",
+                "fly"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/pidgeotto.jpg",
+            "base": {
+                "hp": 63,
+                "attack": 60,
+                "defense": 55,
+                "spAttack": 50,
+                "spDefense": 50,
+                "speed": 71
+            },
+            "description": "Roucoups utilise une vaste surface pour son territoire. Ce Pok\u00e9mon surveille r\u00e9guli\u00e8rement son espace a\u00e9rien. Si quelqu'un p\u00e9n\u00e8tre sur son territoire, il corrige l'ennemi sans piti\u00e9 d'un coup de ses terribles serres.",
+            "abilities": [
+                240,
+                211,
+                58
+            ]
+        }
+    ]
+}

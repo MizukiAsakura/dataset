@@ -1,0 +1,49 @@
+{
+    "number": 50,
+    "name": "Taupiqueur",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "ground"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/diglett.jpg",
+            "base": {
+                "hp": 10,
+                "attack": 55,
+                "defense": 25,
+                "spAttack": 35,
+                "spDefense": 45,
+                "speed": 95
+            },
+            "description": "Les Taupiqueur sont \u00e9lev\u00e9s dans la plupart des fermes. En effet, lorsque ce Pok\u00e9mon creuse quelque part, le sol est comme labour\u00e9, pr\u00eat \u00e0 recevoir les semences. On peut alors y planter de d\u00e9licieux l\u00e9gumes.",
+            "abilities": [
+                294,
+                295,
+                124
+            ]
+        },
+        {
+            "name": "alola",
+            "types": [
+                "ground",
+                "steel"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/diglett-alolan.jpg",
+            "base": {
+                "hp": 10,
+                "attack": 55,
+                "defense": 30,
+                "spAttack": 35,
+                "spDefense": 45,
+                "speed": 90
+            },
+            "description": "Les Taupiqueur sont \u00e9lev\u00e9s dans la plupart des fermes. En effet, lorsque ce Pok\u00e9mon creuse quelque part, le sol est comme labour\u00e9, pr\u00eat \u00e0 recevoir les semences. On peut alors y planter de d\u00e9licieux l\u00e9gumes.",
+            "abilities": [
+                294,
+                173,
+                124
+            ]
+        }
+    ]
+}

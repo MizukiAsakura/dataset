@@ -1,0 +1,27 @@
+{
+    "number": 961,
+    "name": "Triopikeau",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/wugtrio.jpg",
+            "base": {
+                "hp": 35,
+                "attack": 100,
+                "defense": 50,
+                "spAttack": 50,
+                "spDefense": 70,
+                "speed": 120
+            },
+            "description": "Par le pass\u00e9, ce Pok\u00e9mon poisson a parfois \u00e9t\u00e9 consid\u00e9r\u00e9 comme une forme r\u00e9gionale de Triopikeur.",
+            "abilities": [
+                218,
+                209,
+                294
+            ]
+        }
+    ]
+}

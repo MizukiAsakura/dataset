@@ -1,0 +1,28 @@
+{
+    "number": 40,
+    "name": "Grodoudou",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal",
+                "fairy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/wigglytuff.jpg",
+            "base": {
+                "hp": 140,
+                "attack": 70,
+                "defense": 45,
+                "spAttack": 85,
+                "spDefense": 50,
+                "speed": 45
+            },
+            "description": "Grodoudou a des yeux immenses et \u00e9carquill\u00e9s. La surface de ses yeux est couverte d'une fine couche de larmes. Si de la poussi\u00e8re est projet\u00e9e dans les yeux de ce Pok\u00e9mon, elle est rapidement \u00e9vacu\u00e9e.",
+            "abilities": [
+                158,
+                33,
+                126
+            ]
+        }
+    ]
+}

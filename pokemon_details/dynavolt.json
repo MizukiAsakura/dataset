@@ -1,0 +1,27 @@
+{
+    "number": 309,
+    "name": "Dynavolt",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "electrik"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/electrike.jpg",
+            "base": {
+                "hp": 40,
+                "attack": 45,
+                "defense": 40,
+                "spAttack": 65,
+                "spDefense": 40,
+                "speed": 65
+            },
+            "description": "DYNAVOLT stocke de l'\u00e9lectricit\u00e9 dans les poils de son corps allong\u00e9. Ce POK\u00e9MON stimule les muscles de ses jambes avec des charges \u00e9lectriques, ce qui le rend capable d'acc\u00e9l\u00e9rations fulgurantes.",
+            "abilities": [
+                199,
+                260,
+                179
+            ]
+        }
+    ]
+}

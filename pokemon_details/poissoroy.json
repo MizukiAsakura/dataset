@@ -1,0 +1,27 @@
+{
+    "number": 119,
+    "name": "Poissoroy",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/seaking.jpg",
+            "base": {
+                "hp": 80,
+                "attack": 92,
+                "defense": 65,
+                "spAttack": 65,
+                "spDefense": 80,
+                "speed": 68
+            },
+            "description": "En automne, on peut voir les Poissoroy m\u00e2les effectuer des danses nuptiales dans les rivi\u00e8res pour plaire aux femelles. C'est pendant cette saison que le corps de ce Pok\u00e9mon prend ses plus belles couleurs.",
+            "abilities": [
+                134,
+                147,
+                199
+            ]
+        }
+    ]
+}

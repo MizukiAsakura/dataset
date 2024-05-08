@@ -1,0 +1,27 @@
+{
+    "number": 12,
+    "name": "Papilusion",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "bug",
+                "fly"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/butterfree.jpg",
+            "base": {
+                "hp": 60,
+                "attack": 45,
+                "defense": 50,
+                "spAttack": 90,
+                "spDefense": 80,
+                "speed": 70
+            },
+            "description": "Papilusion est tr\u00e8s dou\u00e9 pour rep\u00e9rer le d\u00e9licieux nectar qu'il butine dans les fleurs. Il peut d\u00e9tecter, extraire et transporter le nectar de fleurs situ\u00e9es \u00e0 plus de 10 km de son nid.",
+            "abilities": [
+                194,
+                161
+            ]
+        }
+    ]
+}

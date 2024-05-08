@@ -1,0 +1,27 @@
+{
+    "number": 833,
+    "name": "Kh\u00e9locrok",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/chewtle.jpg",
+            "base": {
+                "hp": 50,
+                "attack": 64,
+                "defense": 50,
+                "spAttack": 38,
+                "spDefense": 38,
+                "speed": 44
+            },
+            "description": "Il a pour habitude de mordre tout ce qui lui passe sous les yeux. On raconte qu\u2019il fait cela parce que ses incisives qui poussent le d\u00e9mangent.",
+            "abilities": [
+                227,
+                66,
+                134
+            ]
+        }
+    ]
+}

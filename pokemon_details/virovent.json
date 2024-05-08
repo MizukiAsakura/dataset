@@ -1,0 +1,27 @@
+{
+    "number": 946,
+    "name": "Virovent",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "grass",
+                "ghost"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/bramblin.jpg",
+            "base": {
+                "hp": 40,
+                "attack": 65,
+                "defense": 30,
+                "spAttack": 45,
+                "spDefense": 35,
+                "speed": 60
+            },
+            "description": "Ce Pok\u00e9mon roule \u00e0 travers les plaines arides, port\u00e9 par le vent, sans savoir lui m\u00eame ou cela va le mener. Il d\u00e9teste \u00eatre mouill\u00e9.",
+            "abilities": [
+                7,
+                154
+            ]
+        }
+    ]
+}

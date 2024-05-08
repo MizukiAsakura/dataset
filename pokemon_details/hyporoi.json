@@ -1,0 +1,28 @@
+{
+    "number": 230,
+    "name": "Hyporoi",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water",
+                "dragon"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/kingdra.jpg",
+            "base": {
+                "hp": 75,
+                "attack": 95,
+                "defense": 95,
+                "spAttack": 95,
+                "spDefense": 95,
+                "speed": 85
+            },
+            "description": "HYPOROI vit au fin fond des profondeurs oc\u00e9aniques g\u00e9n\u00e9ralement inhabit\u00e9es. On a longtemps cru que le b\u00e2illement de ce POK\u00e9MON cr\u00e9ait les tourbillons dans les oc\u00e9ans.",
+            "abilities": [
+                134,
+                254,
+                182
+            ]
+        }
+    ]
+}

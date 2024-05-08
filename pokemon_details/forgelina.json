@@ -1,0 +1,28 @@
+{
+    "number": 959,
+    "name": "Forgelina",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fairy",
+                "steel"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/tinkaton.jpg",
+            "base": {
+                "hp": 85,
+                "attack": 75,
+                "defense": 77,
+                "spAttack": 70,
+                "spDefense": 105,
+                "speed": 94
+            },
+            "description": "Ce Pok\u00e9mon s'empare de tout ce qu'il convoite en maniant sans effort son marteau de plus de 100 kg et ram\u00e8ne son butin chez lui.",
+            "abilities": [
+                46,
+                272,
+                210
+            ]
+        }
+    ]
+}

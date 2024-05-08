@@ -1,0 +1,28 @@
+{
+    "number": 198,
+    "name": "Corn\u00e8bre",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "dark",
+                "fly"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/murkrow.jpg",
+            "base": {
+                "hp": 60,
+                "attack": 85,
+                "defense": 42,
+                "spAttack": 85,
+                "spDefense": 42,
+                "speed": 91
+            },
+            "description": "Jadis, CORNEBRE \u00e9tait craint et d\u00e9test\u00e9, car on disait qu'il portait malheur. Ce POK\u00e9MON est attir\u00e9 par tout ce qui brille. Parfois, il essaye de voler les bagues des filles.",
+            "abilities": [
+                155,
+                51,
+                116
+            ]
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "number": 527,
+    "name": "Chovsourir",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "psy",
+                "fly"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/woobat.jpg",
+            "base": {
+                "hp": 65,
+                "attack": 45,
+                "defense": 43,
+                "spAttack": 55,
+                "spDefense": 43,
+                "speed": 72
+            },
+            "description": "Il s'accroche aux murs des cavernes en se servant de son nez comme ventouse. Il y laisse une trace en forme de c\u0153ur.",
+            "abilities": [
+                153,
+                169,
+                253
+            ]
+        }
+    ]
+}

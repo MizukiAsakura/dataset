@@ -1,0 +1,27 @@
+{
+    "number": 578,
+    "name": "M\u00e9ios",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "psy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/duosion.jpg",
+            "base": {
+                "hp": 65,
+                "attack": 40,
+                "defense": 50,
+                "spAttack": 125,
+                "spDefense": 60,
+                "speed": 30
+            },
+            "description": "On pr\u00e9tend que lorsque ses deux cerveaux agissent \u00e0 l\u2019unisson, la port\u00e9e de sa force mentale peut s\u2019\u00e9tendre sur un rayon d\u2019un kilom\u00e8tre.",
+            "abilities": [
+                106,
+                130,
+                241
+            ]
+        }
+    ]
+}

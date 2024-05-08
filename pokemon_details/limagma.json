@@ -1,0 +1,27 @@
+{
+    "number": 218,
+    "name": "Limagma",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fire"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/slugma.jpg",
+            "base": {
+                "hp": 40,
+                "attack": 40,
+                "defense": 40,
+                "spAttack": 70,
+                "spDefense": 40,
+                "speed": 20
+            },
+            "description": "Du magma en fusion coule dans les veines de LIMAGMA. Si ce POK\u00e9MON est refroidi, le magma se solidifie. Son corps devient alors cassant et des morceaux s'en d\u00e9tachent, diminuant ainsi sa taille.",
+            "abilities": [
+                20,
+                67,
+                24
+            ]
+        }
+    ]
+}

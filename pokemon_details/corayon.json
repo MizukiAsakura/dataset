@@ -1,0 +1,48 @@
+{
+    "number": 222,
+    "name": "Corayon",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water",
+                "rock"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/corsola.jpg",
+            "base": {
+                "hp": 65,
+                "attack": 55,
+                "defense": 95,
+                "spAttack": 65,
+                "spDefense": 95,
+                "speed": 35
+            },
+            "description": "Les branches de CORAYON brillent de sept couleurs quand elles sont expos\u00e9es \u00e0 la lumi\u00e8re du soleil. Si une des branches casse, ce POK\u00e9MON peut la faire repousser en une nuit.",
+            "abilities": [
+                8,
+                174,
+                241
+            ]
+        },
+        {
+            "name": "galar",
+            "types": [
+                "ghost"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/corsola-galarian.jpg",
+            "base": {
+                "hp": 60,
+                "attack": 55,
+                "defense": 100,
+                "spAttack": 65,
+                "spDefense": 100,
+                "speed": 30
+            },
+            "description": "Les branches de CORAYON brillent de sept couleurs quand elles sont expos\u00e9es \u00e0 la lumi\u00e8re du soleil. Si une des branches casse, ce POK\u00e9MON peut la faire repousser en une nuit.",
+            "abilities": [
+                24,
+                72
+            ]
+        }
+    ]
+}

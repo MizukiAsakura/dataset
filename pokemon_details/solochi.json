@@ -1,0 +1,26 @@
+{
+    "number": 633,
+    "name": "Solochi",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "dark",
+                "dragon"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/deino.jpg",
+            "base": {
+                "hp": 52,
+                "attack": 65,
+                "defense": 50,
+                "spAttack": 45,
+                "spDefense": 50,
+                "speed": 38
+            },
+            "description": "Comme il ne voit rien, il per\u00e7oit son environnement en mordant et en fon\u00e7ant \u00e0 tout va. Il est couvert de plaies.",
+            "abilities": [
+                8
+            ]
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "number": 661,
+    "name": "Passerouge",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal",
+                "fly"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/fletchling.jpg",
+            "base": {
+                "hp": 45,
+                "attack": 50,
+                "defense": 43,
+                "spAttack": 40,
+                "spDefense": 38,
+                "speed": 62
+            },
+            "description": "Une agr\u00e9able chaleur \u00e9mane toujours de son petit corps. Dans les r\u00e9gions froides, il n\u2019est pas rare qu\u2019il dorme dans le lit de son Dresseur.",
+            "abilities": [
+                58,
+                9
+            ]
+        }
+    ]
+}

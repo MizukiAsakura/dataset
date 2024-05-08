@@ -1,0 +1,28 @@
+{
+    "number": 553,
+    "name": "Crocorible",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "dark",
+                "ground"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/krookodile.jpg",
+            "base": {
+                "hp": 95,
+                "attack": 117,
+                "defense": 80,
+                "spAttack": 65,
+                "spDefense": 70,
+                "speed": 92
+            },
+            "description": "Il peut rep\u00e9rer une proie \u00e0 une distance de 50 km. Il s\u2019approche alors en \u00ab nageant \u00bb dans le sable, puis lui saute dessus pour la croquer.",
+            "abilities": [
+                156,
+                151,
+                61
+            ]
+        }
+    ]
+}

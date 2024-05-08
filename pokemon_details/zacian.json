@@ -1,0 +1,45 @@
+{
+    "number": 888,
+    "name": "Zacian",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fairy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/zacian-hero.jpg",
+            "base": {
+                "hp": 92,
+                "attack": 130,
+                "defense": 115,
+                "spAttack": 80,
+                "spDefense": 115,
+                "speed": 138
+            },
+            "description": "\u00c9galement surnomm\u00e9 \u00ab h\u00e9ros l\u00e9gendaire \u00bb, ce Pok\u00e9mon absorbe du m\u00e9tal et se change en arme pour se battre.",
+            "abilities": [
+                159
+            ]
+        },
+        {
+            "name": "\u00e9p\u00e9e supr\u00eame",
+            "types": [
+                "fairy",
+                "steel"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/zacian.jpg",
+            "base": {
+                "hp": 92,
+                "attack": 170,
+                "defense": 115,
+                "spAttack": 80,
+                "spDefense": 115,
+                "speed": 148
+            },
+            "description": "Il est \u00e9quip\u00e9 d\u2019une arme antique avec laquelle il tranche d\u2019un seul coup les Pok\u00e9mon, m\u00eame ceux qui disposent du pouvoir du Gigamax.",
+            "abilities": [
+                159
+            ]
+        }
+    ]
+}

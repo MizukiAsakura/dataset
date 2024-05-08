@@ -1,0 +1,27 @@
+{
+    "number": 296,
+    "name": "Makuhita",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fight"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/makuhita.jpg",
+            "base": {
+                "hp": 72,
+                "attack": 60,
+                "defense": 30,
+                "spAttack": 20,
+                "spDefense": 30,
+                "speed": 25
+            },
+            "description": "MAKUHITA est tenace. M\u00eame s'il est presque battu, il continue \u00e0 se relever et \u00e0 attaquer son ennemi. Chaque fois qu'il se rel\u00e8ve, ce POK\u00e9MON stocke plus d'\u00e9nergie en vue de sa future \u00e9volution.",
+            "abilities": [
+                157,
+                77,
+                248
+            ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "number": 147,
+    "name": "Minidraco",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "dragon"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/dratini.jpg",
+            "base": {
+                "hp": 41,
+                "attack": 64,
+                "defense": 45,
+                "spAttack": 50,
+                "spDefense": 50,
+                "speed": 50
+            },
+            "description": "Minidraco mue constamment, renouvelant sans arr\u00eat sa peau. En effet, l'\u00e9nergie vitale de son corps augmente r\u00e9guli\u00e8rement et sa mue lui permet d'\u00e9viter d'atteindre des niveaux incontr\u00f4lables.",
+            "abilities": [
+                186,
+                96
+            ]
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "number": 213,
+    "name": "Caratroc",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "bug",
+                "rock"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/shuckle.jpg",
+            "base": {
+                "hp": 20,
+                "attack": 10,
+                "defense": 230,
+                "spAttack": 10,
+                "spDefense": 230,
+                "speed": 5
+            },
+            "description": "CARATROC se cache tranquillement sous les rochers, abritant son corps dans sa carapace solide, pendant qu'il mange les baies qu'il a mises de c\u00f4t\u00e9. Les baies se m\u00e9langent \u00e0 ses fluides corporels pour produire du jus.",
+            "abilities": [
+                117,
+                135,
+                65
+            ]
+        }
+    ]
+}

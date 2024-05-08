@@ -1,0 +1,27 @@
+{
+    "number": 23,
+    "name": "Abo",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "poison"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/ekans.jpg",
+            "base": {
+                "hp": 35,
+                "attack": 60,
+                "defense": 44,
+                "spAttack": 40,
+                "spDefense": 54,
+                "speed": 55
+            },
+            "description": "Abo s'enroule en spirale pour dormir. Sa t\u00eate reste relev\u00e9e de telle sorte que cette position lui permette de r\u00e9agir rapidement si une menace survenait.",
+            "abilities": [
+                156,
+                186,
+                273
+            ]
+        }
+    ]
+}

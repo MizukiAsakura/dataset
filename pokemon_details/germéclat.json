@@ -1,0 +1,27 @@
+{
+    "number": 969,
+    "name": "Germ\u00e9clat",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "rock",
+                "poison"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/glimmet.jpg",
+            "base": {
+                "hp": 48,
+                "attack": 35,
+                "defense": 42,
+                "spAttack": 105,
+                "spDefense": 60,
+                "speed": 60
+            },
+            "description": "Ses cristaux nocifs ressemblent en tout point \u00e0 des p\u00e9tales. Il r\u00e9pand une poudre toxique semblable \u00e0 du pollen pour se d\u00e9fendre.",
+            "abilities": [
+                93,
+                74
+            ]
+        }
+    ]
+}

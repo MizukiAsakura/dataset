@@ -1,0 +1,45 @@
+{
+    "number": 571,
+    "name": "Zoroark",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "dark"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/zoroark.jpg",
+            "base": {
+                "hp": 60,
+                "attack": 105,
+                "defense": 60,
+                "spAttack": 120,
+                "spDefense": 60,
+                "speed": 105
+            },
+            "description": "Dot\u00e9 d\u2019un grand sens de la camaraderie, ce Pok\u00e9mon peut cr\u00e9er des illusions effrayantes pour prot\u00e9ger son habitat et ses cong\u00e9n\u00e8res.",
+            "abilities": [
+                148
+            ]
+        },
+        {
+            "name": "hisui",
+            "types": [
+                "normal",
+                "ghost"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/zoroark-hisuian.jpg",
+            "base": {
+                "hp": 55,
+                "attack": 100,
+                "defense": 60,
+                "spAttack": 125,
+                "spDefense": 60,
+                "speed": 110
+            },
+            "description": "Dot\u00e9 d\u2019un grand sens de la camaraderie, ce Pok\u00e9mon peut cr\u00e9er des illusions effrayantes pour prot\u00e9ger son habitat et ses cong\u00e9n\u00e8res.",
+            "abilities": [
+                148
+            ]
+        }
+    ]
+}

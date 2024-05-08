@@ -1,0 +1,28 @@
+{
+    "number": 580,
+    "name": "Couaneton",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water",
+                "fly"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/ducklett.jpg",
+            "base": {
+                "hp": 62,
+                "attack": 44,
+                "defense": 50,
+                "spAttack": 44,
+                "spDefense": 50,
+                "speed": 55
+            },
+            "description": "Quand on l\u2019attaque, il s\u2019\u00e9broue et fait jaillir de la vapeur d\u2019eau de tout son corps. Il se cache dedans pour s\u2019enfuir.",
+            "abilities": [
+                240,
+                58,
+                143
+            ]
+        }
+    ]
+}

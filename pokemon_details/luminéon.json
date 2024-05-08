@@ -1,0 +1,27 @@
+{
+    "number": 457,
+    "name": "Lumin\u00e9on",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/lumineon.jpg",
+            "base": {
+                "hp": 69,
+                "attack": 69,
+                "defense": 76,
+                "spAttack": 69,
+                "spDefense": 86,
+                "speed": 91
+            },
+            "description": "Ce Pok\u00e9mon des profondeurs vit tout au fond de l\u2019oc\u00e9an. Il rampe \u00e0 l\u2019aide de ses nageoires ventrales et cherche les Staross dont il raffole.",
+            "abilities": [
+                160,
+                134,
+                147
+            ]
+        }
+    ]
+}

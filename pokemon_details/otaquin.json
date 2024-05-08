@@ -1,0 +1,26 @@
+{
+    "number": 728,
+    "name": "Otaquin",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/popplio.jpg",
+            "base": {
+                "hp": 50,
+                "attack": 54,
+                "defense": 54,
+                "spAttack": 66,
+                "spDefense": 56,
+                "speed": 40
+            },
+            "description": "Ce Pok\u00e9mon fabrique des ballons remplis d\u2019eau pour se battre. Il ne peut produire un gros ballon qu\u2019au prix d\u2019un entra\u00eenement rigoureux.",
+            "abilities": [
+                282,
+                142
+            ]
+        }
+    ]
+}

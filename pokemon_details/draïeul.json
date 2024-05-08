@@ -1,0 +1,28 @@
+{
+    "number": 780,
+    "name": "Dra\u00efeul",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal",
+                "dragon"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/drampa.jpg",
+            "base": {
+                "hp": 78,
+                "attack": 60,
+                "defense": 85,
+                "spAttack": 135,
+                "spDefense": 91,
+                "speed": 36
+            },
+            "description": "S\u2019il apprend qu\u2019un enfant avec lequel il s\u2019est li\u00e9 d\u2019amiti\u00e9 est pers\u00e9cut\u00e9 par ses camarades, il trouve leur maison et la r\u00e9duit en cendres.",
+            "abilities": [
+                95,
+                141,
+                57
+            ]
+        }
+    ]
+}

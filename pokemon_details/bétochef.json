@@ -1,0 +1,27 @@
+{
+    "number": 534,
+    "name": "B\u00e9tochef",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fight"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/conkeldurr.jpg",
+            "base": {
+                "hp": 105,
+                "attack": 140,
+                "defense": 95,
+                "spAttack": 55,
+                "spDefense": 65,
+                "speed": 45
+            },
+            "description": "Quand il d\u00e9cide de passer aux choses s\u00e9rieuses, il jette ses piliers de b\u00e9ton et saute sur son adversaire pour le frapper du poing.",
+            "abilities": [
+                77,
+                248,
+                215
+            ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "number": 853,
+    "name": "Krakos",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fight"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/grapploct.jpg",
+            "base": {
+                "hp": 80,
+                "attack": 118,
+                "defense": 90,
+                "spAttack": 70,
+                "spDefense": 80,
+                "speed": 42
+            },
+            "description": "M\u00fb par le besoin de tester la force de ses bras, il se rend sur la terre ferme pour trouver un adversaire. Il retourne \u00e0 l\u2019eau apr\u00e8s le combat.",
+            "abilities": [
+                98,
+                268
+            ]
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "number": 223,
+    "name": "R\u00e9moraid",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/remoraid.jpg",
+            "base": {
+                "hp": 35,
+                "attack": 65,
+                "defense": 35,
+                "spAttack": 65,
+                "spDefense": 35,
+                "speed": 65
+            },
+            "description": "REMORAID aspire de l'eau, puis la recrache \u00e0 forte pression gr\u00e2ce \u00e0 ses muscles abdominaux pour attaquer les proies volantes. Quand son \u00e9volution approche, ce POK\u00e9MON descend le courant des rivi\u00e8res.",
+            "abilities": [
+                8,
+                254,
+                166
+            ]
+        }
+    ]
+}

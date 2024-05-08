@@ -1,0 +1,27 @@
+{
+    "number": 508,
+    "name": "Mastouffe",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/stoutland.jpg",
+            "base": {
+                "hp": 85,
+                "attack": 110,
+                "defense": 90,
+                "spAttack": 45,
+                "spDefense": 90,
+                "speed": 80
+            },
+            "description": "Sagesse, gentillesse et bravoure sont les mots qui qualifient le mieux ce Pok\u00e9mon, devenu l\u2019ins\u00e9parable partenaire des \u00e9quipes de secours.",
+            "abilities": [
+                156,
+                30,
+                232
+            ]
+        }
+    ]
+}

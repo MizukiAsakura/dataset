@@ -1,0 +1,26 @@
+{
+    "number": 754,
+    "name": "Floramantis",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "grass"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/lurantis.jpg",
+            "base": {
+                "hp": 70,
+                "attack": 105,
+                "defense": 90,
+                "spAttack": 80,
+                "spDefense": 90,
+                "speed": 45
+            },
+            "description": "Les p\u00e9tales sur ses deux bras sont fins, mais tr\u00e8s tranchants. Ils peuvent \u00e9galement absorber la lumi\u00e8re pour la renvoyer sous forme de laser.",
+            "abilities": [
+                118,
+                65
+            ]
+        }
+    ]
+}

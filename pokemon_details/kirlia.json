@@ -1,0 +1,28 @@
+{
+    "number": 281,
+    "name": "Kirlia",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "psy",
+                "fairy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/kirlia.jpg",
+            "base": {
+                "hp": 38,
+                "attack": 35,
+                "defense": 35,
+                "spAttack": 65,
+                "spDefense": 55,
+                "speed": 50
+            },
+            "description": "On dit qu'un KIRLIA expos\u00e9 aux \u00e9motions positives de son DRESSEUR devient tr\u00e8s beau. Le cerveau surd\u00e9velopp\u00e9 de ce POK\u00e9MON lui permet de contr\u00f4ler les forces t\u00e9l\u00e9kin\u00e9siques.",
+            "abilities": [
+                265,
+                48,
+                270
+            ]
+        }
+    ]
+}

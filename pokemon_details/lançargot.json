@@ -1,0 +1,28 @@
+{
+    "number": 589,
+    "name": "Lan\u00e7argot",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "bug",
+                "steel"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/escavalier.jpg",
+            "base": {
+                "hp": 70,
+                "attack": 135,
+                "defense": 105,
+                "spAttack": 60,
+                "spDefense": 105,
+                "speed": 20
+            },
+            "description": "Il charge ses ennemis en brandissant ses lances. Il existe un c\u00e9l\u00e8bre tableau repr\u00e9sentant la joute entre un Lan\u00e7argot et un Palarticho.",
+            "abilities": [
+                11,
+                66,
+                106
+            ]
+        }
+    ]
+}

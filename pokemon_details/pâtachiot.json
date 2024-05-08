@@ -1,0 +1,26 @@
+{
+    "number": 926,
+    "name": "P\u00e2tachiot",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fairy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/fidough.jpg",
+            "base": {
+                "hp": 37,
+                "attack": 55,
+                "defense": 70,
+                "spAttack": 30,
+                "spDefense": 55,
+                "speed": 65
+            },
+            "description": "Les \u00eatres humains prot\u00e8gent ce Pok\u00e9mon depuis longtemps, car la levure que contient son souffle est utile pour cuisiner.",
+            "abilities": [
+                272,
+                169
+            ]
+        }
+    ]
+}

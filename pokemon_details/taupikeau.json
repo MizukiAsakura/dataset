@@ -1,0 +1,27 @@
+{
+    "number": 960,
+    "name": "Taupikeau",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/wiglett.jpg",
+            "base": {
+                "hp": 10,
+                "attack": 55,
+                "defense": 25,
+                "spAttack": 35,
+                "spDefense": 25,
+                "speed": 95
+            },
+            "description": "Sa ressemblance fortuite avec Taupiqueur serait le fruit d'une adaptation \u00e0 son milieu. Malgr\u00e9 leur similarit\u00e9, ils ne sont pas de la m\u00eame esp\u00e8ce.",
+            "abilities": [
+                218,
+                209,
+                294
+            ]
+        }
+    ]
+}

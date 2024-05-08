@@ -1,0 +1,27 @@
+{
+    "number": 857,
+    "name": "Chapotus",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "psy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/hattrem.jpg",
+            "base": {
+                "hp": 57,
+                "attack": 40,
+                "defense": 65,
+                "spAttack": 86,
+                "spDefense": 73,
+                "speed": 49
+            },
+            "description": "Il frappe ses ennemis avec ses tresses pour les faire taire. Sa puissance est telle qu\u2019il peut mettre K.O. un boxeur professionnel d\u2019un seul coup.",
+            "abilities": [
+                60,
+                18,
+                180
+            ]
+        }
+    ]
+}

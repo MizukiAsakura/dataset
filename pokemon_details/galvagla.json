@@ -1,0 +1,28 @@
+{
+    "number": 881,
+    "name": "Galvagla",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "electrik",
+                "ice"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/arctozolt.jpg",
+            "base": {
+                "hp": 90,
+                "attack": 100,
+                "defense": 90,
+                "spAttack": 90,
+                "spDefense": 80,
+                "speed": 55
+            },
+            "description": "Autrefois, il vivait en bord de mer et conservait sa nourriture dans la glace de son corps, mais il s\u2019est \u00e9teint, car il avait du mal \u00e0 se d\u00e9placer.",
+            "abilities": [
+                3,
+                260,
+                53
+            ]
+        }
+    ]
+}

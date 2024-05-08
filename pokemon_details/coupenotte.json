@@ -1,0 +1,27 @@
+{
+    "number": 610,
+    "name": "Coupenotte",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "dragon"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/axew.jpg",
+            "base": {
+                "hp": 46,
+                "attack": 87,
+                "defense": 60,
+                "spAttack": 30,
+                "spDefense": 40,
+                "speed": 57
+            },
+            "description": "Il vit dans des terriers qu\u2019il creuse \u00e0 m\u00eame le sol, et organise des concours avec ses camarades pour voir qui peut briser la Baie la plus dure.",
+            "abilities": [
+                244,
+                46,
+                273
+            ]
+        }
+    ]
+}

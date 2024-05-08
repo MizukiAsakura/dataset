@@ -1,0 +1,28 @@
+{
+    "number": 274,
+    "name": "Pifeuil",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "grass",
+                "dark"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/nuzleaf.jpg",
+            "base": {
+                "hp": 70,
+                "attack": 70,
+                "defense": 40,
+                "spAttack": 60,
+                "spDefense": 40,
+                "speed": 60
+            },
+            "description": "Les PIFEUIL vivent dans des for\u00eats tr\u00e8s dens\u00e9ment bois\u00e9es. Il leur arrive de sortir de la for\u00eat pour faire peur aux gens. Ce POK\u00e9MON d\u00e9teste qu'on lui pince son grand nez.",
+            "abilities": [
+                56,
+                171,
+                210
+            ]
+        }
+    ]
+}

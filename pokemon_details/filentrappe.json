@@ -1,0 +1,26 @@
+{
+    "number": 918,
+    "name": "Filentrappe",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "bug"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/spidops.jpg",
+            "base": {
+                "hp": 60,
+                "attack": 79,
+                "defense": 92,
+                "spAttack": 52,
+                "spDefense": 86,
+                "speed": 35
+            },
+            "description": "Il recouvre son territoire de fil solide et collant pour pi\u00e9ger les ind\u00e9sirables qui s'y aventurent.",
+            "abilities": [
+                155,
+                119
+            ]
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "number": 858,
+    "name": "Sorcilence",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "psy",
+                "fairy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/hatterene.jpg",
+            "base": {
+                "hp": 57,
+                "attack": 90,
+                "defense": 95,
+                "spAttack": 136,
+                "spDefense": 103,
+                "speed": 29
+            },
+            "description": "On l\u2019appelle aussi la \u00ab sorci\u00e8re de la for\u00eat \u00bb. Ce Pok\u00e9mon lac\u00e8re quiconque fait trop de bruit avec les griffes de son tentacule.",
+            "abilities": [
+                60,
+                18,
+                180
+            ]
+        }
+    ]
+}

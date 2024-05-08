@@ -1,0 +1,25 @@
+{
+    "number": 897,
+    "name": "Spectreval",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "ghost"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/spectrier.jpg",
+            "base": {
+                "hp": 100,
+                "attack": 65,
+                "defense": 60,
+                "spAttack": 145,
+                "spDefense": 80,
+                "speed": 130
+            },
+            "description": "Il se sert de tous ses sens pour se rep\u00e9rer, sauf celui de la vue. Un coup de ses sabots suffirait \u00e0 s\u00e9parer l\u2019\u00e2me du corps de sa cible.",
+            "abilities": [
+                257
+            ]
+        }
+    ]
+}

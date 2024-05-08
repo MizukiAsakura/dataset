@@ -1,0 +1,28 @@
+{
+    "number": 519,
+    "name": "Poichigeon",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal",
+                "fly"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/pidove.jpg",
+            "base": {
+                "hp": 50,
+                "attack": 55,
+                "defense": 50,
+                "spAttack": 36,
+                "spDefense": 30,
+                "speed": 43
+            },
+            "description": "Il n\u2019est pas tr\u00e8s malin et un peu distrait, mais beaucoup de Dresseurs l\u2019appr\u00e9cient pour son caract\u00e8re affectueux et sa bonne volont\u00e9.",
+            "abilities": [
+                58,
+                51,
+                244
+            ]
+        }
+    ]
+}

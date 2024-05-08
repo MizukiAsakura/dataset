@@ -1,0 +1,27 @@
+{
+    "number": 950,
+    "name": "Craparoi",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "rock"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/klawf.jpg",
+            "base": {
+                "hp": 70,
+                "attack": 100,
+                "defense": 115,
+                "spAttack": 35,
+                "spDefense": 55,
+                "speed": 75
+            },
+            "description": "Il vit sur les falaises escarp\u00e9es et esquive les attaques en se d\u00e9pla\u00e7ant sur le c\u00f4t\u00e9. Il vise les points faibles de ses adversaires avec ses pinces.",
+            "abilities": [
+                75,
+                66,
+                241
+            ]
+        }
+    ]
+}

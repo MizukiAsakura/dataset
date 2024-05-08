@@ -1,0 +1,27 @@
+{
+    "number": 614,
+    "name": "Polagriffe",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "ice"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/beartic.jpg",
+            "base": {
+                "hp": 95,
+                "attack": 130,
+                "defense": 80,
+                "spAttack": 70,
+                "spDefense": 80,
+                "speed": 50
+            },
+            "description": "Les crocs qu\u2019il fa\u00e7onne en gelant son souffle sont plus durs que l\u2019acier. Il sillonne les eaux des mers glaciales \u00e0 la recherche de nourriture.",
+            "abilities": [
+                243,
+                53,
+                209
+            ]
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "number": 823,
+    "name": "Corvaillus",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fly",
+                "steel"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/corviknight.jpg",
+            "base": {
+                "hp": 98,
+                "attack": 87,
+                "defense": 105,
+                "spAttack": 53,
+                "spDefense": 85,
+                "speed": 67
+            },
+            "description": "Il n\u2019a aucun rival dans le ciel de Galar. L\u2019aspect intimidant de son corps d\u2019acier noir et lustr\u00e9 inspire la crainte chez ses ennemis.",
+            "abilities": [
+                223,
+                273,
+                23
+            ]
+        }
+    ]
+}

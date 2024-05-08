@@ -1,0 +1,26 @@
+{
+    "number": 9,
+    "name": "Tortank",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/blastoise.jpg",
+            "base": {
+                "hp": 79,
+                "attack": 83,
+                "defense": 100,
+                "spAttack": 85,
+                "spDefense": 105,
+                "speed": 78
+            },
+            "description": "Tortank dispose de canons \u00e0 eau \u00e9mergeant de sa carapace. Ils sont tr\u00e8s pr\u00e9cis et peuvent envoyer des balles d'eau capables de faire mouche sur une cible situ\u00e9e \u00e0 plus de 50 m.",
+            "abilities": [
+                282,
+                83
+            ]
+        }
+    ]
+}

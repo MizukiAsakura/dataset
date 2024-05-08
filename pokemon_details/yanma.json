@@ -1,0 +1,28 @@
+{
+    "number": 193,
+    "name": "Yanma",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "bug",
+                "fly"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/yanma.jpg",
+            "base": {
+                "hp": 65,
+                "attack": 65,
+                "defense": 45,
+                "spAttack": 75,
+                "spDefense": 45,
+                "speed": 95
+            },
+            "description": "YANMA a un champ de vision de 360 degr\u00e9s sans avoir besoin de bouger les yeux. Il vole incroyablement bien et peut faire des figures acrobatiques. Ce POK\u00e9MON descend en piqu\u00e9 sur ses proies.",
+            "abilities": [
+                287,
+                194,
+                126
+            ]
+        }
+    ]
+}

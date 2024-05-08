@@ -1,0 +1,26 @@
+{
+    "number": 4,
+    "name": "Salam\u00e8che",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fire"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/charmander.jpg",
+            "base": {
+                "hp": 39,
+                "attack": 52,
+                "defense": 43,
+                "spAttack": 60,
+                "spDefense": 50,
+                "speed": 65
+            },
+            "description": "La flamme qui br\u00fble au bout de sa queue indique l'humeur de ce Pok\u00e9mon. Elle vacille lorsque Salam\u00e8che est content. En revanche, lorsque qu'il s'\u00e9nerve, la flamme prend de l'importance et br\u00fble plus ardemment.",
+            "abilities": [
+                44,
+                125
+            ]
+        }
+    ]
+}

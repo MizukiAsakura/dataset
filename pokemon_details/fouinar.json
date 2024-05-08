@@ -1,0 +1,27 @@
+{
+    "number": 162,
+    "name": "Fouinar",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/furret.jpg",
+            "base": {
+                "hp": 85,
+                "attack": 76,
+                "defense": 64,
+                "spAttack": 45,
+                "spDefense": 55,
+                "speed": 90
+            },
+            "description": "FOUINAR est tr\u00e8s mince. Lorsqu'il est attaqu\u00e9, il peut s'enfuir en se faufilant habilement dans les recoins \u00e9troits. Malgr\u00e9 ses pattes courtes, ce POK\u00e9MON est tr\u00e8s agile et rapide.",
+            "abilities": [
+                128,
+                240,
+                126
+            ]
+        }
+    ]
+}

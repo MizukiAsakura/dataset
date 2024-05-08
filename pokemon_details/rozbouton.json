@@ -1,0 +1,28 @@
+{
+    "number": 406,
+    "name": "Rozbouton",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "grass",
+                "poison"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/budew.jpg",
+            "base": {
+                "hp": 40,
+                "attack": 30,
+                "defense": 35,
+                "spAttack": 50,
+                "spDefense": 70,
+                "speed": 55
+            },
+            "description": "En hiver, son bourgeon se referme pour r\u00e9sister au froid. Il s'ouvre au printemps et lib\u00e8re du pollen. Il vit pr\u00e8s des mares d'eau claire. Son pollen provoque des rhumes et fait couler le nez.",
+            "abilities": [
+                174,
+                217,
+                118
+            ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "number": 813,
+    "name": "Flambino",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fire"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/scorbunny.jpg",
+            "base": {
+                "hp": 50,
+                "attack": 71,
+                "defense": 40,
+                "spAttack": 40,
+                "spDefense": 40,
+                "speed": 69
+            },
+            "description": "Quand il est pr\u00eat \u00e0 se battre, la partie qui surmonte son museau ainsi que les coussinets de ses pattes post\u00e9rieures \u00e9mettent de la chaleur.",
+            "abilities": [
+                44,
+                297
+            ]
+        }
+    ]
+}

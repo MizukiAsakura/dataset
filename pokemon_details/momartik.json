@@ -1,0 +1,27 @@
+{
+    "number": 478,
+    "name": "Momartik",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "ice",
+                "ghost"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/froslass.jpg",
+            "base": {
+                "hp": 70,
+                "attack": 80,
+                "defense": 70,
+                "spAttack": 80,
+                "spDefense": 70,
+                "speed": 110
+            },
+            "description": "On dit qu\u2019il appara\u00eet dans les zones habit\u00e9es les soirs de temp\u00eate de neige. Si vous entendez toquer \u00e0 la porte, n\u2019allez pas ouvrir !",
+            "abilities": [
+                243,
+                72
+            ]
+        }
+    ]
+}

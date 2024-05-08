@@ -1,0 +1,27 @@
+{
+    "number": 975,
+    "name": "Balbal\u00e8ze",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "ice"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/cetitan.jpg",
+            "base": {
+                "hp": 170,
+                "attack": 113,
+                "defense": 65,
+                "spAttack": 45,
+                "spDefense": 55,
+                "speed": 73
+            },
+            "description": "Il emmagasine de l'\u00e9nergie de type Glace dans la corne de sa m\u00e2choire, qui est si froide qu'elle g\u00e8le tout ce qui se trouve alentour.",
+            "abilities": [
+                157,
+                243,
+                248
+            ]
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "number": 632,
+    "name": "Fermite",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "bug",
+                "steel"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/durant.jpg",
+            "base": {
+                "hp": 58,
+                "attack": 109,
+                "defense": 112,
+                "spAttack": 48,
+                "spDefense": 48,
+                "speed": 109
+            },
+            "description": "Sa grande m\u00e2choire r\u00e9duit m\u00eame les rochers en miettes. Il se bat avec sa colonie pour prot\u00e9ger ses \u0152ufs des attaques des Dunaconda.",
+            "abilities": [
+                111,
+                8,
+                1
+            ]
+        }
+    ]
+}

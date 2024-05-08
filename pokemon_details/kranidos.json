@@ -1,0 +1,26 @@
+{
+    "number": 408,
+    "name": "Kranidos",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "rock"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/cranidos.jpg",
+            "base": {
+                "hp": 67,
+                "attack": 125,
+                "defense": 40,
+                "spAttack": 30,
+                "spDefense": 30,
+                "speed": 58
+            },
+            "description": "Il vivait dans la jungle il y a environ 100 millions d'ann\u00e9es. Son cr\u00e2ne est dur comme du fer. On l'a ressuscit\u00e9 \u00e0 partir d'un fossile de fer en forme de balle. Il abat ses proies \u00e0 coups de t\u00eate.",
+            "abilities": [
+                46,
+                248
+            ]
+        }
+    ]
+}

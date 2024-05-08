@@ -1,0 +1,49 @@
+{
+    "number": 19,
+    "name": "Rattata",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/rattata.jpg",
+            "base": {
+                "hp": 30,
+                "attack": 56,
+                "defense": 35,
+                "spAttack": 25,
+                "spDefense": 35,
+                "speed": 72
+            },
+            "description": "Rattata est extr\u00eamement prudent. M\u00eame lorsqu'il est endormi, il fait pivoter ses oreilles pour \u00e9couter autour de lui. En ce qui concerne son habitat, il n'est vraiment pas difficile. Il peut faire son nid n'importe o\u00f9.",
+            "abilities": [
+                128,
+                77,
+                8
+            ]
+        },
+        {
+            "name": "alola",
+            "types": [
+                "dark",
+                "normal"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/rattata-alolan.jpg",
+            "base": {
+                "hp": 30,
+                "attack": 56,
+                "defense": 35,
+                "spAttack": 25,
+                "spDefense": 35,
+                "speed": 72
+            },
+            "description": "Rattata est extr\u00eamement prudent. M\u00eame lorsqu'il est endormi, il fait pivoter ses oreilles pour \u00e9couter autour de lui. En ce qui concerne son habitat, il n'est vraiment pas difficile. Il peut faire son nid n'importe o\u00f9.",
+            "abilities": [
+                135,
+                8,
+                157
+            ]
+        }
+    ]
+}

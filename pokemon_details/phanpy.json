@@ -1,0 +1,26 @@
+{
+    "number": 231,
+    "name": "Phanpy",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "ground"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/phanpy.jpg",
+            "base": {
+                "hp": 90,
+                "attack": 60,
+                "defense": 60,
+                "spAttack": 40,
+                "spDefense": 40,
+                "speed": 40
+            },
+            "description": "PHANPY utilise sa petite trompe pour se doucher. Quand plusieurs d'entre eux se r\u00e9unissent, ils s'arrosent joyeusement. On peut souvent voir ces POK\u00e9MON se s\u00e9cher au bord de l'eau.",
+            "abilities": [
+                235,
+                294
+            ]
+        }
+    ]
+}

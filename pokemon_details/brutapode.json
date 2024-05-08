@@ -1,0 +1,28 @@
+{
+    "number": 545,
+    "name": "Brutapode",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "bug",
+                "poison"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/scolipede.jpg",
+            "base": {
+                "hp": 60,
+                "attack": 100,
+                "defense": 89,
+                "spAttack": 55,
+                "spDefense": 69,
+                "speed": 112
+            },
+            "description": "Apr\u00e8s avoir saisi sa proie \u00e0 l\u2019aide des griffes de son cou, il la plaque au sol puis la transperce avec ses \u00e9pines empoisonn\u00e9es.",
+            "abilities": [
+                217,
+                111,
+                287
+            ]
+        }
+    ]
+}

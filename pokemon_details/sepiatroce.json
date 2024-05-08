@@ -1,0 +1,28 @@
+{
+    "number": 687,
+    "name": "Sepiatroce",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "dark",
+                "psy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/malamar.jpg",
+            "base": {
+                "hp": 86,
+                "attack": 92,
+                "defense": 88,
+                "spAttack": 68,
+                "spDefense": 75,
+                "speed": 73
+            },
+            "description": "Les personnes malintentionn\u00e9es tentent souvent de s\u2019approprier ses grands pouvoirs hypnotiques pour servir leurs mauvais desseins.",
+            "abilities": [
+                291,
+                65,
+                154
+            ]
+        }
+    ]
+}

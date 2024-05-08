@@ -1,0 +1,26 @@
+{
+    "number": 810,
+    "name": "Ouistempo",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "grass"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/grookey.jpg",
+            "base": {
+                "hp": 50,
+                "attack": 65,
+                "defense": 50,
+                "spAttack": 40,
+                "spDefense": 40,
+                "speed": 65
+            },
+            "description": "Le rythme qu\u2019il cr\u00e9e en tapant avec son b\u00e2ton tr\u00e8s sp\u00e9cial g\u00e9n\u00e8re des ondes sonores qui ont le pouvoir de vivifier les plantes.",
+            "abilities": [
+                104,
+                80
+            ]
+        }
+    ]
+}

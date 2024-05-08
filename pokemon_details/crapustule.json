@@ -1,0 +1,28 @@
+{
+    "number": 537,
+    "name": "Crapustule",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water",
+                "ground"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/seismitoad.jpg",
+            "base": {
+                "hp": 105,
+                "attack": 95,
+                "defense": 75,
+                "spAttack": 85,
+                "spDefense": 75,
+                "speed": 74
+            },
+            "description": "En faisant vibrer tous les pustules de son corps, il peut provoquer des secousses similaires \u00e0 celles d\u2019un s\u00e9isme. Il est proche des Cradopaud.",
+            "abilities": [
+                134,
+                143,
+                2
+            ]
+        }
+    ]
+}

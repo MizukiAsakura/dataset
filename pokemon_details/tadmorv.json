@@ -1,0 +1,49 @@
+{
+    "number": 88,
+    "name": "Tadmorv",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "poison"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/grimer.jpg",
+            "base": {
+                "hp": 80,
+                "attack": 80,
+                "defense": 50,
+                "spAttack": 40,
+                "spDefense": 50,
+                "speed": 25
+            },
+            "description": "Le corps boueux et g\u00e9latineux de Tadmorv peut s'enfoncer dans n'importe quelle ouverture, m\u00eame la plus petite. Ce Pok\u00e9mon se prom\u00e8ne dans les tuyaux des \u00e9gouts pour boire de l'eau croupie.",
+            "abilities": [
+                230,
+                137,
+                283
+            ]
+        },
+        {
+            "name": "alola",
+            "types": [
+                "poison",
+                "dark"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/grimer-alolan.jpg",
+            "base": {
+                "hp": 80,
+                "attack": 80,
+                "defense": 50,
+                "spAttack": 40,
+                "spDefense": 50,
+                "speed": 25
+            },
+            "description": "Le corps boueux et g\u00e9latineux de Tadmorv peut s'enfoncer dans n'importe quelle ouverture, m\u00eame la plus petite. Ce Pok\u00e9mon se prom\u00e8ne dans les tuyaux des \u00e9gouts pour boire de l'eau croupie.",
+            "abilities": [
+                283,
+                135,
+                196
+            ]
+        }
+    ]
+}

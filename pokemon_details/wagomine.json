@@ -1,0 +1,28 @@
+{
+    "number": 838,
+    "name": "Wagomine",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "rock",
+                "fire"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/carkol.jpg",
+            "base": {
+                "hp": 80,
+                "attack": 60,
+                "defense": 90,
+                "spAttack": 60,
+                "spDefense": 70,
+                "speed": 50
+            },
+            "description": "Il produit du charbon dans son corps. Jadis, les habitants de Galar ramassaient ce charbon au sol et s\u2019en servaient pour leurs besoins quotidiens.",
+            "abilities": [
+                285,
+                67,
+                281
+            ]
+        }
+    ]
+}

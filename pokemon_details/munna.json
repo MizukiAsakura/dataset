@@ -1,0 +1,27 @@
+{
+    "number": 517,
+    "name": "Munna",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "psy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/munna.jpg",
+            "base": {
+                "hp": 76,
+                "attack": 25,
+                "defense": 45,
+                "spAttack": 67,
+                "spDefense": 55,
+                "speed": 24
+            },
+            "description": "Il se nourrit de songes et expire de la fum\u00e9e qui prend la couleur rose si le r\u00eave est joyeux, ou noire s\u2019il s\u2019agit d\u2019un cauchemar.",
+            "abilities": [
+                222,
+                265,
+                270
+            ]
+        }
+    ]
+}

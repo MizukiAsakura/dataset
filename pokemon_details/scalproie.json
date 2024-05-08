@@ -1,0 +1,28 @@
+{
+    "number": 625,
+    "name": "Scalproie",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "dark",
+                "steel"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/bisharp.jpg",
+            "base": {
+                "hp": 65,
+                "attack": 125,
+                "defense": 100,
+                "spAttack": 60,
+                "spDefense": 70,
+                "speed": 70
+            },
+            "description": "Sa recherche des meilleurs endroits o\u00f9 trouver des pierres pour aff\u00fbter ses lames le conduit souvent \u00e0 affronter des Incisache.",
+            "abilities": [
+                5,
+                26,
+                223
+            ]
+        }
+    ]
+}

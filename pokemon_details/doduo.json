@@ -1,0 +1,28 @@
+{
+    "number": 84,
+    "name": "Doduo",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal",
+                "fly"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/doduo.jpg",
+            "base": {
+                "hp": 35,
+                "attack": 85,
+                "defense": 45,
+                "spAttack": 35,
+                "spDefense": 35,
+                "speed": 75
+            },
+            "description": "Les deux t\u00eates de Doduo ne dorment jamais en m\u00eame temps. Elles se reposent \u00e0 tour de r\u00f4le pour que l'une puisse monter la garde pendant que l'autre dort.",
+            "abilities": [
+                128,
+                171,
+                211
+            ]
+        }
+    ]
+}

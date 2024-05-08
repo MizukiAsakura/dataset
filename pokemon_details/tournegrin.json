@@ -1,0 +1,27 @@
+{
+    "number": 191,
+    "name": "Tournegrin",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "grass"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/sunkern.jpg",
+            "base": {
+                "hp": 30,
+                "attack": 30,
+                "defense": 30,
+                "spAttack": 30,
+                "spDefense": 30,
+                "speed": 30
+            },
+            "description": "TOURNEGRIN essaye de bouger le moins possible. C'est parce qu'il veut conserver tous les nutriments qu'il stocke dans son corps pour son \u00e9volution. Il ne mange pas, ne subsistant que gr\u00e2ce \u00e0 la ros\u00e9e matinale.",
+            "abilities": [
+                56,
+                125,
+                171
+            ]
+        }
+    ]
+}

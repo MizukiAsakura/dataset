@@ -1,0 +1,27 @@
+{
+    "number": 68,
+    "name": "Mackogneur",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fight"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/machamp.jpg",
+            "base": {
+                "hp": 90,
+                "attack": 130,
+                "defense": 80,
+                "spAttack": 65,
+                "spDefense": 85,
+                "speed": 55
+            },
+            "description": "Mackogneur est capable de d\u00e9placer n'importe quelle masse. Cependant ses bras s'emm\u00ealent d\u00e8s qu'il essaie de r\u00e9aliser un travail d\u00e9licat ou minutieux. Ce Pok\u00e9mon a tendance \u00e0 cogner d'abord et \u00e0 r\u00e9fl\u00e9chir ensuite.",
+            "abilities": [
+                77,
+                16,
+                149
+            ]
+        }
+    ]
+}

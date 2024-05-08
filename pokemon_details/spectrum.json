@@ -1,0 +1,26 @@
+{
+    "number": 93,
+    "name": "Spectrum",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "ghost",
+                "poison"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/haunter.jpg",
+            "base": {
+                "hp": 45,
+                "attack": 50,
+                "defense": 45,
+                "spAttack": 115,
+                "spDefense": 55,
+                "speed": 95
+            },
+            "description": "Spectrum est un Pok\u00e9mon dangereux. Si l'un d'entre eux fait signe d'approcher, il ne faut jamais l'\u00e9couter. Ce Pok\u00e9mon risque de sortir sa langue pour essayer de voler votre vie.",
+            "abilities": [
+                162
+            ]
+        }
+    ]
+}

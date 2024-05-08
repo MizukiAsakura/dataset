@@ -1,0 +1,27 @@
+{
+    "number": 176,
+    "name": "Togetic",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fairy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/togetic.jpg",
+            "base": {
+                "hp": 55,
+                "attack": 40,
+                "defense": 85,
+                "spAttack": 80,
+                "spDefense": 105,
+                "speed": 40
+            },
+            "description": "On raconte que TOGETIC est un POK\u00e9MON qui porte chance. Si ce POK\u00e9MON remarque quelqu'un dot\u00e9 d'un c\u0153ur pur, il surgit et partage son bonheur avec la personne en question.",
+            "abilities": [
+                252,
+                8,
+                51
+            ]
+        }
+    ]
+}

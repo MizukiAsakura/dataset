@@ -1,0 +1,27 @@
+{
+    "number": 652,
+    "name": "Blind\u00e9pique",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "grass",
+                "fight"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/chesnaught.jpg",
+            "base": {
+                "hp": 88,
+                "attack": 107,
+                "defense": 122,
+                "spAttack": 74,
+                "spDefense": 75,
+                "speed": 64
+            },
+            "description": "Il est si puissant qu\u2019il pourrait renverser un char de 50 t d\u2019un seul assaut. Il se sert de son corps comme d\u2019un bouclier pour prot\u00e9ger ses alli\u00e9s.",
+            "abilities": [
+                104,
+                200
+            ]
+        }
+    ]
+}

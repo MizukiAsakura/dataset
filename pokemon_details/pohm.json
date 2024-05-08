@@ -1,0 +1,27 @@
+{
+    "number": 921,
+    "name": "Pohm",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "electrik"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/pawmi.jpg",
+            "base": {
+                "hp": 45,
+                "attack": 50,
+                "defense": 20,
+                "spAttack": 40,
+                "spDefense": 25,
+                "speed": 60
+            },
+            "description": "Ses coussinets servent \u00e0 projeter de l'\u00e9lectricit\u00e9. Quand il parvient \u00e0 se tenir sur ses pattes arri\u00e8re, il envoie des d\u00e9charges avec ses pattes avant.",
+            "abilities": [
+                260,
+                174,
+                215
+            ]
+        }
+    ]
+}

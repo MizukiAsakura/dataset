@@ -1,0 +1,25 @@
+{
+    "number": 288,
+    "name": "Vigoroth",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/vigoroth.jpg",
+            "base": {
+                "hp": 80,
+                "attack": 80,
+                "defense": 80,
+                "spAttack": 55,
+                "spDefense": 55,
+                "speed": 90
+            },
+            "description": "VIGOROTH est toujours impatient de se d\u00e9fouler. Il ne supporte pas l'id\u00e9e de rester sans rien faire, m\u00eame une minute. Le niveau de stress de ce POK\u00e9MON augmente \u00e9norm\u00e9ment s'il ne peut pas bouger.",
+            "abilities": [
+                110
+            ]
+        }
+    ]
+}

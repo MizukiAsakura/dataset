@@ -1,0 +1,26 @@
+{
+    "number": 253,
+    "name": "Massko",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "grass"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/grovyle.jpg",
+            "base": {
+                "hp": 50,
+                "attack": 65,
+                "defense": 45,
+                "spAttack": 85,
+                "spDefense": 65,
+                "speed": 95
+            },
+            "description": "Les feuilles qui poussent sur le corps de MASSKO sont bien pratiques lorsqu'il veut se camoufler dans la for\u00eat. Ce POK\u00e9MON est pass\u00e9 ma\u00eetre dans l'art de grimper aux arbres.",
+            "abilities": [
+                104,
+                91
+            ]
+        }
+    ]
+}

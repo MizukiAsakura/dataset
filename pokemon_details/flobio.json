@@ -1,0 +1,27 @@
+{
+    "number": 259,
+    "name": "Flobio",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water",
+                "ground"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/marshtomp.jpg",
+            "base": {
+                "hp": 70,
+                "attack": 85,
+                "defense": 70,
+                "spAttack": 60,
+                "spDefense": 70,
+                "speed": 50
+            },
+            "description": "FLOBIO est bien plus rapide dans la boue que dans l'eau. L'arri\u00e8re-train de ce POK\u00e9MON est particuli\u00e8rement d\u00e9velopp\u00e9, ce qui lui donne la capacit\u00e9 de marcher sur ses pattes arri\u00e8re.",
+            "abilities": [
+                282,
+                182
+            ]
+        }
+    ]
+}

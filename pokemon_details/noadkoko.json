@@ -1,0 +1,48 @@
+{
+    "number": 103,
+    "name": "Noadkoko",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "grass",
+                "psy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/exeggutor.jpg",
+            "base": {
+                "hp": 95,
+                "attack": 95,
+                "defense": 85,
+                "spAttack": 125,
+                "spDefense": 75,
+                "speed": 55
+            },
+            "description": "Noadkoko vient des tropiques. \u00c0 force de vivre sous un soleil ardent, ses t\u00eates ont rapidement grandi. On raconte que lorsque ses t\u00eates tombent, elles se rassemblent et forment un Noeunoeuf.",
+            "abilities": [
+                56,
+                239
+            ]
+        },
+        {
+            "name": "alola",
+            "types": [
+                "grass",
+                "dragon"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/exeggutor-alolan.jpg",
+            "base": {
+                "hp": 95,
+                "attack": 105,
+                "defense": 85,
+                "spAttack": 125,
+                "spDefense": 75,
+                "speed": 45
+            },
+            "description": "Noadkoko vient des tropiques. \u00c0 force de vivre sous un soleil ardent, ses t\u00eates ont rapidement grandi. On raconte que lorsque ses t\u00eates tombent, elles se rassemblent et forment un Noeunoeuf.",
+            "abilities": [
+                126,
+                239
+            ]
+        }
+    ]
+}

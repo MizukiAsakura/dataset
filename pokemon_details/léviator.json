@@ -1,0 +1,27 @@
+{
+    "number": 130,
+    "name": "L\u00e9viator",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water",
+                "fly"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/gyarados.jpg",
+            "base": {
+                "hp": 95,
+                "attack": 125,
+                "defense": 79,
+                "spAttack": 60,
+                "spDefense": 100,
+                "speed": 81
+            },
+            "description": "Quand Magicarpe \u00e9volue et devient L\u00e9viator, la structure de ses cellules c\u00e9r\u00e9brales est modifi\u00e9e. On pense que l'extr\u00eame violence de ce Pok\u00e9mon d\u00e9coule de cette modification.",
+            "abilities": [
+                156,
+                151
+            ]
+        }
+    ]
+}

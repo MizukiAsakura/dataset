@@ -1,0 +1,26 @@
+{
+    "number": 890,
+    "name": "\u00c9thernatos",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "poison",
+                "dragon"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/eternatus.jpg",
+            "base": {
+                "hp": 140,
+                "attack": 85,
+                "defense": 95,
+                "spAttack": 145,
+                "spDefense": 95,
+                "speed": 130
+            },
+            "description": "Il se trouvait dans une m\u00e9t\u00e9orite qui s\u2019est \u00e9cras\u00e9e il y a 20 000 ans. Il semble y avoir un lien entre ce Pok\u00e9mon et le ph\u00e9nom\u00e8ne Dynamax.",
+            "abilities": [
+                223
+            ]
+        }
+    ]
+}

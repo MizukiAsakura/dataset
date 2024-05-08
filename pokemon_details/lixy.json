@@ -1,0 +1,27 @@
+{
+    "number": 403,
+    "name": "Lixy",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "electrik"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/shinx.jpg",
+            "base": {
+                "hp": 45,
+                "attack": 65,
+                "defense": 34,
+                "spAttack": 40,
+                "spDefense": 34,
+                "speed": 45
+            },
+            "description": "Sa fourrure \u00e9tincelle en cas de danger. Il profite du fait que l'ennemi est aveugl\u00e9 pour s'enfuir. Les muscles de ses pattes avant produisent de l'\u00e9lectricit\u00e9. Son corps s'illumine en cas de danger.",
+            "abilities": [
+                271,
+                244,
+                77
+            ]
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "number": 774,
+    "name": "M\u00e9t\u00e9no",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "rock",
+                "fly"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/minior.jpg",
+            "base": {
+                "hp": 60,
+                "attack": 60,
+                "defense": 100,
+                "spAttack": 60,
+                "spDefense": 100,
+                "speed": 60
+            },
+            "description": "Il vit dans la couche d\u2019ozone, o\u00f9 des Pok\u00e9mon plus forts que lui cherchent \u00e0 le manger. Il tombe \u00e0 terre lorsqu\u2019il tente de s\u2019enfuir.",
+            "abilities": [
+                42
+            ]
+        },
+        {
+            "name": "noyau",
+            "types": [
+                "rock",
+                "fly"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/minior-core.jpg",
+            "base": {
+                "hp": 60,
+                "attack": 100,
+                "defense": 60,
+                "spAttack": 100,
+                "spDefense": 60,
+                "speed": 120
+            },
+            "description": "Il vit dans la couche d\u2019ozone, o\u00f9 des Pok\u00e9mon plus forts que lui cherchent \u00e0 le manger. Il tombe \u00e0 terre lorsqu\u2019il tente de s\u2019enfuir.",
+            "abilities": [
+                42
+            ]
+        }
+    ]
+}

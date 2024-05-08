@@ -1,0 +1,27 @@
+{
+    "number": 361,
+    "name": "Stalgamin",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "ice"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/snorunt.jpg",
+            "base": {
+                "hp": 50,
+                "attack": 50,
+                "defense": 50,
+                "spAttack": 50,
+                "spDefense": 50,
+                "speed": 50
+            },
+            "description": "Les STALGAMIN vivent dans les r\u00e9gions enneig\u00e9es. Pendant les saisons sans neige, comme le printemps et l'\u00e9t\u00e9, ces POK\u00e9MON se retirent pour vivre dans les cavernes, au milieu des stalactites et des stalagmites.",
+            "abilities": [
+                26,
+                71,
+                166
+            ]
+        }
+    ]
+}

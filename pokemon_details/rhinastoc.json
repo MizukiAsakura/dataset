@@ -1,0 +1,28 @@
+{
+    "number": 464,
+    "name": "Rhinastoc",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "ground",
+                "rock"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/rhyperior.jpg",
+            "base": {
+                "hp": 115,
+                "attack": 140,
+                "defense": 130,
+                "spAttack": 55,
+                "spDefense": 55,
+                "speed": 40
+            },
+            "description": "Il ins\u00e8re des pierres dans les trous de ses paumes, puis les projette par la force de ses muscles. Il lui arrive parfois de catapulter des Racaillou.",
+            "abilities": [
+                199,
+                256,
+                271
+            ]
+        }
+    ]
+}

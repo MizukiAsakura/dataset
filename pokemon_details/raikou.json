@@ -1,0 +1,26 @@
+{
+    "number": 243,
+    "name": "Raikou",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "electrik"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/raikou.jpg",
+            "base": {
+                "hp": 90,
+                "attack": 85,
+                "defense": 75,
+                "spAttack": 115,
+                "spDefense": 100,
+                "speed": 115
+            },
+            "description": "RAIKOU incarne la vitesse de l'\u00e9clair. Les rugissements de ce POK\u00e9MON lib\u00e8rent des ondes de choc provenant du ciel et frappant le sol avec la puissance de la foudre.",
+            "abilities": [
+                223,
+                26
+            ]
+        }
+    ]
+}

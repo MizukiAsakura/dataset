@@ -1,0 +1,25 @@
+{
+    "number": 488,
+    "name": "Cresselia",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "psy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/cresselia.jpg",
+            "base": {
+                "hp": 120,
+                "attack": 70,
+                "defense": 120,
+                "spAttack": 75,
+                "spDefense": 130,
+                "speed": 85
+            },
+            "description": "Lorsqu\u2019il vole, ses ailes semblables \u00e0 des voiles lib\u00e8rent des particules brillantes. On l\u2019appelle \u00ab l\u2019avatar du croissant de lune \u00bb.",
+            "abilities": [
+                162
+            ]
+        }
+    ]
+}

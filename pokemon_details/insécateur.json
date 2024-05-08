@@ -1,0 +1,28 @@
+{
+    "number": 123,
+    "name": "Ins\u00e9cateur",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "bug",
+                "fly"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/scyther.jpg",
+            "base": {
+                "hp": 70,
+                "attack": 110,
+                "defense": 80,
+                "spAttack": 55,
+                "spDefense": 80,
+                "speed": 105
+            },
+            "description": "Ins\u00e9cateur est incroyablement rapide. Sa vitesse fulgurante am\u00e9liore l'efficacit\u00e9 des deux lames situ\u00e9es sur ses avant-bras. Elles sont si coupantes qu'elles peuvent trancher un \u00e9norme tronc d'arbre en un coup.",
+            "abilities": [
+                111,
+                268,
+                149
+            ]
+        }
+    ]
+}

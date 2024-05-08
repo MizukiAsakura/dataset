@@ -1,0 +1,26 @@
+{
+    "number": 718,
+    "name": "Zygarde",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "dragon",
+                "ground"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/zygarde.jpg",
+            "base": {
+                "hp": 108,
+                "attack": 100,
+                "defense": 121,
+                "spAttack": 81,
+                "spDefense": 95,
+                "speed": 95
+            },
+            "description": "Ce Pok\u00e9mon serait capable de prendre une forme encore plus puissante quand il se bat contre un ennemi qui menace l\u2019\u00e9cosyst\u00e8me.",
+            "abilities": [
+                28
+            ]
+        }
+    ]
+}

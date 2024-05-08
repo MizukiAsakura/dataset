@@ -1,0 +1,28 @@
+{
+    "number": 435,
+    "name": "Moufflair",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "poison",
+                "dark"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/skuntank.jpg",
+            "base": {
+                "hp": 103,
+                "attack": 93,
+                "defense": 67,
+                "spAttack": 71,
+                "spDefense": 61,
+                "speed": 84
+            },
+            "description": "Il attaque en projetant un liquide f\u00e9tide du bout de sa queue. Il peut tirer \u00e0 50 m\u00e8tres. Sa queue projette un fluide puant. Plus on le laisse s'\u00e9couler et plus son odeur est insoutenable.",
+            "abilities": [
+                230,
+                39,
+                240
+            ]
+        }
+    ]
+}

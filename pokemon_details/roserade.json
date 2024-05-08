@@ -1,0 +1,28 @@
+{
+    "number": 407,
+    "name": "Roserade",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "grass",
+                "poison"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/roserade.jpg",
+            "base": {
+                "hp": 60,
+                "attack": 70,
+                "defense": 65,
+                "spAttack": 125,
+                "spDefense": 105,
+                "speed": 90
+            },
+            "description": "Il attire ses proies avec son doux parfum et les ach\u00e8ve gr\u00e2ce aux fouets d'\u00e9pines de ses bras. Gracieux comme un danseur, il abat ses fouets orn\u00e9s d'\u00e9pines empoisonn\u00e9es.",
+            "abilities": [
+                174,
+                217,
+                268
+            ]
+        }
+    ]
+}

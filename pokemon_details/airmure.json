@@ -1,0 +1,28 @@
+{
+    "number": 227,
+    "name": "Airmure",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "steel",
+                "fly"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/skarmory.jpg",
+            "base": {
+                "hp": 65,
+                "attack": 80,
+                "defense": 140,
+                "spAttack": 40,
+                "spDefense": 70,
+                "speed": 70
+            },
+            "description": "AIRMURE est enti\u00e8rement recouvert d'une armure tr\u00e8s dure. Ce POK\u00e9MON peut voler \u00e0 plus de 300 km/h. Il peut mettre ses ennemis en pi\u00e8ces gr\u00e2ce \u00e0 ses ailes tranchantes comme des sabres.",
+            "abilities": [
+                117,
+                240,
+                24
+            ]
+        }
+    ]
+}

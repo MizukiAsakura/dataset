@@ -1,0 +1,27 @@
+{
+    "number": 205,
+    "name": "Foretress",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "bug",
+                "steel"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/forretress.jpg",
+            "base": {
+                "hp": 75,
+                "attack": 90,
+                "defense": 140,
+                "spAttack": 60,
+                "spDefense": 60,
+                "speed": 40
+            },
+            "description": "FORETRESS se cache dans sa carapace en acier tremp\u00e9. La carapace s'ouvre quand il attrape sa proie, mais cela se passe tellement vite qu'il est impossible de voir \u00e0 l'int\u00e9rieur.",
+            "abilities": [
+                117,
+                106
+            ]
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "number": 543,
+    "name": "Venipatte",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "bug",
+                "grass"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/venipede.jpg",
+            "base": {
+                "hp": 30,
+                "attack": 45,
+                "defense": 59,
+                "spAttack": 30,
+                "spDefense": 39,
+                "speed": 57
+            },
+            "description": "Bien qu\u2019appartenant \u00e0 des esp\u00e8ces similaires, les Venipatte et les Grillepattes se livrent \u00e0 des conflits violents lorsqu\u2019ils se croisent.",
+            "abilities": [
+                217,
+                111,
+                287
+            ]
+        }
+    ]
+}

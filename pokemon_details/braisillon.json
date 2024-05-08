@@ -1,0 +1,27 @@
+{
+    "number": 662,
+    "name": "Braisillon",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fire",
+                "fly"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/fletchinder.jpg",
+            "base": {
+                "hp": 62,
+                "attack": 73,
+                "defense": 55,
+                "spAttack": 56,
+                "spDefense": 52,
+                "speed": 84
+            },
+            "description": "Il poss\u00e8de une poche remplie de feu sur son ventre. Plus elle \u00e9met de chaleur, plus il vole vite. Cependant, elle met quelque temps \u00e0 chauffer.",
+            "abilities": [
+                67,
+                9
+            ]
+        }
+    ]
+}

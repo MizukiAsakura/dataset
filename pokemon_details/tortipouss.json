@@ -1,0 +1,26 @@
+{
+    "number": 387,
+    "name": "Tortipouss",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "grass"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/turtwig.jpg",
+            "base": {
+                "hp": 55,
+                "attack": 68,
+                "defense": 64,
+                "spAttack": 45,
+                "spDefense": 55,
+                "speed": 31
+            },
+            "description": "La coquille sur son dos est faite de terre. Elle durcit lorsqu'il s'abreuve. Il vit le long des lacs. Son corps produit de l'oxyg\u00e8ne par photosynth\u00e8se. La feuille sur sa t\u00eate fl\u00e9trit quand il a soif.",
+            "abilities": [
+                104,
+                66
+            ]
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "number": 528,
+    "name": "Rhinolove",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "psy",
+                "fly"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/swoobat.jpg",
+            "base": {
+                "hp": 67,
+                "attack": 57,
+                "defense": 55,
+                "spAttack": 77,
+                "spDefense": 55,
+                "speed": 114
+            },
+            "description": "Certaines contr\u00e9es le v\u00e9n\u00e8rent et pensent que la forme de son nez est un symbole de chance et de bonheur.",
+            "abilities": [
+                153,
+                169,
+                253
+            ]
+        }
+    ]
+}

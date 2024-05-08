@@ -1,0 +1,26 @@
+{
+    "number": 846,
+    "name": "Embrochet",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/arrokuda.jpg",
+            "base": {
+                "hp": 41,
+                "attack": 63,
+                "defense": 40,
+                "spAttack": 40,
+                "spDefense": 30,
+                "speed": 66
+            },
+            "description": "Lorsqu\u2019il a le ventre plein, il a beaucoup plus de mal \u00e0 se d\u00e9placer, et c\u2019est \u00e0 ce moment pr\u00e9cis qu\u2019il se fait gober par les Nigosier.",
+            "abilities": [
+                134,
+                228
+            ]
+        }
+    ]
+}

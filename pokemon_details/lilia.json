@@ -1,0 +1,27 @@
+{
+    "number": 345,
+    "name": "Lilia",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "rock",
+                "grass"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/lileep.jpg",
+            "base": {
+                "hp": 66,
+                "attack": 41,
+                "defense": 77,
+                "spAttack": 61,
+                "spDefense": 87,
+                "speed": 23
+            },
+            "description": "L'esp\u00e8ce des LILIA s'est \u00e9teinte il y a environ cent millions d'ann\u00e9es. Cet ancien POK\u00e9MON s'accroche \u00e0 un rocher, sous l'eau, et attrape ses proies \u00e0 l'aide de ses tentacules en forme de p\u00e9tales de fleur.",
+            "abilities": [
+                291,
+                160
+            ]
+        }
+    ]
+}

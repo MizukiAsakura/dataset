@@ -1,0 +1,26 @@
+{
+    "number": 204,
+    "name": "Pomdepik",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "bug"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/pineco.jpg",
+            "base": {
+                "hp": 50,
+                "attack": 65,
+                "defense": 90,
+                "spAttack": 35,
+                "spDefense": 35,
+                "speed": 15
+            },
+            "description": "POMDEPIK s'accroche \u00e0 une branche d'arbre et attend patiemment que sa proie passe. Si ce POK\u00e9MON est d\u00e9rang\u00e9 pendant qu'il mange par quelqu'un qui secoue son arbre, il tombe au sol et explose sans pr\u00e9venir.",
+            "abilities": [
+                117,
+                106
+            ]
+        }
+    ]
+}

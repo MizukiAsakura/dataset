@@ -1,0 +1,28 @@
+{
+    "number": 759,
+    "name": "Nounourson",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal",
+                "fight"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/stufful.jpg",
+            "base": {
+                "hp": 70,
+                "attack": 75,
+                "defense": 50,
+                "spAttack": 45,
+                "spDefense": 50,
+                "speed": 50
+            },
+            "description": "Sa fa\u00e7on de remuer les pattes pour se d\u00e9fendre semble adorable, mais ce Pok\u00e9mon est si puissant qu\u2019il pourrait fendre un tronc de la sorte.",
+            "abilities": [
+                43,
+                169,
+                158
+            ]
+        }
+    ]
+}

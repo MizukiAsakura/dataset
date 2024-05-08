@@ -1,0 +1,49 @@
+{
+    "number": 78,
+    "name": "Galopa",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fire"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/rapidash.jpg",
+            "base": {
+                "hp": 65,
+                "attack": 100,
+                "defense": 70,
+                "spAttack": 80,
+                "spDefense": 80,
+                "speed": 105
+            },
+            "description": "On voit souvent Galopa trotter dans les champs et les plaines. Cependant, lorsque ce Pok\u00e9mon s'en donne la peine, il peut galoper \u00e0 plus de 240 km/h et sa crini\u00e8re flamboyante s'embrase.",
+            "abilities": [
+                128,
+                281,
+                67
+            ]
+        },
+        {
+            "name": "galar",
+            "types": [
+                "psy",
+                "fairy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/rapidash-galarian.jpg",
+            "base": {
+                "hp": 65,
+                "attack": 100,
+                "defense": 70,
+                "spAttack": 80,
+                "spDefense": 80,
+                "speed": 105
+            },
+            "description": "On voit souvent Galopa trotter dans les champs et les plaines. Cependant, lorsque ce Pok\u00e9mon s'en donne la peine, il peut galoper \u00e0 plus de 240 km/h et sa crini\u00e8re flamboyante s'embrase.",
+            "abilities": [
+                128,
+                293,
+                18
+            ]
+        }
+    ]
+}

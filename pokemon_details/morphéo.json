@@ -1,0 +1,25 @@
+{
+    "number": 351,
+    "name": "Morph\u00e9o",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/castform.jpg",
+            "base": {
+                "hp": 70,
+                "attack": 70,
+                "defense": 70,
+                "spAttack": 70,
+                "spDefense": 70,
+                "speed": 70
+            },
+            "description": "L'apparence de MORPHEO change en fonction du temps. Ce POK\u00e9MON a appris \u00e0 utiliser l'immense pouvoir de la nature pour prot\u00e9ger son corps minuscule.",
+            "abilities": [
+                177
+            ]
+        }
+    ]
+}

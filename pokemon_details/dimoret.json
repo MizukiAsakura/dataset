@@ -1,0 +1,27 @@
+{
+    "number": 461,
+    "name": "Dimoret",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "dark",
+                "ice"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/weavile.jpg",
+            "base": {
+                "hp": 70,
+                "attack": 120,
+                "defense": 65,
+                "spAttack": 45,
+                "spDefense": 85,
+                "speed": 125
+            },
+            "description": "Il est devenu assez sournois pour ne plus avoir \u00e0 se battre pour ses proies. Quiconque entre en contact avec ses griffes souffrira de gelures.",
+            "abilities": [
+                223,
+                210
+            ]
+        }
+    ]
+}

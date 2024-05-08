@@ -1,0 +1,27 @@
+{
+    "number": 341,
+    "name": "\u00c9crapince",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/corphish.jpg",
+            "base": {
+                "hp": 43,
+                "attack": 80,
+                "defense": 65,
+                "spAttack": 50,
+                "spDefense": 35,
+                "speed": 35
+            },
+            "description": "Les ECRAPINCE \u00e9taient au d\u00e9part des POK\u00e9MON \u00e9trangers import\u00e9s comme animaux domestiques. Ils ont fini par retrouver leur \u00e9tat sauvage. Ce POK\u00e9MON est particuli\u00e8rement robuste et sa population augmente sans arr\u00eat.",
+            "abilities": [
+                144,
+                66,
+                6
+            ]
+        }
+    ]
+}

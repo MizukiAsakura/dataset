@@ -1,0 +1,28 @@
+{
+    "number": 46,
+    "name": "Paras",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "bug",
+                "grass"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/paras.jpg",
+            "base": {
+                "hp": 35,
+                "attack": 70,
+                "defense": 55,
+                "spAttack": 45,
+                "spDefense": 55,
+                "speed": 25
+            },
+            "description": "Paras accueille des champignons parasites appel\u00e9s tochukaso qui poussent sur son dos. Ils grandissent gr\u00e2ce aux nutriments trouv\u00e9s sur le dos de ce Pok\u00e9mon Insecte. Ils peuvent rallonger l'esp\u00e9rance de vie.",
+            "abilities": [
+                220,
+                207,
+                182
+            ]
+        }
+    ]
+}

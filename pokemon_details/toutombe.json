@@ -1,0 +1,26 @@
+{
+    "number": 971,
+    "name": "Toutombe",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "ghost"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/greavard.jpg",
+            "base": {
+                "hp": 50,
+                "attack": 61,
+                "defense": 60,
+                "spAttack": 30,
+                "spDefense": 55,
+                "speed": 34
+            },
+            "description": "Il est sociable et n'aime pas la solitude. Une fois qu'une personne lui accorde la moindre attention, il ne la quitte plus d'une semelle.",
+            "abilities": [
+                235,
+                43
+            ]
+        }
+    ]
+}

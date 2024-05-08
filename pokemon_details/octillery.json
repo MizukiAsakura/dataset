@@ -1,0 +1,27 @@
+{
+    "number": 224,
+    "name": "Octillery",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/octillery.jpg",
+            "base": {
+                "hp": 75,
+                "attack": 105,
+                "defense": 75,
+                "spAttack": 105,
+                "spDefense": 75,
+                "speed": 45
+            },
+            "description": "OCTILLERY attrape son ennemi avec ses tentacules. Ce POK\u00e9MON essaye de l'immobiliser avant de lui ass\u00e9ner le coup final. Si l'ennemi s'av\u00e8re trop fort, OCTILLERY lui crache de l'encre \u00e0 la figure et s'\u00e9chappe.",
+            "abilities": [
+                8,
+                254,
+                166
+            ]
+        }
+    ]
+}

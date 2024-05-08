@@ -1,0 +1,28 @@
+{
+    "number": 183,
+    "name": "Marill",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water",
+                "fairy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/marill.jpg",
+            "base": {
+                "hp": 70,
+                "attack": 20,
+                "defense": 50,
+                "spAttack": 20,
+                "spDefense": 50,
+                "speed": 40
+            },
+            "description": "La queue remplie d'huile de MARILL lui sert de gilet de sauvetage. Parfois, on peut voir sa queue flotter \u00e0 la surface. On peut en d\u00e9duire que ce POK\u00e9MON a plong\u00e9 sous l'eau pour se nourrir de plantes aquatiques.",
+            "abilities": [
+                157,
+                63,
+                141
+            ]
+        }
+    ]
+}

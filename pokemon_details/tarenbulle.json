@@ -1,0 +1,27 @@
+{
+    "number": 752,
+    "name": "Tarenbulle",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water",
+                "bug"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/araquanid.jpg",
+            "base": {
+                "hp": 68,
+                "attack": 70,
+                "defense": 92,
+                "spAttack": 50,
+                "spDefense": 132,
+                "speed": 42
+            },
+            "description": "Il se bat en donnant des \u00ab coups de bulle \u00bb. Les plus petits Pok\u00e9mon peuvent se retrouver pi\u00e9g\u00e9s \u00e0 l\u2019int\u00e9rieur de sa bulle et mourir noy\u00e9s.",
+            "abilities": [
+                19,
+                2
+            ]
+        }
+    ]
+}

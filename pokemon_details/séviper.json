@@ -1,0 +1,26 @@
+{
+    "number": 336,
+    "name": "S\u00e9viper",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "poison"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/seviper.jpg",
+            "base": {
+                "hp": 73,
+                "attack": 100,
+                "defense": 60,
+                "spAttack": 100,
+                "spDefense": 60,
+                "speed": 65
+            },
+            "description": "SEVIPER partage une querelle datant de plusieurs g\u00e9n\u00e9rations avec MANGRIFF. Ses cicatrices sont les preuves de ses nombreux combats. Ce POK\u00e9MON attaque \u00e0 l'aide de sa queue, aiguis\u00e9e comme une \u00e9p\u00e9e.",
+            "abilities": [
+                186,
+                154
+            ]
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "number": 824,
+    "name": "Larvadar",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "bug"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/blipbug.jpg",
+            "base": {
+                "hp": 25,
+                "attack": 20,
+                "defense": 20,
+                "spAttack": 25,
+                "spDefense": 45,
+                "speed": 45
+            },
+            "description": "Comme il passe tout son temps \u00e0 recueillir des informations, son intelligence est tr\u00e8s d\u00e9velopp\u00e9e, mais sa force physique laisse \u00e0 d\u00e9sirer.",
+            "abilities": [
+                111,
+                194,
+                270
+            ]
+        }
+    ]
+}

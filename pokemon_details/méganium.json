@@ -1,0 +1,26 @@
+{
+    "number": 154,
+    "name": "M\u00e9ganium",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "grass"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/meganium.jpg",
+            "base": {
+                "hp": 80,
+                "attack": 82,
+                "defense": 100,
+                "spAttack": 83,
+                "spDefense": 100,
+                "speed": 80
+            },
+            "description": "Le parfum de la fleur de MEGANIUM apaise et calme les esprits. Pendant les combats, ce POK\u00e9MON \u00e9met son parfum relaxant pour att\u00e9nuer l'agressivit\u00e9 de l'ennemi.",
+            "abilities": [
+                104,
+                118
+            ]
+        }
+    ]
+}

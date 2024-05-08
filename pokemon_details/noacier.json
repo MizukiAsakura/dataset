@@ -1,0 +1,27 @@
+{
+    "number": 598,
+    "name": "Noacier",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "grass",
+                "steel"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/ferrothorn.jpg",
+            "base": {
+                "hp": 74,
+                "attack": 94,
+                "defense": 131,
+                "spAttack": 54,
+                "spDefense": 116,
+                "speed": 20
+            },
+            "description": "Il fissure la roche avec ses \u00e9pines pour ensuite absorber les nutriments qui s\u2019y trouvent gr\u00e2ce \u00e0 l\u2019extr\u00e9mit\u00e9 de ses tentacules.",
+            "abilities": [
+                108,
+                18
+            ]
+        }
+    ]
+}

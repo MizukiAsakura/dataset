@@ -1,0 +1,27 @@
+{
+    "number": 97,
+    "name": "Hypnomade",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "psy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/hypno.jpg",
+            "base": {
+                "hp": 85,
+                "attack": 73,
+                "defense": 70,
+                "spAttack": 73,
+                "spDefense": 115,
+                "speed": 67
+            },
+            "description": "Hypnomade tient un pendule dans sa main. Le mouvement de balancier et les reflets brillants du pendule hypnotisent profond\u00e9ment son ennemi. Lorsque ce Pok\u00e9mon cherche ses proies, il nettoie son pendule.",
+            "abilities": [
+                155,
+                222,
+                26
+            ]
+        }
+    ]
+}

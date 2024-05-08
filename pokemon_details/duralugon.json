@@ -1,0 +1,28 @@
+{
+    "number": 884,
+    "name": "Duralugon",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "steel",
+                "dragon"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/duraludon.jpg",
+            "base": {
+                "hp": 70,
+                "attack": 95,
+                "defense": 115,
+                "spAttack": 120,
+                "spDefense": 50,
+                "speed": 85
+            },
+            "description": "Son corps, compos\u00e9 d\u2019un m\u00e9tal sp\u00e9cial, est l\u00e9ger et lui offre une excellente mobilit\u00e9. Il est toutefois sensible \u00e0 la pluie et vit donc dans les grottes.",
+            "abilities": [
+                163,
+                140,
+                191
+            ]
+        }
+    ]
+}

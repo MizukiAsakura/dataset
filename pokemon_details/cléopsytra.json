@@ -1,0 +1,27 @@
+{
+    "number": 956,
+    "name": "Cl\u00e9opsytra",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "psy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/espathra.jpg",
+            "base": {
+                "hp": 95,
+                "attack": 60,
+                "defense": 60,
+                "spAttack": 101,
+                "spDefense": 60,
+                "speed": 105
+            },
+            "description": "Son \u00e9nergie psychique \u00e9mane des interstices situ\u00e9s entre ses volants color\u00e9s. Il peut courir \u00e0 une vitesse de 200 km/h.",
+            "abilities": [
+                195,
+                126,
+                287
+            ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "number": 502,
+    "name": "Mateloutre",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/dewott.jpg",
+            "base": {
+                "hp": 75,
+                "attack": 75,
+                "defense": 60,
+                "spAttack": 83,
+                "spDefense": 60,
+                "speed": 60
+            },
+            "description": "L\u2019apprentissage de sa technique de combat, qui utilise \u00e9l\u00e9gamment ses deux coupillages, est extr\u00eamement rigoureux.",
+            "abilities": [
+                282,
+                66
+            ]
+        }
+    ]
+}

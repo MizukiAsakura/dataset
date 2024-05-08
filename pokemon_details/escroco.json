@@ -1,0 +1,28 @@
+{
+    "number": 552,
+    "name": "Escroco",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "dark",
+                "ground"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/krokorok.jpg",
+            "base": {
+                "hp": 60,
+                "attack": 82,
+                "defense": 45,
+                "spAttack": 45,
+                "spDefense": 45,
+                "speed": 74
+            },
+            "description": "Les Escroco se d\u00e9placent en bandes, souvent men\u00e9es par une femelle. La plupart du temps, les m\u00e2les se chargent de collecter la nourriture.",
+            "abilities": [
+                156,
+                151,
+                61
+            ]
+        }
+    ]
+}

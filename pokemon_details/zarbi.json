@@ -1,0 +1,25 @@
+{
+    "number": 201,
+    "name": "Zarbi",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "psy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/unown.jpg",
+            "base": {
+                "hp": 48,
+                "attack": 72,
+                "defense": 48,
+                "spAttack": 72,
+                "spDefense": 48,
+                "speed": 48
+            },
+            "description": "Ce POK\u00e9MON a la forme d'un caract\u00e8re d'\u00e9criture antique. Personne ne sait si ces \u00e9critures antiques sont apparues avant les ZARBI ou le contraire. Des \u00e9tudes sont en cours, mais aucun r\u00e9sultat n'a \u00e9t\u00e9 annonc\u00e9.",
+            "abilities": [
+                162
+            ]
+        }
+    ]
+}

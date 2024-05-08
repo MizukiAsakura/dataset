@@ -1,0 +1,28 @@
+{
+    "number": 225,
+    "name": "Cadoizo",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "ice",
+                "fly"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/delibird.jpg",
+            "base": {
+                "hp": 45,
+                "attack": 55,
+                "defense": 45,
+                "spAttack": 65,
+                "spDefense": 45,
+                "speed": 75
+            },
+            "description": "CADOIZO transporte sa nourriture dans sa queue. Il y a longtemps, un c\u00e9l\u00e8bre explorateur r\u00e9ussit \u00e0 atteindre le sommet de l'Everest gr\u00e2ce \u00e0 un de ces POK\u00e9MON, qui partagea sa nourriture avec lui.",
+            "abilities": [
+                110,
+                8,
+                155
+            ]
+        }
+    ]
+}

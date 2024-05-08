@@ -1,0 +1,25 @@
+{
+    "number": 676,
+    "name": "Couafarel",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/furfrou.jpg",
+            "base": {
+                "hp": 75,
+                "attack": 80,
+                "defense": 60,
+                "spAttack": 65,
+                "spDefense": 90,
+                "speed": 102
+            },
+            "description": "Si son abondante fourrure gagne \u00e0 \u00eatre toilett\u00e9e, ce n\u2019est pas qu\u2019une question de style. En effet, cela lui permet \u00e9galement de se mouvoir plus librement.",
+            "abilities": [
+                279
+            ]
+        }
+    ]
+}

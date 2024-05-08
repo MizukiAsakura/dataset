@@ -1,0 +1,27 @@
+{
+    "number": 507,
+    "name": "Ponchien",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/herdier.jpg",
+            "base": {
+                "hp": 65,
+                "attack": 80,
+                "defense": 65,
+                "spAttack": 35,
+                "spDefense": 65,
+                "speed": 60
+            },
+            "description": "Il est enti\u00e8rement d\u00e9vou\u00e9 aux ordres de son ma\u00eetre. En revanche, il n\u2019ob\u00e9ira jamais \u00e0 quelqu\u2019un qu\u2019il consid\u00e8re comme inf\u00e9rieur \u00e0 lui.",
+            "abilities": [
+                156,
+                30,
+                232
+            ]
+        }
+    ]
+}

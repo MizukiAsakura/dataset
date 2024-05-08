@@ -1,0 +1,27 @@
+{
+    "number": 456,
+    "name": "\u00c9cayon",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/finneon.jpg",
+            "base": {
+                "hp": 49,
+                "attack": 49,
+                "defense": 56,
+                "spAttack": 49,
+                "spDefense": 61,
+                "speed": 66
+            },
+            "description": "Avec sa double nageoire caudale, il peut bondir hors de l\u2019eau. C\u2019est souvent \u00e0 ce moment que les Go\u00e9lise de passage l\u2019attrapent et le gobent.",
+            "abilities": [
+                160,
+                134,
+                147
+            ]
+        }
+    ]
+}

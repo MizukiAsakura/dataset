@@ -1,0 +1,26 @@
+{
+    "number": 402,
+    "name": "M\u00e9lokrik",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "bug"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/kricketune.jpg",
+            "base": {
+                "hp": 77,
+                "attack": 85,
+                "defense": 51,
+                "spAttack": 55,
+                "spDefense": 51,
+                "speed": 65
+            },
+            "description": "Il exprime ses \u00e9motions par des m\u00e9lodies. Les scientifiques \u00e9tudient actuellement leur structure. Il croise ses bras aff\u00fbt\u00e9s devant son torse pour crier. Il compose tout un tas de m\u00e9lodies.",
+            "abilities": [
+                111,
+                268
+            ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "number": 726,
+    "name": "Matoufeu",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fire"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/torracat.jpg",
+            "base": {
+                "hp": 65,
+                "attack": 85,
+                "defense": 50,
+                "spAttack": 80,
+                "spDefense": 50,
+                "speed": 90
+            },
+            "description": "Il est tr\u00e8s fier de ses pattes avant muscl\u00e9es, et ne se g\u00eane pas pour le montrer en tordant des barres de fer d\u2019un seul coup de poing.",
+            "abilities": [
+                44,
+                156
+            ]
+        }
+    ]
+}

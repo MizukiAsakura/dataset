@@ -1,0 +1,26 @@
+{
+    "number": 836,
+    "name": "Fulgudog",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "electrik"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/boltund.jpg",
+            "base": {
+                "hp": 69,
+                "attack": 90,
+                "defense": 60,
+                "spAttack": 90,
+                "spDefense": 60,
+                "speed": 121
+            },
+            "description": "Il se sert de l\u2019\u00e9nergie \u00e9lectrique pour augmenter la puissance de ses membres. Sa vitesse maximale d\u00e9passe de peu les 90 km/h.",
+            "abilities": [
+                227,
+                33
+            ]
+        }
+    ]
+}

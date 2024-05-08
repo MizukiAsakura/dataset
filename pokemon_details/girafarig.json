@@ -1,0 +1,28 @@
+{
+    "number": 203,
+    "name": "Girafarig",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal",
+                "psy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/girafarig.jpg",
+            "base": {
+                "hp": 70,
+                "attack": 80,
+                "defense": 65,
+                "spAttack": 90,
+                "spDefense": 65,
+                "speed": 85
+            },
+            "description": "La t\u00eate \u00e0 l'arri\u00e8re de GIRAFARIG a aussi un cerveau, mais il est plus petit. Elle attaque en r\u00e9ponse aux sons et aux odeurs. Si on approche de ce POK\u00e9MON par derri\u00e8re, cette petite t\u00eate peut tout \u00e0 coup jaillir et mordre.",
+            "abilities": [
+                26,
+                171,
+                141
+            ]
+        }
+    ]
+}

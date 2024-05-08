@@ -1,0 +1,27 @@
+{
+    "number": 137,
+    "name": "Porygon",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/porygon.jpg",
+            "base": {
+                "hp": 65,
+                "attack": 60,
+                "defense": 70,
+                "spAttack": 85,
+                "spDefense": 75,
+                "speed": 40
+            },
+            "description": "Porygon est capable de se d\u00e9compiler et de retourner \u00e0 l'\u00e9tat de programme informatique pour entrer dans le cyberespace. Ce Pok\u00e9mon est prot\u00e9g\u00e9 contre le piratage, il est donc impossible de le copier.",
+            "abilities": [
+                48,
+                269,
+                14
+            ]
+        }
+    ]
+}

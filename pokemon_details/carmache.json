@@ -1,0 +1,27 @@
+{
+    "number": 444,
+    "name": "Carmache",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "dragon",
+                "ground"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/gabite.jpg",
+            "base": {
+                "hp": 68,
+                "attack": 90,
+                "defense": 65,
+                "spAttack": 50,
+                "spDefense": 55,
+                "speed": 82
+            },
+            "description": "Selon une croyance ancienne, on peut utiliser ses \u00e9cailles pour gu\u00e9rir les maladies incurables. Il creuse en qu\u00eate de gemmes dont il d\u00e9core son nid. Bien des voleurs convoitent son butin.",
+            "abilities": [
+                294,
+                202
+            ]
+        }
+    ]
+}

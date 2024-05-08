@@ -1,0 +1,26 @@
+{
+    "number": 855,
+    "name": "Polth\u00e9geist",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "ghost"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/polteageist.jpg",
+            "base": {
+                "hp": 60,
+                "attack": 65,
+                "defense": 65,
+                "spAttack": 134,
+                "spDefense": 114,
+                "speed": 70
+            },
+            "description": "Il \u00e9lit domicile dans des th\u00e9i\u00e8res antiques. La plupart sont des contrefa\u00e7ons, mais il lui arrive dans de tr\u00e8s rares cas de trouver des originaux.",
+            "abilities": [
+                72,
+                24
+            ]
+        }
+    ]
+}

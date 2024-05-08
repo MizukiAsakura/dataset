@@ -1,0 +1,26 @@
+{
+    "number": 854,
+    "name": "Th\u00e9ffroi",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "ghost"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/sinistea.jpg",
+            "base": {
+                "hp": 40,
+                "attack": 45,
+                "defense": 45,
+                "spAttack": 74,
+                "spDefense": 54,
+                "speed": 50
+            },
+            "description": "Il \u00e9lit domicile dans des tasses de th\u00e9 anciennes de grand renom. Parmi celles-ci se trouvent de nombreuses contrefa\u00e7ons.",
+            "abilities": [
+                72,
+                24
+            ]
+        }
+    ]
+}

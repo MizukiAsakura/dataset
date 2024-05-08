@@ -1,0 +1,28 @@
+{
+    "number": 164,
+    "name": "Noarfang",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal",
+                "fly"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/noctowl.jpg",
+            "base": {
+                "hp": 100,
+                "attack": 50,
+                "defense": 50,
+                "spAttack": 86,
+                "spDefense": 96,
+                "speed": 70
+            },
+            "description": "Dans l'obscurit\u00e9, NOARFANG ne rate jamais une proie. Il le doit \u00e0 sa vision surd\u00e9velopp\u00e9e qui lui permet de tout voir, m\u00eame avec une lueur tr\u00e8s faible, ainsi qu'\u00e0 ses ailes tr\u00e8s souples et silencieuses.",
+            "abilities": [
+                155,
+                240,
+                161
+            ]
+        }
+    ]
+}

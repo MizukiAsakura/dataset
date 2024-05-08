@@ -1,0 +1,27 @@
+{
+    "number": 532,
+    "name": "Charpenti",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fight"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/timburr.jpg",
+            "base": {
+                "hp": 75,
+                "attack": 80,
+                "defense": 55,
+                "spAttack": 25,
+                "spDefense": 35,
+                "speed": 35
+            },
+            "description": "Il aime donner un coup de main sur les chantiers. Lorsque le travail cesse \u00e0 cause de la pluie, il brandit sa poutre de col\u00e8re.",
+            "abilities": [
+                77,
+                248,
+                215
+            ]
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "number": 91,
+    "name": "Crustabri",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water",
+                "ice"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/cloyster.jpg",
+            "base": {
+                "hp": 50,
+                "attack": 95,
+                "defense": 180,
+                "spAttack": 85,
+                "spDefense": 45,
+                "speed": 70
+            },
+            "description": "Crustabri est capable de se d\u00e9placer dans les fonds marins en avalant de l'eau et en la rejetant vers l'arri\u00e8re. Ce Pok\u00e9mon envoie des pointes en utilisant la m\u00eame m\u00e9thode.",
+            "abilities": [
+                66,
+                187,
+                106
+            ]
+        }
+    ]
+}

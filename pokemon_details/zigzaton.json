@@ -1,0 +1,49 @@
+{
+    "number": 263,
+    "name": "Zigzaton",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/zigzagoon.jpg",
+            "base": {
+                "hp": 38,
+                "attack": 30,
+                "defense": 41,
+                "spAttack": 30,
+                "spDefense": 41,
+                "speed": 60
+            },
+            "description": "Les poils sur le dos de ZIGZATON sont durs. Il frotte son dos contre les arbres pour marquer son territoire. Ce POK\u00e9MON fait parfois le mort pour tromper ses ennemis au combat.",
+            "abilities": [
+                235,
+                135,
+                212
+            ]
+        },
+        {
+            "name": "galar",
+            "types": [
+                "dark",
+                "normal"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/zigzagoon-galarian.jpg",
+            "base": {
+                "hp": 38,
+                "attack": 30,
+                "defense": 41,
+                "spAttack": 30,
+                "spDefense": 41,
+                "speed": 60
+            },
+            "description": "Les poils sur le dos de ZIGZATON sont durs. Il frotte son dos contre les arbres pour marquer son territoire. Ce POK\u00e9MON fait parfois le mort pour tromper ses ennemis au combat.",
+            "abilities": [
+                235,
+                135,
+                212
+            ]
+        }
+    ]
+}

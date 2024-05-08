@@ -1,0 +1,50 @@
+{
+    "number": 74,
+    "name": "Racaillou",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "ground",
+                "rock"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/geodude.jpg",
+            "base": {
+                "hp": 40,
+                "attack": 80,
+                "defense": 100,
+                "spAttack": 30,
+                "spDefense": 30,
+                "speed": 20
+            },
+            "description": "Lorsqu'un Racaillou prend de l'\u00e2ge, ses bords s'\u00e9br\u00e8chent et s'usent, ce qui lui donne une apparence plus ronde. Cependant, le c\u0153ur de ce Pok\u00e9mon reste dur, rocailleux et rugueux.",
+            "abilities": [
+                276,
+                117,
+                294
+            ]
+        },
+        {
+            "name": "alola",
+            "types": [
+                "electrik",
+                "rock"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/geodude-alolan.jpg",
+            "base": {
+                "hp": 40,
+                "attack": 80,
+                "defense": 100,
+                "spAttack": 30,
+                "spDefense": 30,
+                "speed": 20
+            },
+            "description": "Lorsqu'un Racaillou prend de l'\u00e2ge, ses bords s'\u00e9br\u00e8chent et s'usent, ce qui lui donne une apparence plus ronde. Cependant, le c\u0153ur de ce Pok\u00e9mon reste dur, rocailleux et rugueux.",
+            "abilities": [
+                168,
+                117,
+                203
+            ]
+        }
+    ]
+}

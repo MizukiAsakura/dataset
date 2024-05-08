@@ -1,0 +1,27 @@
+{
+    "number": 333,
+    "name": "Tylton",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal",
+                "fly"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/swablu.jpg",
+            "base": {
+                "hp": 45,
+                "attack": 40,
+                "defense": 60,
+                "spAttack": 40,
+                "spDefense": 75,
+                "speed": 50
+            },
+            "description": "TYLTON est dot\u00e9 d'ailes l\u00e9g\u00e8res et duveteuses comme des nuages cotonneux. Ce POK\u00e9MON n'est pas tr\u00e8s sauvage. Il lui arrive d'atterrir sur la t\u00eate des gens et d'y rester, comme un chapeau ouat\u00e9.",
+            "abilities": [
+                174,
+                57
+            ]
+        }
+    ]
+}

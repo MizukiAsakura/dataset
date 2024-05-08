@@ -1,0 +1,47 @@
+{
+    "number": 145,
+    "name": "\u00c9lecthor",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "electrik",
+                "fly"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/zapdos.jpg",
+            "base": {
+                "hp": 90,
+                "attack": 90,
+                "defense": 85,
+                "spAttack": 125,
+                "spDefense": 90,
+                "speed": 100
+            },
+            "description": "\u00c9lecthor est un Pok\u00e9mon Oiseau l\u00e9gendaire capable de contr\u00f4ler l'\u00e9lectricit\u00e9. Il vit g\u00e9n\u00e9ralement dans les nuages orageux. Ce Pok\u00e9mon gagne en puissance lorsqu'il est frapp\u00e9 par la foudre.",
+            "abilities": [
+                223,
+                260
+            ]
+        },
+        {
+            "name": "galar",
+            "types": [
+                "fight",
+                "fly"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/zapdos-galarian.jpg",
+            "base": {
+                "hp": 90,
+                "attack": 125,
+                "defense": 90,
+                "spAttack": 85,
+                "spDefense": 90,
+                "speed": 100
+            },
+            "description": "\u00c9lecthor est un Pok\u00e9mon Oiseau l\u00e9gendaire capable de contr\u00f4ler l'\u00e9lectricit\u00e9. Il vit g\u00e9n\u00e9ralement dans les nuages orageux. Ce Pok\u00e9mon gagne en puissance lorsqu'il est frapp\u00e9 par la foudre.",
+            "abilities": [
+                5
+            ]
+        }
+    ]
+}

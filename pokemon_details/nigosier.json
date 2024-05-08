@@ -1,0 +1,26 @@
+{
+    "number": 845,
+    "name": "Nigosier",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fly",
+                "water"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/cramorant.jpg",
+            "base": {
+                "hp": 70,
+                "attack": 85,
+                "defense": 55,
+                "spAttack": 85,
+                "spDefense": 95,
+                "speed": 85
+            },
+            "description": "Tr\u00e8s glouton, il avale les Embrochet d\u2019une seule bouch\u00e9e, mais il lui arrive de se tromper et de tenter de gober un autre Pok\u00e9mon.",
+            "abilities": [
+                89
+            ]
+        }
+    ]
+}

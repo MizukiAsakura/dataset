@@ -1,0 +1,28 @@
+{
+    "number": 167,
+    "name": "Mimigal",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "bug",
+                "poison"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/spinarak.jpg",
+            "base": {
+                "hp": 40,
+                "attack": 60,
+                "defense": 40,
+                "spAttack": 40,
+                "spDefense": 40,
+                "speed": 30
+            },
+            "description": "La toile tiss\u00e9e par MIMIGAL peut \u00eatre compar\u00e9e \u00e0 un second syst\u00e8me nerveux. On raconte que ce POK\u00e9MON peut d\u00e9terminer quel type de proie touche sa toile gr\u00e2ce aux infimes vibrations des fils.",
+            "abilities": [
+                111,
+                171,
+                254
+            ]
+        }
+    ]
+}

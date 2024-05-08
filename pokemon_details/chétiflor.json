@@ -1,0 +1,27 @@
+{
+    "number": 69,
+    "name": "Ch\u00e9tiflor",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "grass",
+                "poison"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/bellsprout.jpg",
+            "base": {
+                "hp": 50,
+                "attack": 75,
+                "defense": 35,
+                "spAttack": 70,
+                "spDefense": 30,
+                "speed": 40
+            },
+            "description": "Le corps long et flexible de Ch\u00e9tiflor lui permet de se tordre et d'osciller pour \u00e9viter tout type d'attaque, m\u00eames les plus puissantes. Ce Pok\u00e9mon crache un fluide corrosif qui peut m\u00eame dissoudre le fer.",
+            "abilities": [
+                56,
+                135
+            ]
+        }
+    ]
+}

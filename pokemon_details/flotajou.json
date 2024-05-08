@@ -1,0 +1,26 @@
+{
+    "number": 515,
+    "name": "Flotajou",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/panpour.jpg",
+            "base": {
+                "hp": 50,
+                "attack": 53,
+                "defense": 48,
+                "spAttack": 53,
+                "spDefense": 48,
+                "speed": 64
+            },
+            "description": "Il supporte mal les environnements secs. Il s'humidifie avec sa queue en aspirant l'eau stock\u00e9e dans la m\u00e8che sur sa t\u00eate.",
+            "abilities": [
+                135,
+                282
+            ]
+        }
+    ]
+}

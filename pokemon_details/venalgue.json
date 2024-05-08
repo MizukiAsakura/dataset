@@ -1,0 +1,28 @@
+{
+    "number": 690,
+    "name": "Venalgue",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "poison",
+                "water"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/skrelp.jpg",
+            "base": {
+                "hp": 50,
+                "attack": 60,
+                "defense": 60,
+                "spAttack": 60,
+                "spDefense": 60,
+                "speed": 30
+            },
+            "description": "Il se m\u00eale aux algues en d\u00e9composition flottant \u00e0 la surface des oc\u00e9ans afin de surprendre et de d\u00e9vorer les Pok\u00e9mon qui viennent s\u2019en nourrir.",
+            "abilities": [
+                217,
+                283,
+                6
+            ]
+        }
+    ]
+}

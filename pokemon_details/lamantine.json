@@ -1,0 +1,28 @@
+{
+    "number": 87,
+    "name": "Lamantine",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water",
+                "ice"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/dewgong.jpg",
+            "base": {
+                "hp": 90,
+                "attack": 70,
+                "defense": 80,
+                "spAttack": 70,
+                "spDefense": 95,
+                "speed": 70
+            },
+            "description": "Lamantine adore piquer un roupillon \u00e0 m\u00eame la glace. Il y a tr\u00e8s longtemps, un marin ayant aper\u00e7u ce Pok\u00e9mon dormant sur un glacier a cru voir une sir\u00e8ne.",
+            "abilities": [
+                157,
+                143,
+                71
+            ]
+        }
+    ]
+}

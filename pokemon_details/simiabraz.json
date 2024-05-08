@@ -1,0 +1,27 @@
+{
+    "number": 392,
+    "name": "Simiabraz",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fire",
+                "fight"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/infernape.jpg",
+            "base": {
+                "hp": 76,
+                "attack": 104,
+                "defense": 71,
+                "spAttack": 104,
+                "spDefense": 71,
+                "speed": 108
+            },
+            "description": "Il vit sur les c\u00f4tes des r\u00e9gions nordiques. C\u2019est un nageur dou\u00e9 capable de plonger plus de dix minutes pour trouver \u00e0 manger.",
+            "abilities": [
+                44,
+                215
+            ]
+        }
+    ]
+}

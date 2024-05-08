@@ -1,0 +1,25 @@
+{
+    "number": 773,
+    "name": "Silvalli\u00e9",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/silvally.jpg",
+            "base": {
+                "hp": 95,
+                "attack": 95,
+                "defense": 95,
+                "spAttack": 95,
+                "spDefense": 95,
+                "speed": 95
+            },
+            "description": "La confiance qu\u2019il place en son Dresseur a r\u00e9veill\u00e9 ses pouvoirs. Il est \u00e0 pr\u00e9sent capable de changer de type \u00e0 loisir durant le combat.",
+            "abilities": [
+                267
+            ]
+        }
+    ]
+}

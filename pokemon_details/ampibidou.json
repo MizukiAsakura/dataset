@@ -1,0 +1,27 @@
+{
+    "number": 939,
+    "name": "Ampibidou",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "electrik"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/bellibolt.jpg",
+            "base": {
+                "hp": 109,
+                "attack": 64,
+                "defense": 91,
+                "spAttack": 103,
+                "spDefense": 83,
+                "speed": 45
+            },
+            "description": "Ses organes semblables \u00e0 des yeux servent \u00e0 projeter l'\u00e9lectricit\u00e9 produite par son nombril-dynamo.",
+            "abilities": [
+                138,
+                260,
+                182
+            ]
+        }
+    ]
+}

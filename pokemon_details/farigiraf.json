@@ -1,0 +1,28 @@
+{
+    "number": 981,
+    "name": "Farigiraf",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal",
+                "psy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/farigiraf.jpg",
+            "base": {
+                "hp": 120,
+                "attack": 90,
+                "defense": 70,
+                "spAttack": 110,
+                "spDefense": 70,
+                "speed": 60
+            },
+            "description": "Lorsqu'il fait tournoyer son cou pour frapper ses adversaires, il prot\u00e8ge sa t\u00eate principale \u00e0 l'aide de sa t\u00eate noire, qui est plus dure.",
+            "abilities": [
+                245,
+                22,
+                141
+            ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "number": 252,
+    "name": "Arcko",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "grass"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/treecko.jpg",
+            "base": {
+                "hp": 40,
+                "attack": 45,
+                "defense": 35,
+                "spAttack": 65,
+                "spDefense": 55,
+                "speed": 70
+            },
+            "description": "ARCKO est cool, calme et serein. Il ne panique jamais, quelle que soit la situation. Quand un ennemi plus gros que lui lui lance un regard de d\u00e9fi, ce POK\u00e9MON reste sto\u00efque et ne c\u00e8de pas un centim\u00e8tre de terrain.",
+            "abilities": [
+                104,
+                91
+            ]
+        }
+    ]
+}

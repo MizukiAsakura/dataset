@@ -1,0 +1,27 @@
+{
+    "number": 523,
+    "name": "Z\u00e9blitz",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "electrik"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/zebstrika.jpg",
+            "base": {
+                "hp": 75,
+                "attack": 100,
+                "defense": 63,
+                "spAttack": 80,
+                "spDefense": 63,
+                "speed": 116
+            },
+            "description": "Il est agressif et projette des charges \u00e9lectriques dans toutes les directions quand il est en col\u00e8re. Faites attention !",
+            "abilities": [
+                199,
+                185,
+                141
+            ]
+        }
+    ]
+}

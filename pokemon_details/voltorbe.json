@@ -1,0 +1,49 @@
+{
+    "number": 100,
+    "name": "Voltorbe",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "electrik"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/voltorb.jpg",
+            "base": {
+                "hp": 40,
+                "attack": 30,
+                "defense": 50,
+                "spAttack": 55,
+                "spDefense": 55,
+                "speed": 100
+            },
+            "description": "La premi\u00e8re fois qu'on a vu Voltorbe, c'\u00e9tait dans une usine qui fabrique des Pok\u00e9 Balls. Personne n'a jamais pu expliquer le lien entre cet \u00e9v\u00e9nement et la ressemblance frappante de ce Pok\u00e9mon avec une Pok\u00e9 Ball.",
+            "abilities": [
+                260,
+                17,
+                39
+            ]
+        },
+        {
+            "name": "hisui",
+            "types": [
+                "electrik",
+                "grass"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/voltorb-hisuian.jpg",
+            "base": {
+                "hp": 40,
+                "attack": 30,
+                "defense": 50,
+                "spAttack": 55,
+                "spDefense": 55,
+                "speed": 100
+            },
+            "description": "La premi\u00e8re fois qu'on a vu Voltorbe, c'\u00e9tait dans une usine qui fabrique des Pok\u00e9 Balls. Personne n'a jamais pu expliquer le lien entre cet \u00e9v\u00e9nement et la ressemblance frappante de ce Pok\u00e9mon avec une Pok\u00e9 Ball.",
+            "abilities": [
+                260,
+                17,
+                39
+            ]
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "number": 420,
+    "name": "Ceribou",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "grass"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/cherubi.jpg",
+            "base": {
+                "hp": 45,
+                "attack": 35,
+                "defense": 45,
+                "spAttack": 62,
+                "spDefense": 53,
+                "speed": 35
+            },
+            "description": "La petite boule renferme les d\u00e9licieux nutriments sucr\u00e9s dont il a besoin pour \u00e9voluer. Il rougit au soleil. Quand la petite boule est \u00e0 court de nutriments, elle fane en signe d'\u00e9volution.",
+            "abilities": [
+                56
+            ]
+        }
+    ]
+}

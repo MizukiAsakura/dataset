@@ -1,0 +1,28 @@
+{
+    "number": 715,
+    "name": "Bruyverne",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "dragon",
+                "fly"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/noivern.jpg",
+            "base": {
+                "hp": 85,
+                "attack": 70,
+                "defense": 80,
+                "spAttack": 97,
+                "spDefense": 80,
+                "speed": 123
+            },
+            "description": "Il peut litt\u00e9ralement pulv\u00e9riser de gros rochers gr\u00e2ce aux ultrasons \u00e9mis par ses oreilles. Il surgit des t\u00e9n\u00e8bres pour attaquer par surprise.",
+            "abilities": [
+                126,
+                154,
+                270
+            ]
+        }
+    ]
+}

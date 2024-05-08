@@ -1,0 +1,82 @@
+{
+    "number": 386,
+    "name": "Deoxys",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "psy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/deoxys.jpg",
+            "base": {
+                "hp": 50,
+                "attack": 150,
+                "defense": 50,
+                "spAttack": 150,
+                "spDefense": 50,
+                "speed": 150
+            },
+            "description": "L'ADN d'un virus extraterrestre entama une mutation non attendue suite \u00e0 une exposition \u00e0 un rayon laser, ce qui cr\u00e9a DEOXYS. L'organe cristallin se trouvant sur la poitrine de ce POK\u00e9MON semble \u00eatre son cerveau.",
+            "abilities": [
+                223
+            ]
+        },
+        {
+            "name": "attaque",
+            "types": [
+                "psy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/deoxys-attack.jpg",
+            "base": {
+                "hp": 50,
+                "attack": 180,
+                "defense": 20,
+                "spAttack": 180,
+                "spDefense": 20,
+                "speed": 150
+            },
+            "description": "L'ADN d'un virus extraterrestre entama une mutation non attendue suite \u00e0 une exposition \u00e0 un rayon laser, ce qui cr\u00e9a DEOXYS. L'organe cristallin se trouvant sur la poitrine de ce POK\u00e9MON semble \u00eatre son cerveau.",
+            "abilities": [
+                223
+            ]
+        },
+        {
+            "name": "d\u00e9fense",
+            "types": [
+                "psy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/deoxys-defense.jpg",
+            "base": {
+                "hp": 50,
+                "attack": 70,
+                "defense": 160,
+                "spAttack": 70,
+                "spDefense": 160,
+                "speed": 90
+            },
+            "description": "L'ADN d'un virus extraterrestre entama une mutation non attendue suite \u00e0 une exposition \u00e0 un rayon laser, ce qui cr\u00e9a DEOXYS. L'organe cristallin se trouvant sur la poitrine de ce POK\u00e9MON semble \u00eatre son cerveau.",
+            "abilities": [
+                223
+            ]
+        },
+        {
+            "name": "vitesse",
+            "types": [
+                "psy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/deoxys-speed.jpg",
+            "base": {
+                "hp": 50,
+                "attack": 95,
+                "defense": 90,
+                "spAttack": 95,
+                "spDefense": 90,
+                "speed": 180
+            },
+            "description": "L'ADN d'un virus extraterrestre entama une mutation non attendue suite \u00e0 une exposition \u00e0 un rayon laser, ce qui cr\u00e9a DEOXYS. L'organe cristallin se trouvant sur la poitrine de ce POK\u00e9MON semble \u00eatre son cerveau.",
+            "abilities": [
+                223
+            ]
+        }
+    ]
+}

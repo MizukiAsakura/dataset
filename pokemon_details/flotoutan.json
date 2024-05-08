@@ -1,0 +1,26 @@
+{
+    "number": 516,
+    "name": "Flotoutan",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/simipour.jpg",
+            "base": {
+                "hp": 75,
+                "attack": 98,
+                "defense": 63,
+                "spAttack": 98,
+                "spDefense": 63,
+                "speed": 101
+            },
+            "description": "Le jet d\u2019eau \u00e0 haute pression qu\u2019il propulse par la queue est assez puissant pour traverser un mur de b\u00e9ton.",
+            "abilities": [
+                135,
+                282
+            ]
+        }
+    ]
+}

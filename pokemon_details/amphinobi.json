@@ -1,0 +1,47 @@
+{
+    "number": 658,
+    "name": "Amphinobi",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water",
+                "dark"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/greninja.jpg",
+            "base": {
+                "hp": 72,
+                "attack": 95,
+                "defense": 67,
+                "spAttack": 103,
+                "spDefense": 71,
+                "speed": 122
+            },
+            "description": "Il transforme des jets d\u2019eau sous pression en redoutables shuriken. Une fois lanc\u00e9s, ils tournent si vite qu\u2019ils peuvent m\u00eame couper le m\u00e9tal.",
+            "abilities": [
+                282,
+                229
+            ]
+        },
+        {
+            "name": "sashanobi",
+            "types": [
+                "water",
+                "dark"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/greninja-ash.jpg",
+            "base": {
+                "hp": 72,
+                "attack": 145,
+                "defense": 67,
+                "spAttack": 153,
+                "spDefense": 71,
+                "speed": 132
+            },
+            "description": "Il transforme des jets d\u2019eau sous pression en redoutables shuriken. Une fois lanc\u00e9s, ils tournent si vite qu\u2019ils peuvent m\u00eame couper le m\u00e9tal.",
+            "abilities": [
+                266
+            ]
+        }
+    ]
+}

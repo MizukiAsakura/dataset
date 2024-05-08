@@ -1,0 +1,28 @@
+{
+    "number": 357,
+    "name": "Tropius",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "grass",
+                "fly"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/tropius.jpg",
+            "base": {
+                "hp": 99,
+                "attack": 68,
+                "defense": 83,
+                "spAttack": 72,
+                "spDefense": 87,
+                "speed": 51
+            },
+            "description": "Les enfants adorent les fruits autour du cou de TROPIUS. Apparemment, son penchant pour les fruits l'a conduit \u00e0 en faire pousser sur son propre corps. Il les aime tant qu'il en mange sans arr\u00eat.",
+            "abilities": [
+                56,
+                125,
+                239
+            ]
+        }
+    ]
+}

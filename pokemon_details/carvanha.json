@@ -1,0 +1,27 @@
+{
+    "number": 318,
+    "name": "Carvanha",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water",
+                "dark"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/carvanha.jpg",
+            "base": {
+                "hp": 45,
+                "attack": 90,
+                "defense": 20,
+                "spAttack": 65,
+                "spDefense": 20,
+                "speed": 65
+            },
+            "description": "Les m\u00e2choires surd\u00e9velopp\u00e9es de CARVANHA et ses crocs ac\u00e9r\u00e9s sont si puissants qu'ils peuvent d\u00e9chirer la coque des bateaux. De nombreux navires ont \u00e9t\u00e9 attaqu\u00e9s et coul\u00e9s par ce POK\u00e9MON.",
+            "abilities": [
+                202,
+                287
+            ]
+        }
+    ]
+}

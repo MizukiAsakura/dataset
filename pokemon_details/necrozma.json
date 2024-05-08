@@ -1,0 +1,85 @@
+{
+    "number": 800,
+    "name": "Necrozma",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "psy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/necrozma.jpg",
+            "base": {
+                "hp": 97,
+                "attack": 107,
+                "defense": 101,
+                "spAttack": 127,
+                "spDefense": 89,
+                "speed": 79
+            },
+            "description": "Une cr\u00e9ature endormie sous terre. On suppose qu\u2019il s\u2019agit d\u2019une Ultra-Chim\u00e8re et qu\u2019elle serait venue d\u2019un autre monde, il y a bien longtemps.",
+            "abilities": [
+                226
+            ]
+        },
+        {
+            "name": "crini\u00e8re du couchant",
+            "types": [
+                "psy",
+                "steel"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/necrozma-dusk-mane.jpg",
+            "base": {
+                "hp": 97,
+                "attack": 157,
+                "defense": 127,
+                "spAttack": 113,
+                "spDefense": 109,
+                "speed": 77
+            },
+            "description": "La forme que Necrozma prend lorsqu'il absorbe la lumi\u00e8re de Solgaleo. Il bondit sur ses ennemis et leur ass\u00e8ne des coups de griffes.",
+            "abilities": [
+                226
+            ]
+        },
+        {
+            "name": "ailes de l'aurore",
+            "types": [
+                "psy",
+                "ghost"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/necrozma-dawn-wings.jpg",
+            "base": {
+                "hp": 97,
+                "attack": 113,
+                "defense": 109,
+                "spAttack": 157,
+                "spDefense": 127,
+                "speed": 77
+            },
+            "description": "La forme que Necrozma prend lorsqu'il absorbe la lumi\u00e8re de Lunala. Il attrape et d\u00e9chiquette ses adversaires \u00e0 l'aide de ses longues griffes.",
+            "abilities": [
+                226
+            ]
+        },
+        {
+            "name": "ultra",
+            "types": [
+                "psy",
+                "dragon"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/necrozma-ultra.jpg",
+            "base": {
+                "hp": 97,
+                "attack": 167,
+                "defense": 97,
+                "spAttack": 167,
+                "spDefense": 97,
+                "speed": 129
+            },
+            "description": "Necrozma prend cette forme quand il a absorb\u00e9 une quantit\u00e9 ph\u00e9nom\u00e9nale d'\u00e9nergie lumineuse. Des rayons laser \u00e9manent de tout son corps.",
+            "abilities": [
+                50
+            ]
+        }
+    ]
+}

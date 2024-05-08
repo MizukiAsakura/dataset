@@ -1,0 +1,26 @@
+{
+    "number": 847,
+    "name": "Hastacuda",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/barraskewda.jpg",
+            "base": {
+                "hp": 61,
+                "attack": 123,
+                "defense": 60,
+                "spAttack": 60,
+                "spDefense": 50,
+                "speed": 136
+            },
+            "description": "Il charge d\u2019un coup en faisant tourner sa nageoire caudale. Il peut transpercer ses proies \u00e0 une vitesse d\u00e9passant les 100 n\u0153uds.",
+            "abilities": [
+                134,
+                228
+            ]
+        }
+    ]
+}

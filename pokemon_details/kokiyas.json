@@ -1,0 +1,27 @@
+{
+    "number": 90,
+    "name": "Kokiyas",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/shellder.jpg",
+            "base": {
+                "hp": 30,
+                "attack": 65,
+                "defense": 100,
+                "spAttack": 45,
+                "spDefense": 25,
+                "speed": 40
+            },
+            "description": "La nuit, ce Pok\u00e9mon utilise sa grande langue pour creuser un trou dans le sable des fonds marins afin d'y dormir. Une fois endormi, Kokiyas referme sa coquille, mais laisse sa langue d\u00e9passer.",
+            "abilities": [
+                66,
+                187,
+                106
+            ]
+        }
+    ]
+}

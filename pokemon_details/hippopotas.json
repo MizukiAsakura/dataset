@@ -1,0 +1,26 @@
+{
+    "number": 449,
+    "name": "Hippopotas",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "ground"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/hippopotas.jpg",
+            "base": {
+                "hp": 68,
+                "attack": 72,
+                "defense": 78,
+                "spAttack": 38,
+                "spDefense": 42,
+                "speed": 32
+            },
+            "description": "Il vit dans des endroits arides. Il exsude du sable granuleux au lieu de transpirer. Il se recouvre de sable pour se prot\u00e9ger des microbes. Il n'aime pas l'eau.",
+            "abilities": [
+                294,
+                124
+            ]
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "number": 229,
+    "name": "D\u00e9molosse",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "dark",
+                "fire"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/houndoom.jpg",
+            "base": {
+                "hp": 75,
+                "attack": 90,
+                "defense": 50,
+                "spAttack": 110,
+                "spDefense": 80,
+                "speed": 95
+            },
+            "description": "Dans une meute de DEMOLOSSE, le leader est dot\u00e9 de cornes inclin\u00e9es vers l'arri\u00e8re. Ces POK\u00e9MON choisissent leur chef en organisant des combats entre eux.",
+            "abilities": [
+                281,
+                171,
+                273
+            ]
+        }
+    ]
+}

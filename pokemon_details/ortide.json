@@ -1,0 +1,27 @@
+{
+    "number": 44,
+    "name": "Ortide",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "grass",
+                "poison"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/gloom.jpg",
+            "base": {
+                "hp": 60,
+                "attack": 65,
+                "defense": 70,
+                "spAttack": 85,
+                "spDefense": 75,
+                "speed": 40
+            },
+            "description": "La plupart du temps, Ortide d\u00e9gage un parfum immonde du pistil de sa fleur. Lorsqu'il se sent en danger, la puanteur est encore pire. Lorsque ce Pok\u00e9mon se sent bien en s\u00e9curit\u00e9, il ne d\u00e9gage aucune odeur naus\u00e9abonde.",
+            "abilities": [
+                56,
+                230
+            ]
+        }
+    ]
+}

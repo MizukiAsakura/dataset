@@ -1,0 +1,26 @@
+{
+    "number": 738,
+    "name": "Lucanon",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "bug",
+                "electrik"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/vikavolt.jpg",
+            "base": {
+                "hp": 77,
+                "attack": 70,
+                "defense": 90,
+                "spAttack": 145,
+                "spDefense": 75,
+                "speed": 43
+            },
+            "description": "Il virevolte dans tous les sens, guettant la faille pour frapper. Il concentre l\u2019\u00e9lectricit\u00e9 dans ses grandes mandibules pour foudroyer l\u2019ennemi.",
+            "abilities": [
+                162
+            ]
+        }
+    ]
+}

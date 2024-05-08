@@ -1,0 +1,27 @@
+{
+    "number": 438,
+    "name": "Manza\u00ef",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "rock"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/bonsly.jpg",
+            "base": {
+                "hp": 50,
+                "attack": 80,
+                "defense": 95,
+                "spAttack": 10,
+                "spDefense": 45,
+                "speed": 10
+            },
+            "description": "On dirait qu'il pleure constamment. En fait, il r\u00e9gule ses fluides corporels en \u00e9liminant le surplus. Il pr\u00e9f\u00e8re les sols arides. Il \u00e9vacue l'eau par ses yeux pour r\u00e9guler ses fluides corporels.",
+            "abilities": [
+                117,
+                276,
+                209
+            ]
+        }
+    ]
+}

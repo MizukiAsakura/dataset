@@ -1,0 +1,26 @@
+{
+    "number": 990,
+    "name": "Roue-de-Fer",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "ground",
+                "steel"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/iron-treads.jpg",
+            "base": {
+                "hp": 90,
+                "attack": 112,
+                "defense": 120,
+                "spAttack": 72,
+                "spDefense": 70,
+                "speed": 106
+            },
+            "description": "Il ressemble beaucoup \u00e0 une arme sophistiqu\u00e9e qui serait d'origine extraterrestre, selon une revue consacr\u00e9e aux ph\u00e9nom\u00e8nes paranormaux.",
+            "abilities": [
+                52
+            ]
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "number": 749,
+    "name": "Tiboudet",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "ground"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/mudbray.jpg",
+            "base": {
+                "hp": 70,
+                "attack": 100,
+                "defense": 70,
+                "spAttack": 45,
+                "spDefense": 55,
+                "speed": 45
+            },
+            "description": "Un Pok\u00e9mon tr\u00e8s t\u00eatu, qui aime faire les choses \u00e0 son rythme. Il passe ses journ\u00e9es \u00e0 m\u00e2cher de la terre pour en faire de la boue et jouer avec.",
+            "abilities": [
+                272,
+                103,
+                26
+            ]
+        }
+    ]
+}

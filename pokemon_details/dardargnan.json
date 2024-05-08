@@ -1,0 +1,27 @@
+{
+    "number": 15,
+    "name": "Dardargnan",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "bug",
+                "fly"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/beedrill.jpg",
+            "base": {
+                "hp": 65,
+                "attack": 90,
+                "defense": 40,
+                "spAttack": 45,
+                "spDefense": 80,
+                "speed": 75
+            },
+            "description": "Dardargnan est extr\u00eamement possessif. Il vaut mieux ne pas toucher \u00e0 son nid si on veut \u00e9viter d'avoir des ennuis. Lorsqu'ils sont en col\u00e8re, ces Pok\u00e9mon attaquent en masse.",
+            "abilities": [
+                111,
+                254
+            ]
+        }
+    ]
+}

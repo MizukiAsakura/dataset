@@ -1,0 +1,28 @@
+{
+    "number": 430,
+    "name": "Corboss",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "dark",
+                "fly"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/honchkrow.jpg",
+            "base": {
+                "hp": 100,
+                "attack": 125,
+                "defense": 52,
+                "spAttack": 105,
+                "spDefense": 52,
+                "speed": 71
+            },
+            "description": "Ce Pok\u00e9mon nocturne \u00e9volue en grandes vol\u00e9es escort\u00e9es par des CORNEBRE. Il demande \u00e0 ses amis CORNEBRE de lui apporter \u00e0 manger. Il passe son temps \u00e0 se pomponner dans son nid.",
+            "abilities": [
+                155,
+                51,
+                151
+            ]
+        }
+    ]
+}

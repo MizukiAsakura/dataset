@@ -1,0 +1,28 @@
+{
+    "number": 627,
+    "name": "Furaiglon",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal",
+                "fly"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/rufflet.jpg",
+            "base": {
+                "hp": 70,
+                "attack": 83,
+                "defense": 50,
+                "spAttack": 37,
+                "spDefense": 50,
+                "speed": 60
+            },
+            "description": "C\u2019est un guerrier endurci d\u00e8s sa naissance. Il commence d\u2019ailleurs par d\u00e9fier ses parents au combat pour leur prouver sa valeur.",
+            "abilities": [
+                240,
+                248,
+                8
+            ]
+        }
+    ]
+}

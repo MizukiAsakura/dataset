@@ -1,0 +1,28 @@
+{
+    "number": 901,
+    "name": "Ursaking",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal",
+                "ground"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/ursaluna.jpg",
+            "base": {
+                "hp": 130,
+                "attack": 140,
+                "defense": 105,
+                "spAttack": 45,
+                "spDefense": 80,
+                "speed": 50
+            },
+            "description": "Je pense que ce sont les \u00e9tendues mar\u00e9cageuses de Hisui qui ont dot\u00e9 ce Pok\u00e9mon d'un corps robuste et d'une aptitude \u00e0 manipuler la tourbe.",
+            "abilities": [
+                77,
+                200,
+                273
+            ]
+        }
+    ]
+}

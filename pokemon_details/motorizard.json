@@ -1,0 +1,27 @@
+{
+    "number": 967,
+    "name": "Motorizard",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "dragon",
+                "normal"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/cyclizar.jpg",
+            "base": {
+                "hp": 70,
+                "attack": 95,
+                "defense": 65,
+                "spAttack": 85,
+                "spDefense": 65,
+                "speed": 121
+            },
+            "description": "Il peut courir \u00e0 120 km/h avec un \u00eatre humain sur le dos. La chaleur corporelle des personnes qu'il transporte le r\u00e9chauffe et lui donne de l'\u00e9nergie.",
+            "abilities": [
+                186,
+                241
+            ]
+        }
+    ]
+}

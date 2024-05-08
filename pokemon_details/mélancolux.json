@@ -1,0 +1,28 @@
+{
+    "number": 608,
+    "name": "M\u00e9lancolux",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "ghost",
+                "fire"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/lampent.jpg",
+            "base": {
+                "hp": 60,
+                "attack": 40,
+                "defense": 60,
+                "spAttack": 95,
+                "spDefense": 60,
+                "speed": 55
+            },
+            "description": "Comme il appara\u00eet d\u00e8s qu\u2019une personne est sur le point de tr\u00e9passer, les gens le craignent et le prennent pour un messager de la mort.",
+            "abilities": [
+                281,
+                67,
+                154
+            ]
+        }
+    ]
+}

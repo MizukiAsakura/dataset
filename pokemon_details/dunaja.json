@@ -1,0 +1,27 @@
+{
+    "number": 843,
+    "name": "Dunaja",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "ground"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/silicobra.jpg",
+            "base": {
+                "hp": 52,
+                "attack": 57,
+                "defense": 75,
+                "spAttack": 35,
+                "spDefense": 50,
+                "speed": 46
+            },
+            "description": "Il amasse le sable qu\u2019il avale en creusant dans la poche de son cou. Elle peut en contenir jusqu\u2019\u00e0 huit kilos.",
+            "abilities": [
+                113,
+                186,
+                294
+            ]
+        }
+    ]
+}

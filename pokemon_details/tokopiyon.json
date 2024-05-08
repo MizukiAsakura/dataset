@@ -1,0 +1,27 @@
+{
+    "number": 786,
+    "name": "Tokopiyon",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "psy",
+                "fairy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/tapu-lele.jpg",
+            "base": {
+                "hp": 70,
+                "attack": 85,
+                "defense": 75,
+                "spAttack": 130,
+                "spDefense": 115,
+                "speed": 95
+            },
+            "description": "Avec ses ailes d\u00e9licates, il r\u00e9pand une poudre myst\u00e9rieuse et lumineuse quand il vole. Il suffit de le toucher pour retrouver aussit\u00f4t le sourire.",
+            "abilities": [
+                81,
+                270
+            ]
+        }
+    ]
+}

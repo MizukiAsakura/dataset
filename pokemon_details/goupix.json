@@ -1,0 +1,46 @@
+{
+    "number": 37,
+    "name": "Goupix",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fire"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/vulpix.jpg",
+            "base": {
+                "hp": 38,
+                "attack": 41,
+                "defense": 40,
+                "spAttack": 50,
+                "spDefense": 65,
+                "speed": 65
+            },
+            "description": "\u00c0 sa naissance, Goupix a une queue blanche. Cette queue se divise en six si le Pok\u00e9mon re\u00e7oit de l'amiti\u00e9 de la part de son Dresseur. Les six queues sont courb\u00e9es et magnifiques.",
+            "abilities": [
+                281,
+                249
+            ]
+        },
+        {
+            "name": "alola",
+            "types": [
+                "ice"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/vulpix-alolan.jpg",
+            "base": {
+                "hp": 38,
+                "attack": 41,
+                "defense": 40,
+                "spAttack": 50,
+                "spDefense": 65,
+                "speed": 65
+            },
+            "description": "\u00c0 sa naissance, Goupix a une queue blanche. Cette queue se divise en six si le Pok\u00e9mon re\u00e7oit de l'amiti\u00e9 de la part de son Dresseur. Les six queues sont courb\u00e9es et magnifiques.",
+            "abilities": [
+                243,
+                11
+            ]
+        }
+    ]
+}

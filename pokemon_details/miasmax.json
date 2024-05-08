@@ -1,0 +1,27 @@
+{
+    "number": 569,
+    "name": "Miasmax",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "poison"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/garbodor.jpg",
+            "base": {
+                "hp": 80,
+                "attack": 95,
+                "defense": 82,
+                "spAttack": 60,
+                "spDefense": 82,
+                "speed": 75
+            },
+            "description": "Il fut un temps o\u00f9 les Miasmax \u00e9taient LE fl\u00e9au d\u2019Alola. Heureusement, leur population a vite diminu\u00e9 apr\u00e8s l\u2019arriv\u00e9e des Tadmorv.",
+            "abilities": [
+                230,
+                137,
+                39
+            ]
+        }
+    ]
+}

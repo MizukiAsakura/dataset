@@ -1,0 +1,27 @@
+{
+    "number": 120,
+    "name": "Stari",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/staryu.jpg",
+            "base": {
+                "hp": 30,
+                "attack": 45,
+                "defense": 55,
+                "spAttack": 70,
+                "spDefense": 55,
+                "speed": 85
+            },
+            "description": "Au centre de Stari se trouve un organe rouge et brillant appel\u00e9 le c\u0153ur. \u00c0 la fin de l'\u00e9t\u00e9, sur les plages, les c\u0153urs de ces Pok\u00e9mon brillent comme les \u00e9toiles dans le ciel.",
+            "abilities": [
+                174,
+                165,
+                14
+            ]
+        }
+    ]
+}

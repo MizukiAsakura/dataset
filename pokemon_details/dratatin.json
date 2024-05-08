@@ -1,0 +1,28 @@
+{
+    "number": 842,
+    "name": "Dratatin",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "grass",
+                "dragon"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/appletun.jpg",
+            "base": {
+                "hp": 110,
+                "attack": 85,
+                "defense": 80,
+                "spAttack": 100,
+                "spDefense": 80,
+                "speed": 30
+            },
+            "description": "Il a \u00e9volu\u00e9 apr\u00e8s avoir mang\u00e9 une pomme sucr\u00e9e. Il attire ses proies, les Pok\u00e9mon Insecte, en d\u00e9gageant un parfum mielleux.",
+            "abilities": [
+                190,
+                135,
+                157
+            ]
+        }
+    ]
+}

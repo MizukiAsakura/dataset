@@ -1,0 +1,27 @@
+{
+    "number": 114,
+    "name": "Saquedeneu",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "grass"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/tangela.jpg",
+            "base": {
+                "hp": 65,
+                "attack": 55,
+                "defense": 115,
+                "spAttack": 100,
+                "spDefense": 40,
+                "speed": 60
+            },
+            "description": "Les lianes de Saquedeneu se brisent facilement lorsqu'on les attrape. Cela ne lui fait pas mal et lui permet simplement de s'\u00e9chapper rapidement. Les lianes cass\u00e9es repoussent le lendemain.",
+            "abilities": [
+                56,
+                118,
+                241
+            ]
+        }
+    ]
+}

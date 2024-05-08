@@ -1,0 +1,26 @@
+{
+    "number": 471,
+    "name": "Givrali",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "ice"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/glaceon.jpg",
+            "base": {
+                "hp": 65,
+                "attack": 60,
+                "defense": 110,
+                "spAttack": 130,
+                "spDefense": 95,
+                "speed": 65
+            },
+            "description": "Totalement subjugu\u00e9es par la beaut\u00e9 des cristaux de glace qu\u2019il fait tomber, ses proies ne r\u00e9alisent que trop tard qu\u2019elles sont en train de geler.",
+            "abilities": [
+                243,
+                71
+            ]
+        }
+    ]
+}

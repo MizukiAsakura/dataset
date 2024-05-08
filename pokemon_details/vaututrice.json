@@ -1,0 +1,28 @@
+{
+    "number": 630,
+    "name": "Vaututrice",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "dark",
+                "fly"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/mandibuzz.jpg",
+            "base": {
+                "hp": 110,
+                "attack": 65,
+                "defense": 105,
+                "spAttack": 55,
+                "spDefense": 95,
+                "speed": 80
+            },
+            "description": "Les Vaututrice femelles se parent d\u2019ossements pour leur parade nuptiale. On attend toujours de d\u00e9couvrir si les m\u00e2les existent ou pas.",
+            "abilities": [
+                58,
+                106,
+                24
+            ]
+        }
+    ]
+}

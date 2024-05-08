@@ -1,0 +1,28 @@
+{
+    "number": 520,
+    "name": "Colombeau",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal",
+                "fly"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/tranquill.jpg",
+            "base": {
+                "hp": 62,
+                "attack": 77,
+                "defense": 62,
+                "spAttack": 50,
+                "spDefense": 42,
+                "speed": 65
+            },
+            "description": "Il est intelligent et poss\u00e8de une bonne m\u00e9moire. On raconte que les livreurs le choisissent souvent comme partenaire.",
+            "abilities": [
+                58,
+                51,
+                244
+            ]
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "number": 422,
+    "name": "Sancoki",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/shellos.jpg",
+            "base": {
+                "hp": 76,
+                "attack": 48,
+                "defense": 48,
+                "spAttack": 57,
+                "spDefense": 62,
+                "speed": 34
+            },
+            "description": "Sa couleur et sa forme varient selon les r\u00e9gions. On en recense deux types \u00e0 Sinnoh. Il vit le long des points d'eau. Sa morphologie a chang\u00e9 pour s'adapter \u00e0 son environnement.",
+            "abilities": [
+                137,
+                160,
+                124
+            ]
+        }
+    ]
+}

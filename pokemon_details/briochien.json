@@ -1,0 +1,26 @@
+{
+    "number": 927,
+    "name": "Briochien",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fairy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/dachsbun.jpg",
+            "base": {
+                "hp": 57,
+                "attack": 80,
+                "defense": 115,
+                "spAttack": 50,
+                "spDefense": 80,
+                "speed": 95
+            },
+            "description": "La surface de sa peau durcit lorsqu'elle est expos\u00e9e \u00e0 une forte chaleur. Son corps exhale un d\u00e9licieux parfum.",
+            "abilities": [
+                36,
+                25
+            ]
+        }
+    ]
+}

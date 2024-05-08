@@ -1,0 +1,27 @@
+{
+    "number": 750,
+    "name": "Bourrinos",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "ground"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/mudsdale.jpg",
+            "base": {
+                "hp": 100,
+                "attack": 125,
+                "defense": 100,
+                "spAttack": 55,
+                "spDefense": 85,
+                "speed": 35
+            },
+            "description": "Il recouvre ses jambes d\u2019une cro\u00fbte de boue, les rendant ainsi plus dures que la pierre. Il peut alors d\u00e9truire un camion d\u2019un seul coup de jambe.",
+            "abilities": [
+                272,
+                103,
+                26
+            ]
+        }
+    ]
+}

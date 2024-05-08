@@ -1,0 +1,27 @@
+{
+    "number": 928,
+    "name": "Olivini",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "grass",
+                "normal"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/smoliv.jpg",
+            "base": {
+                "hp": 41,
+                "attack": 35,
+                "defense": 45,
+                "spAttack": 58,
+                "spDefense": 51,
+                "speed": 30
+            },
+            "description": "Ce Pok\u00e9mon convertit les nutriments en huile qu'il emmagasine dans le fruit qui surmonte sa t\u00eate. Il peut passer une semaine sans boire ni manger.",
+            "abilities": [
+                171,
+                239
+            ]
+        }
+    ]
+}

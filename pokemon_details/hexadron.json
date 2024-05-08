@@ -1,0 +1,26 @@
+{
+    "number": 870,
+    "name": "Hexadron",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fight"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/falinks.jpg",
+            "base": {
+                "hp": 65,
+                "attack": 100,
+                "defense": 100,
+                "spAttack": 70,
+                "spDefense": 60,
+                "speed": 75
+            },
+            "description": "C\u2019est une entit\u00e9 unique compos\u00e9e d\u2019un chef et de cinq cadets. Ces derniers ob\u00e9issent sans sourciller \u00e0 leur sup\u00e9rieur hi\u00e9rarchique.",
+            "abilities": [
+                21,
+                5
+            ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "number": 638,
+    "name": "Cobaltium",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "steel",
+                "fight"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/cobalion.jpg",
+            "base": {
+                "hp": 91,
+                "attack": 90,
+                "defense": 129,
+                "spAttack": 90,
+                "spDefense": 72,
+                "speed": 108
+            },
+            "description": "Selon la l\u00e9gende, il aurait d\u00e9fi\u00e9 les Hommes, aux c\u00f4t\u00e9s de Terrakium et de Viridium, pour prot\u00e9ger les Pok\u00e9mon d\u2019Unys.",
+            "abilities": [
+                59
+            ]
+        }
+    ]
+}

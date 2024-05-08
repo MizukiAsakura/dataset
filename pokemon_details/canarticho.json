@@ -1,0 +1,48 @@
+{
+    "number": 83,
+    "name": "Canarticho",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal",
+                "fly"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/farfetchd.jpg",
+            "base": {
+                "hp": 52,
+                "attack": 90,
+                "defense": 55,
+                "spAttack": 58,
+                "spDefense": 62,
+                "speed": 60
+            },
+            "description": "On voit souvent des Canarticho avec une tige, r\u00e9cup\u00e9r\u00e9e sur une plante quelconque. Apparemment, ils peuvent distinguer les bonnes des mauvaises. On a vu ces Pok\u00e9mon se battre pour des histoires de tiges.",
+            "abilities": [
+                26,
+                240,
+                5
+            ]
+        },
+        {
+            "name": "galar",
+            "types": [
+                "fight"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/farfetchd-galarian.jpg",
+            "base": {
+                "hp": 52,
+                "attack": 95,
+                "defense": 55,
+                "spAttack": 58,
+                "spDefense": 62,
+                "speed": 55
+            },
+            "description": "On voit souvent des Canarticho avec une tige, r\u00e9cup\u00e9r\u00e9e sur une plante quelconque. Apparemment, ils peuvent distinguer les bonnes des mauvaises. On a vu ces Pok\u00e9mon se battre pour des histoires de tiges.",
+            "abilities": [
+                149,
+                232
+            ]
+        }
+    ]
+}

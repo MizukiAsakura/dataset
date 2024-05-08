@@ -1,0 +1,26 @@
+{
+    "number": 651,
+    "name": "Bogu\u00e9risse",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "grass"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/quilladin.jpg",
+            "base": {
+                "hp": 61,
+                "attack": 78,
+                "defense": 95,
+                "spAttack": 56,
+                "spDefense": 58,
+                "speed": 57
+            },
+            "description": "Il renforce ses membres inf\u00e9rieurs en se ruant violemment sur ses cong\u00e9n\u00e8res. Naturellement paisible, il ne provoque jamais un combat.",
+            "abilities": [
+                104,
+                200
+            ]
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "number": 106,
+    "name": "Kicklee",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fight"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/hitmonlee.jpg",
+            "base": {
+                "hp": 50,
+                "attack": 120,
+                "defense": 53,
+                "spAttack": 35,
+                "spDefense": 110,
+                "speed": 87
+            },
+            "description": "Les jambes de Kicklee peuvent se contracter et s'\u00e9tirer \u00e0 volont\u00e9. Gr\u00e2ce \u00e0 ces jambes \u00e0 ressort, il terrasse ses ennemis en les rouant de coups de pied. Apr\u00e8s les combats, il masse ses jambes pour \u00e9viter de sentir la fatigue.",
+            "abilities": [
+                98,
+                271,
+                91
+            ]
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "number": 663,
+    "name": "Flambusard",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fire",
+                "fly"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/talonflame.jpg",
+            "base": {
+                "hp": 78,
+                "attack": 81,
+                "defense": 71,
+                "spAttack": 74,
+                "spDefense": 69,
+                "speed": 126
+            },
+            "description": "Flambusard attaque \u00e0 une vitesse de 500 km/h. Il ach\u00e8ve ses proies d\u2019un puissant coup de patte sans leur laisser la moindre chance de fuir.",
+            "abilities": [
+                67,
+                9
+            ]
+        }
+    ]
+}

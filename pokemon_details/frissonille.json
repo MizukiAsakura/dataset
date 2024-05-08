@@ -1,0 +1,27 @@
+{
+    "number": 872,
+    "name": "Frissonille",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "ice",
+                "bug"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/snom.jpg",
+            "base": {
+                "hp": 30,
+                "attack": 25,
+                "defense": 35,
+                "spAttack": 45,
+                "spDefense": 30,
+                "speed": 20
+            },
+            "description": "Il crache un fil gel\u00e9 qu\u2019il utilise pour s\u2019accrocher \u00e0 une branche : il dort ainsi en imitant une stalactite.",
+            "abilities": [
+                100,
+                97
+            ]
+        }
+    ]
+}

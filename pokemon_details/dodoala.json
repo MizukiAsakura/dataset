@@ -1,0 +1,25 @@
+{
+    "number": 775,
+    "name": "Dodoala",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/komala.jpg",
+            "base": {
+                "hp": 65,
+                "attack": 115,
+                "defense": 65,
+                "spAttack": 75,
+                "spDefense": 95,
+                "speed": 65
+            },
+            "description": "Il rejoint et quitte ce monde en dormant. Son existence se d\u00e9roule comme un r\u00eave paisible. Il dort du sommeil du juste toute sa vie durant.",
+            "abilities": [
+                145
+            ]
+        }
+    ]
+}

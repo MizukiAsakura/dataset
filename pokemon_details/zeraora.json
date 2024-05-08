@@ -1,0 +1,25 @@
+{
+    "number": 807,
+    "name": "Zeraora",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "electrik"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/zeraora.jpg",
+            "base": {
+                "hp": 88,
+                "attack": 112,
+                "defense": 75,
+                "spAttack": 102,
+                "spDefense": 80,
+                "speed": 143
+            },
+            "description": "Il d\u00e9chiquette son adversaire avec ses griffes charg\u00e9es d\u2019\u00e9lectricit\u00e9. M\u00eame si sa cible \u00e9vite l\u2019attaque, elle re\u00e7oit un coup de jus.",
+            "abilities": [
+                3
+            ]
+        }
+    ]
+}

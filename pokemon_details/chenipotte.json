@@ -1,0 +1,26 @@
+{
+    "number": 265,
+    "name": "Chenipotte",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "bug"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/wurmple.jpg",
+            "base": {
+                "hp": 45,
+                "attack": 45,
+                "defense": 35,
+                "spAttack": 20,
+                "spDefense": 30,
+                "speed": 20
+            },
+            "description": "A l'aide des pointes derri\u00e8re sa t\u00eate, CHENIPOTTE d\u00e9chire l'\u00e9corce des arbres et mange la s\u00e8ve qui coule dessus. Les pattes de ce POK\u00e9MON sont dot\u00e9es de coussinets \u00e0 ventouses pour adh\u00e9rer aux parois en verre sans en glisser.",
+            "abilities": [
+                100,
+                128
+            ]
+        }
+    ]
+}

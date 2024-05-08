@@ -1,0 +1,27 @@
+{
+    "number": 463,
+    "name": "Coudlangue",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/lickilicky.jpg",
+            "base": {
+                "hp": 110,
+                "attack": 85,
+                "defense": 95,
+                "spAttack": 80,
+                "spDefense": 95,
+                "speed": 50
+            },
+            "description": "Il est aussi habile avec sa langue que les \u00eatres humains le sont avec leurs mains. En revanche, il est maladroit quand il utilise ses doigts.",
+            "abilities": [
+                35,
+                272,
+                57
+            ]
+        }
+    ]
+}

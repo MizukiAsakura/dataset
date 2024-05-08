@@ -1,0 +1,48 @@
+{
+    "number": 484,
+    "name": "Palkia",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water",
+                "dragon"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/palkia.jpg",
+            "base": {
+                "hp": 90,
+                "attack": 120,
+                "defense": 100,
+                "spAttack": 150,
+                "spDefense": 120,
+                "speed": 100
+            },
+            "description": "Ce Pok\u00e9mon capable de distordre l\u2019espace est d\u00e9crit comme une divinit\u00e9 dans les mythes de la r\u00e9gion de Sinnoh.",
+            "abilities": [
+                223,
+                270
+            ]
+        },
+        {
+            "name": "originelle",
+            "types": [
+                "water",
+                "dragon"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/palkia-origin.jpg",
+            "base": {
+                "hp": 90,
+                "attack": 100,
+                "defense": 100,
+                "spAttack": 150,
+                "spDefense": 120,
+                "speed": 120
+            },
+            "description": "Ce Pok\u00e9mon capable de distordre l\u2019espace est d\u00e9crit comme une divinit\u00e9 dans les mythes de la r\u00e9gion de Sinnoh.",
+            "abilities": [
+                223,
+                270
+            ]
+        }
+    ]
+}

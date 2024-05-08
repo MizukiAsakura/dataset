@@ -1,0 +1,47 @@
+{
+    "number": 38,
+    "name": "Feunard",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fire"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/ninetales.jpg",
+            "base": {
+                "hp": 73,
+                "attack": 76,
+                "defense": 75,
+                "spAttack": 81,
+                "spDefense": 100,
+                "speed": 100
+            },
+            "description": "Feunard peut envoyer un inqui\u00e9tant rayon avec ses yeux rouge vif pour prendre le contr\u00f4le de l'esprit de son ennemi. On raconte que ce Pok\u00e9mon peut vivre 1 000 ans.",
+            "abilities": [
+                281,
+                249
+            ]
+        },
+        {
+            "name": "alola",
+            "types": [
+                "ice",
+                "fairy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/ninetales-alolan.jpg",
+            "base": {
+                "hp": 73,
+                "attack": 67,
+                "defense": 75,
+                "spAttack": 81,
+                "spDefense": 100,
+                "speed": 109
+            },
+            "description": "Feunard peut envoyer un inqui\u00e9tant rayon avec ses yeux rouge vif pour prendre le contr\u00f4le de l'esprit de son ennemi. On raconte que ce Pok\u00e9mon peut vivre 1 000 ans.",
+            "abilities": [
+                243,
+                11
+            ]
+        }
+    ]
+}

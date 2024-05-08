@@ -1,0 +1,27 @@
+{
+    "number": 109,
+    "name": "Smogo",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "poison"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/koffing.jpg",
+            "base": {
+                "hp": 40,
+                "attack": 65,
+                "defense": 95,
+                "spAttack": 60,
+                "spDefense": 45,
+                "speed": 35
+            },
+            "description": "Lorsque Smogo s'agite, \u00e7a augmente la toxicit\u00e9 de ses gaz internes. Il les projette ensuite par les nombreux orifices de son corps. Ce Pok\u00e9mon peut aussi gonfler son corps et le faire exploser.",
+            "abilities": [
+                162,
+                132,
+                230
+            ]
+        }
+    ]
+}

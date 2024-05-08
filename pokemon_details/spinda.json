@@ -1,0 +1,27 @@
+{
+    "number": 327,
+    "name": "Spinda",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/spinda.jpg",
+            "base": {
+                "hp": 60,
+                "attack": 60,
+                "defense": 60,
+                "spAttack": 60,
+                "spDefense": 60,
+                "speed": 60
+            },
+            "description": "On raconte que chaque SPINDA dispose d'un agencement de taches tout \u00e0 fait unique. La d\u00e9marche chancelante et titubante de ce POK\u00e9MON donne l'impression qu'il danse.",
+            "abilities": [
+                272,
+                211,
+                65
+            ]
+        }
+    ]
+}

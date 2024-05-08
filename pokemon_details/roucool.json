@@ -1,0 +1,28 @@
+{
+    "number": 16,
+    "name": "Roucool",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal",
+                "fly"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/pidgey.jpg",
+            "base": {
+                "hp": 40,
+                "attack": 45,
+                "defense": 40,
+                "spAttack": 35,
+                "spDefense": 35,
+                "speed": 56
+            },
+            "description": "Roucool a un excellent sens de l'orientation. Il est capable de retrouver son nid sans jamais se tromper, m\u00eame s'il est tr\u00e8s loin de chez lui et dans un environnement qu'il ne conna\u00eet pas.",
+            "abilities": [
+                240,
+                211,
+                58
+            ]
+        }
+    ]
+}

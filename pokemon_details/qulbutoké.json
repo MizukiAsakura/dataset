@@ -1,0 +1,26 @@
+{
+    "number": 202,
+    "name": "Qulbutok\u00e9",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "psy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/wobbuffet.jpg",
+            "base": {
+                "hp": 190,
+                "attack": 33,
+                "defense": 58,
+                "spAttack": 33,
+                "spDefense": 58,
+                "speed": 33
+            },
+            "description": "Si un ou plusieurs QULBUTOKE se rencontrent, ils se mesurent les uns aux autres et font des concours d'endurance. Parfois, ils tentent de voir qui peut rester le plus longtemps sans manger. Mieux vaut \u00eatre pr\u00e9venu.",
+            "abilities": [
+                170,
+                270
+            ]
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "number": 711,
+    "name": "Banshitrouye",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "ghost",
+                "grass"
+            ],
+            "image": "https://img.pokemondb.net/artwork/gourgeist.jpg",
+            "base": {
+                "hp": 65,
+                "attack": 90,
+                "defense": 122,
+                "spAttack": 58,
+                "spDefense": 75,
+                "speed": 84
+            },
+            "description": "Il enserre ses proies dans ses bras, semblables \u00e0 de longues m\u00e8ches de cheveux. Il se d\u00e9lecte de leur souffrance en chantonnant gaiement.",
+            "abilities": [
+                235,
+                126,
+                155
+            ]
+        },
+        {
+            "name": "mini",
+            "types": [
+                "ghost",
+                "grass"
+            ],
+            "image": "https://img.pokemondb.net/artwork/gourgeist.jpg",
+            "base": {
+                "hp": 55,
+                "attack": 85,
+                "defense": 122,
+                "spAttack": 58,
+                "spDefense": 75,
+                "speed": 99
+            },
+            "description": "Il enserre ses proies dans ses bras, semblables \u00e0 de longues m\u00e8ches de cheveux. Il se d\u00e9lecte de leur souffrance en chantonnant gaiement.",
+            "abilities": [
+                235,
+                126,
+                155
+            ]
+        },
+        {
+            "name": "maxi",
+            "types": [
+                "ghost",
+                "grass"
+            ],
+            "image": "https://img.pokemondb.net/artwork/gourgeist.jpg",
+            "base": {
+                "hp": 75,
+                "attack": 95,
+                "defense": 122,
+                "spAttack": 58,
+                "spDefense": 75,
+                "speed": 69
+            },
+            "description": "Il enserre ses proies dans ses bras, semblables \u00e0 de longues m\u00e8ches de cheveux. Il se d\u00e9lecte de leur souffrance en chantonnant gaiement.",
+            "abilities": [
+                235,
+                126,
+                155
+            ]
+        },
+        {
+            "name": "ultra",
+            "types": [
+                "ghost",
+                "grass"
+            ],
+            "image": "https://img.pokemondb.net/artwork/gourgeist.jpg",
+            "base": {
+                "hp": 85,
+                "attack": 100,
+                "defense": 122,
+                "spAttack": 58,
+                "spDefense": 75,
+                "speed": 54
+            },
+            "description": "Il enserre ses proies dans ses bras, semblables \u00e0 de longues m\u00e8ches de cheveux. Il se d\u00e9lecte de leur souffrance en chantonnant gaiement.",
+            "abilities": [
+                235,
+                126,
+                155
+            ]
+        }
+    ]
+}

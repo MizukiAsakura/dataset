@@ -1,0 +1,27 @@
+{
+    "number": 332,
+    "name": "Cacturne",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "grass",
+                "dark"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/cacturne.jpg",
+            "base": {
+                "hp": 70,
+                "attack": 115,
+                "defense": 60,
+                "spAttack": 115,
+                "spDefense": 60,
+                "speed": 55
+            },
+            "description": "Pendant la journ\u00e9e, CACTURNE reste immobile pour \u00e9viter de se d\u00e9shydrater sous le soleil du d\u00e9sert. Ce POK\u00e9MON ne commence son activit\u00e9 qu'une fois la nuit tomb\u00e9e, sous une temp\u00e9rature plus fra\u00eeche.",
+            "abilities": [
+                295,
+                2
+            ]
+        }
+    ]
+}

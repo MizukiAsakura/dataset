@@ -1,0 +1,27 @@
+{
+    "number": 63,
+    "name": "Abra",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "psy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/abra.jpg",
+            "base": {
+                "hp": 25,
+                "attack": 20,
+                "defense": 15,
+                "spAttack": 105,
+                "spDefense": 55,
+                "speed": 90
+            },
+            "description": "Abra doit dormir dix-huit heures par jour. S'il dort moins, ce Pok\u00e9mon ne peut plus utiliser ses pouvoirs t\u00e9l\u00e9kin\u00e9tiques. Lorsqu'il est attaqu\u00e9, Abra s'enfuit en utilisant T\u00e9l\u00e9port, sans m\u00eame se r\u00e9veiller.",
+            "abilities": [
+                265,
+                26,
+                130
+            ]
+        }
+    ]
+}

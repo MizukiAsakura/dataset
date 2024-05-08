@@ -1,0 +1,27 @@
+{
+    "number": 938,
+    "name": "T\u00eatampoule",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "electrik"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/tadbulb.jpg",
+            "base": {
+                "hp": 61,
+                "attack": 31,
+                "defense": 41,
+                "spAttack": 59,
+                "spDefense": 35,
+                "speed": 45
+            },
+            "description": "Il flotte dans les airs gr\u00e2ce \u00e0 l'\u00e9lectricit\u00e9 emmagasin\u00e9e dans son corps. Les jours d'orage, il l\u00e9vite un peu plus haut qu'\u00e0 l'accoutum\u00e9e.",
+            "abilities": [
+                272,
+                260,
+                182
+            ]
+        }
+    ]
+}

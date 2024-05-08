@@ -1,0 +1,27 @@
+{
+    "number": 33,
+    "name": "Nidorino",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "poison"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/nidorino.jpg",
+            "base": {
+                "hp": 61,
+                "attack": 72,
+                "defense": 57,
+                "spAttack": 55,
+                "spDefense": 55,
+                "speed": 65
+            },
+            "description": "Nidorino dispose d'une corne plus dure que du diamant. S'il sent une pr\u00e9sence hostile, toutes les pointes de son dos se h\u00e9rissent d'un coup, puis il d\u00e9fie son ennemi.",
+            "abilities": [
+                217,
+                244,
+                8
+            ]
+        }
+    ]
+}

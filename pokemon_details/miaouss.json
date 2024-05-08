@@ -1,0 +1,69 @@
+{
+    "number": 52,
+    "name": "Miaouss",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/meowth.jpg",
+            "base": {
+                "hp": 40,
+                "attack": 45,
+                "defense": 35,
+                "spAttack": 40,
+                "spDefense": 40,
+                "speed": 90
+            },
+            "description": "Miaouss peut rentrer ses griffes dans ses pattes pour r\u00f4der gracieusement sans laisser de traces. \u00c9trangement, ce Pok\u00e9mon raffole des pi\u00e8ces d'or qui brillent \u00e0 la lumi\u00e8re.",
+            "abilities": [
+                235,
+                268,
+                273
+            ]
+        },
+        {
+            "name": "alola",
+            "types": [
+                "dark"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/meowth-alolan.jpg",
+            "base": {
+                "hp": 40,
+                "attack": 35,
+                "defense": 35,
+                "spAttack": 50,
+                "spDefense": 40,
+                "speed": 90
+            },
+            "description": "Miaouss peut rentrer ses griffes dans ses pattes pour r\u00f4der gracieusement sans laisser de traces. \u00c9trangement, ce Pok\u00e9mon raffole des pi\u00e8ces d'or qui brillent \u00e0 la lumi\u00e8re.",
+            "abilities": [
+                235,
+                268,
+                209
+            ]
+        },
+        {
+            "name": "galar",
+            "types": [
+                "steel"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/meowth-galarian.jpg",
+            "base": {
+                "hp": 50,
+                "attack": 65,
+                "defense": 55,
+                "spAttack": 40,
+                "spDefense": 40,
+                "speed": 40
+            },
+            "description": "Miaouss peut rentrer ses griffes dans ses pattes pour r\u00f4der gracieusement sans laisser de traces. \u00c9trangement, ce Pok\u00e9mon raffole des pi\u00e8ces d'or qui brillent \u00e0 la lumi\u00e8re.",
+            "abilities": [
+                235,
+                139,
+                273
+            ]
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "number": 474,
+    "name": "Porygon-Z",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/porygon-z.jpg",
+            "base": {
+                "hp": 85,
+                "attack": 80,
+                "defense": 70,
+                "spAttack": 135,
+                "spDefense": 75,
+                "speed": 90
+            },
+            "description": "Un nouveau logiciel \u00e9tait cens\u00e9 lui permettre de voyager entre les dimensions, mais tout ne se passe pas comme pr\u00e9vu et il y a des bugs.",
+            "abilities": [
+                6,
+                269,
+                14
+            ]
+        }
+    ]
+}

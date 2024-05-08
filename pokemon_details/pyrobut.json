@@ -1,0 +1,26 @@
+{
+    "number": 815,
+    "name": "Pyrobut",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fire"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/cinderace.jpg",
+            "base": {
+                "hp": 80,
+                "attack": 116,
+                "defense": 75,
+                "spAttack": 65,
+                "spDefense": 75,
+                "speed": 119
+            },
+            "description": "Exceptionnel en attaque comme en d\u00e9fense, il s\u2019exalte quand on l\u2019encourage, mais il lui arrive de se mettre en danger en jouant solo.",
+            "abilities": [
+                44,
+                297
+            ]
+        }
+    ]
+}

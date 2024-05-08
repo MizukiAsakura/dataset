@@ -1,0 +1,28 @@
+{
+    "number": 826,
+    "name": "Astronelle",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "bug",
+                "psy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/orbeetle.jpg",
+            "base": {
+                "hp": 60,
+                "attack": 45,
+                "defense": 110,
+                "spAttack": 80,
+                "spDefense": 120,
+                "speed": 90
+            },
+            "description": "Il est renomm\u00e9 pour son intelligence. Son gros cerveau est un indicateur de la puissance de ses pouvoirs psychiques.",
+            "abilities": [
+                111,
+                126,
+                270
+            ]
+        }
+    ]
+}

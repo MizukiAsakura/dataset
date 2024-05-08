@@ -1,0 +1,27 @@
+{
+    "number": 116,
+    "name": "Hypotrempe",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/horsea.jpg",
+            "base": {
+                "hp": 30,
+                "attack": 40,
+                "defense": 70,
+                "spAttack": 70,
+                "spDefense": 25,
+                "speed": 60
+            },
+            "description": "Hypotrempe mange des petits insectes et de la mousse trouv\u00e9e sur les cailloux. Lorsque les courants oc\u00e9aniques sont trop forts, ce Pok\u00e9mon peut s'ancrer en accrochant sa queue aux rochers ou aux coraux.",
+            "abilities": [
+                134,
+                254,
+                182
+            ]
+        }
+    ]
+}

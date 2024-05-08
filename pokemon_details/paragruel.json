@@ -1,0 +1,50 @@
+{
+    "number": 902,
+    "name": "Paragruel",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water",
+                "ghost"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/basculegion.jpg",
+            "base": {
+                "hp": 120,
+                "attack": 112,
+                "defense": 65,
+                "spAttack": 80,
+                "spDefense": 75,
+                "speed": 78
+            },
+            "description": "Ce Pok\u00e9mon rev\u00eat les \u00e2mes de ses camarades qui ont p\u00e9ri en remontant les rivi\u00e8res. Dans les fleuves qui traversent Hisui, aucune autre esp\u00e8ce n'est \u00e0 sa mesure.",
+            "abilities": [
+                134,
+                6,
+                46
+            ]
+        },
+        {
+            "name": "femelle",
+            "types": [
+                "water",
+                "ghost"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/basculegion-female.jpg",
+            "base": {
+                "hp": 120,
+                "attack": 92,
+                "defense": 65,
+                "spAttack": 100,
+                "spDefense": 75,
+                "speed": 78
+            },
+            "description": "Ce Pok\u00e9mon rev\u00eat les \u00e2mes de ses camarades qui ont p\u00e9ri en remontant les rivi\u00e8res. Dans les fleuves qui traversent Hisui, aucune autre esp\u00e8ce n'est \u00e0 sa mesure.",
+            "abilities": [
+                134,
+                6,
+                46
+            ]
+        }
+    ]
+}

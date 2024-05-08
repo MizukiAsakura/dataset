@@ -1,0 +1,25 @@
+{
+    "number": 268,
+    "name": "Blindalys",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "bug"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/cascoon.jpg",
+            "base": {
+                "hp": 50,
+                "attack": 35,
+                "defense": 55,
+                "spAttack": 25,
+                "spDefense": 25,
+                "speed": 15
+            },
+            "description": "BLINDALYS fabrique son cocon protecteur en s'enveloppant dans la soie qui sort de sa bouche. Une fois la soie autour de son corps, elle se met \u00e0 durcir. Ce POK\u00e9MON pr\u00e9pare son \u00e9volution \u00e0 l'int\u00e9rieur du cocon.",
+            "abilities": [
+                186
+            ]
+        }
+    ]
+}

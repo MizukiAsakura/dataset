@@ -1,0 +1,26 @@
+{
+    "number": 987,
+    "name": "Flotte-M\u00e8che",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "ghost",
+                "fairy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/flutter-mane.jpg",
+            "base": {
+                "hp": 55,
+                "attack": 55,
+                "defense": 55,
+                "spAttack": 135,
+                "spDefense": 135,
+                "speed": 135
+            },
+            "description": "Il pr\u00e9sente des similitudes avec un fant\u00f4me de pt\u00e9rosaure \u00e9voqu\u00e9 dans une revue sur les ph\u00e9nom\u00e8nes paranormaux.",
+            "abilities": [
+                198
+            ]
+        }
+    ]
+}

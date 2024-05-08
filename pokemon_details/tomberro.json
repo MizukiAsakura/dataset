@@ -1,0 +1,26 @@
+{
+    "number": 972,
+    "name": "Tomberro",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "ghost"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/houndstone.jpg",
+            "base": {
+                "hp": 72,
+                "attack": 101,
+                "defense": 100,
+                "spAttack": 50,
+                "spDefense": 97,
+                "speed": 68
+            },
+            "description": "Il est la r\u00e9incarnation d'un Pok\u00e9mon regrett\u00e9 et il n'aime pas que l'on touche la protub\u00e9rance sur sa t\u00eate.",
+            "abilities": [
+                30,
+                43
+            ]
+        }
+    ]
+}

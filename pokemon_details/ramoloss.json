@@ -1,0 +1,49 @@
+{
+    "number": 79,
+    "name": "Ramoloss",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water",
+                "psy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/slowpoke.jpg",
+            "base": {
+                "hp": 90,
+                "attack": 65,
+                "defense": 65,
+                "spAttack": 40,
+                "spDefense": 40,
+                "speed": 15
+            },
+            "description": "Ramoloss trempe sa queue dans l'eau au bord des rivi\u00e8res pour attraper ses proies. Cependant, ce Pok\u00e9mon oublie souvent ce qu'il fait l\u00e0 et passe des jours entiers \u00e0 tra\u00eener au bord de l'eau.",
+            "abilities": [
+                35,
+                272,
+                241
+            ]
+        },
+        {
+            "name": "galar",
+            "types": [
+                "psy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/slowpoke-galarian.jpg",
+            "base": {
+                "hp": 90,
+                "attack": 65,
+                "defense": 65,
+                "spAttack": 40,
+                "spDefense": 40,
+                "speed": 15
+            },
+            "description": "Ramoloss trempe sa queue dans l'eau au bord des rivi\u00e8res pour attraper ses proies. Cependant, ce Pok\u00e9mon oublie souvent ce qu'il fait l\u00e0 et passe des jours entiers \u00e0 tra\u00eener au bord de l'eau.",
+            "abilities": [
+                278,
+                272,
+                241
+            ]
+        }
+    ]
+}

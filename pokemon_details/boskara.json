@@ -1,0 +1,26 @@
+{
+    "number": 388,
+    "name": "Boskara",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "grass"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/grotle.jpg",
+            "base": {
+                "hp": 75,
+                "attack": 89,
+                "defense": 85,
+                "spAttack": 55,
+                "spDefense": 65,
+                "speed": 36
+            },
+            "description": "Il vit en for\u00eat pr\u00e8s de l'eau. En journ\u00e9e, il la quitte pour dorer sa carapace feuillue au soleil. Sa carapace est faite de terre durcie. Certains Pok\u00e9mon picorent les Baies des arbres sur son dos.",
+            "abilities": [
+                104,
+                66
+            ]
+        }
+    ]
+}

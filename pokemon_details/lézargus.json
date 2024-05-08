@@ -1,0 +1,26 @@
+{
+    "number": 818,
+    "name": "L\u00e9zargus",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/inteleon.jpg",
+            "base": {
+                "hp": 70,
+                "attack": 85,
+                "defense": 65,
+                "spAttack": 125,
+                "spDefense": 65,
+                "speed": 120
+            },
+            "description": "Il rep\u00e8re le point faible de l\u2019ennemi gr\u00e2ce \u00e0 sa membrane nictitante, puis il transperce sa cible en tirant des jets d\u2019eau \u00e0 Mach 3 du bout des doigts.",
+            "abilities": [
+                282,
+                254
+            ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "number": 344,
+    "name": "Kaorine",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "ground",
+                "psy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/claydol.jpg",
+            "base": {
+                "hp": 60,
+                "attack": 70,
+                "defense": 105,
+                "spAttack": 70,
+                "spDefense": 120,
+                "speed": 75
+            },
+            "description": "On raconte que les KAORINE sont des poup\u00e9es de boue cr\u00e9\u00e9es par les premiers hommes et qu'elles furent amen\u00e9es \u00e0 la vie apr\u00e8s une exposition \u00e0 un myst\u00e9rieux rayon. Ce POK\u00e9MON se d\u00e9place en l\u00e9vitant.",
+            "abilities": [
+                162
+            ]
+        }
+    ]
+}

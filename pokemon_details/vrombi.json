@@ -1,0 +1,27 @@
+{
+    "number": 965,
+    "name": "Vrombi",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "steel",
+                "poison"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/varoom.jpg",
+            "base": {
+                "hp": 45,
+                "attack": 70,
+                "defense": 63,
+                "spAttack": 30,
+                "spDefense": 45,
+                "speed": 47
+            },
+            "description": "Son corps correspond \u00e0 la partie en acier. Il s'accroche \u00e0 des roches et convertit les min\u00e9raux qu'elles contiennent en \u00e9nergie.",
+            "abilities": [
+                106,
+                85
+            ]
+        }
+    ]
+}

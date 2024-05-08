@@ -1,0 +1,28 @@
+{
+    "number": 546,
+    "name": "Doudouvet",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "grass",
+                "fairy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/cottonee.jpg",
+            "base": {
+                "hp": 40,
+                "attack": 27,
+                "defense": 60,
+                "spAttack": 37,
+                "spDefense": 50,
+                "speed": 66
+            },
+            "description": "Les Doudouvet se collent entre eux quand ils se rencontrent. Lorsqu\u2019ils sont assez nombreux, ils forment de v\u00e9ritables cumulonimbus vivants.",
+            "abilities": [
+                116,
+                154,
+                56
+            ]
+        }
+    ]
+}

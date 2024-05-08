@@ -1,0 +1,28 @@
+{
+    "number": 825,
+    "name": "Col\u00e9od\u00f4me",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "bug",
+                "psy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/dottler.jpg",
+            "base": {
+                "hp": 50,
+                "attack": 35,
+                "defense": 80,
+                "spAttack": 50,
+                "spDefense": 90,
+                "speed": 30
+            },
+            "description": "Il ne bouge presque pas, mais il est bien vivant. On dit qu\u2019il aurait d\u00e9couvert ses pouvoirs psychiques \u00e0 force de je\u00fbner dans sa coquille.",
+            "abilities": [
+                111,
+                194,
+                270
+            ]
+        }
+    ]
+}

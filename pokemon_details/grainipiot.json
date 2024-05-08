@@ -1,0 +1,27 @@
+{
+    "number": 273,
+    "name": "Grainipiot",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "grass"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/seedot.jpg",
+            "base": {
+                "hp": 40,
+                "attack": 40,
+                "defense": 50,
+                "spAttack": 30,
+                "spDefense": 30,
+                "speed": 30
+            },
+            "description": "GRAINIPIOT s'accroche par la t\u00eate aux branches d'arbre. Il en profite alors pour absorber l'humidit\u00e9 de l'arbre. Plus ce POK\u00e9MON boit d'eau, plus son corps devient brillant.",
+            "abilities": [
+                56,
+                171,
+                210
+            ]
+        }
+    ]
+}

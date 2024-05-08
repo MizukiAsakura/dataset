@@ -1,0 +1,28 @@
+{
+    "number": 454,
+    "name": "Coatox",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "poison",
+                "fight"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/toxicroak.jpg",
+            "base": {
+                "hp": 83,
+                "attack": 106,
+                "defense": 65,
+                "spAttack": 86,
+                "spDefense": 65,
+                "speed": 85
+            },
+            "description": "Les griffes de ses poings s\u00e9cr\u00e8tent une toxine si atroce qu'une simple \u00e9gratignure peut s'av\u00e9rer fatale. La toxine produite par ses glandes de poison passe par les tubes de ses bras pour imbiber ses griffes.",
+            "abilities": [
+                18,
+                207,
+                283
+            ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "number": 865,
+    "name": "Palarticho",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fight"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/sirfetchd.jpg",
+            "base": {
+                "hp": 62,
+                "attack": 135,
+                "defense": 95,
+                "spAttack": 68,
+                "spDefense": 82,
+                "speed": 65
+            },
+            "description": "Seuls les Canarticho ayant surv\u00e9cu \u00e0 de nombreux combats atteignent ce stade d\u2019\u00e9volution. Si son poireau se fl\u00e9trit, il se retire du champ de bataille.",
+            "abilities": [
+                149,
+                232
+            ]
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "number": 348,
+    "name": "Armaldo",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "rock",
+                "bug"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/armaldo.jpg",
+            "base": {
+                "hp": 75,
+                "attack": 125,
+                "defense": 100,
+                "spAttack": 70,
+                "spDefense": 80,
+                "speed": 45
+            },
+            "description": "Le puissant blindage d'ARMALDO peut repousser toute attaque. Les \u00e9normes pinces de ce POK\u00e9MON peuvent s'allonger ou se r\u00e9tracter. Elles peuvent transpercer une plaque d'acier.",
+            "abilities": [
+                21,
+                134
+            ]
+        }
+    ]
+}

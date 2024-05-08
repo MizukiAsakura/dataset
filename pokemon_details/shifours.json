@@ -1,0 +1,46 @@
+{
+    "number": 892,
+    "name": "Shifours",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fight",
+                "dark"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/urshifu-single-strike.jpg",
+            "base": {
+                "hp": 100,
+                "attack": 130,
+                "defense": 100,
+                "spAttack": 63,
+                "spDefense": 60,
+                "speed": 97
+            },
+            "description": "Il vit dans une lointaine r\u00e9gion montagneuse o\u00f9 il peaufine ses techniques et muscle ses jambes en courant le long des falaises abruptes.",
+            "abilities": [
+                216
+            ]
+        },
+        {
+            "name": "mille-poings",
+            "types": [
+                "fight",
+                "water"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/urshifu-rapid-strike.jpg",
+            "base": {
+                "hp": 100,
+                "attack": 130,
+                "defense": 100,
+                "spAttack": 63,
+                "spDefense": 60,
+                "speed": 97
+            },
+            "description": "Tant\u00f4t violent, tant\u00f4t calme, ce Pok\u00e9mon aurait d\u00e9velopp\u00e9 ses techniques de combat en s\u2019inspirant du courant des rivi\u00e8res.",
+            "abilities": [
+                216
+            ]
+        }
+    ]
+}

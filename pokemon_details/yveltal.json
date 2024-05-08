@@ -1,0 +1,26 @@
+{
+    "number": 717,
+    "name": "Yveltal",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "dark",
+                "fly"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/yveltal.jpg",
+            "base": {
+                "hp": 126,
+                "attack": 131,
+                "defense": 95,
+                "spAttack": 131,
+                "spDefense": 98,
+                "speed": 99
+            },
+            "description": "Lorsque les plumes de sa queue et de ses ailes sont d\u00e9ploy\u00e9es et virent au rouge, ce Pok\u00e9mon l\u00e9gendaire absorbe l\u2019\u00e9nergie vitale de ce qui l\u2019entoure.",
+            "abilities": [
+                29
+            ]
+        }
+    ]
+}

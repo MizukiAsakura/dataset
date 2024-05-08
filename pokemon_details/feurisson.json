@@ -1,0 +1,26 @@
+{
+    "number": 156,
+    "name": "Feurisson",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fire"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/quilava.jpg",
+            "base": {
+                "hp": 58,
+                "attack": 64,
+                "defense": 58,
+                "spAttack": 80,
+                "spDefense": 65,
+                "speed": 80
+            },
+            "description": "FEURISSON garde ses ennemis \u00e0 distance gr\u00e2ce \u00e0 l'intensit\u00e9 de ses flammes et \u00e0 des rafales d'air br\u00fblant. Ce POK\u00e9MON utilise son incroyable agilit\u00e9 pour \u00e9viter les attaques, tout en enflammant ses ennemis.",
+            "abilities": [
+                44,
+                281
+            ]
+        }
+    ]
+}

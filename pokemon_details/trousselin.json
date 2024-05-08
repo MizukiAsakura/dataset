@@ -1,0 +1,27 @@
+{
+    "number": 707,
+    "name": "Trousselin",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "steel",
+                "fairy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/klefki.jpg",
+            "base": {
+                "hp": 57,
+                "attack": 80,
+                "defense": 91,
+                "spAttack": 80,
+                "spDefense": 87,
+                "speed": 75
+            },
+            "description": "Comme il ne se s\u00e9pare jamais d\u2019une cl\u00e9 qu\u2019il trouve \u00e0 son go\u00fbt, les gens lui confient celle de leurs coffres, afin d\u2019\u00e9viter de se faire voler.",
+            "abilities": [
+                116,
+                167
+            ]
+        }
+    ]
+}

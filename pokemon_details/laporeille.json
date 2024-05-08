@@ -1,0 +1,27 @@
+{
+    "number": 427,
+    "name": "Laporeille",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/buneary.jpg",
+            "base": {
+                "hp": 55,
+                "attack": 66,
+                "defense": 44,
+                "spAttack": 44,
+                "spDefense": 56,
+                "speed": 85
+            },
+            "description": "Il frappe l'ennemi en d\u00e9roulant violemment ses oreilles. Cela peut faire pleurer un adulte. Il dresse les oreilles quand il sent un danger. Il dort la t\u00eate dans sa fourrure pendant les nuits froides.",
+            "abilities": [
+                128,
+                169,
+                98
+            ]
+        }
+    ]
+}

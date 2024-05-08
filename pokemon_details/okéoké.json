@@ -1,0 +1,26 @@
+{
+    "number": 360,
+    "name": "Ok\u00e9ok\u00e9",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "psy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/wynaut.jpg",
+            "base": {
+                "hp": 95,
+                "attack": 23,
+                "defense": 48,
+                "spAttack": 23,
+                "spDefense": 48,
+                "speed": 23
+            },
+            "description": "Les OKEOKE se rassemblent quand la nuit est claire pour jouer \u00e0 se presser les uns contre les autres. En se poussant, ce POK\u00e9MON am\u00e9liore son endurance et s'entra\u00eene \u00e0 renvoyer de puissantes contre-attaques.",
+            "abilities": [
+                170,
+                270
+            ]
+        }
+    ]
+}

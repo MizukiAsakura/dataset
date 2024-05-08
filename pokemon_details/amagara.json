@@ -1,0 +1,27 @@
+{
+    "number": 698,
+    "name": "Amagara",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "rock",
+                "ice"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/amaura.jpg",
+            "base": {
+                "hp": 77,
+                "attack": 59,
+                "defense": 50,
+                "spAttack": 67,
+                "spDefense": 63,
+                "speed": 46
+            },
+            "description": "Pok\u00e9mon ancien, ramen\u00e9 \u00e0 la vie apr\u00e8s la d\u00e9couverte d\u2019une partie de son corps conserv\u00e9e dans la glace pendant 100 millions d\u2019ann\u00e9es.",
+            "abilities": [
+                205,
+                11
+            ]
+        }
+    ]
+}

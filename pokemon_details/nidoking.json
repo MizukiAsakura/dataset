@@ -1,0 +1,28 @@
+{
+    "number": 34,
+    "name": "Nidoking",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "poison",
+                "ground"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/nidoking.jpg",
+            "base": {
+                "hp": 81,
+                "attack": 102,
+                "defense": 77,
+                "spAttack": 85,
+                "spDefense": 75,
+                "speed": 85
+            },
+            "description": "L'\u00e9paisse queue de Nidoking est d'une puissance incroyable. En un seul coup, il peut renverser une tour m\u00e9tallique. Lorsque ce Pok\u00e9mon se d\u00e9cha\u00eene, plus rien ne peut l'arr\u00eater.",
+            "abilities": [
+                217,
+                244,
+                248
+            ]
+        }
+    ]
+}

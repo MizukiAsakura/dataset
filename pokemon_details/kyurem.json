@@ -1,0 +1,26 @@
+{
+    "number": 646,
+    "name": "Kyurem",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "dragon",
+                "ice"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/kyurem.jpg",
+            "base": {
+                "hp": 125,
+                "attack": 130,
+                "defense": 90,
+                "spAttack": 130,
+                "spDefense": 90,
+                "speed": 95
+            },
+            "description": "Il poss\u00e8de une puissance qui d\u00e9passe celle de Reshiram et de Zekrom, mais il a scell\u00e9 son corps gr\u00e2ce \u00e0 son souffle glac\u00e9.",
+            "abilities": [
+                223
+            ]
+        }
+    ]
+}

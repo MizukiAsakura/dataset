@@ -1,0 +1,27 @@
+{
+    "number": 937,
+    "name": "Malvalame",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fire",
+                "ghost"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/ceruledge.jpg",
+            "base": {
+                "hp": 75,
+                "attack": 125,
+                "defense": 80,
+                "spAttack": 60,
+                "spDefense": 100,
+                "speed": 85
+            },
+            "description": "Les flammes de ses \u00e9p\u00e9es sont anim\u00e9es par la ranc\u0153ur d'une \u00e2me guerri\u00e8re qui a p\u00e9ri avant de pouvoir accomplir son but.\nIl a \u00e9volu\u00e9 gr\u00e2ce \u00e0 une vieille armure impr\u00e9gn\u00e9e de ranc\u0153ur. Ce Pok\u00e9mon lac\u00e8re ses ennemis sans aucune merci. ",
+            "abilities": [
+                281,
+                24
+            ]
+        }
+    ]
+}

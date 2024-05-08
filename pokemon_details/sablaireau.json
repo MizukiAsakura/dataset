@@ -1,0 +1,47 @@
+{
+    "number": 28,
+    "name": "Sablaireau",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "ground"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/sandslash.jpg",
+            "base": {
+                "hp": 75,
+                "attack": 100,
+                "defense": 110,
+                "spAttack": 45,
+                "spDefense": 55,
+                "speed": 65
+            },
+            "description": "Le corps de Sablaireau est recouvert de pointes tr\u00e8s dures, qui sont des extensions de sa peau. Une fois par an, ce Pok\u00e9mon mue et les vieilles pointes tombent, remplac\u00e9es par de nouvelles.",
+            "abilities": [
+                294,
+                30
+            ]
+        },
+        {
+            "name": "alola",
+            "types": [
+                "ice",
+                "steel"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/sandslash-alolan.jpg",
+            "base": {
+                "hp": 75,
+                "attack": 100,
+                "defense": 120,
+                "spAttack": 25,
+                "spDefense": 65,
+                "speed": 65
+            },
+            "description": "Le corps de Sablaireau est recouvert de pointes tr\u00e8s dures, qui sont des extensions de sa peau. Une fois par an, ce Pok\u00e9mon mue et les vieilles pointes tombent, remplac\u00e9es par de nouvelles.",
+            "abilities": [
+                243,
+                53
+            ]
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "number": 24,
+    "name": "Arbok",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "poison"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/arbok.jpg",
+            "base": {
+                "hp": 60,
+                "attack": 95,
+                "defense": 69,
+                "spAttack": 65,
+                "spDefense": 79,
+                "speed": 80
+            },
+            "description": "Ce Pok\u00e9mon dot\u00e9 d'une force extraordinaire peut \u00e9trangler ses proies avec son corps. Il peut m\u00eame \u00e9craser des tonneaux m\u00e9talliques. Une fois sous l'\u00e9treinte d'Arbok, il est impossible de lui \u00e9chapper.",
+            "abilities": [
+                156,
+                186,
+                273
+            ]
+        }
+    ]
+}

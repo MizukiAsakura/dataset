@@ -1,0 +1,28 @@
+{
+    "number": 880,
+    "name": "Galvagon",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "electrik",
+                "dragon"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/dracozolt.jpg",
+            "base": {
+                "hp": 90,
+                "attack": 100,
+                "defense": 90,
+                "spAttack": 80,
+                "spDefense": 70,
+                "speed": 75
+            },
+            "description": "Jadis, la partie inf\u00e9rieure de son corps muscl\u00e9 le rendait invincible, mais il s\u2019est \u00e9teint apr\u00e8s avoir mang\u00e9 toutes les plantes dont il se nourrissait.",
+            "abilities": [
+                3,
+                8,
+                30
+            ]
+        }
+    ]
+}

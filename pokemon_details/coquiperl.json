@@ -1,0 +1,26 @@
+{
+    "number": 366,
+    "name": "Coquiperl",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/clamperl.jpg",
+            "base": {
+                "hp": 35,
+                "attack": 64,
+                "defense": 85,
+                "spAttack": 74,
+                "spDefense": 55,
+                "speed": 32
+            },
+            "description": "La puissante coquille de COQUIPERL ne sert pas qu'\u00e0 le prot\u00e9ger. Elle lui permet \u00e9galement de pincer et d'attraper sa proie. Une coquille de COQUIPERL adulte porte souvent de nombreuses \u00e9gratignures et \u00e9raflures.",
+            "abilities": [
+                66,
+                209
+            ]
+        }
+    ]
+}

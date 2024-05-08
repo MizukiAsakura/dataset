@@ -1,0 +1,28 @@
+{
+    "number": 945,
+    "name": "Tag-Tag",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "poison",
+                "normal"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/grafaiai.jpg",
+            "base": {
+                "hp": 63,
+                "attack": 95,
+                "defense": 65,
+                "spAttack": 80,
+                "spDefense": 72,
+                "speed": 110
+            },
+            "description": "Les Tag-Tag passent leur vie \u00e0 peindre toujours le m\u00eame motif, qui varie selon l'individu.",
+            "abilities": [
+                91,
+                283,
+                116
+            ]
+        }
+    ]
+}

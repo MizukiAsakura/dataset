@@ -1,0 +1,28 @@
+{
+    "number": 540,
+    "name": "Larveyette",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "bug",
+                "grass"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/sewaddle.jpg",
+            "base": {
+                "hp": 45,
+                "attack": 53,
+                "defense": 70,
+                "spAttack": 40,
+                "spDefense": 60,
+                "speed": 42
+            },
+            "description": "Il fait des v\u00eatements en d\u00e9coupant des feuilles et en les cousant avec le fil adh\u00e9sif qu\u2019il s\u00e9cr\u00e8te par la bouche.",
+            "abilities": [
+                111,
+                56,
+                106
+            ]
+        }
+    ]
+}

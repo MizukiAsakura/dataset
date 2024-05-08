@@ -1,0 +1,26 @@
+{
+    "number": 778,
+    "name": "Mimiqui",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "ghost",
+                "fairy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/mimikyu.jpg",
+            "base": {
+                "hp": 55,
+                "attack": 90,
+                "defense": 80,
+                "spAttack": 50,
+                "spDefense": 105,
+                "speed": 96
+            },
+            "description": "Une bourrasque a un jour permis \u00e0 un Dresseur de voir sous le d\u00e9guisement de Mimiqui. Il est mort le soir m\u00eame dans d\u2019atroces souffrances.",
+            "abilities": [
+                115
+            ]
+        }
+    ]
+}

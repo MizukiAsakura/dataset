@@ -1,0 +1,28 @@
+{
+    "number": 458,
+    "name": "Babimanta",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water",
+                "fly"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/mantyke.jpg",
+            "base": {
+                "hp": 45,
+                "attack": 20,
+                "defense": 50,
+                "spAttack": 60,
+                "spDefense": 120,
+                "speed": 50
+            },
+            "description": "Il est tr\u00e8s affectueux et adore les humains. Les excursions permettant d\u2019aller nager avec lui sont tr\u00e8s populaires aupr\u00e8s des touristes.",
+            "abilities": [
+                134,
+                2,
+                147
+            ]
+        }
+    ]
+}

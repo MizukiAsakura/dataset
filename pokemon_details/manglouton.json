@@ -1,0 +1,27 @@
+{
+    "number": 734,
+    "name": "Manglouton",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/yungoos.jpg",
+            "base": {
+                "hp": 48,
+                "attack": 70,
+                "defense": 30,
+                "spAttack": 30,
+                "spDefense": 30,
+                "speed": 45
+            },
+            "description": "Son estomac occupe la plus grande partie de son long corps. Le Dresseur de ce gros mangeur doit pr\u00e9voir un budget nourriture cons\u00e9quent.",
+            "abilities": [
+                119,
+                227,
+                6
+            ]
+        }
+    ]
+}

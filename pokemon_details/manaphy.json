@@ -1,0 +1,25 @@
+{
+    "number": 490,
+    "name": "Manaphy",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/manaphy.jpg",
+            "base": {
+                "hp": 100,
+                "attack": 100,
+                "defense": 100,
+                "spAttack": 100,
+                "spDefense": 100,
+                "speed": 100
+            },
+            "description": "Ce Pok\u00e9mon parcourt de grandes distances pour retourner dans les profondeurs froides de l\u2019oc\u00e9an, o\u00f9 il est n\u00e9.",
+            "abilities": [
+                143
+            ]
+        }
+    ]
+}

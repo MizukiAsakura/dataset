@@ -1,0 +1,45 @@
+{
+    "number": 570,
+    "name": "Zorua",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "dark"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/zorua.jpg",
+            "base": {
+                "hp": 40,
+                "attack": 65,
+                "defense": 40,
+                "spAttack": 80,
+                "spDefense": 40,
+                "speed": 65
+            },
+            "description": "Si un enfant volubile a soudain perdu sa langue, m\u00e9fiez-vous ! C\u2019est peut-\u00eatre un Zorua qui a pris son apparence...",
+            "abilities": [
+                148
+            ]
+        },
+        {
+            "name": "hisui",
+            "types": [
+                "normal",
+                "ghost"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/zorua-hisuian.jpg",
+            "base": {
+                "hp": 35,
+                "attack": 60,
+                "defense": 40,
+                "spAttack": 85,
+                "spDefense": 40,
+                "speed": 70
+            },
+            "description": "Si un enfant volubile a soudain perdu sa langue, m\u00e9fiez-vous ! C\u2019est peut-\u00eatre un Zorua qui a pris son apparence...",
+            "abilities": [
+                148
+            ]
+        }
+    ]
+}

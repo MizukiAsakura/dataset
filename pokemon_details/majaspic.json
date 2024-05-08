@@ -1,0 +1,26 @@
+{
+    "number": 497,
+    "name": "Majaspic",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "grass"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/serperior.jpg",
+            "base": {
+                "hp": 75,
+                "attack": 75,
+                "defense": 95,
+                "spAttack": 75,
+                "spDefense": 95,
+                "speed": 113
+            },
+            "description": "Il ne donnera tout son potentiel que contre un ennemi puissant indiff\u00e9rent \u00e0 son regard \u00e9crasant de noblesse.",
+            "abilities": [
+                104,
+                65
+            ]
+        }
+    ]
+}

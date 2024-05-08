@@ -1,0 +1,28 @@
+{
+    "number": 166,
+    "name": "Coxyclaque",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "bug",
+                "fly"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/ledian.jpg",
+            "base": {
+                "hp": 55,
+                "attack": 35,
+                "defense": 50,
+                "spAttack": 55,
+                "spDefense": 110,
+                "speed": 85
+            },
+            "description": "On dit que dans les pays o\u00f9 le ciel est d\u00e9gag\u00e9 et o\u00f9 les \u00e9toiles illuminent les cieux, vivent d'innombrables quantit\u00e9s de COXYCLAQUE. La raison en est simple: l'\u00e9nergie de ce POK\u00e9MON provient de la lumi\u00e8re des \u00e9toiles.",
+            "abilities": [
+                111,
+                171,
+                215
+            ]
+        }
+    ]
+}

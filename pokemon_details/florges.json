@@ -1,0 +1,26 @@
+{
+    "number": 671,
+    "name": "Florges",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fairy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/florges.jpg",
+            "base": {
+                "hp": 78,
+                "attack": 65,
+                "defense": 68,
+                "spAttack": 112,
+                "spDefense": 154,
+                "speed": 75
+            },
+            "description": "Il contr\u00f4le les fleurs qu\u2019il cultive. Les temp\u00eates de p\u00e9tales qu\u2019il d\u00e9cha\u00eene sont aussi belles que redoutables.",
+            "abilities": [
+                121,
+                264
+            ]
+        }
+    ]
+}

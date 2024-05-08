@@ -1,0 +1,27 @@
+{
+    "number": 465,
+    "name": "Bouldeneu",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "grass"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/tangrowth.jpg",
+            "base": {
+                "hp": 100,
+                "attack": 100,
+                "defense": 125,
+                "spAttack": 110,
+                "spDefense": 50,
+                "speed": 50
+            },
+            "description": "Ce Pok\u00e9mon ligote sa proie en \u00e9tirant ses bras faits de lianes v\u00e9g\u00e9tales. Il ne craint pas qu\u2019on lui mange un bras.",
+            "abilities": [
+                56,
+                118,
+                241
+            ]
+        }
+    ]
+}

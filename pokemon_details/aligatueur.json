@@ -1,0 +1,26 @@
+{
+    "number": 160,
+    "name": "Aligatueur",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/feraligatr.jpg",
+            "base": {
+                "hp": 85,
+                "attack": 105,
+                "defense": 100,
+                "spAttack": 79,
+                "spDefense": 83,
+                "speed": 78
+            },
+            "description": "ALIGATUEUR impressionne ses ennemis en ouvrant son \u00e9norme gueule. Pendant les combats, il pi\u00e9tine le sol de ses puissantes pattes arri\u00e8re avant de charger ses adversaires \u00e0 pleine vitesse.",
+            "abilities": [
+                282,
+                248
+            ]
+        }
+    ]
+}

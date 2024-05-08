@@ -1,0 +1,26 @@
+{
+    "number": 995,
+    "name": "\u00c9pine-de-Fer",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "rock",
+                "electrik"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/iron-thorns.jpg",
+            "base": {
+                "hp": 100,
+                "attack": 134,
+                "defense": 110,
+                "spAttack": 70,
+                "spDefense": 84,
+                "speed": 72
+            },
+            "description": "Son apparence partage des similarit\u00e9s avec celle qu'auront les Tyranocif dans un milliard d'ann\u00e9es, selon une revue douteuse.",
+            "abilities": [
+                52
+            ]
+        }
+    ]
+}

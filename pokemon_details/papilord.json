@@ -1,0 +1,27 @@
+{
+    "number": 414,
+    "name": "Papilord",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "bug",
+                "fly"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/mothim.jpg",
+            "base": {
+                "hp": 70,
+                "attack": 94,
+                "defense": 50,
+                "spAttack": 94,
+                "spDefense": 50,
+                "speed": 66
+            },
+            "description": "Il aime le nectar des fleurs et n'h\u00e9site pas \u00e0 voler celui que r\u00e9cup\u00e8re APITRINI. Il n'a pas de nid. Il survole les champs et les montagnes en qu\u00eate de nectar floral.",
+            "abilities": [
+                111,
+                161
+            ]
+        }
+    ]
+}

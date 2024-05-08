@@ -1,0 +1,26 @@
+{
+    "number": 816,
+    "name": "Larm\u00e9l\u00e9on",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/sobble.jpg",
+            "base": {
+                "hp": 50,
+                "attack": 40,
+                "defense": 40,
+                "spAttack": 70,
+                "spDefense": 40,
+                "speed": 70
+            },
+            "description": "Quand il a peur, il pleure des larmes contenant une substance lacrymog\u00e8ne d\u2019une puissance \u00e9quivalente \u00e0 celle de cent oignons.",
+            "abilities": [
+                282,
+                254
+            ]
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "number": 697,
+    "name": "Rexillius",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "rock",
+                "dragon"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/tyrantrum.jpg",
+            "base": {
+                "hp": 82,
+                "attack": 121,
+                "defense": 119,
+                "spAttack": 69,
+                "spDefense": 59,
+                "speed": 71
+            },
+            "description": "Dans les temps anciens, aucun Pok\u00e9mon ne pouvait rivaliser avec lui. Ses puissantes m\u00e2choires peuvent r\u00e9duire une \u00e9paisse plaque de m\u00e9tal en confettis.",
+            "abilities": [
+                227,
+                276
+            ]
+        }
+    ]
+}

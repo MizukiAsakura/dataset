@@ -1,0 +1,47 @@
+{
+    "number": 157,
+    "name": "Typhlosion",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fire"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/typhlosion.jpg",
+            "base": {
+                "hp": 78,
+                "attack": 84,
+                "defense": 78,
+                "spAttack": 109,
+                "spDefense": 85,
+                "speed": 100
+            },
+            "description": "TYPHLOSION se cache derri\u00e8re un chatoyant nuage de chaleur qu'il cr\u00e9e en attisant ses flammes intenses. Ce POK\u00e9MON peut g\u00e9n\u00e9rer des rafales explosives qui r\u00e9duisent tout en cendres.",
+            "abilities": [
+                44,
+                281
+            ]
+        },
+        {
+            "name": "hisui",
+            "types": [
+                "fire",
+                "ghost"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/typhlosion-hisuian.jpg",
+            "base": {
+                "hp": 73,
+                "attack": 84,
+                "defense": 78,
+                "spAttack": 119,
+                "spDefense": 85,
+                "speed": 95
+            },
+            "description": "TYPHLOSION se cache derri\u00e8re un chatoyant nuage de chaleur qu'il cr\u00e9e en attisant ses flammes intenses. Ce POK\u00e9MON peut g\u00e9n\u00e9rer des rafales explosives qui r\u00e9duisent tout en cendres.",
+            "abilities": [
+                44,
+                126
+            ]
+        }
+    ]
+}

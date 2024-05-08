@@ -1,0 +1,26 @@
+{
+    "number": 804,
+    "name": "Mandrillon",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "poison",
+                "dragon"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/naganadel.jpg",
+            "base": {
+                "hp": 73,
+                "attack": 73,
+                "defense": 73,
+                "spAttack": 127,
+                "spDefense": 73,
+                "speed": 121
+            },
+            "description": "Son corps contient des hectolitres de poison. Il fait partie de ces cr\u00e9atures que l\u2019on nomme \u00ab Ultra-Chim\u00e8res \u00bb.",
+            "abilities": [
+                41
+            ]
+        }
+    ]
+}

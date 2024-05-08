@@ -1,0 +1,28 @@
+{
+    "number": 439,
+    "name": "Mime Jr.",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "psy",
+                "fairy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/mime-jr.jpg",
+            "base": {
+                "hp": 20,
+                "attack": 25,
+                "defense": 45,
+                "spAttack": 70,
+                "spDefense": 90,
+                "speed": 60
+            },
+            "description": "Il imite ses ennemis. Une fois imit\u00e9s, ils ne peuvent plus quitter ce Pok\u00e9mon des yeux. Il aime les endroits bond\u00e9s. Il imite l'ennemi pour le d\u00e9stabiliser avant de s'enfuir.",
+            "abilities": [
+                17,
+                120,
+                268
+            ]
+        }
+    ]
+}

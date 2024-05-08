@@ -1,0 +1,28 @@
+{
+    "number": 866,
+    "name": "M. Glaquette",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "ice",
+                "psy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/mr-rime.jpg",
+            "base": {
+                "hp": 80,
+                "attack": 85,
+                "defense": 75,
+                "spAttack": 110,
+                "spDefense": 100,
+                "speed": 70
+            },
+            "description": "V\u00e9ritable virtuose des claquettes, il se donne en spectacle en dansant d\u2019un pas l\u00e9ger tout en jonglant avec sa canne de glace.",
+            "abilities": [
+                211,
+                47,
+                71
+            ]
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "number": 249,
+    "name": "Lugia",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "psy",
+                "fly"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/lugia.jpg",
+            "base": {
+                "hp": 106,
+                "attack": 90,
+                "defense": 130,
+                "spAttack": 90,
+                "spDefense": 154,
+                "speed": 110
+            },
+            "description": "Les ailes de LUGIA renferment une puissance d\u00e9vastatrice. Un simple battement de ses ailes peut d\u00e9truire des petites maisons. Du coup, ce POK\u00e9MON a choisi de vivre loin de tout, dans les profondeurs oc\u00e9aniques.",
+            "abilities": [
+                223,
+                188
+            ]
+        }
+    ]
+}

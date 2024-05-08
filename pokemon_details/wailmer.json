@@ -1,0 +1,27 @@
+{
+    "number": 320,
+    "name": "Wailmer",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/wailmer.jpg",
+            "base": {
+                "hp": 130,
+                "attack": 70,
+                "defense": 35,
+                "spAttack": 70,
+                "spDefense": 35,
+                "speed": 60
+            },
+            "description": "Les narines de WAILMER sont situ\u00e9es au-dessus de ses yeux. Ce joyeux POK\u00e9MON adore effrayer les gens en expulsant de l'eau de mer par les narines.",
+            "abilities": [
+                147,
+                35,
+                223
+            ]
+        }
+    ]
+}

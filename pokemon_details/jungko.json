@@ -1,0 +1,26 @@
+{
+    "number": 254,
+    "name": "Jungko",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "grass"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/sceptile.jpg",
+            "base": {
+                "hp": 70,
+                "attack": 85,
+                "defense": 65,
+                "spAttack": 105,
+                "spDefense": 85,
+                "speed": 120
+            },
+            "description": "Les feuilles qui poussent sur le corps de JUNGKO sont extr\u00eamement tranchantes. Ce POK\u00e9MON est tr\u00e8s agile. Il bondit de branche en branche avant de sauter sur son ennemi.",
+            "abilities": [
+                104,
+                91
+            ]
+        }
+    ]
+}

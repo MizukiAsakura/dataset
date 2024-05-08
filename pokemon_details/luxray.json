@@ -1,0 +1,27 @@
+{
+    "number": 405,
+    "name": "Luxray",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "electrik"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/luxray.jpg",
+            "base": {
+                "hp": 80,
+                "attack": 120,
+                "defense": 79,
+                "spAttack": 95,
+                "spDefense": 79,
+                "speed": 70
+            },
+            "description": "Ses yeux voient \u00e0 travers tout. Il rep\u00e8re les proies cach\u00e9es derri\u00e8re un objet pour les capturer. Quand ses yeux se dorent, il peut rep\u00e9rer une proie cach\u00e9e, m\u00eame si elle est derri\u00e8re un mur.",
+            "abilities": [
+                271,
+                244,
+                77
+            ]
+        }
+    ]
+}

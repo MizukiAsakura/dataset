@@ -1,0 +1,25 @@
+{
+    "number": 382,
+    "name": "Kyogre",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/kyogre.jpg",
+            "base": {
+                "hp": 100,
+                "attack": 100,
+                "defense": 90,
+                "spAttack": 150,
+                "spDefense": 140,
+                "speed": 90
+            },
+            "description": "KYOGRE a le pouvoir de cr\u00e9er d'imposants nuages pluvieux capables de couvrir le ciel et de d\u00e9clencher des pluies torrentielles. Ce POK\u00e9MON a sauv\u00e9 des gens de la s\u00e9cheresse.",
+            "abilities": [
+                76
+            ]
+        }
+    ]
+}

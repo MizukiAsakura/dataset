@@ -1,0 +1,28 @@
+{
+    "number": 131,
+    "name": "Lokhlass",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water",
+                "ice"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/lapras.jpg",
+            "base": {
+                "hp": 130,
+                "attack": 85,
+                "defense": 80,
+                "spAttack": 85,
+                "spDefense": 95,
+                "speed": 60
+            },
+            "description": "Les Lokhlass sont en voie d'extinction. Le soir, on entend ce Pok\u00e9mon chantonner une complainte m\u00e9lancolique, esp\u00e9rant retrouver ses rares cong\u00e9n\u00e8res.",
+            "abilities": [
+                2,
+                66,
+                143
+            ]
+        }
+    ]
+}

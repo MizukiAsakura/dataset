@@ -1,0 +1,28 @@
+{
+    "number": 469,
+    "name": "Yanmega",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "bug",
+                "fly"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/yanmega.jpg",
+            "base": {
+                "hp": 86,
+                "attack": 76,
+                "defense": 86,
+                "spAttack": 116,
+                "spDefense": 56,
+                "speed": 95
+            },
+            "description": "Il peut voler avec aise tout en portant un adulte dans ses six pattes. Les ailes de sa queue lui servent de balancier.",
+            "abilities": [
+                287,
+                161,
+                126
+            ]
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "number": 849,
+    "name": "Salarsen",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "electrik",
+                "poison"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/toxtricity.jpg",
+            "base": {
+                "hp": 75,
+                "attack": 98,
+                "defense": 70,
+                "spAttack": 114,
+                "spDefense": 70,
+                "speed": 75
+            },
+            "description": "Lorsqu\u2019il gratte l\u2019excroissance sur son ventre pour produire de l\u2019\u00e9lectricit\u00e9, on peut entendre un son similaire \u00e0 celui d\u2019une guitare.",
+            "abilities": [
+                231,
+                214,
+                268
+            ]
+        }
+    ]
+}

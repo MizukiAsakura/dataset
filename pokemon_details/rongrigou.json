@@ -1,0 +1,26 @@
+{
+    "number": 820,
+    "name": "Rongrigou",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/greedent.jpg",
+            "base": {
+                "hp": 120,
+                "attack": 95,
+                "defense": 95,
+                "spAttack": 55,
+                "spDefense": 75,
+                "speed": 20
+            },
+            "description": "Il amasse tellement de Baies dans sa queue qu\u2019elles tombent les unes apr\u00e8s les autres, mais il est si \u00e9tourdi qu\u2019il ne s\u2019en rend pas compte.",
+            "abilities": [
+                31,
+                135
+            ]
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "number": 689,
+    "name": "Golgopathe",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "rock",
+                "water"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/barbaracle.jpg",
+            "base": {
+                "hp": 72,
+                "attack": 105,
+                "defense": 115,
+                "spAttack": 54,
+                "spDefense": 86,
+                "speed": 68
+            },
+            "description": "Il scrute les environs avec les yeux de ses paumes. En cas d\u2019urgence, ses membres peuvent prendre des initiatives pour triompher de l\u2019ennemi.",
+            "abilities": [
+                254,
+                139,
+                210
+            ]
+        }
+    ]
+}

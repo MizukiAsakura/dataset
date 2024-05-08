@@ -1,0 +1,50 @@
+{
+    "number": 211,
+    "name": "Qwilfish",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water",
+                "poison"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/qwilfish.jpg",
+            "base": {
+                "hp": 65,
+                "attack": 95,
+                "defense": 85,
+                "spAttack": 55,
+                "spDefense": 55,
+                "speed": 85
+            },
+            "description": "QWILFISH se gonfle en aspirant de l'eau. Ce POK\u00e9MON utilise la pression de l'eau aval\u00e9e pour envoyer d'un coup les pointes toxiques de son corps. Nager lui demande un gros effort.",
+            "abilities": [
+                134,
+                217,
+                156
+            ]
+        },
+        {
+            "name": "hisui",
+            "types": [
+                "dark",
+                "poison"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/qwilfish-hisuian.jpg",
+            "base": {
+                "hp": 65,
+                "attack": 95,
+                "defense": 85,
+                "spAttack": 55,
+                "spDefense": 55,
+                "speed": 85
+            },
+            "description": "QWILFISH se gonfle en aspirant de l'eau. Ce POK\u00e9MON utilise la pression de l'eau aval\u00e9e pour envoyer d'un coup les pointes toxiques de son corps. Nager lui demande un gros effort.",
+            "abilities": [
+                217,
+                134,
+                156
+            ]
+        }
+    ]
+}

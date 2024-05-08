@@ -1,0 +1,26 @@
+{
+    "number": 470,
+    "name": "Phyllali",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "grass"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/leafeon.jpg",
+            "base": {
+                "hp": 65,
+                "attack": 110,
+                "defense": 130,
+                "spAttack": 60,
+                "spDefense": 65,
+                "speed": 95
+            },
+            "description": "Les habitants de Galar adorent l\u2019odeur unique qui se d\u00e9gage de ses feuilles, aussi entrent-elles dans la composition d\u2019un parfum tr\u00e8s populaire.",
+            "abilities": [
+                118,
+                56
+            ]
+        }
+    ]
+}

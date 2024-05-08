@@ -1,0 +1,26 @@
+{
+    "number": 5,
+    "name": "Reptincel",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fire"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/charmeleon.jpg",
+            "base": {
+                "hp": 58,
+                "attack": 64,
+                "defense": 58,
+                "spAttack": 80,
+                "spDefense": 65,
+                "speed": 80
+            },
+            "description": "Reptincel lac\u00e8re ses ennemis sans piti\u00e9 gr\u00e2ce \u00e0 ses griffes ac\u00e9r\u00e9es. S'il rencontre un ennemi puissant, il devient agressif et la flamme au bout de sa queue s'embrase et prend une couleur bleu clair.",
+            "abilities": [
+                44,
+                125
+            ]
+        }
+    ]
+}

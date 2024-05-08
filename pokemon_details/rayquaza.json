@@ -1,0 +1,26 @@
+{
+    "number": 384,
+    "name": "Rayquaza",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "dragon",
+                "fly"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/rayquaza.jpg",
+            "base": {
+                "hp": 105,
+                "attack": 150,
+                "defense": 90,
+                "spAttack": 150,
+                "spDefense": 90,
+                "speed": 95
+            },
+            "description": "RAYQUAZA a v\u00e9cu des centaines de millions d'ann\u00e9es dans la couche d'ozone, sans jamais descendre sur terre. Ce POK\u00e9MON se nourrit de l'eau ou des particules contenues dans l'atmosph\u00e8re.",
+            "abilities": [
+                10
+            ]
+        }
+    ]
+}

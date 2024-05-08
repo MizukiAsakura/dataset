@@ -1,0 +1,28 @@
+{
+    "number": 306,
+    "name": "Galeking",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "steel",
+                "rock"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/aggron.jpg",
+            "base": {
+                "hp": 70,
+                "attack": 110,
+                "defense": 180,
+                "spAttack": 60,
+                "spDefense": 60,
+                "speed": 50
+            },
+            "description": "GALEKING marque son territoire autour d'une montagne enti\u00e8re. Il combat sans merci quiconque p\u00e9n\u00e8tre dans son environnement. Ce POK\u00e9MON patrouille sans arr\u00eat son territoire.",
+            "abilities": [
+                117,
+                276,
+                140
+            ]
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "number": 574,
+    "name": "Scrutella",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "psy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/gothita.jpg",
+            "base": {
+                "hp": 45,
+                "attack": 30,
+                "defense": 50,
+                "spAttack": 55,
+                "spDefense": 65,
+                "speed": 45
+            },
+            "description": "Il n\u2019est encore qu\u2019un enfant, mais il lui arrive de se battre avec l\u2019\u00e9nergie psychique concentr\u00e9e dans ses antennes en forme de rubans.",
+            "abilities": [
+                126,
+                33,
+                170
+            ]
+        }
+    ]
+}

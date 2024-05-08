@@ -1,0 +1,26 @@
+{
+    "number": 496,
+    "name": "Lianaja",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "grass"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/servine.jpg",
+            "base": {
+                "hp": 60,
+                "attack": 60,
+                "defense": 75,
+                "spAttack": 60,
+                "spDefense": 75,
+                "speed": 83
+            },
+            "description": "Il \u00e9vite les coups en se cachant dans la v\u00e9g\u00e9tation luxuriante et contre-attaque habilement avec un bon coup de liane.",
+            "abilities": [
+                104,
+                65
+            ]
+        }
+    ]
+}

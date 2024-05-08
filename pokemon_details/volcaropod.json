@@ -1,0 +1,28 @@
+{
+    "number": 219,
+    "name": "Volcaropod",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fire",
+                "rock"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/magcargo.jpg",
+            "base": {
+                "hp": 60,
+                "attack": 50,
+                "defense": 120,
+                "spAttack": 90,
+                "spDefense": 80,
+                "speed": 30
+            },
+            "description": "La carapace de VOLCAROPOD est en fait constitu\u00e9e de sa peau, qui s'est durcie apr\u00e8s un refroidissement. Elle est tr\u00e8s cassante et fragile. Il suffit de la toucher pour qu'elle casse. Il reprend sa forme en plongeant dans le magma.",
+            "abilities": [
+                20,
+                67,
+                24
+            ]
+        }
+    ]
+}

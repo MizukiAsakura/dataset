@@ -1,0 +1,27 @@
+{
+    "number": 856,
+    "name": "Bibichut",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "psy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/hatenna.jpg",
+            "base": {
+                "hp": 42,
+                "attack": 30,
+                "defense": 45,
+                "spAttack": 56,
+                "spDefense": 53,
+                "speed": 39
+            },
+            "description": "La protub\u00e9rance sur sa t\u00eate lui permet de percevoir les \u00e9motions des \u00eatres vivants. Il n\u2019accorde sa confiance qu\u2019aux gens calmes.",
+            "abilities": [
+                60,
+                18,
+                180
+            ]
+        }
+    ]
+}

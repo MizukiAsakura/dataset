@@ -1,0 +1,28 @@
+{
+    "number": 886,
+    "name": "Dispareptil",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "dragon",
+                "ghost"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/drakloak.jpg",
+            "base": {
+                "hp": 68,
+                "attack": 80,
+                "defense": 50,
+                "spAttack": 60,
+                "spDefense": 50,
+                "speed": 102
+            },
+            "description": "Il prend soin du Fantyrm sur sa t\u00eate. Quand ce dernier n\u2019est plus l\u00e0, il panique et tente de le remplacer par un autre Pok\u00e9mon.",
+            "abilities": [
+                73,
+                154,
+                72
+            ]
+        }
+    ]
+}

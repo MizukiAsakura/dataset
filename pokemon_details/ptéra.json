@@ -1,0 +1,28 @@
+{
+    "number": 142,
+    "name": "Pt\u00e9ra",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "rock",
+                "fly"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/aerodactyl.jpg",
+            "base": {
+                "hp": 80,
+                "attack": 105,
+                "defense": 65,
+                "spAttack": 60,
+                "spDefense": 75,
+                "speed": 130
+            },
+            "description": "Pt\u00e9ra est un Pok\u00e9mon de l'\u00e8re des dinosaures. Il fut ressuscit\u00e9 \u00e0 partir de cellules extraites d'un morceau d'ambre. On pense qu'il \u00e9tait le roi des cieux \u00e0 l'\u00e9poque pr\u00e9historique.",
+            "abilities": [
+                276,
+                223,
+                273
+            ]
+        }
+    ]
+}

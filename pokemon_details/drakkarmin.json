@@ -1,0 +1,27 @@
+{
+    "number": 621,
+    "name": "Drakkarmin",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "dragon"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/druddigon.jpg",
+            "base": {
+                "hp": 77,
+                "attack": 120,
+                "defense": 90,
+                "spAttack": 60,
+                "spDefense": 90,
+                "speed": 48
+            },
+            "description": "Il se faufile dans les tunnels creus\u00e9s par les Taupiqueur et les Triopikeur. Il attend ensuite tranquillement qu\u2019une proie passe \u00e0 sa port\u00e9e.",
+            "abilities": [
+                202,
+                248,
+                46
+            ]
+        }
+    ]
+}

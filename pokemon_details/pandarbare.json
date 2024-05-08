@@ -1,0 +1,28 @@
+{
+    "number": 675,
+    "name": "Pandarbare",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fight",
+                "dark"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/pangoro.jpg",
+            "base": {
+                "hp": 95,
+                "attack": 124,
+                "defense": 78,
+                "spAttack": 69,
+                "spDefense": 71,
+                "speed": 58
+            },
+            "description": "Il encaisse les attaques de plein fouet sans m\u00eame tiquer et il poursuit sa route. Il \u00e9tale ses ennemis d\u2019un coup de patte capable de briser un poteau \u00e9lectrique.",
+            "abilities": [
+                45,
+                215,
+                232
+            ]
+        }
+    ]
+}

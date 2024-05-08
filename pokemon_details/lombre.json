@@ -1,0 +1,28 @@
+{
+    "number": 271,
+    "name": "Lombre",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water",
+                "grass"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/lombre.jpg",
+            "base": {
+                "hp": 60,
+                "attack": 50,
+                "defense": 50,
+                "spAttack": 60,
+                "spDefense": 70,
+                "speed": 50
+            },
+            "description": "LOMBRE est nocturne, il commence ses activit\u00e9s malicieuses et sournoises au cr\u00e9puscule. Lorsque ce POK\u00e9MON rep\u00e8re des p\u00eacheurs, il s'approche de leur ligne, tire dessus et se moque de leur regard perplexe.",
+            "abilities": [
+                134,
+                83,
+                272
+            ]
+        }
+    ]
+}

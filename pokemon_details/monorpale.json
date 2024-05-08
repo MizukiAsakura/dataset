@@ -1,0 +1,26 @@
+{
+    "number": 679,
+    "name": "Monorpale",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "steel",
+                "ghost"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/honedge.jpg",
+            "base": {
+                "hp": 45,
+                "attack": 80,
+                "defense": 100,
+                "spAttack": 35,
+                "spDefense": 37,
+                "speed": 28
+            },
+            "description": "Si quelqu\u2019un s\u2019aventure \u00e0 l\u2019empoigner, il enroule son \u00e9toffe bleue autour du bras de l\u2019infortun\u00e9 et aspire son \u00e9nergie vitale jusqu\u2019\u00e0 ce que ce dernier s\u2019\u00e9croule.",
+            "abilities": [
+                16
+            ]
+        }
+    ]
+}

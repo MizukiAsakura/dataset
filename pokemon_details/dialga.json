@@ -1,0 +1,48 @@
+{
+    "number": 483,
+    "name": "Dialga",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "steel",
+                "dragon"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/dialga.jpg",
+            "base": {
+                "hp": 100,
+                "attack": 120,
+                "defense": 120,
+                "spAttack": 150,
+                "spDefense": 100,
+                "speed": 90
+            },
+            "description": "Ce Pok\u00e9mon capable de contr\u00f4ler le temps est consid\u00e9r\u00e9 comme une divinit\u00e9 \u00e0 Sinnoh et appara\u00eet dans les mythes de cette r\u00e9gion.",
+            "abilities": [
+                223,
+                270
+            ]
+        },
+        {
+            "name": "originelle",
+            "types": [
+                "steel",
+                "dragon"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/dialga-origin.jpg",
+            "base": {
+                "hp": 100,
+                "attack": 100,
+                "defense": 120,
+                "spAttack": 150,
+                "spDefense": 120,
+                "speed": 90
+            },
+            "description": "Ce Pok\u00e9mon capable de contr\u00f4ler le temps est consid\u00e9r\u00e9 comme une divinit\u00e9 \u00e0 Sinnoh et appara\u00eet dans les mythes de cette r\u00e9gion.",
+            "abilities": [
+                223,
+                270
+            ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "number": 513,
+    "name": "Flamajou",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fire"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/pansear.jpg",
+            "base": {
+                "hp": 50,
+                "attack": 53,
+                "defense": 48,
+                "spAttack": 53,
+                "spDefense": 48,
+                "speed": 64
+            },
+            "description": "Quand il s'\u00e9nerve, la m\u00e8che sur sa t\u00eate chauffe \u00e0 300 \u00b0C. Il s'en sert pour griller des Baies et les manger.",
+            "abilities": [
+                135,
+                44
+            ]
+        }
+    ]
+}

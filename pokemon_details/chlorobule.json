@@ -1,0 +1,27 @@
+{
+    "number": 548,
+    "name": "Chlorobule",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "grass"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/petilil.jpg",
+            "base": {
+                "hp": 45,
+                "attack": 35,
+                "defense": 50,
+                "spAttack": 70,
+                "spDefense": 50,
+                "speed": 30
+            },
+            "description": "Il est recommand\u00e9 de tailler de temps \u00e0 autre les feuilles de Chlorobule afin qu\u2019il acqui\u00e8re une forme parfaitement ronde et harmonieuse.",
+            "abilities": [
+                56,
+                272,
+                118
+            ]
+        }
+    ]
+}

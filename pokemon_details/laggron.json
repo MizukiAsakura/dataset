@@ -1,0 +1,27 @@
+{
+    "number": 260,
+    "name": "Laggron",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water",
+                "ground"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/swampert.jpg",
+            "base": {
+                "hp": 100,
+                "attack": 110,
+                "defense": 90,
+                "spAttack": 85,
+                "spDefense": 90,
+                "speed": 60
+            },
+            "description": "LAGGRON est tr\u00e8s fort. Tellement fort qu'il peut ais\u00e9ment tracter un rocher pesant plus d'une tonne. Ce POK\u00e9MON est \u00e9galement dot\u00e9 d'une vision si efficace qu'il peut m\u00eame voir \u00e0 travers l'eau trouble.",
+            "abilities": [
+                282,
+                182
+            ]
+        }
+    ]
+}

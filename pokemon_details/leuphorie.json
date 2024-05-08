@@ -1,0 +1,27 @@
+{
+    "number": 242,
+    "name": "Leuphorie",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/blissey.jpg",
+            "base": {
+                "hp": 255,
+                "attack": 10,
+                "defense": 10,
+                "spAttack": 75,
+                "spDefense": 135,
+                "speed": 55
+            },
+            "description": "LEUPHORIE ressent la tristesse gr\u00e2ce \u00e0 son pelage duveteux. Lorsqu'il la remarque, ce POK\u00e9MON se pr\u00e9cipite vers la personne triste pour partager avec elle un \u0153uf rempli de bonheur, capable de faire na\u00eetre un sourire sur tout visage.",
+            "abilities": [
+                174,
+                252,
+                60
+            ]
+        }
+    ]
+}

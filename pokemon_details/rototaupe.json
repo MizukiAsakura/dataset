@@ -1,0 +1,27 @@
+{
+    "number": 529,
+    "name": "Rototaupe",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "ground"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/drilbur.jpg",
+            "base": {
+                "hp": 60,
+                "attack": 85,
+                "defense": 40,
+                "spAttack": 30,
+                "spDefense": 45,
+                "speed": 68
+            },
+            "description": "Il peut creuser \u00e0 plus de 50 km/h et faire la course avec une voiture roulant sur le terrain qu'il creuse.",
+            "abilities": [
+                30,
+                124,
+                46
+            ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "number": 683,
+    "name": "Cocotine",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fairy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/aromatisse.jpg",
+            "base": {
+                "hp": 101,
+                "attack": 72,
+                "defense": 72,
+                "spAttack": 99,
+                "spDefense": 89,
+                "speed": 29
+            },
+            "description": "Son parfum est tellement capiteux qu\u2019un Dresseur n\u2019appr\u00e9ciant pas pleinement son odeur aura toutes les difficult\u00e9s du monde \u00e0 cheminer \u00e0 ses c\u00f4t\u00e9s.",
+            "abilities": [
+                60,
+                25
+            ]
+        }
+    ]
+}

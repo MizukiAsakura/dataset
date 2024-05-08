@@ -1,0 +1,27 @@
+{
+    "number": 96,
+    "name": "Soporifik",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "psy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/drowzee.jpg",
+            "base": {
+                "hp": 60,
+                "attack": 48,
+                "defense": 45,
+                "spAttack": 43,
+                "spDefense": 90,
+                "speed": 42
+            },
+            "description": "Lorsque les enfants ont le nez qui les d\u00e9mange en dormant, c'est sans doute parce que ce Pok\u00e9mon se tient au dessus de leur oreiller, afin d'essayer de manger leurs r\u00eaves par leurs narines.",
+            "abilities": [
+                155,
+                222,
+                26
+            ]
+        }
+    ]
+}

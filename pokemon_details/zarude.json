@@ -1,0 +1,26 @@
+{
+    "number": 893,
+    "name": "Zarude",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "dark",
+                "grass"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/zarude.jpg",
+            "base": {
+                "hp": 105,
+                "attack": 120,
+                "defense": 105,
+                "spAttack": 70,
+                "spDefense": 95,
+                "speed": 105
+            },
+            "description": "Lorsque ses lianes se d\u00e9tachent de son corps, elles fertilisent le sol et favorisent la croissance des plantes de la for\u00eat.",
+            "abilities": [
+                118
+            ]
+        }
+    ]
+}

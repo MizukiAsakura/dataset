@@ -1,0 +1,27 @@
+{
+    "number": 533,
+    "name": "Ouvrifier",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fight"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/gurdurr.jpg",
+            "base": {
+                "hp": 85,
+                "attack": 105,
+                "defense": 85,
+                "spAttack": 40,
+                "spDefense": 50,
+                "speed": 40
+            },
+            "description": "Il participe \u00e0 des concours de gonflette avec ses cong\u00e9n\u00e8res et les Machopeur. Le perdant ne se montre plus en public pendant quelque temps.",
+            "abilities": [
+                77,
+                248,
+                215
+            ]
+        }
+    ]
+}

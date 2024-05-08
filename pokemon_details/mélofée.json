@@ -1,0 +1,27 @@
+{
+    "number": 35,
+    "name": "M\u00e9lof\u00e9e",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fairy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/clefairy.jpg",
+            "base": {
+                "hp": 70,
+                "attack": 45,
+                "defense": 48,
+                "spAttack": 60,
+                "spDefense": 65,
+                "speed": 35
+            },
+            "description": "Les nuits de pleine lune, des groupes de ces Pok\u00e9mon sortent jouer. Lorsque l'aube commence \u00e0 poindre, les M\u00e9lof\u00e9e fatigu\u00e9s rentrent dans leur retraite montagneuse et vont dormir, blottis les uns contre les autres.",
+            "abilities": [
+                158,
+                130,
+                129
+            ]
+        }
+    ]
+}

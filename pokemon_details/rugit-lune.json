@@ -1,0 +1,26 @@
+{
+    "number": 1005,
+    "name": "Rugit-Lune",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "dragon",
+                "dark"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/roaring-moon.jpg",
+            "base": {
+                "hp": 105,
+                "attack": 139,
+                "defense": 71,
+                "spAttack": 55,
+                "spDefense": 101,
+                "speed": 119
+            },
+            "description": "Selon un article paru dans une revue douteuse, ce Pok\u00e9mon serait li\u00e9 \u00e0 un ph\u00e9nom\u00e8ne qui se produit dans certaines r\u00e9gions.",
+            "abilities": [
+                198
+            ]
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "number": 70,
+    "name": "Boustiflor",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "grass",
+                "poison"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/weepinbell.jpg",
+            "base": {
+                "hp": 65,
+                "attack": 90,
+                "defense": 50,
+                "spAttack": 85,
+                "spDefense": 45,
+                "speed": 55
+            },
+            "description": "Boustiflor est dot\u00e9 d'un gros crochet. La nuit, ce Pok\u00e9mon s'accroche \u00e0 une branche pour s'endormir. Quand il a le sommeil agit\u00e9, il se r\u00e9veille par terre.",
+            "abilities": [
+                56,
+                135
+            ]
+        }
+    ]
+}

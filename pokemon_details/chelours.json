@@ -1,0 +1,28 @@
+{
+    "number": 760,
+    "name": "Chelours",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal",
+                "fight"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/bewear.jpg",
+            "base": {
+                "hp": 120,
+                "attack": 125,
+                "defense": 80,
+                "spAttack": 55,
+                "spDefense": 60,
+                "speed": 60
+            },
+            "description": "Il abat ses proies \u00e0 l\u2019aide de techniques \u00e0 faire p\u00e2lir d\u2019envie des combattants professionnels, puis les emporte sous les bras dans sa tani\u00e8re.",
+            "abilities": [
+                43,
+                169,
+                158
+            ]
+        }
+    ]
+}

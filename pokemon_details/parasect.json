@@ -1,0 +1,28 @@
+{
+    "number": 47,
+    "name": "Parasect",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "bug",
+                "grass"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/parasect.jpg",
+            "base": {
+                "hp": 60,
+                "attack": 95,
+                "defense": 80,
+                "spAttack": 60,
+                "spDefense": 80,
+                "speed": 30
+            },
+            "description": "On sait que les Parasect vivent en groupe dans les grands arbres et se nourrissent des nutriments contenus dans le tronc et les racines. Lorsqu'un arbre infest\u00e9 meurt, ils se pr\u00e9cipitent vers le prochain.",
+            "abilities": [
+                220,
+                207,
+                182
+            ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "number": 799,
+    "name": "Engloutyran",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "dark",
+                "dragon"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/guzzlord.jpg",
+            "base": {
+                "hp": 223,
+                "attack": 101,
+                "defense": 53,
+                "spAttack": 97,
+                "spDefense": 53,
+                "speed": 43
+            },
+            "description": "L\u2019une des dangereuses Ultra-Chim\u00e8res. Elle est constamment en train de manger, mais ne semble pas produire d\u2019excr\u00e9ments.",
+            "abilities": [
+                41
+            ]
+        }
+    ]
+}

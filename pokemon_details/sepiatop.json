@@ -1,0 +1,28 @@
+{
+    "number": 686,
+    "name": "Sepiatop",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "dark",
+                "psy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/inkay.jpg",
+            "base": {
+                "hp": 53,
+                "attack": 54,
+                "defense": 53,
+                "spAttack": 37,
+                "spDefense": 46,
+                "speed": 45
+            },
+            "description": "Il \u00e9branle le moral des ennemis lui cherchant noise gr\u00e2ce aux clignotements qu\u2019il \u00e9met. Il profite de cette diversion pour se cacher.",
+            "abilities": [
+                291,
+                65,
+                154
+            ]
+        }
+    ]
+}

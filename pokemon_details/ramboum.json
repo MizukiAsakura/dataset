@@ -1,0 +1,26 @@
+{
+    "number": 294,
+    "name": "Ramboum",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/loudred.jpg",
+            "base": {
+                "hp": 84,
+                "attack": 71,
+                "defense": 43,
+                "spAttack": 71,
+                "spDefense": 43,
+                "speed": 48
+            },
+            "description": "Le hurlement de RAMBOUM est si fort qu'il peut faire s'effondrer une petite maison en bois. Il se sert de sa voix pour punir ses ennemis. Les oreilles rondes de ce POK\u00e9MON servent de haut-parleurs.",
+            "abilities": [
+                17,
+                232
+            ]
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "number": 564,
+    "name": "Carapagos",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/tirtouga.jpg",
+            "base": {
+                "hp": 54,
+                "attack": 78,
+                "defense": 103,
+                "spAttack": 53,
+                "spDefense": 45,
+                "speed": 22
+            },
+            "description": "Il vivait dans la mer pendant l\u2019\u00e8re pr\u00e9historique. Il lui arrive de s\u2019aventurer sur la terre ferme pour chasser, bien qu\u2019il ne puisse que ramper.",
+            "abilities": [
+                256,
+                117,
+                134
+            ]
+        }
+    ]
+}

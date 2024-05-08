@@ -1,0 +1,27 @@
+{
+    "number": 696,
+    "name": "Ptyranidur",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "rock",
+                "dragon"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/tyrunt.jpg",
+            "base": {
+                "hp": 58,
+                "attack": 89,
+                "defense": 77,
+                "spAttack": 45,
+                "spDefense": 45,
+                "speed": 48
+            },
+            "description": "Ses \u00e9normes m\u00e2choires ont tant de puissance qu\u2019elles peuvent compresser une voiture sans probl\u00e8me. Ce Pok\u00e9mon vivait il y a 100 millions d\u2019ann\u00e9es.",
+            "abilities": [
+                227,
+                117
+            ]
+        }
+    ]
+}

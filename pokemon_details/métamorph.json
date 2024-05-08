@@ -1,0 +1,26 @@
+{
+    "number": 132,
+    "name": "M\u00e9tamorph",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/ditto.jpg",
+            "base": {
+                "hp": 48,
+                "attack": 48,
+                "defense": 48,
+                "spAttack": 48,
+                "spDefense": 48,
+                "speed": 48
+            },
+            "description": "M\u00e9tamorph peut modifier sa structure mol\u00e9culaire pour prendre d'autres formes. Lorsqu'il essaie de se transformer de m\u00e9moire, il lui arrive de se tromper sur certains d\u00e9tails.",
+            "abilities": [
+                98,
+                150
+            ]
+        }
+    ]
+}

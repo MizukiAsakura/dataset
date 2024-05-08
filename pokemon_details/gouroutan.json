@@ -1,0 +1,28 @@
+{
+    "number": 765,
+    "name": "Gouroutan",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal",
+                "psy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/oranguru.jpg",
+            "base": {
+                "hp": 90,
+                "attack": 60,
+                "defense": 80,
+                "spAttack": 90,
+                "spDefense": 110,
+                "speed": 60
+            },
+            "description": "Il vit perch\u00e9 sur les arbres au plus profond de la jungle. Plus rarement, on le croise sur le littoral, en plein concours d\u2019intelligence avec un Roigada.",
+            "abilities": [
+                26,
+                270,
+                264
+            ]
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "number": 48,
+    "name": "Mimitoss",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "bug",
+                "poison"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/venonat.jpg",
+            "base": {
+                "hp": 60,
+                "attack": 55,
+                "defense": 50,
+                "spAttack": 40,
+                "spDefense": 55,
+                "speed": 45
+            },
+            "description": "On raconte que Mimitoss a \u00e9volu\u00e9 avec une fourrure de poils fins et drus qui prot\u00e8ge son corps tout entier. Il est dot\u00e9 de grands yeux capables de rep\u00e9rer ses proies, m\u00eame minuscules.",
+            "abilities": [
+                194,
+                161,
+                128
+            ]
+        }
+    ]
+}

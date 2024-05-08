@@ -1,0 +1,28 @@
+{
+    "number": 899,
+    "name": "Cerbyllin",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal",
+                "psy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/wyrdeer.jpg",
+            "base": {
+                "hp": 103,
+                "attack": 105,
+                "defense": 72,
+                "spAttack": 105,
+                "spDefense": 75,
+                "speed": 65
+            },
+            "description": "Ses boules noires \u00e9mettent une inqui\u00e9tante lueur lorsqu'il \u00e9rige des barri\u00e8res invisibles. Les poils de barbe qu'il perd servent \u00e0 confectionner des v\u00eatements d'hiver bien chauds.",
+            "abilities": [
+                156,
+                126,
+                141
+            ]
+        }
+    ]
+}

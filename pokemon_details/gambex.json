@@ -1,0 +1,27 @@
+{
+    "number": 920,
+    "name": "Gambex",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "bug",
+                "dark"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/lokix.jpg",
+            "base": {
+                "hp": 71,
+                "attack": 102,
+                "defense": 78,
+                "spAttack": 52,
+                "spDefense": 55,
+                "speed": 92
+            },
+            "description": "En mode assaut, il se tient sur sa troisi\u00e8me paire de pattes habituellement repli\u00e9e, mais il s'\u00e9puise relativement rapidement.",
+            "abilities": [
+                111,
+                161
+            ]
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "number": 334,
+    "name": "Altaria",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "dragon",
+                "fly"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/altaria.jpg",
+            "base": {
+                "hp": 75,
+                "attack": 70,
+                "defense": 90,
+                "spAttack": 70,
+                "spDefense": 105,
+                "speed": 80
+            },
+            "description": "ALTARIA danse et tournoie dans les cieux, au milieu des nuages gonfl\u00e9s et cotonneux. Ce POK\u00e9MON chante des m\u00e9lodies de sa voix cristalline pour offrir aux auditeurs une exp\u00e9rience merveilleuse et inoubliable.",
+            "abilities": [
+                174,
+                57
+            ]
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "number": 98,
+    "name": "Krabby",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/krabby.jpg",
+            "base": {
+                "hp": 30,
+                "attack": 105,
+                "defense": 90,
+                "spAttack": 25,
+                "spDefense": 25,
+                "speed": 50
+            },
+            "description": "Krabby vit sur les plages, enterr\u00e9 dans le sable. Sur les plages o\u00f9 on trouve un peu de nourriture, on peut voir ces Pok\u00e9mon se disputer pour d\u00e9fendre leur territoire.",
+            "abilities": [
+                144,
+                66,
+                248
+            ]
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "number": 234,
+    "name": "Cerfrousse",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/stantler.jpg",
+            "base": {
+                "hp": 73,
+                "attack": 95,
+                "defense": 62,
+                "spAttack": 85,
+                "spDefense": 65,
+                "speed": 85
+            },
+            "description": "Les superbes bois de CERFROUSSE \u00e9taient vendus tr\u00e8s cher comme \u0153uvres d'art. Ce POK\u00e9MON fut chass\u00e9 et l'esp\u00e8ce proche de l'extinction \u00e0 cause des gens qui recherchaient leurs pr\u00e9cieux bois.",
+            "abilities": [
+                156,
+                126,
+                141
+            ]
+        }
+    ]
+}

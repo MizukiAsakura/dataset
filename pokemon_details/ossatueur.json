@@ -1,0 +1,49 @@
+{
+    "number": 105,
+    "name": "Ossatueur",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "ground"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/marowak.jpg",
+            "base": {
+                "hp": 60,
+                "attack": 80,
+                "defense": 110,
+                "spAttack": 50,
+                "spDefense": 80,
+                "speed": 45
+            },
+            "description": "Ossatueur est la forme \u00e9volu\u00e9e d'Osselait. il a surmont\u00e9 le chagrin caus\u00e9 par la perte de sa maman et s'est endurci. Le temp\u00e9rament d\u00e9cid\u00e9 et entier de ce Pok\u00e9mon le rend tr\u00e8s difficile \u00e0 amadouer.",
+            "abilities": [
+                276,
+                199,
+                21
+            ]
+        },
+        {
+            "name": "alola",
+            "types": [
+                "fire",
+                "ghost"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/marowak-alolan.jpg",
+            "base": {
+                "hp": 60,
+                "attack": 80,
+                "defense": 110,
+                "spAttack": 50,
+                "spDefense": 80,
+                "speed": 45
+            },
+            "description": "Ossatueur est la forme \u00e9volu\u00e9e d'Osselait. il a surmont\u00e9 le chagrin caus\u00e9 par la perte de sa maman et s'est endurci. Le temp\u00e9rament d\u00e9cid\u00e9 et entier de ce Pok\u00e9mon le rend tr\u00e8s difficile \u00e0 amadouer.",
+            "abilities": [
+                72,
+                199,
+                276
+            ]
+        }
+    ]
+}

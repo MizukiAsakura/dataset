@@ -1,0 +1,28 @@
+{
+    "number": 184,
+    "name": "Azumarill",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water",
+                "fairy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/azumarill.jpg",
+            "base": {
+                "hp": 100,
+                "attack": 50,
+                "defense": 80,
+                "spAttack": 60,
+                "spDefense": 80,
+                "speed": 50
+            },
+            "description": "Les longues oreilles d'AZUMARILL sont des capteurs indispensables. Lorsqu'il se concentre pour \u00e9couter, ce POK\u00e9MON peut identifier les proies aux alentours, m\u00eame dans les cours d'eau \u00e0 fort courant ou les rapides.",
+            "abilities": [
+                157,
+                63,
+                141
+            ]
+        }
+    ]
+}

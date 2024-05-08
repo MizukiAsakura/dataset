@@ -1,0 +1,49 @@
+{
+    "number": 706,
+    "name": "Muplodocus",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "dragon"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/goodra.jpg",
+            "base": {
+                "hp": 90,
+                "attack": 100,
+                "defense": 70,
+                "spAttack": 110,
+                "spDefense": 150,
+                "speed": 80
+            },
+            "description": "Tr\u00e8s c\u00e2lin, ce Pok\u00e9mon a tendance \u00e0 se frotter aux gens auxquels il s\u2019attache avec son corps visqueux. Dresseurs de Muplodocus, tenez bon.",
+            "abilities": [
+                143,
+                141,
+                218
+            ]
+        },
+        {
+            "name": "hisui",
+            "types": [
+                "dragon",
+                "steel"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/goodra-hisuian.jpg",
+            "base": {
+                "hp": 80,
+                "attack": 100,
+                "defense": 100,
+                "spAttack": 110,
+                "spDefense": 150,
+                "speed": 60
+            },
+            "description": "Tr\u00e8s c\u00e2lin, ce Pok\u00e9mon a tendance \u00e0 se frotter aux gens auxquels il s\u2019attache avec son corps visqueux. Dresseurs de Muplodocus, tenez bon.",
+            "abilities": [
+                143,
+                66,
+                218
+            ]
+        }
+    ]
+}

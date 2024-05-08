@@ -1,0 +1,27 @@
+{
+    "number": 942,
+    "name": "Grondogue",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "dark"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/maschiff.jpg",
+            "base": {
+                "hp": 60,
+                "attack": 78,
+                "defense": 60,
+                "spAttack": 40,
+                "spDefense": 51,
+                "speed": 51
+            },
+            "description": "Sa m\u00e2choire et ses crocs bien d\u00e9velopp\u00e9s sont assez puissants pour broyer des rochers. Sa graisse \u00e9paisse lui octroie une excellente protection.",
+            "abilities": [
+                128,
+                156,
+                119
+            ]
+        }
+    ]
+}

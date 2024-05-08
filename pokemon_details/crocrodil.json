@@ -1,0 +1,26 @@
+{
+    "number": 159,
+    "name": "Crocrodil",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/croconaw.jpg",
+            "base": {
+                "hp": 65,
+                "attack": 80,
+                "defense": 80,
+                "spAttack": 59,
+                "spDefense": 63,
+                "speed": 58
+            },
+            "description": "Une fois que CROCRODIL a referm\u00e9 sa m\u00e2choire sur son ennemi, il est impossible de le faire l\u00e2cher prise. Ses crocs sont recourb\u00e9s comme des hame\u00e7ons et ne peuvent pas \u00eatre retir\u00e9s une fois enfonc\u00e9s.",
+            "abilities": [
+                282,
+                248
+            ]
+        }
+    ]
+}

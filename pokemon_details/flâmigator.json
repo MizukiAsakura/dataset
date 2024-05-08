@@ -1,0 +1,27 @@
+{
+    "number": 911,
+    "name": "Fl\u00e2migator",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fire",
+                "ghost"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/skeledirge.jpg",
+            "base": {
+                "hp": 104,
+                "attack": 75,
+                "defense": 100,
+                "spAttack": 110,
+                "spDefense": 75,
+                "speed": 66
+            },
+            "description": "Il est capable de carboniser ses adversaires avec des flammes \u00e0 3 000 \u00b0C. Sa voix douce poss\u00e8de des vertus apaisantes pour l'\u00e2me.",
+            "abilities": [
+                44,
+                153
+            ]
+        }
+    ]
+}

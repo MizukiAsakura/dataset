@@ -1,0 +1,27 @@
+{
+    "number": 539,
+    "name": "Karacl\u00e9e",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fight"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/sawk.jpg",
+            "base": {
+                "hp": 75,
+                "attack": 125,
+                "defense": 75,
+                "spAttack": 30,
+                "spDefense": 75,
+                "speed": 85
+            },
+            "description": "Apr\u00e8s avoir suivi un entra\u00eenement intensif, la puissance du tranchant de sa main est telle qu\u2019il peut fendre la mer en deux.",
+            "abilities": [
+                117,
+                26,
+                215
+            ]
+        }
+    ]
+}

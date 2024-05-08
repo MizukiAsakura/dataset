@@ -1,0 +1,28 @@
+{
+    "number": 629,
+    "name": "Vostourno",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "dark",
+                "fly"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/vullaby.jpg",
+            "base": {
+                "hp": 70,
+                "attack": 55,
+                "defense": 75,
+                "spAttack": 45,
+                "spDefense": 65,
+                "speed": 60
+            },
+            "description": "Ses ailes sont trop petites pour lui permettre de voler. Quand l\u2019\u00e9volution approche, il sort lui-m\u00eame du cr\u00e2ne qui le prot\u00e8ge.",
+            "abilities": [
+                58,
+                106,
+                24
+            ]
+        }
+    ]
+}

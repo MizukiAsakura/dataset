@@ -1,0 +1,28 @@
+{
+    "number": 708,
+    "name": "Broc\u00e9l\u00f4me",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "ghost",
+                "grass"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/phantump.jpg",
+            "base": {
+                "hp": 43,
+                "attack": 70,
+                "defense": 48,
+                "spAttack": 50,
+                "spDefense": 60,
+                "speed": 38
+            },
+            "description": "D\u2019apr\u00e8s la l\u00e9gende, cette esp\u00e8ce de Pok\u00e9mon aurait vu le jour quand des \u00e2mes d\u2019enfants perdus dans la for\u00eat auraient poss\u00e9d\u00e9 des souches d\u2019arbres.",
+            "abilities": [
+                174,
+                126,
+                239
+            ]
+        }
+    ]
+}

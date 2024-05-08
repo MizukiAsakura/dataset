@@ -1,0 +1,27 @@
+{
+    "number": 568,
+    "name": "Miamiasme",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "poison"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/trubbish.jpg",
+            "base": {
+                "hp": 50,
+                "attack": 50,
+                "defense": 62,
+                "spAttack": 40,
+                "spDefense": 62,
+                "speed": 65
+            },
+            "description": "Une fois qu\u2019il a gob\u00e9 assez d\u2019ordures, il rel\u00e2che un gaz toxique par la bouche. Ne le respirez pas, surtout s\u2019il n\u2019y a aucun h\u00f4pital \u00e0 la ronde.",
+            "abilities": [
+                230,
+                137,
+                39
+            ]
+        }
+    ]
+}

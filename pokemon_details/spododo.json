@@ -1,0 +1,28 @@
+{
+    "number": 755,
+    "name": "Spododo",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "grass",
+                "fairy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/morelull.jpg",
+            "base": {
+                "hp": 40,
+                "attack": 35,
+                "defense": 55,
+                "spAttack": 65,
+                "spDefense": 75,
+                "speed": 15
+            },
+            "description": "Il r\u00e9pand des spores luminescentes autour de lui. Malgr\u00e9 le danger qu\u2019il repr\u00e9sente, les balades nocturnes dans les bois o\u00f9 il vit sont populaires.",
+            "abilities": [
+                165,
+                220,
+                83
+            ]
+        }
+    ]
+}

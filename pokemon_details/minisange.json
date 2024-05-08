@@ -1,0 +1,27 @@
+{
+    "number": 821,
+    "name": "Minisange",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fly"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/rookidee.jpg",
+            "base": {
+                "hp": 38,
+                "attack": 47,
+                "defense": 35,
+                "spAttack": 33,
+                "spDefense": 35,
+                "speed": 57
+            },
+            "description": "Son petit corps lui permet de se jouer d\u2019ennemis bien plus grands que lui en volant \u00e0 toute vitesse pour les piquer o\u00f9 ils sont vuln\u00e9rables.",
+            "abilities": [
+                240,
+                273,
+                58
+            ]
+        }
+    ]
+}

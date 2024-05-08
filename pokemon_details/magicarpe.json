@@ -1,0 +1,26 @@
+{
+    "number": 129,
+    "name": "Magicarpe",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/magikarp.jpg",
+            "base": {
+                "hp": 20,
+                "attack": 10,
+                "defense": 55,
+                "spAttack": 15,
+                "spDefense": 20,
+                "speed": 80
+            },
+            "description": "Magicarpe est un Pok\u00e9mon ridicule qui ne sait faire que des ronds dans l'eau ou se laisser porter par les courants. Son comportement a donn\u00e9 envie aux savants d'\u00e9tudier son cas.",
+            "abilities": [
+                134,
+                209
+            ]
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "number": 486,
+    "name": "Regigigas",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/regigigas.jpg",
+            "base": {
+                "hp": 110,
+                "attack": 160,
+                "defense": 110,
+                "spAttack": 80,
+                "spDefense": 110,
+                "speed": 100
+            },
+            "description": "On raconte qu\u2019apr\u00e8s avoir cr\u00e9\u00e9 des Pok\u00e9mon avec diff\u00e9rentes mati\u00e8res, il aurait plac\u00e9 les continents \u00e0 leur position actuelle.",
+            "abilities": [
+                85
+            ]
+        }
+    ]
+}

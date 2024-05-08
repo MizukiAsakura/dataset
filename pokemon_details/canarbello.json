@@ -1,0 +1,26 @@
+{
+    "number": 913,
+    "name": "Canarbello",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/quaxwell.jpg",
+            "base": {
+                "hp": 70,
+                "attack": 85,
+                "defense": 65,
+                "spAttack": 65,
+                "spDefense": 60,
+                "speed": 65
+            },
+            "description": "Tr\u00e8s diligent, il observe les mouvements de Pok\u00e9mon et d'individus d'origines diverses pour s'en inspirer quand il danse.",
+            "abilities": [
+                282,
+                151
+            ]
+        }
+    ]
+}

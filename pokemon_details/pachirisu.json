@@ -1,0 +1,27 @@
+{
+    "number": 417,
+    "name": "Pachirisu",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "electrik"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/pachirisu.jpg",
+            "base": {
+                "hp": 60,
+                "attack": 45,
+                "defense": 70,
+                "spAttack": 45,
+                "spDefense": 90,
+                "speed": 95
+            },
+            "description": "Il roule des boules de poils pleines d'\u00e9lectricit\u00e9 statique et les range dans des souches avec des Baies. Les poches de ses joues produisent de l'\u00e9lectricit\u00e9 et sa queue envoie des \u00e9clairs. Il vit dans les arbres.",
+            "abilities": [
+                128,
+                235,
+                3
+            ]
+        }
+    ]
+}

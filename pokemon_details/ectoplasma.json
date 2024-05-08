@@ -1,0 +1,26 @@
+{
+    "number": 94,
+    "name": "Ectoplasma",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "ghost",
+                "poison"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/gengar.jpg",
+            "base": {
+                "hp": 60,
+                "attack": 65,
+                "defense": 60,
+                "spAttack": 130,
+                "spDefense": 75,
+                "speed": 110
+            },
+            "description": "Parfois, pendant les nuits noires, une ombre projet\u00e9e par une r\u00e9verb\u00e8re peut tout \u00e0 coup vous d\u00e9passer. Il s'agit d'un Ectoplasma qui court, en se faisait passer pour l'ombre de quelqu'un d'autre.",
+            "abilities": [
+                72
+            ]
+        }
+    ]
+}

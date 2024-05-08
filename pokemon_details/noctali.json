@@ -1,0 +1,26 @@
+{
+    "number": 197,
+    "name": "Noctali",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "dark"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/umbreon.jpg",
+            "base": {
+                "hp": 95,
+                "attack": 65,
+                "defense": 110,
+                "spAttack": 60,
+                "spDefense": 130,
+                "speed": 65
+            },
+            "description": "NOCTALI a \u00e9volu\u00e9 suite \u00e0 une longue exposition aux rayons lunaires. Il se cache dans les recoins sombres et attend patiemment le passage de ses ennemis. Les anneaux sur son corps s'illuminent au moment o\u00f9 il bondit.",
+            "abilities": [
+                265,
+                26
+            ]
+        }
+    ]
+}

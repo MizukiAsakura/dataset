@@ -1,0 +1,26 @@
+{
+    "number": 352,
+    "name": "Kecleon",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/kecleon.jpg",
+            "base": {
+                "hp": 60,
+                "attack": 90,
+                "defense": 70,
+                "spAttack": 60,
+                "spDefense": 120,
+                "speed": 40
+            },
+            "description": "KECLEON est capable de modifier les couleurs de son corps pour se fondre dans son environnement. Il y a cependant une exception: ce POK\u00e9MON ne peut pas modifier la figure g\u00e9om\u00e9trique en zigzag sur son ventre.",
+            "abilities": [
+                296,
+                229
+            ]
+        }
+    ]
+}

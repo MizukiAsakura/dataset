@@ -1,0 +1,26 @@
+{
+    "number": 1002,
+    "name": "Baojian",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "dark",
+                "grass"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/chien-pao.jpg",
+            "base": {
+                "hp": 80,
+                "attack": 120,
+                "defense": 80,
+                "spAttack": 90,
+                "spDefense": 65,
+                "speed": 135
+            },
+            "description": "Ce Pok\u00e9mon peut contr\u00f4ler 100 tonnes de neige tomb\u00e9e. Il s'amuse en sautant joyeusement dans les avalanches qu'il provoque.",
+            "abilities": [
+                107
+            ]
+        }
+    ]
+}

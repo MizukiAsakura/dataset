@@ -1,0 +1,48 @@
+{
+    "number": 916,
+    "name": "Fragroin",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/oinkologne.jpg",
+            "base": {
+                "hp": 110,
+                "attack": 100,
+                "defense": 75,
+                "spAttack": 59,
+                "spDefense": 80,
+                "speed": 65
+            },
+            "description": "Ce Pok\u00e9mon m\u00e9ticuleux aime la propret\u00e9. Il est envelopp\u00e9 d'un parfum floral qui rass\u00e9r\u00e8ne les Pok\u00e9mon alentour.",
+            "abilities": [
+                193,
+                135,
+                157
+            ]
+        },
+        {
+            "name": "femelle",
+            "types": [
+                "normal"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/oinkologne-female.jpg",
+            "base": {
+                "hp": 115,
+                "attack": 90,
+                "defense": 70,
+                "spAttack": 59,
+                "spDefense": 90,
+                "speed": 65
+            },
+            "description": "Ce Pok\u00e9mon m\u00e9ticuleux aime la propret\u00e9. Il est envelopp\u00e9 d'un parfum floral qui rass\u00e9r\u00e8ne les Pok\u00e9mon alentour.",
+            "abilities": [
+                25,
+                135,
+                157
+            ]
+        }
+    ]
+}

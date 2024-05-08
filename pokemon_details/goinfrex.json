@@ -1,0 +1,27 @@
+{
+    "number": 446,
+    "name": "Goinfrex",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/munchlax.jpg",
+            "base": {
+                "hp": 135,
+                "attack": 85,
+                "defense": 40,
+                "spAttack": 40,
+                "spDefense": 85,
+                "speed": 5
+            },
+            "description": "Il avale son poids en nourriture chaque jour. Il avale tout sans prendre le temps de m\u00e2cher. Il cache de la nourriture sous les grands poils de son corps, mais il finit souvent par l'oublier.",
+            "abilities": [
+                235,
+                157,
+                135
+            ]
+        }
+    ]
+}

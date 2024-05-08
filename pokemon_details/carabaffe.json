@@ -1,0 +1,26 @@
+{
+    "number": 8,
+    "name": "Carabaffe",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/wartortle.jpg",
+            "base": {
+                "hp": 59,
+                "attack": 63,
+                "defense": 80,
+                "spAttack": 65,
+                "spDefense": 80,
+                "speed": 58
+            },
+            "description": "Carabaffe a une large queue recouverte d'une \u00e9paisse fourrure. Elle devient de plus en plus fonc\u00e9e avec l'\u00e2ge. Les \u00e9raflures sur la carapace de ce Pok\u00e9mon t\u00e9moignent de son exp\u00e9rience aux combats.",
+            "abilities": [
+                282,
+                83
+            ]
+        }
+    ]
+}

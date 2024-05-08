@@ -1,0 +1,27 @@
+{
+    "number": 248,
+    "name": "Tyranocif",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "rock",
+                "dark"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/tyranitar.jpg",
+            "base": {
+                "hp": 100,
+                "attack": 134,
+                "defense": 110,
+                "spAttack": 95,
+                "spDefense": 100,
+                "speed": 61
+            },
+            "description": "TYRANOCIF est si incroyablement puissant qu'il peut abattre une montagne pour y faire son nid. Ce POK\u00e9MON se prom\u00e8ne dans les montagnes pour y trouver de nouveaux adversaires.",
+            "abilities": [
+                294,
+                273
+            ]
+        }
+    ]
+}

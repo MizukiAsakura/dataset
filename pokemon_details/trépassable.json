@@ -1,0 +1,27 @@
+{
+    "number": 770,
+    "name": "Tr\u00e9passable",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "ghost",
+                "ground"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/palossand.jpg",
+            "base": {
+                "hp": 85,
+                "attack": 75,
+                "defense": 110,
+                "spAttack": 100,
+                "spDefense": 75,
+                "speed": 35
+            },
+            "description": "Bien qu\u2019il d\u00e9teste l\u2019eau, il vit sur les plages. Quand la pluie s\u2019abat sur lui, il est incapable de conserver sa forme de ch\u00e2teau de sable.",
+            "abilities": [
+                246,
+                294
+            ]
+        }
+    ]
+}

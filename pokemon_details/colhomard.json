@@ -1,0 +1,28 @@
+{
+    "number": 342,
+    "name": "Colhomard",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water",
+                "dark"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/crawdaunt.jpg",
+            "base": {
+                "hp": 63,
+                "attack": 120,
+                "defense": 85,
+                "spAttack": 90,
+                "spDefense": 55,
+                "speed": 55
+            },
+            "description": "COLHOMARD a un temp\u00e9rament tr\u00e8s violent, ce qui le pousse \u00e0 d\u00e9fier tout ce qui passe pr\u00e8s de lui. Certaines formes de vie refusent d'habiter dans les \u00e9tangs occup\u00e9s par ce POK\u00e9MON et d\u00e9sertent ces eaux.",
+            "abilities": [
+                144,
+                66,
+                6
+            ]
+        }
+    ]
+}

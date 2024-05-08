@@ -1,0 +1,26 @@
+{
+    "number": 495,
+    "name": "Vip\u00e9lierre",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "grass"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/snivy.jpg",
+            "base": {
+                "hp": 45,
+                "attack": 45,
+                "defense": 55,
+                "spAttack": 45,
+                "spDefense": 55,
+                "speed": 63
+            },
+            "description": "Un Pok\u00e9mon intelligent et tr\u00e8s calme. Lorsqu'il a re\u00e7u suffisamment de lumi\u00e8re du soleil, il devient plus agile.",
+            "abilities": [
+                104,
+                65
+            ]
+        }
+    ]
+}

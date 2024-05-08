@@ -1,0 +1,27 @@
+{
+    "number": 572,
+    "name": "Chinchidou",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/minccino.jpg",
+            "base": {
+                "hp": 55,
+                "attack": 50,
+                "defense": 40,
+                "spAttack": 40,
+                "spDefense": 40,
+                "speed": 75
+            },
+            "description": "Il \u00e9poussette les salet\u00e9s avec sa queue. Il est d\u2019une aide pr\u00e9cieuse pour faire le m\u00e9nage, mais il est tr\u00e8s tatillon sur la propret\u00e9.",
+            "abilities": [
+                158,
+                268,
+                187
+            ]
+        }
+    ]
+}

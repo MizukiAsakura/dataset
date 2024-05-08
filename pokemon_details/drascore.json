@@ -1,0 +1,28 @@
+{
+    "number": 452,
+    "name": "Drascore",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "poison",
+                "dark"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/drapion.jpg",
+            "base": {
+                "hp": 70,
+                "attack": 90,
+                "defense": 110,
+                "spAttack": 60,
+                "spDefense": 75,
+                "speed": 95
+            },
+            "description": "Il peut r\u00e9duire une voiture en pi\u00e8ces avec ses pinces. Le bout de ses pinces contient du poison. Il porte une coquille robuste. Sa t\u00eate peut pivoter \u00e0 180 degr\u00e9s pour couvrir les angles morts.",
+            "abilities": [
+                21,
+                254,
+                240
+            ]
+        }
+    ]
+}

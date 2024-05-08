@@ -1,0 +1,26 @@
+{
+    "number": 371,
+    "name": "Draby",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "dragon"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/bagon.jpg",
+            "base": {
+                "hp": 45,
+                "attack": 75,
+                "defense": 60,
+                "spAttack": 40,
+                "spDefense": 30,
+                "speed": 50
+            },
+            "description": "DRABY r\u00eave de pouvoir un jour s'\u00e9lancer dans les cieux. Bien que vou\u00e9 \u00e0 l'\u00e9chec, ce POK\u00e9MON se jette des falaises pour essayer de voler. A force, sa t\u00eate est devenue aussi dure que de l'acier.",
+            "abilities": [
+                276,
+                248
+            ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "number": 377,
+    "name": "Regirock",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "rock"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/regirock.jpg",
+            "base": {
+                "hp": 80,
+                "attack": 100,
+                "defense": 200,
+                "spAttack": 50,
+                "spDefense": 100,
+                "speed": 50
+            },
+            "description": "REGIROCK fut isol\u00e9 par les gens il y a tr\u00e8s longtemps. Lorsque le corps de ce POK\u00e9MON est endommag\u00e9 au combat, on raconte qu'il cherche des rochers pour se r\u00e9parer.",
+            "abilities": [
+                73,
+                117
+            ]
+        }
+    ]
+}

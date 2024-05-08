@@ -1,0 +1,28 @@
+{
+    "number": 691,
+    "name": "Kravarech",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "poison",
+                "dragon"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/dragalge.jpg",
+            "base": {
+                "hp": 65,
+                "attack": 75,
+                "defense": 90,
+                "spAttack": 97,
+                "spDefense": 123,
+                "speed": 44
+            },
+            "description": "Avec son poison capable de dissoudre le m\u00e9tal, il r\u00e9duit \u00e0 l\u2019\u00e9tat d\u2019\u00e9pave les navires-citernes qui p\u00e9n\u00e8trent sur son territoire.",
+            "abilities": [
+                217,
+                283,
+                6
+            ]
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "number": 565,
+    "name": "M\u00e9gapagos",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "rock",
+                "water"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/carracosta.jpg",
+            "base": {
+                "hp": 74,
+                "attack": 108,
+                "defense": 133,
+                "spAttack": 83,
+                "spDefense": 65,
+                "speed": 32
+            },
+            "description": "Pour se constituer une carapace solide, il devait r\u00e9duire en miettes les os et coquilles riches en min\u00e9raux de ses proies avant de les avaler.",
+            "abilities": [
+                256,
+                117,
+                134
+            ]
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "number": 304,
+    "name": "Galekid",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "steel",
+                "rock"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/aron.jpg",
+            "base": {
+                "hp": 50,
+                "attack": 70,
+                "defense": 100,
+                "spAttack": 40,
+                "spDefense": 40,
+                "speed": 30
+            },
+            "description": "Ce POK\u00e9MON a un corps en acier. Pour constituer son corps, GALEKID se nourrit de minerai de fer extrait des montagnes. De temps en temps, il cause de nombreux d\u00e9g\u00e2ts en mangeant des ponts ou des rails.",
+            "abilities": [
+                117,
+                276,
+                140
+            ]
+        }
+    ]
+}

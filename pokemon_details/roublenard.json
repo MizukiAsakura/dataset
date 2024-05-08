@@ -1,0 +1,27 @@
+{
+    "number": 828,
+    "name": "Roublenard",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "dark"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/thievul.jpg",
+            "base": {
+                "hp": 70,
+                "attack": 58,
+                "defense": 58,
+                "spAttack": 87,
+                "spDefense": 92,
+                "speed": 90
+            },
+            "description": "Gr\u00e2ce \u00e0 son corps leste et ses griffes ac\u00e9r\u00e9es, il va et vient en d\u00e9robant \u0152ufs et nourriture. Son ennemi jur\u00e9 est Fulgudog.",
+            "abilities": [
+                128,
+                91,
+                119
+            ]
+        }
+    ]
+}

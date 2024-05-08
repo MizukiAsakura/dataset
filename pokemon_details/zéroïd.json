@@ -1,0 +1,26 @@
+{
+    "number": 793,
+    "name": "Z\u00e9ro\u00efd",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "rock",
+                "poison"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/nihilego.jpg",
+            "base": {
+                "hp": 109,
+                "attack": 53,
+                "defense": 47,
+                "spAttack": 127,
+                "spDefense": 131,
+                "speed": 103
+            },
+            "description": "Nul ne sait si cette Ultra-Chim\u00e8re poss\u00e8de une conscience propre, mais on l\u2019aurait aper\u00e7ue en train d\u2019imiter les gestes d\u2019une jeune fille.",
+            "abilities": [
+                41
+            ]
+        }
+    ]
+}

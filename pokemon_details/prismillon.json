@@ -1,0 +1,28 @@
+{
+    "number": 666,
+    "name": "Prismillon",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "bug",
+                "fly"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/vivillon.jpg",
+            "base": {
+                "hp": 80,
+                "attack": 52,
+                "defense": 50,
+                "spAttack": 90,
+                "spDefense": 50,
+                "speed": 89
+            },
+            "description": "Les ailes des Prismillon arborent diff\u00e9rents motifs en fonction de leur aire d\u2019origine. Il est possible que le climat y soit pour quelque chose.",
+            "abilities": [
+                194,
+                100,
+                129
+            ]
+        }
+    ]
+}

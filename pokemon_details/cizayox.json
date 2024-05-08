@@ -1,0 +1,28 @@
+{
+    "number": 212,
+    "name": "Cizayox",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "bug",
+                "steel"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/scizor.jpg",
+            "base": {
+                "hp": 70,
+                "attack": 130,
+                "defense": 100,
+                "spAttack": 55,
+                "spDefense": 80,
+                "speed": 65
+            },
+            "description": "Le corps de CIZAYOX est dur comme de l'acier. Les attaques ordinaires ne le d\u00e9stabilisent pas. Ce POK\u00e9MON bat des ailes pour r\u00e9guler sa temp\u00e9rature interne.",
+            "abilities": [
+                111,
+                268,
+                163
+            ]
+        }
+    ]
+}

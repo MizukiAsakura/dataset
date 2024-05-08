@@ -1,0 +1,28 @@
+{
+    "number": 923,
+    "name": "Pohmarmotte",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "electrik",
+                "fight"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/pawmot.jpg",
+            "base": {
+                "hp": 70,
+                "attack": 115,
+                "defense": 70,
+                "spAttack": 70,
+                "spDefense": 60,
+                "speed": 105
+            },
+            "description": "Sa fourrure soyeuse fait office de batterie. Elle peut emmagasiner autant d'\u00e9nergie qu'une voiture \u00e9lectrique.",
+            "abilities": [
+                2,
+                174,
+                215
+            ]
+        }
+    ]
+}

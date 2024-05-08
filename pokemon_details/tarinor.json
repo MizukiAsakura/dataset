@@ -1,0 +1,27 @@
+{
+    "number": 299,
+    "name": "Tarinor",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "rock"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/nosepass.jpg",
+            "base": {
+                "hp": 30,
+                "attack": 45,
+                "defense": 135,
+                "spAttack": 45,
+                "spDefense": 90,
+                "speed": 30
+            },
+            "description": "Le nez magn\u00e9tique de TARINOR pointe toujours vers le nord. Si deux de ces POK\u00e9MON se rencontrent, ils ne peuvent pas se faire face car leurs nez magn\u00e9tiques se repoussent.",
+            "abilities": [
+                117,
+                168,
+                124
+            ]
+        }
+    ]
+}

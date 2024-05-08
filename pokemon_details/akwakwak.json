@@ -1,0 +1,27 @@
+{
+    "number": 55,
+    "name": "Akwakwak",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/golduck.jpg",
+            "base": {
+                "hp": 80,
+                "attack": 82,
+                "defense": 78,
+                "spAttack": 95,
+                "spDefense": 80,
+                "speed": 85
+            },
+            "description": "Les pattes avant et arri\u00e8re palm\u00e9es et le corps a\u00e9rodynamique d'Akwakwak lui donnent une vitesse effrayante. Ce Pok\u00e9mon est bien plus rapide que les plus grands champions de natation.",
+            "abilities": [
+                182,
+                57,
+                134
+            ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "number": 153,
+    "name": "Macronium",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "grass"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/bayleef.jpg",
+            "base": {
+                "hp": 60,
+                "attack": 62,
+                "defense": 80,
+                "spAttack": 63,
+                "spDefense": 80,
+                "speed": 60
+            },
+            "description": "Le cou de MACRONIUM est entour\u00e9 de nombreuses feuilles. Dans chacune d'elles se trouve une pousse d'arbre. Le parfum de cette pousse donne la p\u00eache aux personnes qui le sentent.",
+            "abilities": [
+                104,
+                118
+            ]
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "number": 122,
+    "name": "M. Mime",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "psy",
+                "fairy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/mr-mime.jpg",
+            "base": {
+                "hp": 40,
+                "attack": 45,
+                "defense": 65,
+                "spAttack": 100,
+                "spDefense": 120,
+                "speed": 90
+            },
+            "description": "M. Mime est un pantomime hors pair. Ses gestes et ses mouvements parviennent \u00e0 faire croire que quelque chose d'invisible existe r\u00e9ellement. Lorsqu'on y croit, ces choses deviennent palpables.",
+            "abilities": [
+                17,
+                120,
+                268
+            ]
+        },
+        {
+            "name": "galar",
+            "types": [
+                "ice",
+                "psy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/mr-mime-galarian.jpg",
+            "base": {
+                "hp": 50,
+                "attack": 65,
+                "defense": 65,
+                "spAttack": 90,
+                "spDefense": 90,
+                "speed": 100
+            },
+            "description": "M. Mime est un pantomime hors pair. Ses gestes et ses mouvements parviennent \u00e0 faire croire que quelque chose d'invisible existe r\u00e9ellement. Lorsqu'on y croit, ces choses deviennent palpables.",
+            "abilities": [
+                110,
+                47,
+                71
+            ]
+        }
+    ]
+}

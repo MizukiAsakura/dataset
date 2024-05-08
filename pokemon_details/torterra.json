@@ -1,0 +1,27 @@
+{
+    "number": 389,
+    "name": "Torterra",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "grass",
+                "ground"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/torterra.jpg",
+            "base": {
+                "hp": 95,
+                "attack": 109,
+                "defense": 105,
+                "spAttack": 75,
+                "spDefense": 85,
+                "speed": 56
+            },
+            "description": "Son corps produit de l'oxyg\u00e8ne par photosynth\u00e8se. La feuille sur sa t\u00eate fl\u00e9trit quand il a soif. Certains groupes migrant pour trouver de l'eau ont \u00e9t\u00e9 confondus avec des \"for\u00eats vivantes\".",
+            "abilities": [
+                104,
+                66
+            ]
+        }
+    ]
+}

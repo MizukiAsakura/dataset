@@ -1,0 +1,26 @@
+{
+    "number": 767,
+    "name": "Sovkipou",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "bug",
+                "water"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/wimpod.jpg",
+            "base": {
+                "hp": 25,
+                "attack": 35,
+                "defense": 40,
+                "spAttack": 20,
+                "spDefense": 30,
+                "speed": 80
+            },
+            "description": "Il vit aussi bien en bord de mer que dans les fonds marins. V\u00e9ritable aspirateur sur pattes, il avale n\u2019importe quelle nourriture, m\u00eame pourrie.",
+            "abilities": [
+                109
+            ]
+        }
+    ]
+}

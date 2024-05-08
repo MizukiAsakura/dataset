@@ -1,0 +1,28 @@
+{
+    "number": 860,
+    "name": "Fourbelin",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "dark",
+                "fairy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/morgrem.jpg",
+            "base": {
+                "hp": 65,
+                "attack": 60,
+                "defense": 45,
+                "spAttack": 75,
+                "spDefense": 55,
+                "speed": 70
+            },
+            "description": "Sa technique de combat consiste \u00e0 faire semblant de se prosterner devant son adversaire pour le transpercer avec ses cheveux aiguis\u00e9s.",
+            "abilities": [
+                116,
+                126,
+                210
+            ]
+        }
+    ]
+}

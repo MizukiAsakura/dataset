@@ -1,0 +1,26 @@
+{
+    "number": 567,
+    "name": "A\u00e9ropt\u00e9ryx",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "rock",
+                "fly"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/archeops.jpg",
+            "base": {
+                "hp": 75,
+                "attack": 140,
+                "defense": 65,
+                "spAttack": 112,
+                "spDefense": 65,
+                "speed": 110
+            },
+            "description": "Bien qu\u2019ayant enfin acquis la capacit\u00e9 de voler, ce Pok\u00e9mon pr\u00e9f\u00e9rait bien souvent courir sur le sol, \u00e0 une vitesse moyenne de 40 km/h.",
+            "abilities": [
+                88
+            ]
+        }
+    ]
+}

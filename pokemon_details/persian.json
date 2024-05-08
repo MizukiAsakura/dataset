@@ -1,0 +1,48 @@
+{
+    "number": 53,
+    "name": "Persian",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/persian.jpg",
+            "base": {
+                "hp": 65,
+                "attack": 70,
+                "defense": 60,
+                "spAttack": 65,
+                "spDefense": 65,
+                "speed": 115
+            },
+            "description": "Persian a six grosses vibrisses qui lui donnent un air costaud et lui permettent de sentir les mouvements de l'air pour savoir ce qui se trouve \u00e0 proximit\u00e9. Il devient docile lorsqu'on l'attrape par les moustaches.",
+            "abilities": [
+                235,
+                268,
+                273
+            ]
+        },
+        {
+            "name": "alola",
+            "types": [
+                "dark"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/persian-alolan.jpg",
+            "base": {
+                "hp": 65,
+                "attack": 60,
+                "defense": 60,
+                "spAttack": 75,
+                "spDefense": 65,
+                "speed": 115
+            },
+            "description": "Persian a six grosses vibrisses qui lui donnent un air costaud et lui permettent de sentir les mouvements de l'air pour savoir ce qui se trouve \u00e0 proximit\u00e9. Il devient docile lorsqu'on l'attrape par les moustaches.",
+            "abilities": [
+                279,
+                268,
+                209
+            ]
+        }
+    ]
+}

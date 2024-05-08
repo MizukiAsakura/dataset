@@ -1,0 +1,28 @@
+{
+    "number": 434,
+    "name": "Moufouette",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "poison",
+                "dark"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/stunky.jpg",
+            "base": {
+                "hp": 63,
+                "attack": 63,
+                "defense": 47,
+                "spAttack": 41,
+                "spDefense": 41,
+                "speed": 74
+            },
+            "description": "Il se prot\u00e8ge en expulsant un fluide nocif par son derri\u00e8re. La puanteur dure 24 heures. Son derri\u00e8re projette un fluide puant et f\u00e9tide qu'il utilise pour repousser l'ennemi.",
+            "abilities": [
+                230,
+                39,
+                240
+            ]
+        }
+    ]
+}

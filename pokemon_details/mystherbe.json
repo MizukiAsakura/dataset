@@ -1,0 +1,27 @@
+{
+    "number": 43,
+    "name": "Mystherbe",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "grass",
+                "poison"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/oddish.jpg",
+            "base": {
+                "hp": 45,
+                "attack": 50,
+                "defense": 55,
+                "spAttack": 75,
+                "spDefense": 65,
+                "speed": 30
+            },
+            "description": "Pendant la journ\u00e9e, Mystherbe s'enterre dans le sol pour absorber avec son corps tout entier les nutriments pr\u00e9sents dans la terre. Plus le sol est fertile, plus ses feuilles sont brillantes.",
+            "abilities": [
+                56,
+                128
+            ]
+        }
+    ]
+}

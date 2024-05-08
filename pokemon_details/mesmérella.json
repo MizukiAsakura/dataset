@@ -1,0 +1,27 @@
+{
+    "number": 575,
+    "name": "Mesm\u00e9rella",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "psy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/gothorita.jpg",
+            "base": {
+                "hp": 60,
+                "attack": 45,
+                "defense": 70,
+                "spAttack": 75,
+                "spDefense": 85,
+                "speed": 55
+            },
+            "description": "Ses pouvoirs psychiques semblent atteindre leur paroxysme pendant les nuits \u00e9toil\u00e9es, mais nul ne sait s\u2019il a un rapport avec l\u2019espace.",
+            "abilities": [
+                126,
+                33,
+                170
+            ]
+        }
+    ]
+}

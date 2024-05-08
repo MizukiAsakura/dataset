@@ -1,0 +1,28 @@
+{
+    "number": 124,
+    "name": "Lippoutou",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "psy",
+                "ice"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/jynx.jpg",
+            "base": {
+                "hp": 65,
+                "attack": 50,
+                "defense": 35,
+                "spAttack": 115,
+                "spDefense": 95,
+                "speed": 95
+            },
+            "description": "Lippoutou marche en rythme, ondule de tout son corps et se d\u00e9hanche comme s'il dansait. Ses mouvements sont si communicatifs que les gens qui le voient sont soudain pris d'une terrible envie de bouger les hanches, sans r\u00e9fl\u00e9chir.",
+            "abilities": [
+                35,
+                222,
+                207
+            ]
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "number": 415,
+    "name": "Apitrini",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "bug",
+                "fly"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/combee.jpg",
+            "base": {
+                "hp": 30,
+                "attack": 30,
+                "defense": 42,
+                "spAttack": 30,
+                "spDefense": 42,
+                "speed": 70
+            },
+            "description": "Un Pok\u00e9mon qui en regroupe trois autres. Il est toujours occup\u00e9 \u00e0 apporter du nectar \u00e0 APIREINE. Il r\u00e9colte le nectar et l'am\u00e8ne \u00e0 la colonie. La nuit, ils s'assemblent pour b\u00e2tir une ruche et s'endormir.",
+            "abilities": [
+                54,
+                8
+            ]
+        }
+    ]
+}

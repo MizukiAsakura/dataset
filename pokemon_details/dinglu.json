@@ -1,0 +1,26 @@
+{
+    "number": 1003,
+    "name": "Dinglu",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "dark",
+                "ground"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/ting-lu.jpg",
+            "base": {
+                "hp": 155,
+                "attack": 110,
+                "defense": 125,
+                "spAttack": 55,
+                "spDefense": 80,
+                "speed": 45
+            },
+            "description": "Sa t\u00eate est si lourde que quand il la pose en douceur sur le sol, celui-ci se fend et une faille de 50 m\u00e8tres de profondeur se forme.",
+            "abilities": [
+                289
+            ]
+        }
+    ]
+}

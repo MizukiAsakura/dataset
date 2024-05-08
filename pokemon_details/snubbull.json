@@ -1,0 +1,27 @@
+{
+    "number": 209,
+    "name": "Snubbull",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fairy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/snubbull.jpg",
+            "base": {
+                "hp": 60,
+                "attack": 80,
+                "defense": 50,
+                "spAttack": 40,
+                "spDefense": 40,
+                "speed": 30
+            },
+            "description": "SNUBBULL terrorise les POK\u00e9MON plus petits que lui en montrant les dents et en faisant une grimace. Cependant, ce POK\u00e9MON est toujours un peu triste de voir ses ennemis prendre la fuite.",
+            "abilities": [
+                128,
+                156,
+                290
+            ]
+        }
+    ]
+}

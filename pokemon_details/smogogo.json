@@ -1,0 +1,49 @@
+{
+    "number": 110,
+    "name": "Smogogo",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "poison"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/weezing.jpg",
+            "base": {
+                "hp": 65,
+                "attack": 90,
+                "defense": 120,
+                "spAttack": 85,
+                "spDefense": 70,
+                "speed": 60
+            },
+            "description": "Smogogo adore les gaz qui se d\u00e9gagent des aliments pourris dans les poubelles. Ce Pok\u00e9mon cherche g\u00e9n\u00e9ralement les maisons sales et mal tenues pour y habiter. La nuit, quand tout le monde est endormi, il fouille les d\u00e9tritus.",
+            "abilities": [
+                162,
+                132,
+                230
+            ]
+        },
+        {
+            "name": "galar",
+            "types": [
+                "poison",
+                "fairy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/weezing-galarian.jpg",
+            "base": {
+                "hp": 65,
+                "attack": 90,
+                "defense": 120,
+                "spAttack": 85,
+                "spDefense": 70,
+                "speed": 60
+            },
+            "description": "Smogogo adore les gaz qui se d\u00e9gagent des aliments pourris dans les poubelles. Ce Pok\u00e9mon cherche g\u00e9n\u00e9ralement les maisons sales et mal tenues pour y habiter. La nuit, quand tout le monde est endormi, il fouille les d\u00e9tritus.",
+            "abilities": [
+                162,
+                132,
+                78
+            ]
+        }
+    ]
+}

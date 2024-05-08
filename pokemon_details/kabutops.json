@@ -1,0 +1,28 @@
+{
+    "number": 141,
+    "name": "Kabutops",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "rock",
+                "water"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/kabutops.jpg",
+            "base": {
+                "hp": 60,
+                "attack": 115,
+                "defense": 105,
+                "spAttack": 65,
+                "spDefense": 70,
+                "speed": 80
+            },
+            "description": "Jadis, Kabutops plongeait dans les profondeurs pour trouver ses proies. Apparemment, ce Pok\u00e9mon vivant sur terre est l'\u00e9volution d'une cr\u00e9ature marine, comme le prouvent les changements dans ses branchies.",
+            "abilities": [
+                134,
+                21,
+                24
+            ]
+        }
+    ]
+}

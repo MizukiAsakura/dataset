@@ -1,0 +1,28 @@
+{
+    "number": 556,
+    "name": "Maracachi",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "grass",
+                "bug"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/maractus.jpg",
+            "base": {
+                "hp": 75,
+                "attack": 86,
+                "defense": 67,
+                "spAttack": 106,
+                "spDefense": 67,
+                "speed": 60
+            },
+            "description": "Il produit un bruit de maracas. Quand il danse \u00e0 un rythme enjou\u00e9, il surprend les Pok\u00e9mon oiseaux, qui s\u2019enfuient alors \u00e0 tire-d\u2019aile.",
+            "abilities": [
+                2,
+                56,
+                160
+            ]
+        }
+    ]
+}

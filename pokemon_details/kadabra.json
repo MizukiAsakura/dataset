@@ -1,0 +1,27 @@
+{
+    "number": 64,
+    "name": "Kadabra",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "psy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/kadabra.jpg",
+            "base": {
+                "hp": 40,
+                "attack": 35,
+                "defense": 30,
+                "spAttack": 120,
+                "spDefense": 70,
+                "speed": 105
+            },
+            "description": "Kadabra \u00e9met une onde alpha si particuli\u00e8re qu'elle vous donne mal \u00e0 la t\u00eate. Seuls les gens avec un psychisme puissant peuvent esp\u00e9rer devenir Dresseur de ce Pok\u00e9mon.",
+            "abilities": [
+                265,
+                26,
+                130
+            ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "number": 665,
+    "name": "P\u00e9r\u00e9grain",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "bug"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/spewpa.jpg",
+            "base": {
+                "hp": 45,
+                "attack": 22,
+                "defense": 60,
+                "spAttack": 27,
+                "spDefense": 30,
+                "speed": 29
+            },
+            "description": "M\u00eame les becs ac\u00e9r\u00e9s des Pok\u00e9mon Oiseaux ne parviennent pas \u00e0 meurtrir son corps tr\u00e8s dur. Il se d\u00e9fend en crachant de la poudre.",
+            "abilities": [
+                186,
+                129
+            ]
+        }
+    ]
+}

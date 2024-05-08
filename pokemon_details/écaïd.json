@@ -1,0 +1,28 @@
+{
+    "number": 783,
+    "name": "\u00c9ca\u00efd",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "dragon",
+                "fight"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/hakamo-o.jpg",
+            "base": {
+                "hp": 55,
+                "attack": 75,
+                "defense": 90,
+                "spAttack": 65,
+                "spDefense": 70,
+                "speed": 65
+            },
+            "description": "Ses \u00e9cailles arrach\u00e9es et son corps couvert de cicatrices sont la preuve de sa puissance. Il les montre \u00e0 son adversaire vaincu en se pavanant.",
+            "abilities": [
+                200,
+                17,
+                106
+            ]
+        }
+    ]
+}

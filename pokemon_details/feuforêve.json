@@ -1,0 +1,25 @@
+{
+    "number": 200,
+    "name": "Feufor\u00eave",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "ghost"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/misdreavus.jpg",
+            "base": {
+                "hp": 60,
+                "attack": 60,
+                "defense": 60,
+                "spAttack": 85,
+                "spDefense": 85,
+                "speed": 85
+            },
+            "description": "FEUFOREVE effraie les gens en poussant un cri \u00e0 faire froid dans le dos, sorte de lamentation. Le POK\u00e9MON utilise ses sph\u00e8res rouges pour absorber les sentiments de terreur de ses ennemis et s'en nourrir.",
+            "abilities": [
+                162
+            ]
+        }
+    ]
+}

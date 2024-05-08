@@ -1,0 +1,27 @@
+{
+    "number": 908,
+    "name": "Miascarade",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "grass",
+                "dark"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/meowscarada.jpg",
+            "base": {
+                "hp": 76,
+                "attack": 110,
+                "defense": 70,
+                "spAttack": 81,
+                "spDefense": 70,
+                "speed": 123
+            },
+            "description": "Il d\u00e9tourne habilement l'attention de ses ennemis et disperse subrepticement des bombes florales bourr\u00e9es de pollen qu'il fait ensuite exploser.",
+            "abilities": [
+                104,
+                229
+            ]
+        }
+    ]
+}

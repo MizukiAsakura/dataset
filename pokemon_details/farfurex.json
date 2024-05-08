@@ -1,0 +1,28 @@
+{
+    "number": 903,
+    "name": "Farfurex",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "poison",
+                "fight"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/sneasler.jpg",
+            "base": {
+                "hp": 80,
+                "attack": 130,
+                "defense": 60,
+                "spAttack": 40,
+                "spDefense": 80,
+                "speed": 120
+            },
+            "description": "Ce Pok\u00e9mon n'a gu\u00e8re d'ennemis sur les hauteurs froidies, car ses aptitudes physiques sont sans \u00e9gales et son poison est mortel. Il pr\u00e9f\u00e8re la solitude \u00e0 la vie en groupe.",
+            "abilities": [
+                223,
+                91,
+                217
+            ]
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "number": 554,
+    "name": "Darumarond",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fire"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/darumaka.jpg",
+            "base": {
+                "hp": 70,
+                "attack": 90,
+                "defense": 45,
+                "spAttack": 15,
+                "spDefense": 45,
+                "speed": 50
+            },
+            "description": "On a beau le pousser ou le tirer, quand il dort, rien ne le fait vaciller. Cette qualit\u00e9 lui a valu de devenir un embl\u00e8me pour les porte-bonheurs.",
+            "abilities": [
+                8,
+                26
+            ]
+        },
+        {
+            "name": "galar",
+            "types": [
+                "ice"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/darumaka-galarian.jpg",
+            "base": {
+                "hp": 70,
+                "attack": 90,
+                "defense": 45,
+                "spAttack": 15,
+                "spDefense": 45,
+                "speed": 50
+            },
+            "description": "En vivant sur des terres enneig\u00e9es, sa poche \u00e0 flammes s\u2019est atrophi\u00e9e \u00e0 cause du froid, mais il a d\u00e9velopp\u00e9 un organe qui produit un air glac\u00e9",
+            "abilities": [
+                8,
+                26
+            ]
+        }
+    ]
+}

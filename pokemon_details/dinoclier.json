@@ -1,0 +1,27 @@
+{
+    "number": 410,
+    "name": "Dinoclier",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "rock",
+                "steel"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/shieldon.jpg",
+            "base": {
+                "hp": 30,
+                "attack": 42,
+                "defense": 118,
+                "spAttack": 42,
+                "spDefense": 88,
+                "speed": 30
+            },
+            "description": "Un Pok\u00e9mon qui vivait dans la jungle il y a 100 millions d'ann\u00e9es. Son visage est tr\u00e8s dur. Il a l'habitude de polir son visage en le frottant contre un tronc. Il craint les attaques dans le dos.",
+            "abilities": [
+                117,
+                17
+            ]
+        }
+    ]
+}

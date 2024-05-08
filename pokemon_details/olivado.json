@@ -1,0 +1,27 @@
+{
+    "number": 929,
+    "name": "Olivado",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "grass",
+                "normal"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/dolliv.jpg",
+            "base": {
+                "hp": 52,
+                "attack": 53,
+                "defense": 60,
+                "spAttack": 78,
+                "spDefense": 78,
+                "speed": 33
+            },
+            "description": "Il s'expose au soleil jusqu'\u00e0 ce que les fruits sur sa t\u00eate soient m\u00fbrs, puis il quitte les zones habit\u00e9es pour partir \u00e0 l'aventure.",
+            "abilities": [
+                171,
+                239
+            ]
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "number": 731,
+    "name": "Picassaut",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal",
+                "fly"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/pikipek.jpg",
+            "base": {
+                "hp": 35,
+                "attack": 75,
+                "defense": 30,
+                "spAttack": 30,
+                "spDefense": 30,
+                "speed": 65
+            },
+            "description": "Il creuse les arbres \u00e0 raison de seize coups de bec par seconde. Le trou creus\u00e9 lui sert ensuite \u00e0 stocker des provisions ou \u00e0 faire son nid.",
+            "abilities": [
+                240,
+                187,
+                235
+            ]
+        }
+    ]
+}

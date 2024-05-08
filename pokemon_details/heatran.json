@@ -1,0 +1,27 @@
+{
+    "number": 485,
+    "name": "Heatran",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fire",
+                "steel"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/heatran.jpg",
+            "base": {
+                "hp": 91,
+                "attack": 90,
+                "defense": 106,
+                "spAttack": 130,
+                "spDefense": 106,
+                "speed": 77
+            },
+            "description": "Ce Pok\u00e9mon vit dans les grottes volcaniques. Il rampe sur les murs et aux plafonds en y plantant ses griffes dispos\u00e9es en croix.",
+            "abilities": [
+                281,
+                67
+            ]
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "number": 115,
+    "name": "Kangourex",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/kangaskhan.jpg",
+            "base": {
+                "hp": 105,
+                "attack": 95,
+                "defense": 80,
+                "spAttack": 40,
+                "spDefense": 80,
+                "speed": 90
+            },
+            "description": "Lorsqu'on rencontre un petit Kangourex qui joue tout seul, il ne faut jamais le d\u00e9ranger ou essayer de l'attraper. Les parents du b\u00e9b\u00e9 Pok\u00e9mon sont s\u00fbrement dans le coin et ils risquent d'entrer dans une col\u00e8re noire.",
+            "abilities": [
+                171,
+                232,
+                26
+            ]
+        }
+    ]
+}

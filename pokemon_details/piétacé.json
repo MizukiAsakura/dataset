@@ -1,0 +1,27 @@
+{
+    "number": 974,
+    "name": "Pi\u00e9tac\u00e9",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "ice"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/cetoddle.jpg",
+            "base": {
+                "hp": 108,
+                "attack": 68,
+                "defense": 45,
+                "spAttack": 30,
+                "spDefense": 40,
+                "speed": 43
+            },
+            "description": "Ces Pok\u00e9mon vivent g\u00e9n\u00e9ralement en groupes de cinq dans les r\u00e9gions froides. Ils raffolent des min\u00e9raux que contiennent la neige et la glace.",
+            "abilities": [
+                157,
+                243,
+                248
+            ]
+        }
+    ]
+}

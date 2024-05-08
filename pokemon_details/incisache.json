@@ -1,0 +1,27 @@
+{
+    "number": 611,
+    "name": "Incisache",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "dragon"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/fraxure.jpg",
+            "base": {
+                "hp": 66,
+                "attack": 117,
+                "defense": 70,
+                "spAttack": 40,
+                "spDefense": 50,
+                "speed": 67
+            },
+            "description": "Son \u00e9piderme est dur comme une armure. Il est pass\u00e9 ma\u00eetre dans l\u2019art de charger l\u2019ennemi tout en le transper\u00e7ant de ses crocs.",
+            "abilities": [
+                244,
+                46,
+                273
+            ]
+        }
+    ]
+}

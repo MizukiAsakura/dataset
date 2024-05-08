@@ -1,0 +1,27 @@
+{
+    "number": 395,
+    "name": "Pingol\u00e9on",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water",
+                "steel"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/empoleon.jpg",
+            "base": {
+                "hp": 84,
+                "attack": 86,
+                "defense": 88,
+                "spAttack": 111,
+                "spDefense": 101,
+                "speed": 60
+            },
+            "description": "Les trois cornes de son bec sont le symbole de sa force. Celles du chef sont plus grosses que les autres. Il nage aussi vite qu'un hors-bord. Le tranchant de ses ailes peut fendre un bloc de glace \u00e0 la d\u00e9rive.",
+            "abilities": [
+                282,
+                5
+            ]
+        }
+    ]
+}

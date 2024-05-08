@@ -1,0 +1,27 @@
+{
+    "number": 143,
+    "name": "Ronflex",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/snorlax.jpg",
+            "base": {
+                "hp": 160,
+                "attack": 110,
+                "defense": 65,
+                "spAttack": 65,
+                "spDefense": 110,
+                "speed": 30
+            },
+            "description": "Les journ\u00e9es de Ronflex se r\u00e9sument aux repas et aux siestes. C'est un Pok\u00e9mon tellement gentil que les enfants n'h\u00e9sitent pas \u00e0 jouer sur son \u00e9norme ventre.",
+            "abilities": [
+                290,
+                157,
+                135
+            ]
+        }
+    ]
+}

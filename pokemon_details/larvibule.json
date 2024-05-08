@@ -1,0 +1,25 @@
+{
+    "number": 736,
+    "name": "Larvibule",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "bug"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/grubbin.jpg",
+            "base": {
+                "hp": 47,
+                "attack": 62,
+                "defense": 45,
+                "spAttack": 55,
+                "spDefense": 45,
+                "speed": 46
+            },
+            "description": "Ses mandibules peuvent briser de tr\u00e8s grosses branches. M\u00eame Minisange, son ennemi naturel, s\u2019enfuit \u00e0 tire-d\u2019aile devant lui.",
+            "abilities": [
+                111
+            ]
+        }
+    ]
+}

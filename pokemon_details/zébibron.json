@@ -1,0 +1,27 @@
+{
+    "number": 522,
+    "name": "Z\u00e9bibron",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "electrik"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/blitzle.jpg",
+            "base": {
+                "hp": 45,
+                "attack": 60,
+                "defense": 32,
+                "spAttack": 50,
+                "spDefense": 32,
+                "speed": 76
+            },
+            "description": "Leur crini\u00e8re scintille quand ils l\u00e2chent une d\u00e9charge \u00e9lectrique. Ils se servent de ces scintillements pour communiquer.",
+            "abilities": [
+                199,
+                185,
+                141
+            ]
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "number": 177,
+    "name": "Natu",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fly",
+                "psy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/natu.jpg",
+            "base": {
+                "hp": 40,
+                "attack": 50,
+                "defense": 45,
+                "spAttack": 70,
+                "spDefense": 45,
+                "speed": 70
+            },
+            "description": "NATU ne peut pas voler, car ses ailes n'ont pas encore fini de grandir. Si ses yeux croisent le regard de quelqu'un d'autre, il reste immobile et concentr\u00e9. Mais si la personne en question d\u00e9tourne son regard, il s'enfuit en lieu s\u00fbr.",
+            "abilities": [
+                265,
+                171,
+                180
+            ]
+        }
+    ]
+}

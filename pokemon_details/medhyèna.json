@@ -1,0 +1,27 @@
+{
+    "number": 261,
+    "name": "Medhy\u00e8na",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "dark"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/poochyena.jpg",
+            "base": {
+                "hp": 35,
+                "attack": 55,
+                "defense": 35,
+                "spAttack": 30,
+                "spDefense": 30,
+                "speed": 35
+            },
+            "description": "Sans se poser de questions, MEDHYENA essaye de mordre tout ce qui bouge. Ce POK\u00e9MON pourchasse sa proie jusqu'\u00e0 ce qu'elle s'\u00e9puise. Cependant, il se peut qu'il prenne peur et s'enfuie si la proie riposte.",
+            "abilities": [
+                128,
+                212,
+                209
+            ]
+        }
+    ]
+}

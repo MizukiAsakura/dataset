@@ -1,0 +1,27 @@
+{
+    "number": 185,
+    "name": "Simularbre",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "rock"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/sudowoodo.jpg",
+            "base": {
+                "hp": 70,
+                "attack": 100,
+                "defense": 115,
+                "spAttack": 30,
+                "spDefense": 65,
+                "speed": 30
+            },
+            "description": "SIMULARBRE se camoufle en arbre pour \u00e9viter d'\u00eatre attaqu\u00e9 par ses ennemis. Mais \u00e9tant donn\u00e9 que ses pattes restent vertes toute l'ann\u00e9e, ce POK\u00e9MON est facile \u00e0 rep\u00e9rer pendant l'hiver.",
+            "abilities": [
+                117,
+                276,
+                209
+            ]
+        }
+    ]
+}

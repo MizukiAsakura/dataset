@@ -1,0 +1,27 @@
+{
+    "number": 149,
+    "name": "Dracolosse",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "dragon",
+                "fly"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/dragonite.jpg",
+            "base": {
+                "hp": 91,
+                "attack": 134,
+                "defense": 95,
+                "spAttack": 100,
+                "spDefense": 100,
+                "speed": 80
+            },
+            "description": "Dracolosse est capable de faire le tour de la plan\u00e8te en seize heures \u00e0 peine. C'est un Pok\u00e9mon au grand c\u0153ur qui ram\u00e8ne \u00e0 bon port les navires perdus dans les temp\u00eates.",
+            "abilities": [
+                26,
+                188
+            ]
+        }
+    ]
+}

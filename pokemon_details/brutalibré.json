@@ -1,0 +1,28 @@
+{
+    "number": 701,
+    "name": "Brutalibr\u00e9",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fight",
+                "fly"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/hawlucha.jpg",
+            "base": {
+                "hp": 78,
+                "attack": 92,
+                "defense": 75,
+                "spAttack": 74,
+                "spDefense": 63,
+                "speed": 118
+            },
+            "description": "Malgr\u00e9 sa petite taille, son intelligence lui permet d\u2019affronter sans trembler de grands Pok\u00e9mon tels que les Mackogneur ou les Hariyama.",
+            "abilities": [
+                98,
+                91,
+                46
+            ]
+        }
+    ]
+}

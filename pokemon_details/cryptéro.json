@@ -1,0 +1,28 @@
+{
+    "number": 561,
+    "name": "Crypt\u00e9ro",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "psy",
+                "fly"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/sigilyph.jpg",
+            "base": {
+                "hp": 72,
+                "attack": 58,
+                "defense": 80,
+                "spAttack": 103,
+                "spDefense": 80,
+                "speed": 97
+            },
+            "description": "Il vole gr\u00e2ce \u00e0 ses pouvoirs psychiques. Certains disent qu\u2019il \u00e9tait le dieu protecteur d\u2019une ville antique, d\u2019autres, son messager.",
+            "abilities": [
+                206,
+                130,
+                161
+            ]
+        }
+    ]
+}

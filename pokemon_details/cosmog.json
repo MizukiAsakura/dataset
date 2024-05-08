@@ -1,0 +1,25 @@
+{
+    "number": 789,
+    "name": "Cosmog",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "psy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/cosmog.jpg",
+            "base": {
+                "hp": 43,
+                "attack": 29,
+                "defense": 31,
+                "spAttack": 29,
+                "spDefense": 31,
+                "speed": 37
+            },
+            "description": "Son corps est compos\u00e9 d\u2019un gaz tr\u00e8s volatile. Il cro\u00eet lentement, en accumulant les poussi\u00e8res atmosph\u00e9riques au gr\u00e9 de ses d\u00e9placements.",
+            "abilities": [
+                153
+            ]
+        }
+    ]
+}

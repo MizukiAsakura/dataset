@@ -1,0 +1,27 @@
+{
+    "number": 56,
+    "name": "F\u00e9rosinge",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fight"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/mankey.jpg",
+            "base": {
+                "hp": 40,
+                "attack": 80,
+                "defense": 35,
+                "spAttack": 35,
+                "spDefense": 45,
+                "speed": 70
+            },
+            "description": "Lorsque F\u00e9rosinge commence \u00e0 trembler et que sa respiration devient haletante, cela signifie qu'il est en col\u00e8re. En outre, la moutarde lui monte au nez tellement vite qu'il est presque impossible d'\u00e9chapper \u00e0 sa col\u00e8re.",
+            "abilities": [
+                110,
+                61,
+                5
+            ]
+        }
+    ]
+}

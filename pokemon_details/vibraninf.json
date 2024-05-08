@@ -1,0 +1,26 @@
+{
+    "number": 329,
+    "name": "Vibraninf",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "ground",
+                "dragon"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/vibrava.jpg",
+            "base": {
+                "hp": 50,
+                "attack": 70,
+                "defense": 50,
+                "spAttack": 50,
+                "spDefense": 50,
+                "speed": 70
+            },
+            "description": "Pour mettre ses proies K.O., VIBRANINF envoie des ultrasons en faisant vibrer ses deux ailes. Les ondes sonores de ce POK\u00e9MON sont si puissantes qu'elles peuvent d\u00e9clencher des maux de t\u00eate chez les gens.",
+            "abilities": [
+                162
+            ]
+        }
+    ]
+}

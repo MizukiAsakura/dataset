@@ -1,0 +1,27 @@
+{
+    "number": 127,
+    "name": "Scarabrute",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "bug"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/pinsir.jpg",
+            "base": {
+                "hp": 65,
+                "attack": 125,
+                "defense": 100,
+                "spAttack": 55,
+                "spDefense": 70,
+                "speed": 85
+            },
+            "description": "Lorsqu'il se bat, Magmar fait jaillir des flammes de son corps pour intimider son adversaire. Les explosions enflamm\u00e9es de ce Pok\u00e9mon d\u00e9clenchent des vagues de chaleur qui embrasent la v\u00e9g\u00e9tation environnante.",
+            "abilities": [
+                144,
+                46,
+                151
+            ]
+        }
+    ]
+}

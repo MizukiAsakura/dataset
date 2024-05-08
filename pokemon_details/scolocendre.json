@@ -1,0 +1,28 @@
+{
+    "number": 851,
+    "name": "Scolocendre",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fire",
+                "bug"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/centiskorch.jpg",
+            "base": {
+                "hp": 100,
+                "attack": 115,
+                "defense": 65,
+                "spAttack": 90,
+                "spDefense": 90,
+                "speed": 65
+            },
+            "description": "Quand il g\u00e9n\u00e8re de la chaleur, sa temp\u00e9rature est d\u2019environ 800 \u00b0C. Il se sert de son corps comme d\u2019un fouet pour sauter sur ses ennemis.",
+            "abilities": [
+                281,
+                99,
+                67
+            ]
+        }
+    ]
+}

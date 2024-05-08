@@ -1,0 +1,26 @@
+{
+    "number": 419,
+    "name": "Must\u00e9flott",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/floatzel.jpg",
+            "base": {
+                "hp": 85,
+                "attack": 105,
+                "defense": 55,
+                "spAttack": 85,
+                "spDefense": 50,
+                "speed": 115
+            },
+            "description": "Il flotte gr\u00e2ce \u00e0 sa bou\u00e9e tr\u00e8s d\u00e9velopp\u00e9e. Il vole au secours des gens sur le point de se noyer. Il a d\u00e9velopp\u00e9 une bou\u00e9e pour poursuivre ses proies aquatiques. Elle fait office de canot gonflable.",
+            "abilities": [
+                134,
+                147
+            ]
+        }
+    ]
+}

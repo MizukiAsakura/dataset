@@ -1,0 +1,28 @@
+{
+    "number": 448,
+    "name": "Lucario",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fight",
+                "steel"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/lucario.jpg",
+            "base": {
+                "hp": 70,
+                "attack": 110,
+                "defense": 70,
+                "spAttack": 115,
+                "spDefense": 70,
+                "speed": 90
+            },
+            "description": "Il ressent les auras de tout. Il comprend le langage humain. Il peut deviner les pens\u00e9es et les mouvements des autres en analysant leur aura.",
+            "abilities": [
+                26,
+                149,
+                59
+            ]
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "number": 702,
+    "name": "Dedenne",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "electrik",
+                "fairy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/dedenne.jpg",
+            "base": {
+                "hp": 67,
+                "attack": 58,
+                "defense": 57,
+                "spAttack": 81,
+                "spDefense": 67,
+                "speed": 101
+            },
+            "description": "Il utilise sa queue pour pomper l\u2019\u00e9nergie des centrales \u00e9lectriques ou pour se brancher sur les prises des maisons. Ses moustaches envoient des d\u00e9charges.",
+            "abilities": [
+                235,
+                31,
+                214
+            ]
+        }
+    ]
+}

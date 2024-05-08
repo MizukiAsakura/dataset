@@ -1,0 +1,26 @@
+{
+    "number": 13,
+    "name": "Aspicot",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "bug"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/weedle.jpg",
+            "base": {
+                "hp": 40,
+                "attack": 35,
+                "defense": 30,
+                "spAttack": 20,
+                "spDefense": 20,
+                "speed": 50
+            },
+            "description": "L'odorat d'Aspicot est extr\u00eamement d\u00e9velopp\u00e9. Il lui suffit de renifler ses feuilles pr\u00e9f\u00e9r\u00e9es avec son gros appendice nasal pour les reconna\u00eetre entre mille.",
+            "abilities": [
+                100,
+                128
+            ]
+        }
+    ]
+}

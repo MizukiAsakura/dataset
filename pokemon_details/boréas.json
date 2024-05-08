@@ -1,0 +1,45 @@
+{
+    "number": 641,
+    "name": "Bor\u00e9as",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fly"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/tornadus.jpg",
+            "base": {
+                "hp": 79,
+                "attack": 115,
+                "defense": 70,
+                "spAttack": 125,
+                "spDefense": 80,
+                "speed": 111
+            },
+            "description": "Le bas de son corps est entour\u00e9 d\u2019une masse d\u2019\u00e9nergie semblable \u00e0 un nuage. Il vole dans le ciel \u00e0 300 km/h.",
+            "abilities": [
+                116,
+                5
+            ]
+        },
+        {
+            "name": "tot\u00e9mique",
+            "types": [
+                "fly"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/tornadus-therian.jpg",
+            "base": {
+                "hp": 79,
+                "attack": 100,
+                "defense": 80,
+                "spAttack": 110,
+                "spDefense": 90,
+                "speed": 121
+            },
+            "description": "Le bas de son corps est entour\u00e9 d\u2019une masse d\u2019\u00e9nergie semblable \u00e0 un nuage. Il vole dans le ciel \u00e0 300 km/h.",
+            "abilities": [
+                241
+            ]
+        }
+    ]
+}

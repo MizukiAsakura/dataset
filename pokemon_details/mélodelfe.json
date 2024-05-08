@@ -1,0 +1,27 @@
+{
+    "number": 36,
+    "name": "M\u00e9lodelfe",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fairy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/clefable.jpg",
+            "base": {
+                "hp": 95,
+                "attack": 70,
+                "defense": 73,
+                "spAttack": 95,
+                "spDefense": 90,
+                "speed": 60
+            },
+            "description": "Les M\u00e9lodelfe se d\u00e9placent en sautant doucement, comme s'ils volaient. Leur d\u00e9marche l\u00e9g\u00e8re leur permet m\u00eame de marcher sur l'eau. On raconte qu'ils se prom\u00e8nent sur les lacs, les soirs o\u00f9 la lune est claire.",
+            "abilities": [
+                158,
+                130,
+                153
+            ]
+        }
+    ]
+}

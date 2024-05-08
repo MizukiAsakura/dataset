@@ -1,0 +1,28 @@
+{
+    "number": 220,
+    "name": "Marcacrin",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "ice",
+                "ground"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/swinub.jpg",
+            "base": {
+                "hp": 50,
+                "attack": 50,
+                "defense": 40,
+                "spAttack": 30,
+                "spDefense": 30,
+                "speed": 50
+            },
+            "description": "MARCACRIN cherche sa nourriture en frottant son groin par terre. Son plat pr\u00e9f\u00e9r\u00e9 est un champignon qui pousse sous l'herbe fan\u00e9e. Ce POK\u00e9MON d\u00e9couvre parfois des sources d'eau chaude.",
+            "abilities": [
+                35,
+                243,
+                157
+            ]
+        }
+    ]
+}

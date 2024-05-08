@@ -1,0 +1,27 @@
+{
+    "number": 664,
+    "name": "L\u00e9pidonille",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "bug"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/scatterbug.jpg",
+            "base": {
+                "hp": 38,
+                "attack": 35,
+                "defense": 40,
+                "spAttack": 27,
+                "spDefense": 25,
+                "speed": 35
+            },
+            "description": "Lorsqu\u2019il est poursuivi par un Pok\u00e9mon Oiseau, il projette une poudre noire qui paralyse tous ceux qu\u2019elle touche.",
+            "abilities": [
+                194,
+                100,
+                129
+            ]
+        }
+    ]
+}

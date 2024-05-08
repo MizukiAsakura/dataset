@@ -1,0 +1,26 @@
+{
+    "number": 311,
+    "name": "Posipi",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "electrik"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/plusle.jpg",
+            "base": {
+                "hp": 60,
+                "attack": 50,
+                "defense": 40,
+                "spAttack": 85,
+                "spDefense": 75,
+                "speed": 95
+            },
+            "description": "POSIPI sert de supporter \u00e0 ses partenaires. Chaque fois qu'un membre de son \u00e9quipe fait une belle action dans un combat, ce POK\u00e9MON court-circuite son corps et lib\u00e8re des \u00e9tincelles pour montrer sa joie.",
+            "abilities": [
+                214,
+                199
+            ]
+        }
+    ]
+}

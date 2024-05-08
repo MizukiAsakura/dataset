@@ -1,0 +1,28 @@
+{
+    "number": 81,
+    "name": "Magn\u00e9ti",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "electrik",
+                "steel"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/magnemite.jpg",
+            "base": {
+                "hp": 25,
+                "attack": 35,
+                "defense": 70,
+                "spAttack": 95,
+                "spDefense": 55,
+                "speed": 45
+            },
+            "description": "Magn\u00e9ti s'attache aux lignes \u00e0 haute tension pour se charger en \u00e9lectricit\u00e9. Si une maison a une panne de courant, il est conseill\u00e9 de v\u00e9rifier les fusibles car on trouve parfois ces Pok\u00e9mon amass\u00e9s sur la bo\u00eete \u00e0 fusibles.",
+            "abilities": [
+                168,
+                117,
+                14
+            ]
+        }
+    ]
+}

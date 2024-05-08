@@ -1,0 +1,28 @@
+{
+    "number": 168,
+    "name": "Migalos",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "bug",
+                "poison"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/ariados.jpg",
+            "base": {
+                "hp": 70,
+                "attack": 90,
+                "defense": 70,
+                "spAttack": 60,
+                "spDefense": 70,
+                "speed": 40
+            },
+            "description": "A l'extr\u00e9mit\u00e9 des pattes de MIGALOS, on trouve de petits crochets qui lui permettent de cavaler sur les surfaces verticales et au plafond. Ce POK\u00e9MON peut pi\u00e9ger ses ennemis dans sa solide toile de soie.",
+            "abilities": [
+                111,
+                171,
+                254
+            ]
+        }
+    ]
+}

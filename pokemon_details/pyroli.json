@@ -1,0 +1,26 @@
+{
+    "number": 136,
+    "name": "Pyroli",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fire"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/flareon.jpg",
+            "base": {
+                "hp": 65,
+                "attack": 130,
+                "defense": 60,
+                "spAttack": 95,
+                "spDefense": 110,
+                "speed": 65
+            },
+            "description": "La fourrure soyeuse de Pyroli a une fonction anatomique. Elle rejette la chaleur dans l'air pour que son corps ne surchauffe pas. La temp\u00e9rature du corps de ce Pok\u00e9mon peut atteindre 900\u00b0C.",
+            "abilities": [
+                281,
+                77
+            ]
+        }
+    ]
+}

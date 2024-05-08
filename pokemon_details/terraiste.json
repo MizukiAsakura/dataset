@@ -1,0 +1,28 @@
+{
+    "number": 980,
+    "name": "Terraiste",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "poison",
+                "ground"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/clodsire.jpg",
+            "base": {
+                "hp": 130,
+                "attack": 75,
+                "defense": 60,
+                "spAttack": 45,
+                "spDefense": 100,
+                "speed": 20
+            },
+            "description": "Ce Pok\u00e9mon vit au fond des \u00e9tangs et des marais. Il porte des Axoloto sur son dos et nage jusqu'\u00e0 la rive oppos\u00e9e pour les aider \u00e0 traverser.",
+            "abilities": [
+                2,
+                217,
+                153
+            ]
+        }
+    ]
+}

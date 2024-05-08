@@ -1,0 +1,27 @@
+{
+    "number": 751,
+    "name": "Araqua",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water",
+                "bug"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/dewpider.jpg",
+            "base": {
+                "hp": 38,
+                "attack": 40,
+                "defense": 52,
+                "spAttack": 40,
+                "spDefense": 72,
+                "speed": 27
+            },
+            "description": "Il vit principalement dans l\u2019eau, mais s\u2019il a besoin de s\u2019aventurer sur la terre ferme pour chasser ses proies, il prot\u00e8ge sa t\u00eate avec une bulle d\u2019eau.",
+            "abilities": [
+                19,
+                2
+            ]
+        }
+    ]
+}

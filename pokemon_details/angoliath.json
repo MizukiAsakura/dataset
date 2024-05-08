@@ -1,0 +1,28 @@
+{
+    "number": 861,
+    "name": "Angoliath",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "dark",
+                "fairy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/grimmsnarl.jpg",
+            "base": {
+                "hp": 95,
+                "attack": 120,
+                "defense": 65,
+                "spAttack": 95,
+                "spDefense": 75,
+                "speed": 60
+            },
+            "description": "Il enroule ses cheveux autour de son corps pour augmenter sa masse musculaire, ce qui lui donne assez de force pour enserrer un Mackogneur.",
+            "abilities": [
+                116,
+                126,
+                210
+            ]
+        }
+    ]
+}

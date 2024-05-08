@@ -1,0 +1,27 @@
+{
+    "number": 761,
+    "name": "Croquine",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "grass"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/bounsweet.jpg",
+            "base": {
+                "hp": 42,
+                "attack": 30,
+                "defense": 38,
+                "spAttack": 30,
+                "spDefense": 38,
+                "speed": 32
+            },
+            "description": "Trop sucr\u00e9e pour \u00eatre consomm\u00e9e telle quelle, la sueur de Croquine doit \u00eatre dilu\u00e9e dans l\u2019eau pour obtenir un jus sucr\u00e9 juste comme il faut.",
+            "abilities": [
+                118,
+                35,
+                136
+            ]
+        }
+    ]
+}

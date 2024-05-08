@@ -1,0 +1,46 @@
+{
+    "number": 720,
+    "name": "Hoopa",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "psy",
+                "ghost"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/hoopa.jpg",
+            "base": {
+                "hp": 80,
+                "attack": 110,
+                "defense": 60,
+                "spAttack": 150,
+                "spDefense": 130,
+                "speed": 70
+            },
+            "description": "Il poss\u00e8de une puissance consid\u00e9rable sous son apparence v\u00e9ritable. Une l\u00e9gende raconte qu\u2019il d\u00e9sirait si fort un tr\u00e9sor cach\u00e9 dans un ch\u00e2teau qu\u2019il d\u00e9roba l\u2019\u00e9difice tout entier.",
+            "abilities": [
+                167
+            ]
+        },
+        {
+            "name": "d\u00e9cha\u00een\u00e9",
+            "types": [
+                "psy",
+                "dark"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/hoopa-unbound.jpg",
+            "base": {
+                "hp": 80,
+                "attack": 160,
+                "defense": 60,
+                "spAttack": 170,
+                "spDefense": 130,
+                "speed": 80
+            },
+            "description": "Il poss\u00e8de une puissance consid\u00e9rable sous son apparence v\u00e9ritable. Une l\u00e9gende raconte qu\u2019il d\u00e9sirait si fort un tr\u00e9sor cach\u00e9 dans un ch\u00e2teau qu\u2019il d\u00e9roba l\u2019\u00e9difice tout entier.",
+            "abilities": [
+                167
+            ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "number": 852,
+    "name": "Poulpaf",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fight"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/clobbopus.jpg",
+            "base": {
+                "hp": 50,
+                "attack": 68,
+                "defense": 60,
+                "spAttack": 50,
+                "spDefense": 50,
+                "speed": 32
+            },
+            "description": "Il se rend sur la terre ferme pour se nourrir. Tr\u00e8s curieux, son premier r\u00e9flexe est de frapper tout ce qu\u2019il voit avec ses tentacules.",
+            "abilities": [
+                98,
+                268
+            ]
+        }
+    ]
+}

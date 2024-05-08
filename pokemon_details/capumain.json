@@ -1,0 +1,27 @@
+{
+    "number": 190,
+    "name": "Capumain",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/aipom.jpg",
+            "base": {
+                "hp": 55,
+                "attack": 70,
+                "defense": 55,
+                "spAttack": 40,
+                "spDefense": 55,
+                "speed": 85
+            },
+            "description": "L'extr\u00e9mit\u00e9 de la queue de CAPUMAIN ressemble \u00e0 une main et peut \u00eatre utilis\u00e9e de fa\u00e7on ing\u00e9nieuse. Malheureusement, ce POK\u00e9MON utilise tellement sa queue que ses v\u00e9ritables mains sont devenues tr\u00e8s maladroites.",
+            "abilities": [
+                128,
+                235,
+                187
+            ]
+        }
+    ]
+}

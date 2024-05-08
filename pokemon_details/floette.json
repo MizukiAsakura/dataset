@@ -1,0 +1,26 @@
+{
+    "number": 670,
+    "name": "Floette",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fairy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/floette.jpg",
+            "base": {
+                "hp": 54,
+                "attack": 45,
+                "defense": 47,
+                "spAttack": 75,
+                "spDefense": 98,
+                "speed": 52
+            },
+            "description": "Quand les fleurs d\u2019une plate-bande bien soign\u00e9e \u00e9closent, il appara\u00eet et c\u00e9l\u00e8bre la floraison en dansant avec une tr\u00e8s grande \u00e9l\u00e9gance.",
+            "abilities": [
+                121,
+                264
+            ]
+        }
+    ]
+}

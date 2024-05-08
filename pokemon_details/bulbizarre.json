@@ -1,0 +1,27 @@
+{
+    "number": 1,
+    "name": "Bulbizarre",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "grass",
+                "poison"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/bulbasaur.jpg",
+            "base": {
+                "hp": 45,
+                "attack": 49,
+                "defense": 49,
+                "spAttack": 65,
+                "spDefense": 65,
+                "speed": 45
+            },
+            "description": "Bulbizarre passe son temps \u00e0 faire la sieste sous le soleil. Il y a une graine sur son dos. Il absorbe les rayons du soleil pour faire doucement pousser la graine.",
+            "abilities": [
+                104,
+                56
+            ]
+        }
+    ]
+}

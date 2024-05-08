@@ -1,0 +1,26 @@
+{
+    "number": 817,
+    "name": "Arrozard",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/drizzile.jpg",
+            "base": {
+                "hp": 65,
+                "attack": 60,
+                "defense": 55,
+                "spAttack": 95,
+                "spDefense": 55,
+                "speed": 90
+            },
+            "description": "Il cr\u00e9e des bombes \u00e0 eau gr\u00e2ce au liquide qu\u2019il s\u00e9cr\u00e8te avec la paume de ses mains. Il s\u2019en sert dans les combats o\u00f9 la strat\u00e9gie prime.",
+            "abilities": [
+                282,
+                254
+            ]
+        }
+    ]
+}

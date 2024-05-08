@@ -1,0 +1,27 @@
+{
+    "number": 506,
+    "name": "Ponchiot",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/lillipup.jpg",
+            "base": {
+                "hp": 45,
+                "attack": 60,
+                "defense": 45,
+                "spAttack": 25,
+                "spDefense": 45,
+                "speed": 55
+            },
+            "description": "Les poils qui masquent son visage lui servent de radar, et lui permettent ainsi d\u2019\u00e9valuer la position et la puissance de ses ennemis.",
+            "abilities": [
+                110,
+                235,
+                128
+            ]
+        }
+    ]
+}

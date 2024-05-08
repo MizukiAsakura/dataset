@@ -1,0 +1,26 @@
+{
+    "number": 673,
+    "name": "Chevroum",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "grass"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/gogoat.jpg",
+            "base": {
+                "hp": 123,
+                "attack": 100,
+                "defense": 62,
+                "spAttack": 97,
+                "spDefense": 81,
+                "speed": 68
+            },
+            "description": "Quand son Dresseur le tient par une corne, il est capable de deviner ses plus subtils changements d\u2019humeur et de s\u2019y adapter.",
+            "abilities": [
+                141,
+                280
+            ]
+        }
+    ]
+}

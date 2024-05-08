@@ -1,0 +1,28 @@
+{
+    "number": 559,
+    "name": "Baggiguane",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "dark",
+                "fight"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/scraggy.jpg",
+            "base": {
+                "hp": 50,
+                "attack": 75,
+                "defense": 70,
+                "spAttack": 35,
+                "spDefense": 70,
+                "speed": 48
+            },
+            "description": "Pour se prot\u00e9ger, il remonte sa peau pliss\u00e9e jusqu\u2019\u00e0 son cou. Plus la peau est longue, plus Baggiguane inspirera de respect.",
+            "abilities": [
+                186,
+                151,
+                156
+            ]
+        }
+    ]
+}

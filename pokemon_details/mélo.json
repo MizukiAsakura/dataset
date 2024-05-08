@@ -1,0 +1,27 @@
+{
+    "number": 173,
+    "name": "M\u00e9lo",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fairy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/cleffa.jpg",
+            "base": {
+                "hp": 50,
+                "attack": 25,
+                "defense": 28,
+                "spAttack": 45,
+                "spDefense": 55,
+                "speed": 15
+            },
+            "description": "Les nuits o\u00f9 il y a des \u00e9toiles filantes, on peut voir des MELO danser en cercle. Ils dansent toute la nuit et ne s'arr\u00eatent qu'\u00e0 l'aube. Ces POK\u00e9MON se d\u00e9salt\u00e8rent alors avec la ros\u00e9e du matin.",
+            "abilities": [
+                158,
+                130,
+                129
+            ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "number": 512,
+    "name": "Feuiloutan",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "grass"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/simisage.jpg",
+            "base": {
+                "hp": 75,
+                "attack": 98,
+                "defense": 63,
+                "spAttack": 98,
+                "spDefense": 63,
+                "speed": 101
+            },
+            "description": "Il a un temp\u00e9rament violent et se bat avec sa queue pleine d\u2019\u00e9pines. La feuille sur sa t\u00eate est tr\u00e8s am\u00e8re.",
+            "abilities": [
+                135,
+                104
+            ]
+        }
+    ]
+}

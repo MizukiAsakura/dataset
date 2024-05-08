@@ -1,0 +1,26 @@
+{
+    "number": 7,
+    "name": "Carapuce",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/squirtle.jpg",
+            "base": {
+                "hp": 44,
+                "attack": 48,
+                "defense": 65,
+                "spAttack": 50,
+                "spDefense": 64,
+                "speed": 43
+            },
+            "description": "La carapace de Carapuce ne sert pas qu'\u00e0 le prot\u00e9ger. La forme ronde de sa carapace et ses rainures lui permettent d'am\u00e9liorer son hydrodynamisme. Ce Pok\u00e9mon nage extr\u00eamement vite.",
+            "abilities": [
+                282,
+                83
+            ]
+        }
+    ]
+}

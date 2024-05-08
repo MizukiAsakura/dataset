@@ -1,0 +1,26 @@
+{
+    "number": 450,
+    "name": "Hippodocus",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "ground"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/hippowdon.jpg",
+            "base": {
+                "hp": 108,
+                "attack": 112,
+                "defense": 118,
+                "spAttack": 68,
+                "spDefense": 72,
+                "speed": 47
+            },
+            "description": "Il emmagasine du sable qu'il expulse en tornades par les pores de sa peau pour attaquer. Sa grande gueule fait quasiment 2 m. Il a assez de force pour \u00e9craser une voiture.",
+            "abilities": [
+                294,
+                124
+            ]
+        }
+    ]
+}

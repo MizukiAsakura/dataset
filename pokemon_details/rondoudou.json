@@ -1,0 +1,28 @@
+{
+    "number": 39,
+    "name": "Rondoudou",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal",
+                "fairy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/jigglypuff.jpg",
+            "base": {
+                "hp": 115,
+                "attack": 45,
+                "defense": 20,
+                "spAttack": 45,
+                "spDefense": 25,
+                "speed": 20
+            },
+            "description": "Rondoudou utilise ses cordes vocales pour ajuster librement la longueur d'onde de sa voix. Cela permet \u00e0 ce Pok\u00e9mon de chanter en utilisant une longueur d'onde qui endort ses ennemis.",
+            "abilities": [
+                158,
+                33,
+                129
+            ]
+        }
+    ]
+}

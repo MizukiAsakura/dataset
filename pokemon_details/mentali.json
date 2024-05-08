@@ -1,0 +1,26 @@
+{
+    "number": 196,
+    "name": "Mentali",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "psy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/espeon.jpg",
+            "base": {
+                "hp": 65,
+                "attack": 65,
+                "defense": 60,
+                "spAttack": 130,
+                "spDefense": 95,
+                "speed": 110
+            },
+            "description": "MENTALI est extr\u00eamement loyal envers les DRESSEURS qu'il respecte. On raconte que ce POK\u00e9MON a d\u00e9velopp\u00e9 des talents divinatoires pour prot\u00e9ger son DRESSEUR.",
+            "abilities": [
+                265,
+                180
+            ]
+        }
+    ]
+}

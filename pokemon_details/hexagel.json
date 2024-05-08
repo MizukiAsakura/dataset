@@ -1,0 +1,25 @@
+{
+    "number": 615,
+    "name": "Hexagel",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "ice"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/cryogonal.jpg",
+            "base": {
+                "hp": 80,
+                "attack": 50,
+                "defense": 50,
+                "spAttack": 95,
+                "spDefense": 135,
+                "speed": 105
+            },
+            "description": "Si sa temp\u00e9rature monte, il se dissipe en vapeur d'eau et dispara\u00eet. Quand elle diminue, il redevient de glace.",
+            "abilities": [
+                162
+            ]
+        }
+    ]
+}

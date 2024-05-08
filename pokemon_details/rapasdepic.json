@@ -1,0 +1,27 @@
+{
+    "number": 22,
+    "name": "Rapasdepic",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal",
+                "fly"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/fearow.jpg",
+            "base": {
+                "hp": 65,
+                "attack": 90,
+                "defense": 65,
+                "spAttack": 61,
+                "spDefense": 61,
+                "speed": 100
+            },
+            "description": "On reconna\u00eet un Rapasdepic \u00e0 son long cou et \u00e0 son bec allong\u00e9. Ces attributs lui permettent d'attraper facilement ses proies dans la terre ou dans l'eau. Il bouge son bec long et fin avec une grande agilit\u00e9.",
+            "abilities": [
+                240,
+                254
+            ]
+        }
+    ]
+}

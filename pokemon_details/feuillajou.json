@@ -1,0 +1,26 @@
+{
+    "number": 511,
+    "name": "Feuillajou",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "grass"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/pansage.jpg",
+            "base": {
+                "hp": 50,
+                "attack": 53,
+                "defense": 48,
+                "spAttack": 53,
+                "spDefense": 48,
+                "speed": 64
+            },
+            "description": "Il est tr\u00e8s dou\u00e9 pour trouver des Baies et aime les partager avec ses amis sans rien demander en \u00e9change.",
+            "abilities": [
+                135,
+                104
+            ]
+        }
+    ]
+}

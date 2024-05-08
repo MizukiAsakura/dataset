@@ -1,0 +1,28 @@
+{
+    "number": 784,
+    "name": "\u00c9ka\u00efser",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "dragon",
+                "fight"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/kommo-o.jpg",
+            "base": {
+                "hp": 75,
+                "attack": 110,
+                "defense": 125,
+                "spAttack": 100,
+                "spDefense": 105,
+                "speed": 85
+            },
+            "description": "Quand il rencontre un ennemi, il fait sonner les \u00e9cailles de sa queue pour l\u2019intimider. Il n\u2019affronte que ceux qui ne se laissent pas impressionner.",
+            "abilities": [
+                200,
+                17,
+                106
+            ]
+        }
+    ]
+}

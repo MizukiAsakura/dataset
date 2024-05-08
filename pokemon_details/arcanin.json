@@ -1,0 +1,49 @@
+{
+    "number": 59,
+    "name": "Arcanin",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fire"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/arcanine.jpg",
+            "base": {
+                "hp": 90,
+                "attack": 110,
+                "defense": 80,
+                "spAttack": 100,
+                "spDefense": 80,
+                "speed": 95
+            },
+            "description": "Arcanin est c\u00e9l\u00e8bre pour son extraordinaire vitesse. On le dit capable de parcourir plus de 10 000 km en 24h. Le feu qui fait rage \u00e0 l'int\u00e9rieur du corps de ce Pok\u00e9mon est la source de son pouvoir.",
+            "abilities": [
+                156,
+                281,
+                59
+            ]
+        },
+        {
+            "name": "hisui",
+            "types": [
+                "fire",
+                "rock"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/arcanine-hisuian.jpg",
+            "base": {
+                "hp": 95,
+                "attack": 115,
+                "defense": 80,
+                "spAttack": 95,
+                "spDefense": 80,
+                "speed": 90
+            },
+            "description": "Arcanin est c\u00e9l\u00e8bre pour son extraordinaire vitesse. On le dit capable de parcourir plus de 10 000 km en 24h. Le feu qui fait rage \u00e0 l'int\u00e9rieur du corps de ce Pok\u00e9mon est la source de son pouvoir.",
+            "abilities": [
+                156,
+                276,
+                281
+            ]
+        }
+    ]
+}

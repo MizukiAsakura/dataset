@@ -1,0 +1,27 @@
+{
+    "number": 579,
+    "name": "Symbios",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "psy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/reuniclus.jpg",
+            "base": {
+                "hp": 110,
+                "attack": 65,
+                "defense": 75,
+                "spAttack": 125,
+                "spDefense": 85,
+                "speed": 30
+            },
+            "description": "S\u2019il ne s\u2019agissait pas d\u2019un poison violent que seul Symbios peut boire, son curieux fluide pourrait, selon les dires, rendre plus intelligent.",
+            "abilities": [
+                106,
+                130,
+                241
+            ]
+        }
+    ]
+}

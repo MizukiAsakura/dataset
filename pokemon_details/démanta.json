@@ -1,0 +1,28 @@
+{
+    "number": 226,
+    "name": "D\u00e9manta",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water",
+                "fly"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/mantine.jpg",
+            "base": {
+                "hp": 85,
+                "attack": 40,
+                "defense": 70,
+                "spAttack": 80,
+                "spDefense": 140,
+                "speed": 70
+            },
+            "description": "Les jours de beau temps, on peut voir des bancs de DEMANTA sauter au-dessus des vagues. Le REMORAID qui l'accompagne ne d\u00e9range pas ce POK\u00e9MON.",
+            "abilities": [
+                134,
+                2,
+                147
+            ]
+        }
+    ]
+}

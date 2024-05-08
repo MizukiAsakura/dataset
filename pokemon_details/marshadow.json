@@ -1,0 +1,26 @@
+{
+    "number": 802,
+    "name": "Marshadow",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fight",
+                "ghost"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/marshadow.jpg",
+            "base": {
+                "hp": 90,
+                "attack": 125,
+                "defense": 80,
+                "spAttack": 90,
+                "spDefense": 90,
+                "speed": 125
+            },
+            "description": "En se glissant dans l\u2019ombre de son adversaire, il peut copier ses mouvements et ses forces. C\u2019est un Pok\u00e9mon au caract\u00e8re timide et craintif.",
+            "abilities": [
+                268
+            ]
+        }
+    ]
+}

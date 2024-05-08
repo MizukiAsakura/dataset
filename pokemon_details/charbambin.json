@@ -1,0 +1,26 @@
+{
+    "number": 935,
+    "name": "Charbambin",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fire"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/charcadet.jpg",
+            "base": {
+                "hp": 40,
+                "attack": 50,
+                "defense": 40,
+                "spAttack": 50,
+                "spDefense": 40,
+                "speed": 35
+            },
+            "description": "Ce Pok\u00e9mon est un charbon de bois consum\u00e9 qui a pris vie. Il est anim\u00e9 par un d\u00e9sir de combattre qui le pousse \u00e0 d\u00e9fier des adversaires puissants.",
+            "abilities": [
+                281,
+                67
+            ]
+        }
+    ]
+}

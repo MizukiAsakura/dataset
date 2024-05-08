@@ -1,0 +1,27 @@
+{
+    "number": 588,
+    "name": "Carabing",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "bug"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/karrablast.jpg",
+            "base": {
+                "hp": 50,
+                "attack": 75,
+                "defense": 45,
+                "spAttack": 40,
+                "spDefense": 45,
+                "speed": 60
+            },
+            "description": "Pour une raison inconnue, ce Pok\u00e9mon \u00e9volue s\u2019il subit une d\u00e9charge \u00e9lectrique pendant qu\u2019il attaque un Escargaume.",
+            "abilities": [
+                111,
+                186,
+                16
+            ]
+        }
+    ]
+}

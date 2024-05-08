@@ -1,0 +1,27 @@
+{
+    "number": 269,
+    "name": "Papinox",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "bug",
+                "poison"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/dustox.jpg",
+            "base": {
+                "hp": 60,
+                "attack": 50,
+                "defense": 70,
+                "spAttack": 50,
+                "spDefense": 90,
+                "speed": 65
+            },
+            "description": "PAPINOX est instinctivement attir\u00e9 par la lumi\u00e8re. Des nu\u00e9es de ce POK\u00e9MON sont attir\u00e9es par les r\u00e9verb\u00e8res des villes, o\u00f9 ils s\u00e8ment la pagaille en grignotant les feuilles des arbres en bordure de route.",
+            "abilities": [
+                100,
+                194
+            ]
+        }
+    ]
+}

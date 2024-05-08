@@ -1,0 +1,27 @@
+{
+    "number": 832,
+    "name": "Moumouflon",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/dubwool.jpg",
+            "base": {
+                "hp": 72,
+                "attack": 80,
+                "defense": 100,
+                "spAttack": 60,
+                "spDefense": 90,
+                "speed": 88
+            },
+            "description": "La texture de sa laine est si \u00e9lastique que la surface des tapis fabriqu\u00e9s avec ce mat\u00e9riau est aussi rebondissante que celle d\u2019un trampoline.",
+            "abilities": [
+                43,
+                128,
+                200
+            ]
+        }
+    ]
+}

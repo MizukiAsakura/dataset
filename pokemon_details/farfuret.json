@@ -1,0 +1,50 @@
+{
+    "number": 215,
+    "name": "Farfuret",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "dark",
+                "ice"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/sneasel.jpg",
+            "base": {
+                "hp": 55,
+                "attack": 95,
+                "defense": 55,
+                "spAttack": 35,
+                "spDefense": 75,
+                "speed": 115
+            },
+            "description": "FARFURET grimpe aux arbres en enfon\u00e7ant ses griffes crochet\u00e9es dans l'\u00e9corce. Ce POK\u00e9MON cherche les nids qui ne sont pas surveill\u00e9s et vole les \u0153ufs pour les manger pendant que les parents sont partis.",
+            "abilities": [
+                26,
+                240,
+                210
+            ]
+        },
+        {
+            "name": "hisui",
+            "types": [
+                "poison",
+                "fight"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/sneasel-hisuian.jpg",
+            "base": {
+                "hp": 55,
+                "attack": 95,
+                "defense": 55,
+                "spAttack": 35,
+                "spDefense": 75,
+                "speed": 115
+            },
+            "description": "FARFURET grimpe aux arbres en enfon\u00e7ant ses griffes crochet\u00e9es dans l'\u00e9corce. Ce POK\u00e9MON cherche les nids qui ne sont pas surveill\u00e9s et vole les \u0153ufs pour les manger pendant que les parents sont partis.",
+            "abilities": [
+                26,
+                240,
+                210
+            ]
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "number": 89,
+    "name": "Grotadmorv",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "poison"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/muk.jpg",
+            "base": {
+                "hp": 105,
+                "attack": 105,
+                "defense": 75,
+                "spAttack": 65,
+                "spDefense": 100,
+                "speed": 50
+            },
+            "description": "Un fluide naus\u00e9abond suinte du corps de Grotadmorv, agressant les narines de ses ennemis. Une seule goutte de ce fluide suffit \u00e0 faire croupir un bassin d'eau propre.",
+            "abilities": [
+                230,
+                137,
+                283
+            ]
+        },
+        {
+            "name": "alola",
+            "types": [
+                "poison",
+                "dark"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/muk-alolan.jpg",
+            "base": {
+                "hp": 105,
+                "attack": 105,
+                "defense": 75,
+                "spAttack": 65,
+                "spDefense": 100,
+                "speed": 50
+            },
+            "description": "Un fluide naus\u00e9abond suinte du corps de Grotadmorv, agressant les narines de ses ennemis. Une seule goutte de ce fluide suffit \u00e0 faire croupir un bassin d'eau propre.",
+            "abilities": [
+                283,
+                135,
+                196
+            ]
+        }
+    ]
+}

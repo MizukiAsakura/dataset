@@ -1,0 +1,26 @@
+{
+    "number": 753,
+    "name": "Mimantis",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "bug"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/fomantis.jpg",
+            "base": {
+                "hp": 40,
+                "attack": 55,
+                "defense": 35,
+                "spAttack": 50,
+                "spDefense": 35,
+                "speed": 35
+            },
+            "description": "La journ\u00e9e, il passe son temps \u00e0 fl\u00e2ner au soleil et \u00e0 faire la sieste. Le soir venu, il part \u00e0 la recherche d\u2019un lieu plus s\u00fbr pour passer la nuit.",
+            "abilities": [
+                118,
+                65
+            ]
+        }
+    ]
+}

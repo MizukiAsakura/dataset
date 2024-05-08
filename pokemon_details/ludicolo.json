@@ -1,0 +1,28 @@
+{
+    "number": 272,
+    "name": "Ludicolo",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water",
+                "grass"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/ludicolo.jpg",
+            "base": {
+                "hp": 80,
+                "attack": 70,
+                "defense": 70,
+                "spAttack": 90,
+                "spDefense": 100,
+                "speed": 70
+            },
+            "description": "LUDICOLO ne peut pas s'emp\u00eacher de danser quand il entend une musique joyeuse et festive. On raconte que ce POK\u00e9MON appara\u00eet lorsqu'il entend les enfants chanter pendant leurs randonn\u00e9es.",
+            "abilities": [
+                134,
+                83,
+                272
+            ]
+        }
+    ]
+}

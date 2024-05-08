@@ -1,0 +1,26 @@
+{
+    "number": 240,
+    "name": "Magby",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fire"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/magby.jpg",
+            "base": {
+                "hp": 45,
+                "attack": 75,
+                "defense": 37,
+                "spAttack": 70,
+                "spDefense": 55,
+                "speed": 83
+            },
+            "description": "L'\u00e9tat de sant\u00e9 de MAGBY peut \u00eatre devin\u00e9 selon le type de flamme qu'il crache. Si ce POK\u00e9MON crache des flammes jaunes, c'est qu'il est en bonne sant\u00e9. Lorsqu'il est fatigu\u00e9, de la fum\u00e9e noire s'ajoute aux flammes.",
+            "abilities": [
+                67,
+                110
+            ]
+        }
+    ]
+}

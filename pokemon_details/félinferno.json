@@ -1,0 +1,27 @@
+{
+    "number": 727,
+    "name": "F\u00e9linferno",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fire",
+                "dark"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/incineroar.jpg",
+            "base": {
+                "hp": 95,
+                "attack": 115,
+                "defense": 90,
+                "spAttack": 80,
+                "spDefense": 90,
+                "speed": 60
+            },
+            "description": "Un Pok\u00e9mon brutal qui n\u2019en fait qu\u2019\u00e0 sa t\u00eate. Selon son humeur du moment, il lui arrive parfois d\u2019ignorer sciemment les ordres de son Dresseur.",
+            "abilities": [
+                44,
+                156
+            ]
+        }
+    ]
+}

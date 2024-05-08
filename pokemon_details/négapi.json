@@ -1,0 +1,26 @@
+{
+    "number": 312,
+    "name": "N\u00e9gapi",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "electrik"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/minun.jpg",
+            "base": {
+                "hp": 60,
+                "attack": 40,
+                "defense": 50,
+                "spAttack": 75,
+                "spDefense": 85,
+                "speed": 95
+            },
+            "description": "NEGAPI n'h\u00e9site pas \u00e0 se mettre en danger pour soutenir ses partenaires. Il court-circuite son corps pour faire jaillir des gerbes d'\u00e9tincelles et donner du c\u0153ur \u00e0 l'ouvrage \u00e0 ses \u00e9quipiers.",
+            "abilities": [
+                179,
+                3
+            ]
+        }
+    ]
+}

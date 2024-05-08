@@ -1,0 +1,26 @@
+{
+    "number": 180,
+    "name": "Lainergie",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "electrik"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/flaaffy.jpg",
+            "base": {
+                "hp": 70,
+                "attack": 55,
+                "defense": 55,
+                "spAttack": 80,
+                "spDefense": 60,
+                "speed": 45
+            },
+            "description": "La qualit\u00e9 de la laine de LAINERGIE se modifie pour g\u00e9n\u00e9rer un maximum d'\u00e9lectricit\u00e9 statique avec un minimum de laine. Les sections glabres de sa peau sont r\u00e9sistantes \u00e0 l'\u00e9lectricit\u00e9.",
+            "abilities": [
+                260,
+                214
+            ]
+        }
+    ]
+}

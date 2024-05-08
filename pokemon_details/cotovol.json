@@ -1,0 +1,28 @@
+{
+    "number": 189,
+    "name": "Cotovol",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "grass",
+                "fly"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/jumpluff.jpg",
+            "base": {
+                "hp": 75,
+                "attack": 55,
+                "defense": 70,
+                "spAttack": 55,
+                "spDefense": 95,
+                "speed": 110
+            },
+            "description": "COTOVOL traverse la mer, port\u00e9 par les vents, pour d\u00e9couvrir de nouveaux territoires. Ce POK\u00e9MON se rapproche du sol quand le vent est trop froid.",
+            "abilities": [
+                56,
+                118,
+                154
+            ]
+        }
+    ]
+}

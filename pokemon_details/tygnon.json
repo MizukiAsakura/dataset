@@ -1,0 +1,27 @@
+{
+    "number": 107,
+    "name": "Tygnon",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fight"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/hitmonchan.jpg",
+            "base": {
+                "hp": 50,
+                "attack": 105,
+                "defense": 79,
+                "spAttack": 35,
+                "spDefense": 110,
+                "speed": 76
+            },
+            "description": "On raconte que Tygnon dispose de l'\u00e9tat d'esprit d'un boxeur qui s\u2019entra\u00eene pour le championnat du monde. Ce Pok\u00e9mon est dot\u00e9 d'une t\u00e9nacit\u00e9 \u00e0 toute \u00e9preuve et n'abandonne jamais face \u00e0 l'adversit\u00e9.",
+            "abilities": [
+                240,
+                215,
+                26
+            ]
+        }
+    ]
+}

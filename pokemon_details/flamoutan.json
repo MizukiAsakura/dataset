@@ -1,0 +1,26 @@
+{
+    "number": 514,
+    "name": "Flamoutan",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fire"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/simisear.jpg",
+            "base": {
+                "hp": 75,
+                "attack": 98,
+                "defense": 63,
+                "spAttack": 98,
+                "spDefense": 63,
+                "speed": 101
+            },
+            "description": "Son corps est en combustion. Il projette des flamm\u00e8ches par la t\u00eate et la queue pour carboniser ses ennemis.",
+            "abilities": [
+                135,
+                44
+            ]
+        }
+    ]
+}

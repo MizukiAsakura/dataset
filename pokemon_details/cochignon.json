@@ -1,0 +1,28 @@
+{
+    "number": 221,
+    "name": "Cochignon",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "ice",
+                "ground"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/piloswine.jpg",
+            "base": {
+                "hp": 100,
+                "attack": 100,
+                "defense": 80,
+                "spAttack": 60,
+                "spDefense": 60,
+                "speed": 50
+            },
+            "description": "COCHIGNON est recouvert de longs poils \u00e9pais qui lui permettent de supporter le froid hivernal. Ce POK\u00e9MON utilise ses d\u00e9fenses pour d\u00e9terrer la nourriture cach\u00e9e sous la glace.",
+            "abilities": [
+                35,
+                243,
+                157
+            ]
+        }
+    ]
+}

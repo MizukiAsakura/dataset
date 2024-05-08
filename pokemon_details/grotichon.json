@@ -1,0 +1,27 @@
+{
+    "number": 499,
+    "name": "Grotichon",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fire",
+                "fight"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/pignite.jpg",
+            "base": {
+                "hp": 90,
+                "attack": 93,
+                "defense": 55,
+                "spAttack": 70,
+                "spDefense": 55,
+                "speed": 55
+            },
+            "description": "Quand le feu dans son corps s\u2019embrase, sa vitesse et son agilit\u00e9 augmentent. En cas d\u2019urgence, il crache de la fum\u00e9e.",
+            "abilities": [
+                44,
+                157
+            ]
+        }
+    ]
+}

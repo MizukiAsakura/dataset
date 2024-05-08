@@ -1,0 +1,27 @@
+{
+    "number": 310,
+    "name": "\u00c9lecsprint",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "electrik"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/manectric.jpg",
+            "base": {
+                "hp": 70,
+                "attack": 75,
+                "defense": 60,
+                "spAttack": 105,
+                "spDefense": 60,
+                "speed": 105
+            },
+            "description": "La crini\u00e8re d'ELECSPRINT lib\u00e8re constamment de l'\u00e9lectricit\u00e9. Les \u00e9tincelles d\u00e9clenchent parfois des feux de for\u00eat. Au d\u00e9but de ses combats, ce POK\u00e9MON cr\u00e9e des nuages orageux.",
+            "abilities": [
+                199,
+                260,
+                179
+            ]
+        }
+    ]
+}

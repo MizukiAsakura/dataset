@@ -1,0 +1,26 @@
+{
+    "number": 795,
+    "name": "Cancrelove",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "bug",
+                "fight"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/pheromosa.jpg",
+            "base": {
+                "hp": 71,
+                "attack": 137,
+                "defense": 37,
+                "spAttack": 137,
+                "spDefense": 37,
+                "speed": 151
+            },
+            "description": "L\u2019une des Ultra-Chim\u00e8res. Elle semble refuser de toucher les choses de ce monde, comme si tout \u00e9tait souill\u00e9 \u00e0 ses yeux.",
+            "abilities": [
+                41
+            ]
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "number": 941,
+    "name": "Fulgulairo",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "electrik",
+                "fly"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/kilowattrel.jpg",
+            "base": {
+                "hp": 70,
+                "attack": 70,
+                "defense": 60,
+                "spAttack": 105,
+                "spDefense": 60,
+                "speed": 125
+            },
+            "description": "Il emmagasine l'\u00e9lectricit\u00e9 produite par ses ailes dans son sac gulaire. Il ne nage pas tr\u00e8s bien, car ses plumes sont peu huil\u00e9es.",
+            "abilities": [
+                3,
+                286,
+                33
+            ]
+        }
+    ]
+}

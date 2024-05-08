@@ -1,0 +1,26 @@
+{
+    "number": 245,
+    "name": "Suicune",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/suicune.jpg",
+            "base": {
+                "hp": 100,
+                "attack": 75,
+                "defense": 115,
+                "spAttack": 90,
+                "spDefense": 115,
+                "speed": 85
+            },
+            "description": "SUICUNE incarne la tranquilit\u00e9 d'une source d'eau pure. Il parcourt les plaines avec gr\u00e2ce. Ce POK\u00e9MON a le pouvoir de purifier l'eau.",
+            "abilities": [
+                223,
+                26
+            ]
+        }
+    ]
+}

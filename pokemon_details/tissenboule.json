@@ -1,0 +1,26 @@
+{
+    "number": 917,
+    "name": "Tissenboule",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "bug"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/tarountula.jpg",
+            "base": {
+                "hp": 35,
+                "attack": 41,
+                "defense": 45,
+                "spAttack": 29,
+                "spDefense": 40,
+                "speed": 20
+            },
+            "description": "Son post\u00e9rieur s\u00e9cr\u00e8te un fil aussi r\u00e9sistant qu'un c\u00e2ble en fer. Cette solidit\u00e9 inexpliqu\u00e9e fait actuellement l'objet de recherches.",
+            "abilities": [
+                155,
+                119
+            ]
+        }
+    ]
+}

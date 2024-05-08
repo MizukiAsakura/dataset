@@ -1,0 +1,28 @@
+{
+    "number": 462,
+    "name": "Magn\u00e9zone",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "electrik",
+                "steel"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/magnezone.jpg",
+            "base": {
+                "hp": 70,
+                "attack": 70,
+                "defense": 115,
+                "spAttack": 130,
+                "spDefense": 90,
+                "speed": 60
+            },
+            "description": "Il est aussi habile avec sa langue que les \u00eatres humains le sont avec leurs mains. En revanche, il est maladroit quand il utilise ses doigts.",
+            "abilities": [
+                168,
+                117,
+                14
+            ]
+        }
+    ]
+}

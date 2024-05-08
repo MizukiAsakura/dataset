@@ -1,0 +1,28 @@
+{
+    "number": 623,
+    "name": "Golemastoc",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "ground",
+                "ghost"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/golurk.jpg",
+            "base": {
+                "hp": 89,
+                "attack": 124,
+                "defense": 80,
+                "spAttack": 55,
+                "spDefense": 80,
+                "speed": 55
+            },
+            "description": "Gare au sceau de sa poitrine ! S\u2019il est bris\u00e9, Golemastoc perd le contr\u00f4le et charge avec fureur. Il peut alors raser une ville enti\u00e8re.",
+            "abilities": [
+                215,
+                169,
+                16
+            ]
+        }
+    ]
+}

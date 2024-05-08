@@ -1,0 +1,26 @@
+{
+    "number": 650,
+    "name": "Marisson",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "grass"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/chespin.jpg",
+            "base": {
+                "hp": 56,
+                "attack": 61,
+                "defense": 65,
+                "spAttack": 48,
+                "spDefense": 45,
+                "speed": 38
+            },
+            "description": "Lorsqu\u2019il rassemble ses forces, les piquants souples qui recouvrent sa t\u00eate deviennent si durs et ac\u00e9r\u00e9s qu\u2019ils pourraient transpercer un rocher.",
+            "abilities": [
+                104,
+                200
+            ]
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "number": 411,
+    "name": "Bastiodon",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "rock",
+                "steel"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/bastiodon.jpg",
+            "base": {
+                "hp": 60,
+                "attack": 52,
+                "defense": 168,
+                "spAttack": 47,
+                "spDefense": 138,
+                "speed": 30
+            },
+            "description": "Il r\u00e9siste \u00e0 toute attaque frontale. C'est un Pok\u00e9mon docile qui se nourrit d'herbe et de Baies. En cas d'attaque, ils forment un mur avec leur visage en forme de bouclier pour prot\u00e9ger les petits.",
+            "abilities": [
+                117,
+                17
+            ]
+        }
+    ]
+}

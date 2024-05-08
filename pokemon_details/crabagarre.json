@@ -1,0 +1,27 @@
+{
+    "number": 739,
+    "name": "Crabagarre",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fight"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/crabrawler.jpg",
+            "base": {
+                "hp": 47,
+                "attack": 82,
+                "defense": 57,
+                "spAttack": 42,
+                "spDefense": 47,
+                "speed": 63
+            },
+            "description": "Ses robustes pinces sont aussi efficaces pour l\u2019attaque que pour la d\u00e9fense. Les combats de Crabagarre ressemblent \u00e0 des matchs de boxe.",
+            "abilities": [
+                144,
+                215,
+                61
+            ]
+        }
+    ]
+}

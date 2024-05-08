@@ -1,0 +1,28 @@
+{
+    "number": 748,
+    "name": "Pr\u00e9dast\u00e9rie",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "poison",
+                "water"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/toxapex.jpg",
+            "base": {
+                "hp": 50,
+                "attack": 63,
+                "defense": 152,
+                "spAttack": 53,
+                "spDefense": 142,
+                "speed": 35
+            },
+            "description": "Pour endurer les temp\u00e9ratures peu cl\u00e9mentes de Galar, il forme un d\u00f4me herm\u00e9tique avec ses pattes pour conserver sa chaleur corporelle.",
+            "abilities": [
+                82,
+                98,
+                241
+            ]
+        }
+    ]
+}

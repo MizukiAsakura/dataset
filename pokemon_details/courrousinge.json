@@ -1,0 +1,28 @@
+{
+    "number": 979,
+    "name": "Courrousinge",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fight",
+                "ghost"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/annihilape.jpg",
+            "base": {
+                "hp": 110,
+                "attack": 115,
+                "defense": 80,
+                "spAttack": 50,
+                "spDefense": 90,
+                "speed": 90
+            },
+            "description": "Il an\u00e9antit ses adversaires en leur ass\u00e9nant des coups de poing anim\u00e9s par la rage enfouie tout au fond de lui.",
+            "abilities": [
+                110,
+                26,
+                5
+            ]
+        }
+    ]
+}

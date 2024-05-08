@@ -1,0 +1,28 @@
+{
+    "number": 400,
+    "name": "Castorno",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal",
+                "water"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/bibarel.jpg",
+            "base": {
+                "hp": 79,
+                "attack": 85,
+                "defense": 60,
+                "spAttack": 55,
+                "spDefense": 60,
+                "speed": 71
+            },
+            "description": "Il construit des barrages de boue et d'\u00e9corce le long des fleuves. C'est un ouvrier de renom. M\u00eame s'il est plut\u00f4t pataud sur la terre ferme, ce Pok\u00e9mon nage aussi vite que BARPAU.",
+            "abilities": [
+                253,
+                153,
+                162
+            ]
+        }
+    ]
+}

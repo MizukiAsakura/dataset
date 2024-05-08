@@ -1,0 +1,27 @@
+{
+    "number": 954,
+    "name": "B\u00e9rasca",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "bug",
+                "psy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/rabsca.jpg",
+            "base": {
+                "hp": 75,
+                "attack": 50,
+                "defense": 85,
+                "spAttack": 115,
+                "spDefense": 100,
+                "speed": 45
+            },
+            "description": "Il fait doucement tourner sa sph\u00e8re avec ses pattes afin d'assurer le confort du nouveau-n\u00e9 qui dort \u00e0 l'int\u00e9rieur.",
+            "abilities": [
+                265,
+                270
+            ]
+        }
+    ]
+}

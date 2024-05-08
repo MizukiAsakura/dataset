@@ -1,0 +1,26 @@
+{
+    "number": 1008,
+    "name": "Miraidon",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "electrik",
+                "dragon"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/miraidon.jpg",
+            "base": {
+                "hp": 100,
+                "attack": 85,
+                "defense": 100,
+                "spAttack": 135,
+                "spDefense": 115,
+                "speed": 135
+            },
+            "description": "Il semble \u00eatre le \u00ab\u00a0Serpent-de-Fer\u00a0\u00bb mentionn\u00e9 dans un livre ancien. Il aurait r\u00e9duit la terre en cendres en la foudroyant.",
+            "abilities": [
+                184
+            ]
+        }
+    ]
+}

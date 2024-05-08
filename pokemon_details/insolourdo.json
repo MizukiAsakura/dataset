@@ -1,0 +1,27 @@
+{
+    "number": 206,
+    "name": "Insolourdo",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/dunsparce.jpg",
+            "base": {
+                "hp": 100,
+                "attack": 70,
+                "defense": 70,
+                "spAttack": 65,
+                "spDefense": 65,
+                "speed": 45
+            },
+            "description": "INSOLOURDO a une perceuse au bout de la queue. Il l'utilise pour creuser des souterrains, \u00e0 reculons. On dit que ce POK\u00e9MON enfouit son nid aux formes complexes sous terre.",
+            "abilities": [
+                252,
+                128,
+                209
+            ]
+        }
+    ]
+}

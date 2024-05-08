@@ -1,0 +1,28 @@
+{
+    "number": 303,
+    "name": "Mysdibule",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "steel",
+                "fairy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/mawile.jpg",
+            "base": {
+                "hp": 50,
+                "attack": 85,
+                "defense": 85,
+                "spAttack": 55,
+                "spDefense": 55,
+                "speed": 50
+            },
+            "description": "Les \u00e9normes m\u00e2choires de MYSDIBULE sont en r\u00e9alit\u00e9 des cornes en m\u00e9tal transform\u00e9es. Son visage doux et gentil est un leurre pour tromper l'ennemi. Quand l'ennemi s'y attend le moins, il le croque d'un coup de m\u00e2choire.",
+            "abilities": [
+                144,
+                156,
+                248
+            ]
+        }
+    ]
+}

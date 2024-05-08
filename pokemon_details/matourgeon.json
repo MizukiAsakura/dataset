@@ -1,0 +1,26 @@
+{
+    "number": 907,
+    "name": "Matourgeon",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "grass"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/floragato.jpg",
+            "base": {
+                "hp": 61,
+                "attack": 80,
+                "defense": 63,
+                "spAttack": 60,
+                "spDefense": 63,
+                "speed": 83
+            },
+            "description": "La rigidit\u00e9 de ses poils d\u00e9pend de son \u00e9tat d'esprit. Quand il se pr\u00e9pare au combat, ceux-ci se h\u00e9rissent et sont ac\u00e9r\u00e9s comme des aiguilles.",
+            "abilities": [
+                104,
+                229
+            ]
+        }
+    ]
+}

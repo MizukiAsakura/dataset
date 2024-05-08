@@ -1,0 +1,25 @@
+{
+    "number": 421,
+    "name": "Ceriflor",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "grass"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/cherrim.jpg",
+            "base": {
+                "hp": 70,
+                "attack": 60,
+                "defense": 70,
+                "spAttack": 87,
+                "spDefense": 78,
+                "speed": 85
+            },
+            "description": "Il fleurit lorsque le soleil est au beau fixe. Il cherche \u00e0 prendre sa revanche sur une vie de bourgeon. Ce timide bourgeon devient une fleur joyeuse. Il reprend sa forme de bourgeon au coucher du soleil.",
+            "abilities": [
+                94
+            ]
+        }
+    ]
+}

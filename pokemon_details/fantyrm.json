@@ -1,0 +1,28 @@
+{
+    "number": 885,
+    "name": "Fantyrm",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "dragon",
+                "ghost"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/dreepy.jpg",
+            "base": {
+                "hp": 28,
+                "attack": 60,
+                "defense": 30,
+                "spAttack": 40,
+                "spDefense": 30,
+                "speed": 82
+            },
+            "description": "Seul, il est si faible qu\u2019il ne saurait rivaliser avec un enfant, mais en coop\u00e9rant avec ses semblables, il peut devenir assez fort pour \u00e9voluer.",
+            "abilities": [
+                73,
+                154,
+                72
+            ]
+        }
+    ]
+}

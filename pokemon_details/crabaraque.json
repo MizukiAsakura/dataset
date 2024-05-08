@@ -1,0 +1,28 @@
+{
+    "number": 558,
+    "name": "Crabaraque",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "rock",
+                "bug"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/crustle.jpg",
+            "base": {
+                "hp": 70,
+                "attack": 105,
+                "defense": 125,
+                "spAttack": 65,
+                "spDefense": 75,
+                "speed": 45
+            },
+            "description": "Entre eux, les querelles de territoire sont fr\u00e9quentes et violentes. Celui qui se fait briser son rocher a perdu.",
+            "abilities": [
+                117,
+                66,
+                24
+            ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "number": 125,
+    "name": "\u00c9lektek",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "electrik"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/electabuzz.jpg",
+            "base": {
+                "hp": 65,
+                "attack": 83,
+                "defense": 57,
+                "spAttack": 95,
+                "spDefense": 85,
+                "speed": 105
+            },
+            "description": "Lorsqu'une temp\u00eate approche, des groupes entiers de ce Pok\u00e9mon se battent pour grimper sur les hauteurs, o\u00f9 la foudre a le plus de chance de tomber. Certaines villes se servent d'\u00c9lektek en guise de paratonnerres.",
+            "abilities": [
+                260,
+                110
+            ]
+        }
+    ]
+}

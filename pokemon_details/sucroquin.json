@@ -1,0 +1,26 @@
+{
+    "number": 684,
+    "name": "Sucroquin",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fairy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/swirlix.jpg",
+            "base": {
+                "hp": 62,
+                "attack": 48,
+                "defense": 66,
+                "spAttack": 59,
+                "spDefense": 57,
+                "speed": 49
+            },
+            "description": "Il se gave de sucreries \u00e0 longueur de journ\u00e9e, \u00e0 tel point que sa fourrure finit par ressembler \u00e0 de la barbe \u00e0 papa, sucr\u00e9e et poisseuse.",
+            "abilities": [
+                136,
+                91
+            ]
+        }
+    ]
+}

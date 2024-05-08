@@ -1,0 +1,26 @@
+{
+    "number": 794,
+    "name": "Mouscoto",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "bug",
+                "fight"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/buzzwole.jpg",
+            "base": {
+                "hp": 107,
+                "attack": 139,
+                "defense": 139,
+                "spAttack": 53,
+                "spDefense": 53,
+                "speed": 79
+            },
+            "description": "Personne ne sait si cette Ultra-Chim\u00e8re venue d\u2019un autre monde montre ses muscles pour \u00eatre admir\u00e9e ou pour intimider ceux qu\u2019elle rencontre.",
+            "abilities": [
+                41
+            ]
+        }
+    ]
+}

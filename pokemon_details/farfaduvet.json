@@ -1,0 +1,28 @@
+{
+    "number": 547,
+    "name": "Farfaduvet",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "grass",
+                "fairy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/whimsicott.jpg",
+            "base": {
+                "hp": 60,
+                "attack": 67,
+                "defense": 85,
+                "spAttack": 77,
+                "spDefense": 75,
+                "speed": 116
+            },
+            "description": "Il s\u2019introduit chez les gens \u00e0 la faveur d\u2019un courant d\u2019air, r\u00e9pand du coton aux quatre coins de la pi\u00e8ce puis repart comme si de rien n\u2019\u00e9tait.",
+            "abilities": [
+                116,
+                154,
+                56
+            ]
+        }
+    ]
+}

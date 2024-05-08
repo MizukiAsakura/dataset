@@ -1,0 +1,28 @@
+{
+    "number": 695,
+    "name": "Iguolta",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "electrik",
+                "normal"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/heliolisk.jpg",
+            "base": {
+                "hp": 62,
+                "attack": 55,
+                "defense": 52,
+                "spAttack": 109,
+                "spDefense": 94,
+                "speed": 109
+            },
+            "description": "Il augmente sa puissance motrice en stimulant les muscles de ses pattes avec des d\u00e9charges \u00e9lectriques. Il peut ainsi parcourir 100 m en 5 s.",
+            "abilities": [
+                207,
+                294,
+                124
+            ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "number": 867,
+    "name": "Tut\u00e9t\u00e9kri",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "ground",
+                "ghost"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/runerigus.jpg",
+            "base": {
+                "hp": 58,
+                "attack": 95,
+                "defense": 145,
+                "spAttack": 50,
+                "spDefense": 105,
+                "speed": 30
+            },
+            "description": "Les motifs antiques qui ont \u00e9t\u00e9 grav\u00e9s en y incorporant une puissante mal\u00e9diction ont aspir\u00e9 l\u2019\u00e2me de Tutafeh avant de prendre vie.",
+            "abilities": [
+                12
+            ]
+        }
+    ]
+}

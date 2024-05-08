@@ -1,0 +1,26 @@
+{
+    "number": 401,
+    "name": "Crikzik",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "bug"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/kricketot.jpg",
+            "base": {
+                "hp": 37,
+                "attack": 25,
+                "defense": 41,
+                "spAttack": 25,
+                "spDefense": 41,
+                "speed": 25
+            },
+            "description": "Quand il bascule sa t\u00eate d'avant en arri\u00e8re, ses antennes se heurtent dans un son de xylophone. Il communique au son de ses antennes qui s'entrechoquent. Ce son marque l'arriv\u00e9e de l'automne.",
+            "abilities": [
+                186,
+                128
+            ]
+        }
+    ]
+}

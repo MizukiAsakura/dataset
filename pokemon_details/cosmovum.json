@@ -1,0 +1,25 @@
+{
+    "number": 790,
+    "name": "Cosmovum",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "psy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/cosmoem.jpg",
+            "base": {
+                "hp": 43,
+                "attack": 29,
+                "defense": 131,
+                "spAttack": 29,
+                "spDefense": 131,
+                "speed": 37
+            },
+            "description": "On pourrait le croire mort car il ne bouge pas du tout. Au toucher, il reste ti\u00e8de. On le surnomme \u00ab cocon c\u00e9leste \u00bb depuis l\u2019Antiquit\u00e9.",
+            "abilities": [
+                117
+            ]
+        }
+    ]
+}

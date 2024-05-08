@@ -1,0 +1,28 @@
+{
+    "number": 551,
+    "name": "Masca\u00efman",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "dark",
+                "ground"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/sandile.jpg",
+            "base": {
+                "hp": 50,
+                "attack": 72,
+                "defense": 35,
+                "spAttack": 35,
+                "spDefense": 35,
+                "speed": 65
+            },
+            "description": "N\u2019\u00e9tant pas tr\u00e8s bon chasseur, il se nourrit de la charogne qu\u2019il trouve dans les dunes, ce qui lui vaut son surnom de \u00ab nettoyeur du d\u00e9sert \u00bb.",
+            "abilities": [
+                156,
+                151,
+                61
+            ]
+        }
+    ]
+}

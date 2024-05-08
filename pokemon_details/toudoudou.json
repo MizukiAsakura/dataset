@@ -1,0 +1,28 @@
+{
+    "number": 174,
+    "name": "Toudoudou",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal",
+                "fairy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/igglybuff.jpg",
+            "base": {
+                "hp": 90,
+                "attack": 30,
+                "defense": 15,
+                "spAttack": 40,
+                "spDefense": 20,
+                "speed": 15
+            },
+            "description": "Les cordes vocales de TOUDOUDOU ne sont pas assez d\u00e9velopp\u00e9es. S'il devait chanter trop longtemps, il se ferait mal \u00e0 la gorge. Ce POK\u00e9MON se gargarise souvent avec de l'eau fra\u00eeche puis\u00e9e dans un ruisseau clair.",
+            "abilities": [
+                158,
+                33,
+                129
+            ]
+        }
+    ]
+}

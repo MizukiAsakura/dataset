@@ -1,0 +1,27 @@
+{
+    "number": 509,
+    "name": "Chacripan",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "dark"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/purrloin.jpg",
+            "base": {
+                "hp": 41,
+                "attack": 50,
+                "defense": 37,
+                "spAttack": 50,
+                "spDefense": 37,
+                "speed": 66
+            },
+            "description": "Malheur \u00e0 qui se laisse berner par ses gestes adorables : une fois les gens \u00e0 sa port\u00e9e, il les griffe sans crier gare, en ricanant.",
+            "abilities": [
+                98,
+                91,
+                116
+            ]
+        }
+    ]
+}

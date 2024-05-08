@@ -1,0 +1,26 @@
+{
+    "number": 864,
+    "name": "Coray\u00f4me",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "ghost"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/cursola.jpg",
+            "base": {
+                "hp": 60,
+                "attack": 95,
+                "defense": 50,
+                "spAttack": 145,
+                "spDefense": 130,
+                "speed": 30
+            },
+            "description": "Ceux qui ont le malheur de toucher le corps spirituel qui prot\u00e8ge son noyau se retrouveront immobilis\u00e9s, comme chang\u00e9s en pierre.",
+            "abilities": [
+                24,
+                69
+            ]
+        }
+    ]
+}

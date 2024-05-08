@@ -1,0 +1,49 @@
+{
+    "number": 51,
+    "name": "Triopikeur",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "ground"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/dugtrio.jpg",
+            "base": {
+                "hp": 35,
+                "attack": 100,
+                "defense": 50,
+                "spAttack": 50,
+                "spDefense": 70,
+                "speed": 120
+            },
+            "description": "Les Triopikeur sont en fait des tripl\u00e9s qui ont \u00e9merg\u00e9 du m\u00eame corps. C'est pourquoi chaque tripl\u00e9 pense exactement comme les deux autres. Ils creusent inlassablement, dans une coop\u00e9ration parfaite.",
+            "abilities": [
+                294,
+                295,
+                124
+            ]
+        },
+        {
+            "name": "alola",
+            "types": [
+                "ground",
+                "steel"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/dugtrio-alolan.jpg",
+            "base": {
+                "hp": 35,
+                "attack": 100,
+                "defense": 60,
+                "spAttack": 50,
+                "spDefense": 70,
+                "speed": 110
+            },
+            "description": "Les Triopikeur sont en fait des tripl\u00e9s qui ont \u00e9merg\u00e9 du m\u00eame corps. C'est pourquoi chaque tripl\u00e9 pense exactement comme les deux autres. Ils creusent inlassablement, dans une coop\u00e9ration parfaite.",
+            "abilities": [
+                294,
+                173,
+                124
+            ]
+        }
+    ]
+}

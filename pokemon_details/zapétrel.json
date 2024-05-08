@@ -1,0 +1,28 @@
+{
+    "number": 940,
+    "name": "Zap\u00e9trel",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "electrik",
+                "fly"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/wattrel.jpg",
+            "base": {
+                "hp": 40,
+                "attack": 40,
+                "defense": 35,
+                "spAttack": 55,
+                "spDefense": 40,
+                "speed": 70
+            },
+            "description": "Il niche sur les falaises c\u00f4ti\u00e8res. Son nid poss\u00e8de une texture particuli\u00e8re et un go\u00fbt naturellement p\u00e9tillant, ce qui en fait un mets tr\u00e8s recherch\u00e9.",
+            "abilities": [
+                3,
+                286,
+                33
+            ]
+        }
+    ]
+}

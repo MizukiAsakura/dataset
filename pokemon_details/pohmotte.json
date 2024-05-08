@@ -1,0 +1,28 @@
+{
+    "number": 922,
+    "name": "Pohmotte",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "electrik",
+                "fight"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/pawmo.jpg",
+            "base": {
+                "hp": 60,
+                "attack": 75,
+                "defense": 40,
+                "spAttack": 50,
+                "spDefense": 40,
+                "speed": 85
+            },
+            "description": "Son style de combat unique consiste \u00e0 frapper ses adversaires avec ses paumes, tout en les \u00e9lectrocutant avec ses coussinets.",
+            "abilities": [
+                2,
+                174,
+                215
+            ]
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "number": 133,
+    "name": "\u00c9voli",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/eevee.jpg",
+            "base": {
+                "hp": 55,
+                "attack": 55,
+                "defense": 50,
+                "spAttack": 45,
+                "spDefense": 65,
+                "speed": 55
+            },
+            "description": "\u00c9voli a une structure g\u00e9n\u00e9tique instable qui se transforme en fonction de l'environnement dans lequel il vit. Ce Pok\u00e9mon peut \u00e9voluer gr\u00e2ce aux radiations de diverses pierres.",
+            "abilities": [
+                128,
+                6,
+                18
+            ]
+        }
+    ]
+}

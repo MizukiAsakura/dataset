@@ -1,0 +1,27 @@
+{
+    "number": 413,
+    "name": "Cheniselle",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "bug",
+                "grass"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/wormadam.jpg",
+            "base": {
+                "hp": 60,
+                "attack": 59,
+                "defense": 85,
+                "spAttack": 79,
+                "spDefense": 105,
+                "speed": 36
+            },
+            "description": "Quand CHENITI a \u00e9volu\u00e9, sa cape a fusionn\u00e9 avec son corps. CHENISELLE ne s'en s\u00e9pare jamais. Son apparence varie selon le lieu d'\u00e9volution. Son corps est fa\u00e7onn\u00e9 avec les mat\u00e9riaux \u00e0 disposition.",
+            "abilities": [
+                18,
+                106
+            ]
+        }
+    ]
+}

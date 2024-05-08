@@ -1,0 +1,26 @@
+{
+    "number": 244,
+    "name": "Entei",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fire"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/entei.jpg",
+            "base": {
+                "hp": 115,
+                "attack": 115,
+                "defense": 85,
+                "spAttack": 90,
+                "spDefense": 75,
+                "speed": 100
+            },
+            "description": "ENTEI incarne la col\u00e8re du magma. On pense que ce POK\u00e9MON est n\u00e9 suite \u00e0 l'\u00e9ruption d'un volcan. Il peut envoyer d'\u00e9normes jets de flammes qui calcinent tout ce qu'ils touchent.",
+            "abilities": [
+                223,
+                26
+            ]
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "number": 947,
+    "name": "Virevorreur",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "grass",
+                "ghost"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/brambleghast.jpg",
+            "base": {
+                "hp": 55,
+                "attack": 115,
+                "defense": 70,
+                "spAttack": 80,
+                "spDefense": 70,
+                "speed": 90
+            },
+            "description": "Ces Pok\u00e9mon errent \u00e0 travers les r\u00e9gions arides. En de tr\u00e8s rares occasions, ils apparaissent en masse et peuvent engloutir une ville enti\u00e8re.",
+            "abilities": [
+                7,
+                154
+            ]
+        }
+    ]
+}

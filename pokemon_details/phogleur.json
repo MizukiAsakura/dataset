@@ -1,0 +1,28 @@
+{
+    "number": 364,
+    "name": "Phogleur",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "ice",
+                "water"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/sealeo.jpg",
+            "base": {
+                "hp": 90,
+                "attack": 60,
+                "defense": 70,
+                "spAttack": 75,
+                "spDefense": 70,
+                "speed": 45
+            },
+            "description": "PHOGLEUR a pris l'habitude de jongler avec tout ce qu'il d\u00e9couvre pour la premi\u00e8re fois. Ce POK\u00e9MON se divertit parfois en faisant tourner un OBALIE sur le bout de son museau.",
+            "abilities": [
+                157,
+                71,
+                35
+            ]
+        }
+    ]
+}

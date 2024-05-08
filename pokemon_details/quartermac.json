@@ -1,0 +1,26 @@
+{
+    "number": 766,
+    "name": "Quartermac",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fight"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/passimian.jpg",
+            "base": {
+                "hp": 100,
+                "attack": 120,
+                "defense": 90,
+                "spAttack": 40,
+                "spDefense": 60,
+                "speed": 80
+            },
+            "description": "Il choisit les Baies les plus dures pour s\u2019en servir au combat : un stratag\u00e8me bien rod\u00e9 que les chefs de groupe enseignent \u00e0 leurs alli\u00e9s.",
+            "abilities": [
+                238,
+                5
+            ]
+        }
+    ]
+}

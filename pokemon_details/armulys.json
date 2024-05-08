@@ -1,0 +1,25 @@
+{
+    "number": 266,
+    "name": "Armulys",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "bug"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/silcoon.jpg",
+            "base": {
+                "hp": 50,
+                "attack": 35,
+                "defense": 55,
+                "spAttack": 25,
+                "spDefense": 25,
+                "speed": 15
+            },
+            "description": "ARMULYS s'accroche \u00e0 une branche d'arbre avec de la soie pour \u00e9viter de tomber. Ce POK\u00e9MON y reste tranquillement en attendant son \u00e9volution. Il regarde l'ext\u00e9rieur \u00e0 travers un petit trou dans son cocon de soie.",
+            "abilities": [
+                186
+            ]
+        }
+    ]
+}

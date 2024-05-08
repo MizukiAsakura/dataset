@@ -1,0 +1,28 @@
+{
+    "number": 887,
+    "name": "Lanssorien",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "dragon",
+                "ghost"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/dragapult.jpg",
+            "base": {
+                "hp": 88,
+                "attack": 120,
+                "defense": 75,
+                "spAttack": 100,
+                "spDefense": 75,
+                "speed": 142
+            },
+            "description": "Il vit en compagnie de Fantyrm qui logent dans les trous de ses cornes. Quand il passe \u00e0 l\u2019attaque, il les propulse \u00e0 la vitesse du son.",
+            "abilities": [
+                73,
+                154,
+                72
+            ]
+        }
+    ]
+}

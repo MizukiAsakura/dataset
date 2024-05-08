@@ -1,0 +1,27 @@
+{
+    "number": 978,
+    "name": "Nigirigon",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "dragon",
+                "water"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/tatsugiri.jpg",
+            "base": {
+                "hp": 68,
+                "attack": 50,
+                "defense": 60,
+                "spAttack": 120,
+                "spDefense": 95,
+                "speed": 82
+            },
+            "description": "C'est l'un des Pok\u00e9mon Dragon les plus intelligents. Il se camoufle en faisant gonfler son sac gulaire.",
+            "abilities": [
+                64,
+                160
+            ]
+        }
+    ]
+}

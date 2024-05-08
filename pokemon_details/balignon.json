@@ -1,0 +1,27 @@
+{
+    "number": 285,
+    "name": "Balignon",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "grass"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/shroomish.jpg",
+            "base": {
+                "hp": 60,
+                "attack": 40,
+                "defense": 60,
+                "spAttack": 40,
+                "spDefense": 60,
+                "speed": 35
+            },
+            "description": "Les BALIGNON vivent dans les sols humides et les recoins sombres des grandes for\u00eats. On les trouve souvent immobiles sous les feuilles mortes. Ce POK\u00e9MON se nourrit d'un compost fait de feuilles mortes pourries.",
+            "abilities": [
+                220,
+                255,
+                212
+            ]
+        }
+    ]
+}

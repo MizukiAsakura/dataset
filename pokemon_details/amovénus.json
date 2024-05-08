@@ -1,0 +1,47 @@
+{
+    "number": 905,
+    "name": "Amov\u00e9nus",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fairy",
+                "fly"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/enamorus-incarnate.jpg",
+            "base": {
+                "hp": 74,
+                "attack": 115,
+                "defense": 70,
+                "spAttack": 135,
+                "spDefense": 80,
+                "speed": 106
+            },
+            "description": "Ce Pok\u00e9mon quitte son apparence de femme et rev\u00eat cette forme avant de se r\u00e9v\u00e9ler entre les nuages pour ch\u00e2tier ceux qui n\u00e9gligent les \u00eatres vivants. Sa col\u00e8re est implacable.",
+            "abilities": [
+                158,
+                65
+            ]
+        },
+        {
+            "name": "tot\u00e9mique",
+            "types": [
+                "fairy",
+                "fly"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/enamorus-therian.jpg",
+            "base": {
+                "hp": 74,
+                "attack": 115,
+                "defense": 110,
+                "spAttack": 135,
+                "spDefense": 100,
+                "speed": 46
+            },
+            "description": "Ce Pok\u00e9mon quitte son apparence de femme et rev\u00eat cette forme avant de se r\u00e9v\u00e9ler entre les nuages pour ch\u00e2tier ceux qui n\u00e9gligent les \u00eatres vivants. Sa col\u00e8re est implacable.",
+            "abilities": [
+                106
+            ]
+        }
+    ]
+}

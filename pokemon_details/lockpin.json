@@ -1,0 +1,27 @@
+{
+    "number": 428,
+    "name": "Lockpin",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/lopunny.jpg",
+            "base": {
+                "hp": 65,
+                "attack": 76,
+                "defense": 84,
+                "spAttack": 54,
+                "spDefense": 96,
+                "speed": 105
+            },
+            "description": "Un Pok\u00e9mon extr\u00eamement prudent. Il couvre son corps de ses oreilles pelucheuses en cas de danger. Il est tr\u00e8s coquet et n'oublie jamais de toiletter ses oreilles. Il avance en bonds \u00e9nergiques.",
+            "abilities": [
+                158,
+                169,
+                98
+            ]
+        }
+    ]
+}

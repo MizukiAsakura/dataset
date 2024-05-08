@@ -1,0 +1,27 @@
+{
+    "number": 637,
+    "name": "Pyrax",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "bug",
+                "fire"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/volcarona.jpg",
+            "base": {
+                "hp": 85,
+                "attack": 60,
+                "defense": 65,
+                "spAttack": 135,
+                "spDefense": 105,
+                "speed": 100
+            },
+            "description": "Certains disent qu\u2019il r\u00e9pand ses \u00e9cailles ardentes pour provoquer des incendies, d\u2019autres, pour sauver ceux qui souffrent du froid.",
+            "abilities": [
+                67,
+                111
+            ]
+        }
+    ]
+}

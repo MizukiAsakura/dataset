@@ -1,0 +1,27 @@
+{
+    "number": 998,
+    "name": "Glaivodo",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "dragon",
+                "ice"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/baxcalibur.jpg",
+            "base": {
+                "hp": 115,
+                "attack": 145,
+                "defense": 92,
+                "spAttack": 75,
+                "spDefense": 86,
+                "speed": 87
+            },
+            "description": "Il se met t\u00eate en bas et crache de l'air glac\u00e9 pour se propulser dans les airs et charger ses ennemis, qu'il \u00e9limine avec sa cr\u00eate dorsale ac\u00e9r\u00e9e.",
+            "abilities": [
+                277,
+                71
+            ]
+        }
+    ]
+}

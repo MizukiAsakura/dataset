@@ -1,0 +1,27 @@
+{
+    "number": 600,
+    "name": "Clic",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "steel"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/klang.jpg",
+            "base": {
+                "hp": 60,
+                "attack": 80,
+                "defense": 95,
+                "spAttack": 70,
+                "spDefense": 85,
+                "speed": 50
+            },
+            "description": "Quand le combat devient s\u00e9rieux, la partie ext\u00e9rieure du grand rouage s\u2019aligne parfaitement avec le petit pour acc\u00e9l\u00e9rer leur rotation.",
+            "abilities": [
+                214,
+                179,
+                73
+            ]
+        }
+    ]
+}

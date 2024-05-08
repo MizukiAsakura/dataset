@@ -1,0 +1,28 @@
+{
+    "number": 472,
+    "name": "Scorvol",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "ground",
+                "fly"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/gliscor.jpg",
+            "base": {
+                "hp": 75,
+                "attack": 95,
+                "defense": 125,
+                "spAttack": 45,
+                "spDefense": 75,
+                "speed": 95
+            },
+            "description": "Il guette sa proie, pendu \u00e0 une branche la t\u00eate en bas, et s'en saisit \u00e0 la premi\u00e8re occasion.",
+            "abilities": [
+                144,
+                294,
+                255
+            ]
+        }
+    ]
+}

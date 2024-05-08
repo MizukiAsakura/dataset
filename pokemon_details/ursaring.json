@@ -1,0 +1,27 @@
+{
+    "number": 217,
+    "name": "Ursaring",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/ursaring.jpg",
+            "base": {
+                "hp": 90,
+                "attack": 130,
+                "defense": 75,
+                "spAttack": 75,
+                "spDefense": 75,
+                "speed": 55
+            },
+            "description": "On dit que les URSARING trouvent leur nourriture dans les cours d'eau et les grands arbres des for\u00eats o\u00f9 ils habitent. Ce POK\u00e9MON erre dans la for\u00eat toute la journ\u00e9e pour chercher de la nourriture.",
+            "abilities": [
+                77,
+                212,
+                273
+            ]
+        }
+    ]
+}

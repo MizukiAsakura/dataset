@@ -1,0 +1,25 @@
+{
+    "number": 493,
+    "name": "Arceus",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/arceus.jpg",
+            "base": {
+                "hp": 120,
+                "attack": 120,
+                "defense": 120,
+                "spAttack": 120,
+                "spDefense": 120,
+                "speed": 120
+            },
+            "description": "La mythologie le d\u00e9crit comme le Pok\u00e9mon qui a fa\u00e7onn\u00e9 l\u2019univers avec ses mille bras.",
+            "abilities": [
+                189
+            ]
+        }
+    ]
+}

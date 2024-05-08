@@ -1,0 +1,50 @@
+{
+    "number": 76,
+    "name": "Grolem",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "ground",
+                "rock"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/golem.jpg",
+            "base": {
+                "hp": 80,
+                "attack": 120,
+                "defense": 130,
+                "spAttack": 55,
+                "spDefense": 65,
+                "speed": 45
+            },
+            "description": "Grolem vit \u00e0 la montagne. Lorsqu'il y a un tremblement de terre, ces Pok\u00e9mon roulent en groupe vers les contreforts montagneux.",
+            "abilities": [
+                276,
+                117,
+                294
+            ]
+        },
+        {
+            "name": "alola",
+            "types": [
+                "electrik",
+                "rock"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/golem-alolan.jpg",
+            "base": {
+                "hp": 80,
+                "attack": 120,
+                "defense": 130,
+                "spAttack": 55,
+                "spDefense": 65,
+                "speed": 45
+            },
+            "description": "Grolem vit \u00e0 la montagne. Lorsqu'il y a un tremblement de terre, ces Pok\u00e9mon roulent en groupe vers les contreforts montagneux.",
+            "abilities": [
+                168,
+                117,
+                203
+            ]
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "number": 966,
+    "name": "Vrombotor",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "steel",
+                "poison"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/revavroom.jpg",
+            "base": {
+                "hp": 80,
+                "attack": 119,
+                "defense": 90,
+                "spAttack": 54,
+                "spDefense": 67,
+                "speed": 90
+            },
+            "description": "Ce Pok\u00e9mon intimide ses adversaires gr\u00e2ce au bruit de ses pots d'\u00e9chappement et r\u00e9pand du liquide empoisonn\u00e9 \u00e0 l'aide de sa langue.",
+            "abilities": [
+                106,
+                120
+            ]
+        }
+    ]
+}

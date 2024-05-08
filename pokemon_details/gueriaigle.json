@@ -1,0 +1,50 @@
+{
+    "number": 628,
+    "name": "Gueriaigle",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal",
+                "fly"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/braviary.jpg",
+            "base": {
+                "hp": 100,
+                "attack": 123,
+                "defense": 75,
+                "spAttack": 57,
+                "spDefense": 75,
+                "speed": 80
+            },
+            "description": "Les balafres ne font qu\u2019ajouter \u00e0 sa renomm\u00e9e, mais les blessures dans le dos, synonymes de fuite en combat, sont mal vues par la vol\u00e9e.",
+            "abilities": [
+                240,
+                248,
+                5
+            ]
+        },
+        {
+            "name": "hisui",
+            "types": [
+                "psy",
+                "fly"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/braviary-hisuian.jpg",
+            "base": {
+                "hp": 110,
+                "attack": 83,
+                "defense": 70,
+                "spAttack": 112,
+                "spDefense": 70,
+                "speed": 65
+            },
+            "description": "Les balafres ne font qu\u2019ajouter \u00e0 sa renomm\u00e9e, mais les blessures dans le dos, synonymes de fuite en combat, sont mal vues par la vol\u00e9e.",
+            "abilities": [
+                240,
+                248,
+                161
+            ]
+        }
+    ]
+}

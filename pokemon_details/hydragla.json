@@ -1,0 +1,28 @@
+{
+    "number": 883,
+    "name": "Hydragla",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water",
+                "ice"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/arctovish.jpg",
+            "base": {
+                "hp": 90,
+                "attack": 90,
+                "defense": 100,
+                "spAttack": 80,
+                "spDefense": 90,
+                "speed": 55
+            },
+            "description": "Il g\u00e8le les alentours pour capturer ses proies, mais comme sa bouche est sur le dessus de sa t\u00eate, il a beaucoup de mal \u00e0 les manger.",
+            "abilities": [
+                2,
+                71,
+                53
+            ]
+        }
+    ]
+}

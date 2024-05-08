@@ -1,0 +1,27 @@
+{
+    "number": 317,
+    "name": "Avaltout",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "poison"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/swalot.jpg",
+            "base": {
+                "hp": 100,
+                "attack": 73,
+                "defense": 83,
+                "spAttack": 73,
+                "spDefense": 83,
+                "speed": 55
+            },
+            "description": "Lorsqu'AVALTOUT rep\u00e8re une proie, il lib\u00e8re une substance terriblement toxique de ses pores et en enduit son ennemi pour l'affaiblir. Ce POK\u00e9MON peut ensuite l'avaler d'un coup dans sa gigantesque bouche.",
+            "abilities": [
+                261,
+                137,
+                135
+            ]
+        }
+    ]
+}

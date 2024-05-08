@@ -1,0 +1,26 @@
+{
+    "number": 356,
+    "name": "T\u00e9raclope",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "ghost"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/dusclops.jpg",
+            "base": {
+                "hp": 40,
+                "attack": 70,
+                "defense": 130,
+                "spAttack": 60,
+                "spDefense": 130,
+                "speed": 25
+            },
+            "description": "Le corps de TERACLOPE est totalement creux. Il n'y a rien du tout \u00e0 l'int\u00e9rieur. On raconte que son corps est comme un trou noir. Ce POK\u00e9MON peut absorber n'importe quoi, mais rien n'en ressort jamais.",
+            "abilities": [
+                223,
+                126
+            ]
+        }
+    ]
+}

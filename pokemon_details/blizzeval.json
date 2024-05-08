@@ -1,0 +1,25 @@
+{
+    "number": 896,
+    "name": "Blizzeval",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "ice"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/glastrier.jpg",
+            "base": {
+                "hp": 100,
+                "attack": 145,
+                "defense": 130,
+                "spAttack": 65,
+                "spDefense": 110,
+                "speed": 30
+            },
+            "description": "Violent au point de s\u2019emparer de tout ce qu\u2019il d\u00e9sire par la force, ce Pok\u00e9mon est capable de lib\u00e9rer un puissant air glacial de ses sabots.",
+            "abilities": [
+                37
+            ]
+        }
+    ]
+}

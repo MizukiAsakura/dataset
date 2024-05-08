@@ -1,0 +1,27 @@
+{
+    "number": 32,
+    "name": "Nidoran\u2642",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "poison"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/nidoran-m.jpg",
+            "base": {
+                "hp": 46,
+                "attack": 57,
+                "defense": 40,
+                "spAttack": 40,
+                "spDefense": 40,
+                "speed": 50
+            },
+            "description": "Nidoran\u2642 a d\u00e9velopp\u00e9 des muscles pour bouger ses oreilles. Ainsi, il peut les orienter \u00e0 sa guise. Ce Pok\u00e9mon peut entendre le plus discret des bruits.",
+            "abilities": [
+                217,
+                244,
+                8
+            ]
+        }
+    ]
+}

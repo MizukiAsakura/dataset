@@ -1,0 +1,26 @@
+{
+    "number": 102,
+    "name": "N\u0153un\u0153uf",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "grass"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/exeggcute.jpg",
+            "base": {
+                "hp": 60,
+                "attack": 40,
+                "defense": 80,
+                "spAttack": 60,
+                "spDefense": 45,
+                "speed": 40
+            },
+            "description": "Ce Pok\u00e9mon est constitu\u00e9 de six \u0153ufs formant une grappe serr\u00e9e. Ces six \u0153ufs s'attirent mutuellement et pivotent. Quand des fissures apparaissent sur les coquilles, \u00e7a signifie que Noeunoeuf est sur le point d'\u00e9voluer.",
+            "abilities": [
+                56,
+                239
+            ]
+        }
+    ]
+}

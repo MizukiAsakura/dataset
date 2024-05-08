@@ -1,0 +1,26 @@
+{
+    "number": 835,
+    "name": "Voltoutou",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "electrik"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/yamper.jpg",
+            "base": {
+                "hp": 59,
+                "attack": 45,
+                "defense": 50,
+                "spAttack": 40,
+                "spDefense": 50,
+                "speed": 26
+            },
+            "description": "Lorsqu\u2019il court, on peut voir de l\u2019\u00e9lectricit\u00e9 se former \u00e0 la base de sa queue. Ce Pok\u00e9mon est tr\u00e8s populaire aupr\u00e8s des bergers de Galar.",
+            "abilities": [
+                235,
+                209
+            ]
+        }
+    ]
+}

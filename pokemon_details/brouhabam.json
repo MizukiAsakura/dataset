@@ -1,0 +1,26 @@
+{
+    "number": 295,
+    "name": "Brouhabam",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/exploud.jpg",
+            "base": {
+                "hp": 104,
+                "attack": 91,
+                "defense": 63,
+                "spAttack": 91,
+                "spDefense": 73,
+                "speed": 68
+            },
+            "description": "BROUHABAM peut d\u00e9clencher des tremblements de terre gr\u00e2ce aux vibrations de son hurlement. Lorsque ce POK\u00e9MON inspire fortement, cela signifie qu'il se pr\u00e9pare \u00e0 l\u00e2cher un gigantesque mugissement.",
+            "abilities": [
+                17,
+                232
+            ]
+        }
+    ]
+}

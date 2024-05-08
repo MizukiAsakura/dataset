@@ -1,0 +1,26 @@
+{
+    "number": 181,
+    "name": "Pharamp",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "electrik"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/ampharos.jpg",
+            "base": {
+                "hp": 90,
+                "attack": 75,
+                "defense": 85,
+                "spAttack": 115,
+                "spDefense": 90,
+                "speed": 55
+            },
+            "description": "PHARAMP est si lumineux qu'on peut le voir de l'espace. Jadis, les gens utilisaient la lumi\u00e8re de ce POK\u00e9MON pour communiquer et s'envoyer des signaux \u00e0 grande distance.",
+            "abilities": [
+                260,
+                214
+            ]
+        }
+    ]
+}

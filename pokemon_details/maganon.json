@@ -1,0 +1,26 @@
+{
+    "number": 467,
+    "name": "Maganon",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fire"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/magmortar.jpg",
+            "base": {
+                "hp": 75,
+                "attack": 95,
+                "defense": 67,
+                "spAttack": 125,
+                "spDefense": 95,
+                "speed": 83
+            },
+            "description": "Son bras peut expulser des boules enflamm\u00e9es d\u2019une temp\u00e9rature de 2 000 \u00b0C. S\u2019il en tire trop d\u2019un coup, son bras commence \u00e0 fondre.",
+            "abilities": [
+                67,
+                110
+            ]
+        }
+    ]
+}

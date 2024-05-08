@@ -1,0 +1,28 @@
+{
+    "number": 340,
+    "name": "Barbicha",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water",
+                "ground"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/whiscash.jpg",
+            "base": {
+                "hp": 110,
+                "attack": 78,
+                "defense": 73,
+                "spAttack": 76,
+                "spDefense": 71,
+                "speed": 60
+            },
+            "description": "Quand il s'agit de territoire, BARBICHA est tr\u00e8s possessif. Un seul de ces POK\u00e9MON r\u00e9clame parfois un \u00e9tang entier. Si un ennemi s'approche, il fonce sur lui et d\u00e9clenche un violent tremblement de terre.",
+            "abilities": [
+                35,
+                18,
+                143
+            ]
+        }
+    ]
+}

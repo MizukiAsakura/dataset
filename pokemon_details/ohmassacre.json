@@ -1,0 +1,25 @@
+{
+    "number": 604,
+    "name": "Ohmassacre",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "electrik"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/eelektross.jpg",
+            "base": {
+                "hp": 85,
+                "attack": 115,
+                "defense": 80,
+                "spAttack": 105,
+                "spDefense": 80,
+                "speed": 50
+            },
+            "description": "Il peut sortir de l'eau \u00e0 la force de ses bras pour attraper des proies sur la rive. Il retourne \u00e0 l'eau en un instant.",
+            "abilities": [
+                162
+            ]
+        }
+    ]
+}

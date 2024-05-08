@@ -1,0 +1,27 @@
+{
+    "number": 587,
+    "name": "Emolga",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "electrik",
+                "fly"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/emolga.jpg",
+            "base": {
+                "hp": 55,
+                "attack": 75,
+                "defense": 60,
+                "spAttack": 75,
+                "spDefense": 60,
+                "speed": 103
+            },
+            "description": "Telle une cape de super-h\u00e9ros, sa membrane de peau lui permet de planer. Il d\u00e9charge alors son \u00e9lectricit\u00e9 sur ses ennemis... et ses alli\u00e9s.",
+            "abilities": [
+                260,
+                185
+            ]
+        }
+    ]
+}

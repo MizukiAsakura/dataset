@@ -1,0 +1,28 @@
+{
+    "number": 187,
+    "name": "Granivol",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "grass",
+                "fly"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/hoppip.jpg",
+            "base": {
+                "hp": 35,
+                "attack": 35,
+                "defense": 40,
+                "spAttack": 35,
+                "spDefense": 55,
+                "speed": 50
+            },
+            "description": "Ce POK\u00e9MON flotte \u00e0 la d\u00e9rive, port\u00e9 par le vent. S'il sent qu'un vent tr\u00e8s fort approche, GRANIVOL attache ses feuilles aux autres GRANIVOL pour ne pas \u00eatre emport\u00e9 par la bourrasque.",
+            "abilities": [
+                56,
+                118,
+                154
+            ]
+        }
+    ]
+}

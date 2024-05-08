@@ -1,0 +1,26 @@
+{
+    "number": 381,
+    "name": "Latios",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "dragon",
+                "psy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/latios.jpg",
+            "base": {
+                "hp": 80,
+                "attack": 90,
+                "defense": 80,
+                "spAttack": 130,
+                "spDefense": 110,
+                "speed": 110
+            },
+            "description": "LATIOS n'ouvrira son c\u0153ur qu'\u00e0 un DRESSEUR dot\u00e9 d'un esprit compatissant. Ce POK\u00e9MON peut voler plus vite qu'un avion \u00e0 r\u00e9action en repliant ses pattes avant pour am\u00e9liorer son a\u00e9rodynamisme.",
+            "abilities": [
+                162
+            ]
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "number": 86,
+    "name": "Otaria",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/seel.jpg",
+            "base": {
+                "hp": 65,
+                "attack": 45,
+                "defense": 55,
+                "spAttack": 45,
+                "spDefense": 70,
+                "speed": 45
+            },
+            "description": "Otaria chasse ses proie dans l'eau gel\u00e9e, sous la couche de glace. Lorsqu'il cherche \u00e0 respirer, il perce un trou en frappant la glace avec la partie saillante de sa t\u00eate.",
+            "abilities": [
+                157,
+                143,
+                71
+            ]
+        }
+    ]
+}

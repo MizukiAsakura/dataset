@@ -1,0 +1,28 @@
+{
+    "number": 298,
+    "name": "Azurill",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal",
+                "fairy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/azurill.jpg",
+            "base": {
+                "hp": 50,
+                "attack": 20,
+                "defense": 40,
+                "spAttack": 20,
+                "spDefense": 40,
+                "speed": 20
+            },
+            "description": "AZURILL fait tournoyer sa queue comme un lasso et l'envoie si fort que le reste de son corps est \u00e9galement projet\u00e9. Le record de lancer de ce POK\u00e9MON est actuellement de 10 m.",
+            "abilities": [
+                157,
+                63,
+                141
+            ]
+        }
+    ]
+}

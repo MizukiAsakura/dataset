@@ -1,0 +1,27 @@
+{
+    "number": 300,
+    "name": "Skitty",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/skitty.jpg",
+            "base": {
+                "hp": 50,
+                "attack": 45,
+                "defense": 45,
+                "spAttack": 35,
+                "spDefense": 35,
+                "speed": 50
+            },
+            "description": "On sait que SKITTY court souvent apr\u00e8s sa queue. A l'\u00e9tat sauvage, ce POK\u00e9MON vit dans les cavit\u00e9s des arbres de la for\u00eat. Il est tellement adorable qu'il a un grand succ\u00e8s comme animal de compagnie.",
+            "abilities": [
+                158,
+                192,
+                206
+            ]
+        }
+    ]
+}

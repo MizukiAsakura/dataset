@@ -1,0 +1,26 @@
+{
+    "number": 803,
+    "name": "V\u00e9mini",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "poison",
+                "dragon"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/poipole.jpg",
+            "base": {
+                "hp": 67,
+                "attack": 73,
+                "defense": 67,
+                "spAttack": 73,
+                "spDefense": 67,
+                "speed": 73
+            },
+            "description": "Dans son monde, cette Ultra-Chim\u00e8re est fort appr\u00e9ci\u00e9e pour son naturel conciliant, qui fait d\u2019elle un compagnon de voyage id\u00e9al.",
+            "abilities": [
+                41
+            ]
+        }
+    ]
+}

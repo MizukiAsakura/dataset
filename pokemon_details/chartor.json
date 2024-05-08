@@ -1,0 +1,27 @@
+{
+    "number": 324,
+    "name": "Chartor",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fire"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/torkoal.jpg",
+            "base": {
+                "hp": 70,
+                "attack": 85,
+                "defense": 140,
+                "spAttack": 85,
+                "spDefense": 70,
+                "speed": 20
+            },
+            "description": "CHARTOR fore les montagnes \u00e0 la recherche de charbon. Lorsqu'il en trouve, il le met dans les emplacements creux de sa carapace pour le br\u00fbler. Quand il est attaqu\u00e9, ce POK\u00e9MON crache une \u00e9paisse fum\u00e9e noire pour s'enfuir.",
+            "abilities": [
+                99,
+                249,
+                66
+            ]
+        }
+    ]
+}

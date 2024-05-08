@@ -1,0 +1,28 @@
+{
+    "number": 228,
+    "name": "Malosse",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "dark",
+                "fire"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/houndour.jpg",
+            "base": {
+                "hp": 45,
+                "attack": 60,
+                "defense": 30,
+                "spAttack": 80,
+                "spDefense": 50,
+                "speed": 65
+            },
+            "description": "Les MALOSSE chassent en meute organis\u00e9e. Ils communiquent entre eux gr\u00e2ce \u00e0 une s\u00e9rie de petits cris et encerclent ainsi leur proie. L'\u00e9tonnant travail d'\u00e9quipe de ces POK\u00e9MON est sans comparaison.",
+            "abilities": [
+                281,
+                171,
+                273
+            ]
+        }
+    ]
+}

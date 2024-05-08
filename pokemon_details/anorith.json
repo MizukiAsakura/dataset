@@ -1,0 +1,27 @@
+{
+    "number": 347,
+    "name": "Anorith",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "rock",
+                "bug"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/anorith.jpg",
+            "base": {
+                "hp": 45,
+                "attack": 95,
+                "defense": 50,
+                "spAttack": 40,
+                "spDefense": 50,
+                "speed": 75
+            },
+            "description": "ANORITH fut r\u00e9g\u00e9n\u00e9r\u00e9 \u00e0 partir d'un fossile pr\u00e9historique. Ce POK\u00e9MON primitif vivait \u00e0 l'\u00e9poque dans les eaux tropicales. Il attrape fermement sa proie avec ses deux grandes pinces.",
+            "abilities": [
+                21,
+                134
+            ]
+        }
+    ]
+}

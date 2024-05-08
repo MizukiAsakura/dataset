@@ -1,0 +1,26 @@
+{
+    "number": 781,
+    "name": "Sinistrail",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "ghost",
+                "grass"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/dhelmise.jpg",
+            "base": {
+                "hp": 70,
+                "attack": 131,
+                "defense": 100,
+                "spAttack": 86,
+                "spDefense": 90,
+                "speed": 40
+            },
+            "description": "Il tend des guets-apens \u00e0 ses proies en larguant son ancre dans la mer. Il peut absorber l\u2019\u00e9nergie vitale de grosses proies comme Wailord.",
+            "abilities": [
+                112
+            ]
+        }
+    ]
+}

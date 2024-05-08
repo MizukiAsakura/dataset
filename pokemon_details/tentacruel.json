@@ -1,0 +1,28 @@
+{
+    "number": 73,
+    "name": "Tentacruel",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water",
+                "poison"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/tentacruel.jpg",
+            "base": {
+                "hp": 80,
+                "attack": 70,
+                "defense": 65,
+                "spAttack": 80,
+                "spDefense": 120,
+                "speed": 100
+            },
+            "description": "Tentacruel a deux gros globes sur la t\u00eate. Les globes s'illuminent lorsqu'il va envoyer un violent rayon d'ultrasons. Lorsque ce Pok\u00e9mon se d\u00e9cha\u00eene, il cr\u00e9\u00e9 d'\u00e9normes vagues autour de lui.",
+            "abilities": [
+                73,
+                261,
+                83
+            ]
+        }
+    ]
+}

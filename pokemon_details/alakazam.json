@@ -1,0 +1,27 @@
+{
+    "number": 65,
+    "name": "Alakazam",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "psy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/alakazam.jpg",
+            "base": {
+                "hp": 55,
+                "attack": 50,
+                "defense": 45,
+                "spAttack": 135,
+                "spDefense": 95,
+                "speed": 120
+            },
+            "description": "Le cerveau d'Alakazam grossit sans arr\u00eat, si bien que sa t\u00eate devient trop lourde pour son cou. Ce Pok\u00e9mon maintient sa t\u00eate relev\u00e9e gr\u00e2ce \u00e0 son pouvoir t\u00e9l\u00e9kin\u00e9tique.",
+            "abilities": [
+                265,
+                26,
+                130
+            ]
+        }
+    ]
+}

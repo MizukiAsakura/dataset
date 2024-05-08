@@ -1,0 +1,26 @@
+{
+    "number": 878,
+    "name": "Charibari",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "steel"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/cufant.jpg",
+            "base": {
+                "hp": 72,
+                "attack": 80,
+                "defense": 49,
+                "spAttack": 40,
+                "spDefense": 49,
+                "speed": 40
+            },
+            "description": "Ce Pok\u00e9mon est assez costaud pour porter des charges de cinq tonnes sans probl\u00e8me. Il utilise sa trompe pour creuser le sol.",
+            "abilities": [
+                248,
+                140
+            ]
+        }
+    ]
+}

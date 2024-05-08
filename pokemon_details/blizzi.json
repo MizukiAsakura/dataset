@@ -1,0 +1,27 @@
+{
+    "number": 459,
+    "name": "Blizzi",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "grass",
+                "ice"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/snover.jpg",
+            "base": {
+                "hp": 60,
+                "attack": 62,
+                "defense": 50,
+                "spAttack": 62,
+                "spDefense": 60,
+                "speed": 40
+            },
+            "description": "Il vit sur les monts enneig\u00e9s. Ignorant des coutumes humaines, il lui arrive d'\u00eatre tr\u00e8s indiscret. Au printemps, il fait pousser des Baies pareilles \u00e0 des cr\u00e8mes glac\u00e9es autour de son ventre.",
+            "abilities": [
+                11,
+                17
+            ]
+        }
+    ]
+}

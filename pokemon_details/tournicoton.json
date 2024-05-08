@@ -1,0 +1,27 @@
+{
+    "number": 829,
+    "name": "Tournicoton",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "grass"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/gossifleur.jpg",
+            "base": {
+                "hp": 40,
+                "attack": 40,
+                "defense": 60,
+                "spAttack": 40,
+                "spDefense": 60,
+                "speed": 10
+            },
+            "description": "Nombreux sont ceux qui ont d\u00e9cid\u00e9 d\u2019en \u00e9lever un apr\u00e8s avoir \u00e9t\u00e9 charm\u00e9s par sa mani\u00e8re de chanter en virevoltant au gr\u00e9 de la brise.",
+            "abilities": [
+                101,
+                241,
+                220
+            ]
+        }
+    ]
+}

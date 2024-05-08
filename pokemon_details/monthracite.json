@@ -1,0 +1,28 @@
+{
+    "number": 839,
+    "name": "Monthracite",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "rock",
+                "fire"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/coalossal.jpg",
+            "base": {
+                "hp": 110,
+                "attack": 80,
+                "defense": 120,
+                "spAttack": 80,
+                "spDefense": 90,
+                "speed": 30
+            },
+            "description": "Lorsqu\u2019il s\u2019engage dans un combat, son tas de charbon br\u00fble et vire au rouge, ce qui r\u00e9pand de petites \u00e9tincelles qui calcinent ce qui l\u2019entoure.",
+            "abilities": [
+                285,
+                67,
+                281
+            ]
+        }
+    ]
+}

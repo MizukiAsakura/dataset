@@ -1,0 +1,27 @@
+{
+    "number": 61,
+    "name": "T\u00eatarte",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/poliwhirl.jpg",
+            "base": {
+                "hp": 65,
+                "attack": 65,
+                "defense": 65,
+                "spAttack": 50,
+                "spDefense": 50,
+                "speed": 90
+            },
+            "description": "La peau de T\u00eatarte est toujours maintenue humide par un liquide huileux. Gr\u00e2ce \u00e0 cette protection graisseuse, il peut facilement se glisser hors de l'\u00e9treinte de n'importe quel ennemi.",
+            "abilities": [
+                2,
+                182,
+                57
+            ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "number": 634,
+    "name": "Diamat",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "dark",
+                "dragon"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/zweilous.jpg",
+            "base": {
+                "hp": 72,
+                "attack": 85,
+                "defense": 70,
+                "spAttack": 65,
+                "spDefense": 70,
+                "speed": 58
+            },
+            "description": "Il cherche des proies en arpentant son territoire. Ses deux t\u00eates se disputent souvent pour savoir quelle direction prendre.",
+            "abilities": [
+                8
+            ]
+        }
+    ]
+}

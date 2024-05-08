@@ -1,0 +1,26 @@
+{
+    "number": 172,
+    "name": "Pichu",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "electrik"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/pichu.jpg",
+            "base": {
+                "hp": 20,
+                "attack": 40,
+                "defense": 15,
+                "spAttack": 35,
+                "spDefense": 35,
+                "speed": 60
+            },
+            "description": "Lorsque PICHU joue, il lui arrive de faire des courts-circuits avec un autre PICHU, cr\u00e9ant ainsi une gerbe d'\u00e9tincelles. Du coup, ce POK\u00e9MON prend peur et se met \u00e0 pleurer.",
+            "abilities": [
+                260,
+                199
+            ]
+        }
+    ]
+}

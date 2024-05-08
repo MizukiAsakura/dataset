@@ -1,0 +1,28 @@
+{
+    "number": 188,
+    "name": "Floravol",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "grass",
+                "fly"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/skiploom.jpg",
+            "base": {
+                "hp": 55,
+                "attack": 45,
+                "defense": 50,
+                "spAttack": 45,
+                "spDefense": 65,
+                "speed": 80
+            },
+            "description": "La fleur de FLORAVOL \u00e9clot lorsque la temp\u00e9rature atteint 18 degr\u00e9s. L'ouverture de la fleur change en fonction de la temp\u00e9rature. Certaines personnes se servent de ce POK\u00e9MON comme d'un thermom\u00e8tre.",
+            "abilities": [
+                56,
+                118,
+                154
+            ]
+        }
+    ]
+}

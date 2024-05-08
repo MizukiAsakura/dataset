@@ -1,0 +1,28 @@
+{
+    "number": 521,
+    "name": "D\u00e9flaisan",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal",
+                "fly"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/unfezant.jpg",
+            "base": {
+                "hp": 80,
+                "attack": 115,
+                "defense": 80,
+                "spAttack": 65,
+                "spDefense": 55,
+                "speed": 93
+            },
+            "description": "Ce Pok\u00e9mon a une excellente technique de vol. Les femelles ont plus d\u2019endurance que les m\u00e2les, mais ces derniers peuvent voler plus vite.",
+            "abilities": [
+                58,
+                51,
+                244
+            ]
+        }
+    ]
+}

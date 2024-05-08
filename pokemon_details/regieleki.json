@@ -1,0 +1,25 @@
+{
+    "number": 894,
+    "name": "Regieleki",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "electrik"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/regieleki.jpg",
+            "base": {
+                "hp": 80,
+                "attack": 100,
+                "defense": 50,
+                "spAttack": 100,
+                "spDefense": 50,
+                "speed": 200
+            },
+            "description": "Son corps est un v\u00e9ritable concentr\u00e9 d\u2019\u00e9nergie \u00e9lectrique. On raconte que si on lui retire ses anneaux, sa puissance cach\u00e9e se lib\u00e8re.",
+            "abilities": [
+                284
+            ]
+        }
+    ]
+}

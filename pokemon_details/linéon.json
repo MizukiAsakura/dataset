@@ -1,0 +1,49 @@
+{
+    "number": 264,
+    "name": "Lin\u00e9on",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/linoone.jpg",
+            "base": {
+                "hp": 78,
+                "attack": 70,
+                "defense": 61,
+                "spAttack": 50,
+                "spDefense": 61,
+                "speed": 100
+            },
+            "description": "LINEON court tr\u00e8s vite et toujours en ligne droite. Si un obstacle survient, il l'\u00e9vite en prenant un angle droit. Ce POK\u00e9MON a beaucoup de mal \u00e0 suivre les routes l\u00e9g\u00e8rement courb\u00e9es.",
+            "abilities": [
+                235,
+                135,
+                212
+            ]
+        },
+        {
+            "name": "galar",
+            "types": [
+                "dark",
+                "normal"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/linoone-galarian.jpg",
+            "base": {
+                "hp": 78,
+                "attack": 70,
+                "defense": 61,
+                "spAttack": 50,
+                "spDefense": 61,
+                "speed": 100
+            },
+            "description": "LINEON court tr\u00e8s vite et toujours en ligne droite. Si un obstacle survient, il l'\u00e9vite en prenant un angle droit. Ce POK\u00e9MON a beaucoup de mal \u00e0 suivre les routes l\u00e9g\u00e8rement courb\u00e9es.",
+            "abilities": [
+                235,
+                135,
+                212
+            ]
+        }
+    ]
+}

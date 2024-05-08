@@ -1,0 +1,28 @@
+{
+    "number": 72,
+    "name": "Tentacool",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water",
+                "poison"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/tentacool.jpg",
+            "base": {
+                "hp": 40,
+                "attack": 40,
+                "defense": 35,
+                "spAttack": 50,
+                "spDefense": 100,
+                "speed": 70
+            },
+            "description": "Le corps de Tentacool est principalement aqueux. Si on le retire de l'eau, il se d\u00e9shydrate compl\u00e8tement. Si cela arrive, il suffit de le replonger dans un liquide pour qu'il reprenne sa forme normale.",
+            "abilities": [
+                73,
+                261,
+                83
+            ]
+        }
+    ]
+}

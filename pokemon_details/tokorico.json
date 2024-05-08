@@ -1,0 +1,27 @@
+{
+    "number": 785,
+    "name": "Tokorico",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "electrik",
+                "fairy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/tapu-koko.jpg",
+            "base": {
+                "hp": 70,
+                "attack": 115,
+                "defense": 85,
+                "spAttack": 95,
+                "spDefense": 75,
+                "speed": 130
+            },
+            "description": "Bien qu\u2019on le consid\u00e8re comme une divinit\u00e9 protectrice, il peut se montrer cruel envers les humains et les Pok\u00e9mon qui l\u2019ont offens\u00e9.",
+            "abilities": [
+                79,
+                270
+            ]
+        }
+    ]
+}

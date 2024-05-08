@@ -1,0 +1,27 @@
+{
+    "number": 396,
+    "name": "\u00c9tourmi",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal",
+                "fly"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/starly.jpg",
+            "base": {
+                "hp": 40,
+                "attack": 55,
+                "defense": 30,
+                "spAttack": 30,
+                "spDefense": 30,
+                "speed": 60
+            },
+            "description": "Ils volent en nombre. Bien que minuscule, il bat des ailes avec une vigueur impressionnante. Il est difficile \u00e0 rep\u00e9rer lorsqu'il n'\u00e9volue pas au sein d'une grande vol\u00e9e. Ses cris sont stridents.",
+            "abilities": [
+                240,
+                271
+            ]
+        }
+    ]
+}

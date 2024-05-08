@@ -1,0 +1,26 @@
+{
+    "number": 477,
+    "name": "Noctunoir",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "ghost"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/dusknoir.jpg",
+            "base": {
+                "hp": 45,
+                "attack": 100,
+                "defense": 135,
+                "spAttack": 65,
+                "spDefense": 135,
+                "speed": 45
+            },
+            "description": "L\u2019antenne sur sa t\u00eate capte les ondes \u00e9mises par les esprits. Ceux-ci lui ordonnent d\u2019emmener les \u00eatres humains dans l\u2019au-del\u00e0, et il s\u2019ex\u00e9cute.",
+            "abilities": [
+                223,
+                126
+            ]
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "number": 328,
+    "name": "Kraknoix",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "ground"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/trapinch.jpg",
+            "base": {
+                "hp": 45,
+                "attack": 100,
+                "defense": 45,
+                "spAttack": 45,
+                "spDefense": 45,
+                "speed": 10
+            },
+            "description": "Le nid de KRAKNOIX consiste en un trou en pente creus\u00e9 dans le sable, comme une cuvette. Ce POK\u00e9MON attend patiemment que sa proie tombe dedans. Ses gigantesques m\u00e2choires sont assez puissantes pour croquer des rochers.",
+            "abilities": [
+                144,
+                295,
+                248
+            ]
+        }
+    ]
+}

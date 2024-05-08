@@ -1,0 +1,26 @@
+{
+    "number": 863,
+    "name": "Berserkatt",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "steel"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/perrserker.jpg",
+            "base": {
+                "hp": 70,
+                "attack": 110,
+                "defense": 100,
+                "spAttack": 50,
+                "spDefense": 60,
+                "speed": 50
+            },
+            "description": "Il s\u2019est tant adonn\u00e9 au combat qu\u2019il a \u00e9volu\u00e9 : il est d\u00e9sormais dot\u00e9 de griffes redoutables qui prennent la forme de dagues en s\u2019allongeant.",
+            "abilities": [
+                21,
+                40
+            ]
+        }
+    ]
+}

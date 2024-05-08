@@ -1,0 +1,28 @@
+{
+    "number": 95,
+    "name": "Onix",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "ground",
+                "rock"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/onix.jpg",
+            "base": {
+                "hp": 35,
+                "attack": 45,
+                "defense": 160,
+                "spAttack": 30,
+                "spDefense": 45,
+                "speed": 70
+            },
+            "description": "Onix a dans le cerveau un aimant qui lui sert de boussole. Il permet \u00e0 ce Pok\u00e9mon de ne pas se perdre pendant qu'il creuse. En prenant de l'\u00e2ge, son corps s'arrondit et se polit.",
+            "abilities": [
+                276,
+                117,
+                24
+            ]
+        }
+    ]
+}

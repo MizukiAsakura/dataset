@@ -1,0 +1,26 @@
+{
+    "number": 656,
+    "name": "Grenousse",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/froakie.jpg",
+            "base": {
+                "hp": 41,
+                "attack": 56,
+                "defense": 40,
+                "spAttack": 62,
+                "spDefense": 44,
+                "speed": 71
+            },
+            "description": "Il prot\u00e8ge son corps en l\u2019entourant d\u2019une mousse d\u00e9licate. Malgr\u00e9 son apparence insouciante, ce Pok\u00e9mon est en fait constamment \u00e0 l\u2019aff\u00fbt.",
+            "abilities": [
+                282,
+                229
+            ]
+        }
+    ]
+}

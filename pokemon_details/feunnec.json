@@ -1,0 +1,26 @@
+{
+    "number": 653,
+    "name": "Feunnec",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fire"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/fennekin.jpg",
+            "base": {
+                "hp": 40,
+                "attack": 45,
+                "defense": 40,
+                "spAttack": 62,
+                "spDefense": 60,
+                "speed": 60
+            },
+            "description": "En cas de coup de fatigue, il grignote des rameaux pour recharger ses batteries. Ses oreilles d\u00e9gagent une chaleur qui d\u00e9passe les 200 \u00b0C.",
+            "abilities": [
+                44,
+                167
+            ]
+        }
+    ]
+}

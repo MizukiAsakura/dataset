@@ -1,0 +1,27 @@
+{
+    "number": 313,
+    "name": "Muciole",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "bug"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/volbeat.jpg",
+            "base": {
+                "hp": 65,
+                "attack": 73,
+                "defense": 75,
+                "spAttack": 47,
+                "spDefense": 85,
+                "speed": 85
+            },
+            "description": "A la tomb\u00e9e de la nuit, la queue de MUCIOLE \u00e9met de la lumi\u00e8re. Il communique avec les autres en ajustant l'intensit\u00e9 et le clignotement de sa lumi\u00e8re. Ce POK\u00e9MON est attir\u00e9 par le doux parfum de LUMIVOLE.",
+            "abilities": [
+                165,
+                111,
+                116
+            ]
+        }
+    ]
+}

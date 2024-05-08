@@ -1,0 +1,48 @@
+{
+    "number": 77,
+    "name": "Ponyta",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fire"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/ponyta.jpg",
+            "base": {
+                "hp": 50,
+                "attack": 85,
+                "defense": 55,
+                "spAttack": 65,
+                "spDefense": 65,
+                "speed": 90
+            },
+            "description": "\u00c0 sa naissance, Ponyta est tr\u00e8s faible. Il peut \u00e0 peine tenir debout. Ce Pok\u00e9mon se muscle en tr\u00e9buchant et en tombant, lorsqu'il essaie de suivre ses parents.",
+            "abilities": [
+                128,
+                281,
+                67
+            ]
+        },
+        {
+            "name": "galar",
+            "types": [
+                "psy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/ponyta-galarian.jpg",
+            "base": {
+                "hp": 50,
+                "attack": 85,
+                "defense": 55,
+                "spAttack": 65,
+                "spDefense": 65,
+                "speed": 90
+            },
+            "description": "\u00c0 sa naissance, Ponyta est tr\u00e8s faible. Il peut \u00e0 peine tenir debout. Ce Pok\u00e9mon se muscle en tr\u00e9buchant et en tombant, lorsqu'il essaie de suivre ses parents.",
+            "abilities": [
+                128,
+                293,
+                18
+            ]
+        }
+    ]
+}

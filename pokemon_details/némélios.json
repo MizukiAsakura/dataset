@@ -1,0 +1,28 @@
+{
+    "number": 668,
+    "name": "N\u00e9m\u00e9lios",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fire",
+                "normal"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/pyroar.jpg",
+            "base": {
+                "hp": 86,
+                "attack": 68,
+                "defense": 72,
+                "spAttack": 109,
+                "spDefense": 66,
+                "speed": 106
+            },
+            "description": "Le m\u00e2le a tendance \u00e0 se pr\u00e9lasser \u00e0 longueur de journ\u00e9e. Si un ennemi surgit, en revanche, il d\u00e9fend ses cong\u00e9n\u00e8res au p\u00e9ril de sa vie.",
+            "abilities": [
+                244,
+                273,
+                151
+            ]
+        }
+    ]
+}

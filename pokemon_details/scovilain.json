@@ -1,0 +1,28 @@
+{
+    "number": 952,
+    "name": "Scovilain",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "grass",
+                "fire"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/scovillain.jpg",
+            "base": {
+                "hp": 65,
+                "attack": 108,
+                "defense": 65,
+                "spAttack": 108,
+                "spDefense": 65,
+                "speed": 75
+            },
+            "description": "Sa t\u00eate verte est agressive \u00e0 cause des substances \u00e9pic\u00e9es qui stimulent son cerveau. Quand elle s'\u00e9nerve, rien ne peut l'arr\u00eater.",
+            "abilities": [
+                56,
+                155,
+                166
+            ]
+        }
+    ]
+}

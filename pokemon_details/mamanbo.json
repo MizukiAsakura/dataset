@@ -1,0 +1,27 @@
+{
+    "number": 594,
+    "name": "Mamanbo",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/alomomola.jpg",
+            "base": {
+                "hp": 165,
+                "attack": 75,
+                "defense": 80,
+                "spAttack": 40,
+                "spDefense": 45,
+                "speed": 65
+            },
+            "description": "Il se laisse d\u00e9river au gr\u00e9 des courants oc\u00e9aniques profonds. De nombreux Pok\u00e9mon Eau se rassemblent toujours autour de lui.",
+            "abilities": [
+                143,
+                60,
+                241
+            ]
+        }
+    ]
+}

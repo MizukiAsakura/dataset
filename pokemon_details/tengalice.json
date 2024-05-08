@@ -1,0 +1,28 @@
+{
+    "number": 275,
+    "name": "Tengalice",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "grass",
+                "dark"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/shiftry.jpg",
+            "base": {
+                "hp": 90,
+                "attack": 100,
+                "defense": 60,
+                "spAttack": 90,
+                "spDefense": 60,
+                "speed": 80
+            },
+            "description": "Les grands \u00e9ventails de TENGALICE peuvent d\u00e9clencher des bourrasques de vent allant jusqu'\u00e0 30 m/s. Le vent d\u00e9cha\u00een\u00e9 peut tout envoyer balader. Ce POK\u00e9MON a choisi de vivre tranquillement dans la for\u00eat.",
+            "abilities": [
+                56,
+                171,
+                210
+            ]
+        }
+    ]
+}

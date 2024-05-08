@@ -1,0 +1,26 @@
+{
+    "number": 466,
+    "name": "\u00c9lekable",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "electrik"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/electivire.jpg",
+            "base": {
+                "hp": 75,
+                "attack": 123,
+                "defense": 67,
+                "spAttack": 95,
+                "spDefense": 85,
+                "speed": 95
+            },
+            "description": "La quantit\u00e9 d\u2019\u00e9lectricit\u00e9 qu\u2019il g\u00e9n\u00e8re est \u00e9norme, m\u00eame pour un Pok\u00e9mon \u00c9lectrik. Il inflige de fortes d\u00e9charges du bout de ses queues.",
+            "abilities": [
+                260,
+                110
+            ]
+        }
+    ]
+}

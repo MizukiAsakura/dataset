@@ -1,0 +1,27 @@
+{
+    "number": 703,
+    "name": "Strassie",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "rock",
+                "fairy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/carbink.jpg",
+            "base": {
+                "hp": 50,
+                "attack": 50,
+                "defense": 150,
+                "spAttack": 50,
+                "spDefense": 150,
+                "speed": 50
+            },
+            "description": "Ce Pok\u00e9mon \u00e9limine les ennemis qui l\u2019attaquent en projetant un laser d\u2019\u00e9nergie g\u00e9n\u00e9r\u00e9 par les pierres pr\u00e9cieuses incrust\u00e9es dans son corps.",
+            "abilities": [
+                73,
+                117
+            ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "number": 984,
+    "name": "Fort-Ivoire",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "ground",
+                "fight"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/great-tusk.jpg",
+            "base": {
+                "hp": 115,
+                "attack": 131,
+                "defense": 131,
+                "spAttack": 53,
+                "spDefense": 53,
+                "speed": 87
+            },
+            "description": "Il ressemble \u00e0 un Pok\u00e9mon myst\u00e9rieux qui, selon une revue consacr\u00e9e aux ph\u00e9nom\u00e8nes paranormaux, existerait depuis la nuit des temps.",
+            "abilities": [
+                198
+            ]
+        }
+    ]
+}

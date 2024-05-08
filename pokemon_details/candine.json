@@ -1,0 +1,27 @@
+{
+    "number": 762,
+    "name": "Candine",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "grass"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/steenee.jpg",
+            "base": {
+                "hp": 52,
+                "attack": 40,
+                "defense": 48,
+                "spAttack": 40,
+                "spDefense": 48,
+                "speed": 62
+            },
+            "description": "Il passe son temps \u00e0 gambader joyeusement. Sa silhouette pleine d\u2019entrain et son parfum agr\u00e9able ont le don d\u2019attirer les autres Pok\u00e9mon.",
+            "abilities": [
+                118,
+                35,
+                136
+            ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "number": 148,
+    "name": "Draco",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "dragon"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/dragonair.jpg",
+            "base": {
+                "hp": 61,
+                "attack": 84,
+                "defense": 65,
+                "spAttack": 70,
+                "spDefense": 70,
+                "speed": 70
+            },
+            "description": "Draco stocke une quantit\u00e9 d'\u00e9nergie consid\u00e9rable dans son corps. On raconte qu'il peut modifier les conditions climatiques autour de lui en d\u00e9chargeant l'\u00e9nergie contenue dans les cristaux de son cou et de sa queue.",
+            "abilities": [
+                186,
+                96
+            ]
+        }
+    ]
+}

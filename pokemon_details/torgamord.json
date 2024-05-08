@@ -1,0 +1,28 @@
+{
+    "number": 834,
+    "name": "Torgamord",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water",
+                "ground"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/drednaw.jpg",
+            "base": {
+                "hp": 90,
+                "attack": 115,
+                "defense": 90,
+                "spAttack": 48,
+                "spDefense": 68,
+                "speed": 74
+            },
+            "description": "Son cou extensible lui permet d\u2019atteindre des ennemis \u00e9loign\u00e9s en un instant pour leur porter un coup d\u00e9cisif avec ses crocs aiguis\u00e9s.",
+            "abilities": [
+                227,
+                66,
+                134
+            ]
+        }
+    ]
+}

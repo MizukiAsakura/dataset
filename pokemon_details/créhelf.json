@@ -1,0 +1,25 @@
+{
+    "number": 480,
+    "name": "Cr\u00e9helf",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "psy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/uxie.jpg",
+            "base": {
+                "hp": 75,
+                "attack": 75,
+                "defense": 130,
+                "spAttack": 75,
+                "spDefense": 130,
+                "speed": 95
+            },
+            "description": "On l\u2019appelle \u00ab l\u2019\u00eatre du savoir \u00bb. On dit qu\u2019il a le pouvoir d\u2019effacer la m\u00e9moire de ceux qui croisent son regard.",
+            "abilities": [
+                162
+            ]
+        }
+    ]
+}

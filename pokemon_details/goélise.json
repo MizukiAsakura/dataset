@@ -1,0 +1,28 @@
+{
+    "number": 278,
+    "name": "Go\u00e9lise",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water",
+                "fly"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/wingull.jpg",
+            "base": {
+                "hp": 40,
+                "attack": 30,
+                "defense": 30,
+                "spAttack": 55,
+                "spDefense": 30,
+                "speed": 85
+            },
+            "description": "GOELISE a l'habitude de transporter ses proies et ses objets de valeur dans son bec avant de les cacher. Ce POK\u00e9MON se laisse porter par le vent et vole comme s'il surfait dans les cieux.",
+            "abilities": [
+                240,
+                143,
+                83
+            ]
+        }
+    ]
+}

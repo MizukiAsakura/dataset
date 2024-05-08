@@ -1,0 +1,94 @@
+{
+    "number": 710,
+    "name": "Pitrouille",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "ghost",
+                "grass"
+            ],
+            "image": "https://img.pokemondb.net/artwork/pumpkaboo.jpg",
+            "base": {
+                "hp": 49,
+                "attack": 66,
+                "defense": 70,
+                "spAttack": 44,
+                "spDefense": 55,
+                "speed": 51
+            },
+            "description": "Ce Pok\u00e9mon est n\u00e9 du mariage d\u2019un esprit pi\u00e9g\u00e9 dans le monde des vivants et d\u2019une citrouille. Il commence \u00e0 s\u2019animer au coucher du soleil.",
+            "abilities": [
+                235,
+                126,
+                155
+            ]
+        },
+        {
+            "name": "mini",
+            "types": [
+                "ghost",
+                "grass"
+            ],
+            "image": "https://img.pokemondb.net/artwork/pumpkaboo.jpg",
+            "base": {
+                "hp": 44,
+                "attack": 66,
+                "defense": 70,
+                "spAttack": 44,
+                "spDefense": 55,
+                "speed": 56
+            },
+            "description": "Ce Pok\u00e9mon est n\u00e9 du mariage d\u2019un esprit pi\u00e9g\u00e9 dans le monde des vivants et d\u2019une citrouille. Il commence \u00e0 s\u2019animer au coucher du soleil.",
+            "abilities": [
+                235,
+                126,
+                155
+            ]
+        },
+        {
+            "name": "maxi",
+            "types": [
+                "ghost",
+                "grass"
+            ],
+            "image": "https://img.pokemondb.net/artwork/pumpkaboo.jpg",
+            "base": {
+                "hp": 54,
+                "attack": 66,
+                "defense": 70,
+                "spAttack": 44,
+                "spDefense": 55,
+                "speed": 46
+            },
+            "description": "Ce Pok\u00e9mon est n\u00e9 du mariage d\u2019un esprit pi\u00e9g\u00e9 dans le monde des vivants et d\u2019une citrouille. Il commence \u00e0 s\u2019animer au coucher du soleil.",
+            "abilities": [
+                235,
+                126,
+                155
+            ]
+        },
+        {
+            "name": "ultra",
+            "types": [
+                "ghost",
+                "grass"
+            ],
+            "image": "https://img.pokemondb.net/artwork/pumpkaboo.jpg",
+            "base": {
+                "hp": 59,
+                "attack": 66,
+                "defense": 70,
+                "spAttack": 44,
+                "spDefense": 55,
+                "speed": 41
+            },
+            "description": "Ce Pok\u00e9mon est n\u00e9 du mariage d\u2019un esprit pi\u00e9g\u00e9 dans le monde des vivants et d\u2019une citrouille. Il commence \u00e0 s\u2019animer au coucher du soleil.",
+            "abilities": [
+                235,
+                126,
+                155
+            ]
+        }
+    ]
+}

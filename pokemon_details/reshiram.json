@@ -1,0 +1,26 @@
+{
+    "number": 643,
+    "name": "Reshiram",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "dragon",
+                "fire"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/reshiram.jpg",
+            "base": {
+                "hp": 100,
+                "attack": 120,
+                "defense": 100,
+                "spAttack": 150,
+                "spDefense": 120,
+                "speed": 90
+            },
+            "description": "Selon un mythe, lorsque les gens ne font aucun cas de la R\u00e9alit\u00e9 et s\u2019abandonnent \u00e0 la cupidit\u00e9, Reshiram rase le pays entier avec ses flammes.",
+            "abilities": [
+                288
+            ]
+        }
+    ]
+}

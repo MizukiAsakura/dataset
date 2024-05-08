@@ -1,0 +1,27 @@
+{
+    "number": 118,
+    "name": "Poissir\u00e8ne",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/goldeen.jpg",
+            "base": {
+                "hp": 45,
+                "attack": 67,
+                "defense": 60,
+                "spAttack": 35,
+                "spDefense": 50,
+                "speed": 63
+            },
+            "description": "Poissir\u00e8ne est un Pok\u00e9mon magnifique dot\u00e9 de nageoires qui ondulent \u00e9l\u00e9gamment dans les profondeurs. Il ne faut pourtant pas baisser sa garde face \u00e0 ce Pok\u00e9mon, car il peut charger avec sa puissante corne.",
+            "abilities": [
+                134,
+                147,
+                199
+            ]
+        }
+    ]
+}

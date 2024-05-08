@@ -1,0 +1,27 @@
+{
+    "number": 914,
+    "name": "Palmaval",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water",
+                "fight"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/quaquaval.jpg",
+            "base": {
+                "hp": 85,
+                "attack": 120,
+                "defense": 80,
+                "spAttack": 85,
+                "spDefense": 75,
+                "speed": 85
+            },
+            "description": "Sa danse insolite est captivante. Il met ses adversaires en pi\u00e8ces \u00e0 l'aide de ses plumes ornementales compos\u00e9es d'eau.",
+            "abilities": [
+                282,
+                151
+            ]
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "number": 301,
+    "name": "Delcatty",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/delcatty.jpg",
+            "base": {
+                "hp": 70,
+                "attack": 65,
+                "defense": 65,
+                "spAttack": 55,
+                "spDefense": 55,
+                "speed": 90
+            },
+            "description": "DELCATTY pr\u00e9f\u00e8re vivre une existence sans contraintes, au cours de laquelle chacun pourrait faire ce qu'il veut. Comme ce POK\u00e9MON mange et dort quand il le d\u00e9cide, son rythme de vie est totalement al\u00e9atoire.",
+            "abilities": [
+                158,
+                192,
+                206
+            ]
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "number": 49,
+    "name": "A\u00e9romite",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "bug",
+                "poison"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/venomoth.jpg",
+            "base": {
+                "hp": 70,
+                "attack": 65,
+                "defense": 60,
+                "spAttack": 90,
+                "spDefense": 75,
+                "speed": 90
+            },
+            "description": "A\u00e9romite est un Pok\u00e9mon nocturne, il ne sort donc que la nuit. Ses proies pr\u00e9f\u00e9r\u00e9es sont les petits insectes qui se rassemblent autour des r\u00e9verb\u00e8res, attir\u00e9s par la lumi\u00e8re.",
+            "abilities": [
+                100,
+                161,
+                206
+            ]
+        }
+    ]
+}

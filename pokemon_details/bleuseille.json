@@ -1,0 +1,27 @@
+{
+    "number": 822,
+    "name": "Bleuseille",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fly"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/corvisquire.jpg",
+            "base": {
+                "hp": 68,
+                "attack": 67,
+                "defense": 55,
+                "spAttack": 43,
+                "spDefense": 55,
+                "speed": 77
+            },
+            "description": "Il est capable d\u2019utiliser des objets avec ses serres : il peut par exemple saisir et lancer des pierres ou m\u00eame enrouler une corde autour d\u2019un ennemi.",
+            "abilities": [
+                240,
+                273,
+                58
+            ]
+        }
+    ]
+}

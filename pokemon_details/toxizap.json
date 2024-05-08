@@ -1,0 +1,28 @@
+{
+    "number": 848,
+    "name": "Toxizap",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "electrik",
+                "poison"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/toxel.jpg",
+            "base": {
+                "hp": 40,
+                "attack": 38,
+                "defense": 35,
+                "spAttack": 54,
+                "spDefense": 35,
+                "speed": 40
+            },
+            "description": "Par un proc\u00e9d\u00e9 chimique, il change son poison en \u00e9lectricit\u00e9. L\u2019intensit\u00e9 du courant est faible, mais peut engourdir un ennemi.",
+            "abilities": [
+                209,
+                260,
+                169
+            ]
+        }
+    ]
+}

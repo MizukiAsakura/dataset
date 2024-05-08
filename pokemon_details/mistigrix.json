@@ -1,0 +1,48 @@
+{
+    "number": 678,
+    "name": "Mistigrix",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "psy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/meowstic-male.jpg",
+            "base": {
+                "hp": 74,
+                "attack": 48,
+                "defense": 76,
+                "spAttack": 83,
+                "spDefense": 81,
+                "speed": 104
+            },
+            "description": "Les motifs en forme d\u2019yeux \u00e0 l\u2019int\u00e9rieur de ses oreilles \u00e9mettent une force psychique tellement puissante qu\u2019il est contraint de les garder couverts",
+            "abilities": [
+                154,
+                240,
+                116
+            ]
+        },
+        {
+            "name": "femelle",
+            "types": [
+                "psy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/meowstic-female.jpg",
+            "base": {
+                "hp": 74,
+                "attack": 48,
+                "defense": 76,
+                "spAttack": 83,
+                "spDefense": 81,
+                "speed": 104
+            },
+            "description": "Les femelles sont un peu plus agressives et \u00e9go\u00efstes que les m\u00e2les. Quand elles sont f\u00e2ch\u00e9es, elles se vengent avec leurs pouvoirs psychiques.",
+            "abilities": [
+                154,
+                240,
+                33
+            ]
+        }
+    ]
+}

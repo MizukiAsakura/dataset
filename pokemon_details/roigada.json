@@ -1,0 +1,50 @@
+{
+    "number": 199,
+    "name": "Roigada",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water",
+                "psy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/slowking.jpg",
+            "base": {
+                "hp": 95,
+                "attack": 75,
+                "defense": 80,
+                "spAttack": 100,
+                "spDefense": 110,
+                "speed": 30
+            },
+            "description": "Tous les jours, ROIGADA entreprend des recherches pour r\u00e9soudre les myst\u00e8res du monde. Cependant, ce POK\u00e9MON oublie tout ce qu'il a appris si le KOKIYAS qui se trouve sur sa t\u00eate s'en va.",
+            "abilities": [
+                35,
+                272,
+                241
+            ]
+        },
+        {
+            "name": "galar",
+            "types": [
+                "poison",
+                "psy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/slowking-galarian.jpg",
+            "base": {
+                "hp": 95,
+                "attack": 65,
+                "defense": 80,
+                "spAttack": 110,
+                "spDefense": 110,
+                "speed": 30
+            },
+            "description": "Le choc de l\u2019\u00e9volution et les toxines ont d\u00e9cupl\u00e9 l\u2019intelligence du Kokiyas, si bien qu\u2019il contr\u00f4le d\u00e9sormais le Roigada qu\u2019il parasite. Il m\u00e9lange ce qu\u2019il ing\u00e8re aux toxines produites par son corps, tout en r\u00e9citant de myst\u00e9rieuses incantations, afin de cr\u00e9er un \u00e9trange breuvage.",
+            "abilities": [
+                45,
+                272,
+                241
+            ]
+        }
+    ]
+}

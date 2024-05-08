@@ -1,0 +1,28 @@
+{
+    "number": 973,
+    "name": "Flamenroule",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fly",
+                "fight"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/flamigo.jpg",
+            "base": {
+                "hp": 82,
+                "attack": 115,
+                "defense": 74,
+                "spAttack": 75,
+                "spDefense": 64,
+                "speed": 90
+            },
+            "description": "Leur capacit\u00e9 \u00e0 se synchroniser permet \u00e0 toute une vol\u00e9e d'attaquer parfaitement \u00e0 l'unisson.",
+            "abilities": [
+                232,
+                211,
+                62
+            ]
+        }
+    ]
+}

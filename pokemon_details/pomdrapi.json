@@ -1,0 +1,28 @@
+{
+    "number": 841,
+    "name": "Pomdrapi",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "grass",
+                "dragon"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/flapple.jpg",
+            "base": {
+                "hp": 70,
+                "attack": 110,
+                "defense": 80,
+                "spAttack": 95,
+                "spDefense": 60,
+                "speed": 70
+            },
+            "description": "Il a \u00e9volu\u00e9 apr\u00e8s avoir mang\u00e9 une pomme acide. Il concentre dans ses joues un liquide si corrosif qu\u2019il peut provoquer des br\u00fblures.",
+            "abilities": [
+                190,
+                135,
+                8
+            ]
+        }
+    ]
+}

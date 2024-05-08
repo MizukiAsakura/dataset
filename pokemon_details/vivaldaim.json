@@ -1,0 +1,28 @@
+{
+    "number": 585,
+    "name": "Vivaldaim",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal",
+                "grass"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/deerling.jpg",
+            "base": {
+                "hp": 60,
+                "attack": 60,
+                "defense": 50,
+                "spAttack": 40,
+                "spDefense": 50,
+                "speed": 75
+            },
+            "description": "Son pelage change selon la saison, et dans une moindre mesure en fonction de l\u2019humidit\u00e9 et de la temp\u00e9rature.",
+            "abilities": [
+                56,
+                141,
+                252
+            ]
+        }
+    ]
+}

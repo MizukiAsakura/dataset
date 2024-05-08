@@ -1,0 +1,27 @@
+{
+    "number": 250,
+    "name": "Ho-Oh",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fire",
+                "fly"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/ho-oh.jpg",
+            "base": {
+                "hp": 106,
+                "attack": 130,
+                "defense": 90,
+                "spAttack": 110,
+                "spDefense": 154,
+                "speed": 90
+            },
+            "description": "Les plumes de HO-OH brillent de sept couleurs selon l'orientation de son corps par rapport \u00e0 la lumi\u00e8re. On raconte que ces plumes portent bonheur. On dit aussi que ce POK\u00e9MON vit au pied d'un arc-en-ciel.",
+            "abilities": [
+                223,
+                241
+            ]
+        }
+    ]
+}

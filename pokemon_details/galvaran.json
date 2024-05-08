@@ -1,0 +1,28 @@
+{
+    "number": 694,
+    "name": "Galvaran",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "electrik",
+                "normal"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/helioptile.jpg",
+            "base": {
+                "hp": 44,
+                "attack": 38,
+                "defense": 33,
+                "spAttack": 61,
+                "spDefense": 43,
+                "speed": 70
+            },
+            "description": "Les plis de peau de chaque c\u00f4t\u00e9 de sa t\u00eate sont dot\u00e9s de cellules produisant de l\u2019\u00e9lectricit\u00e9 quand elles sont expos\u00e9es \u00e0 la lumi\u00e8re du soleil.",
+            "abilities": [
+                207,
+                294,
+                124
+            ]
+        }
+    ]
+}

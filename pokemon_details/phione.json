@@ -1,0 +1,25 @@
+{
+    "number": 489,
+    "name": "Phione",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/phione.jpg",
+            "base": {
+                "hp": 80,
+                "attack": 80,
+                "defense": 80,
+                "spAttack": 80,
+                "spDefense": 80,
+                "speed": 80
+            },
+            "description": "Ce Pok\u00e9mon vit dans les mers chaudes et gonfle l\u2019organe de flottaison sur sa t\u00eate pour nager au creux des vagues, en qu\u00eate de nourriture.",
+            "abilities": [
+                143
+            ]
+        }
+    ]
+}

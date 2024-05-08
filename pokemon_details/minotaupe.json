@@ -1,0 +1,28 @@
+{
+    "number": 530,
+    "name": "Minotaupe",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "ground",
+                "steel"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/excadrill.jpg",
+            "base": {
+                "hp": 110,
+                "attack": 135,
+                "defense": 60,
+                "spAttack": 50,
+                "spDefense": 65,
+                "speed": 88
+            },
+            "description": "Ses vrilles en acier peuvent transpercer des poutres en fer. Il est tr\u00e8s employ\u00e9 dans la construction de tunnels.",
+            "abilities": [
+                30,
+                124,
+                46
+            ]
+        }
+    ]
+}

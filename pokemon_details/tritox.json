@@ -1,0 +1,27 @@
+{
+    "number": 757,
+    "name": "Tritox",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "poison",
+                "fire"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/salandit.jpg",
+            "base": {
+                "hp": 48,
+                "attack": 44,
+                "defense": 40,
+                "spAttack": 71,
+                "spDefense": 40,
+                "speed": 77
+            },
+            "description": "Habitant des volcans et des r\u00e9gions rocheuses arides, il exhale un gaz toxique au parfum doux pour attirer et pi\u00e9ger les Pok\u00e9mon Insecte.",
+            "abilities": [
+                74,
+                35
+            ]
+        }
+    ]
+}

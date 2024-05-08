@@ -1,0 +1,27 @@
+{
+    "number": 113,
+    "name": "Leveinard",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/chansey.jpg",
+            "base": {
+                "hp": 250,
+                "attack": 5,
+                "defense": 5,
+                "spAttack": 35,
+                "spDefense": 105,
+                "speed": 50
+            },
+            "description": "Leveinard pond tous les jours des \u0153ufs pleins de vitamines. Ces \u0153ufs sont tellement bons que les gens les mangent m\u00eame quand ils n'ont pas faim.",
+            "abilities": [
+                174,
+                252,
+                60
+            ]
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "number": 745,
+    "name": "Lougaroc",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "rock"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/lycanroc-midday.jpg",
+            "base": {
+                "hp": 75,
+                "attack": 115,
+                "defense": 65,
+                "spAttack": 55,
+                "spDefense": 65,
+                "speed": 112
+            },
+            "description": "Il fait tourner en bourrique ses ennemis \u00e0 cause de sa vitesse. Outre ses crocs et ses griffes, il peut compter sur le roc ac\u00e9r\u00e9 de sa crini\u00e8re.",
+            "abilities": [
+                240,
+                30,
+                149
+            ]
+        },
+        {
+            "name": "nocturne",
+            "types": [
+                "rock"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/lycanroc-midnight.jpg",
+            "base": {
+                "hp": 85,
+                "attack": 115,
+                "defense": 75,
+                "spAttack": 55,
+                "spDefense": 75,
+                "speed": 82
+            },
+            "description": "Plus son adversaire est fort, plus il est combatif. Son coup de t\u00eate meurtrier peut r\u00e9duire un rocher immense en poussi\u00e8re.",
+            "abilities": [
+                240,
+                110,
+                16
+            ]
+        },
+        {
+            "name": "cr\u00e9puscule",
+            "types": [
+                "rock"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/lycanroc-dusk.jpg",
+            "base": {
+                "hp": 75,
+                "attack": 117,
+                "defense": 65,
+                "spAttack": 55,
+                "spDefense": 65,
+                "speed": 110
+            },
+            "description": "Ce Pok\u00e9mon \u00e0 l\u2019attitude r\u00e9fl\u00e9chie sait aussi \u00eatre f\u00e9roce. Il est difficile \u00e0 satisfaire, et donc compliqu\u00e9 \u00e0 apprivoiser.",
+            "abilities": [
+                139
+            ]
+        }
+    ]
+}

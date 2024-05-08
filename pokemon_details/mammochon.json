@@ -1,0 +1,28 @@
+{
+    "number": 473,
+    "name": "Mammochon",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "ice",
+                "ground"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/mamoswine.jpg",
+            "base": {
+                "hp": 110,
+                "attack": 130,
+                "defense": 80,
+                "spAttack": 70,
+                "spDefense": 60,
+                "speed": 80
+            },
+            "description": "Comme son physique le laisse deviner, il est tr\u00e8s fort. La taille de ses d\u00e9fenses de glace augmente \u00e0 mesure que la temp\u00e9rature baisse.",
+            "abilities": [
+                35,
+                243,
+                157
+            ]
+        }
+    ]
+}

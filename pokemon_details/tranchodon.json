@@ -1,0 +1,27 @@
+{
+    "number": 612,
+    "name": "Tranchodon",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "dragon"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/haxorus.jpg",
+            "base": {
+                "hp": 76,
+                "attack": 147,
+                "defense": 90,
+                "spAttack": 60,
+                "spDefense": 70,
+                "speed": 97
+            },
+            "description": "D\u2019un naturel doux, il est cependant redoutable lorsqu\u2019il se f\u00e2che. Il est tr\u00e8s fier de ses crocs qui peuvent m\u00eame d\u00e9couper des poutres d\u2019acier.",
+            "abilities": [
+                244,
+                46,
+                273
+            ]
+        }
+    ]
+}

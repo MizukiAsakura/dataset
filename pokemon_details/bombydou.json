@@ -1,0 +1,28 @@
+{
+    "number": 742,
+    "name": "Bombydou",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "bug",
+                "fairy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/cutiefly.jpg",
+            "base": {
+                "hp": 40,
+                "attack": 45,
+                "defense": 40,
+                "spAttack": 55,
+                "spDefense": 40,
+                "speed": 84
+            },
+            "description": "Il se nourrit du nectar et du pollen des fleurs. Ayant la capacit\u00e9 de percevoir l\u2019aura des choses, il sait quelles fleurs vont bient\u00f4t \u00e9clore.",
+            "abilities": [
+                54,
+                100,
+                136
+            ]
+        }
+    ]
+}

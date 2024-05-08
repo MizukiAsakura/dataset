@@ -1,0 +1,28 @@
+{
+    "number": 282,
+    "name": "Gardevoir",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "psy",
+                "fairy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/gardevoir.jpg",
+            "base": {
+                "hp": 68,
+                "attack": 65,
+                "defense": 65,
+                "spAttack": 125,
+                "spDefense": 115,
+                "speed": 80
+            },
+            "description": "GARDEVOIR est dot\u00e9 d'un pouvoir t\u00e9l\u00e9kin\u00e9sique lui permettant de d\u00e9former les dimensions et de cr\u00e9er un petit trou noir. Ce POK\u00e9MON est pr\u00eat \u00e0 risquer sa vie pour prot\u00e9ger son DRESSEUR.",
+            "abilities": [
+                265,
+                48,
+                270
+            ]
+        }
+    ]
+}

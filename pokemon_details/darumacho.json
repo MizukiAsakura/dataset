@@ -1,0 +1,88 @@
+{
+    "number": 555,
+    "name": "Darumacho",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fire"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/darmanitan.jpg",
+            "base": {
+                "hp": 105,
+                "attack": 140,
+                "defense": 55,
+                "spAttack": 30,
+                "spDefense": 55,
+                "speed": 95
+            },
+            "description": "Sa puissance augmente \u00e0 mesure que la flamme de son corps s\u2019intensifie. La temp\u00e9rature de celle-ci peut parfois d\u00e9passer les 1 400 \u00b0C.",
+            "abilities": [
+                248,
+                181
+            ]
+        },
+        {
+            "name": "transe",
+            "types": [
+                "fire",
+                "psy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/darmanitan-zen.jpg",
+            "base": {
+                "hp": 105,
+                "attack": 30,
+                "defense": 105,
+                "spAttack": 140,
+                "spDefense": 105,
+                "speed": 55
+            },
+            "description": "Entrer dans un \u00e9tat de m\u00e9ditation profonde lui permet de calmer son esprit et d\u2019accro\u00eetre la puissance de ses pouvoirs psychiques.",
+            "abilities": [
+                248,
+                181
+            ]
+        },
+        {
+            "name": "galar",
+            "types": [
+                "ice"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/darmanitan-galarian-standard.jpg",
+            "base": {
+                "hp": 105,
+                "attack": 140,
+                "defense": 55,
+                "spAttack": 30,
+                "spDefense": 55,
+                "speed": 95
+            },
+            "description": "Il conserve sa nourriture dans la boule de neige sur sa t\u00eate. Les jours de blizzard, il descend dans les villages habit\u00e9s par les humains.",
+            "abilities": [
+                105,
+                181
+            ]
+        },
+        {
+            "name": "transe galar",
+            "types": [
+                "ice",
+                "fire"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/darmanitan-galarian-zen.jpg",
+            "base": {
+                "hp": 105,
+                "attack": 160,
+                "defense": 55,
+                "spAttack": 30,
+                "spDefense": 55,
+                "speed": 135
+            },
+            "description": "Sa col\u00e8re a raviv\u00e9 sa poche \u00e0 flammes qui \u00e9tait cens\u00e9e \u00eatre atrophi\u00e9e. Il crache du feu dans tous les sens sans faire attention aux alentours",
+            "abilities": [
+                105,
+                181
+            ]
+        }
+    ]
+}

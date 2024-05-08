@@ -1,0 +1,27 @@
+{
+    "number": 655,
+    "name": "Goupelin",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fire",
+                "psy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/delphox.jpg",
+            "base": {
+                "hp": 75,
+                "attack": 69,
+                "defense": 72,
+                "spAttack": 114,
+                "spDefense": 100,
+                "speed": 104
+            },
+            "description": "Ses pouvoirs psychiques lui permettent de cr\u00e9er des tourbillons de flammes \u00e0 3000 \u00b0C qui enveloppent et consument ses ennemis.",
+            "abilities": [
+                44,
+                167
+            ]
+        }
+    ]
+}

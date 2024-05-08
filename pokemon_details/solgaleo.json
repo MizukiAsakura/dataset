@@ -1,0 +1,26 @@
+{
+    "number": 791,
+    "name": "Solgaleo",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "psy",
+                "steel"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/solgaleo.jpg",
+            "base": {
+                "hp": 137,
+                "attack": 137,
+                "defense": 107,
+                "spAttack": 113,
+                "spDefense": 89,
+                "speed": 97
+            },
+            "description": "On suppose que c\u2019est l\u2019\u00e9volution de Cosmog lorsqu\u2019il s\u2019agit d\u2019un m\u00e2le. Son troisi\u00e8me \u0153il appara\u00eet quand il s\u2019en va vers un autre monde.",
+            "abilities": [
+                176
+            ]
+        }
+    ]
+}

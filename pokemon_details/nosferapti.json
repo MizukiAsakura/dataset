@@ -1,0 +1,27 @@
+{
+    "number": 41,
+    "name": "Nosferapti",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "poison",
+                "fly"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/zubat.jpg",
+            "base": {
+                "hp": 40,
+                "attack": 45,
+                "defense": 35,
+                "spAttack": 30,
+                "spDefense": 40,
+                "speed": 55
+            },
+            "description": "Nosferapti reste calme et immobile dans un coin sombre pendant la journ\u00e9e. En effet, une exposition trop longue \u00e0 la lumi\u00e8re du soleil lui br\u00fble l\u00e9g\u00e8rement la peau.",
+            "abilities": [
+                26,
+                154
+            ]
+        }
+    ]
+}

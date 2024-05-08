@@ -1,0 +1,27 @@
+{
+    "number": 769,
+    "name": "Bacabouh",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "ghost",
+                "ground"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/sandygast.jpg",
+            "base": {
+                "hp": 55,
+                "attack": 55,
+                "defense": 80,
+                "spAttack": 70,
+                "spDefense": 45,
+                "speed": 15
+            },
+            "description": "Ceux qui ont le malheur de mettre la main dans sa gueule deviennent ses pantins. Il est pr\u00eat \u00e0 tout pour agrandir son corps en forme de dune.",
+            "abilities": [
+                246,
+                294
+            ]
+        }
+    ]
+}

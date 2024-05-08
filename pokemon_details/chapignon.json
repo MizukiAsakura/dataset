@@ -1,0 +1,28 @@
+{
+    "number": 286,
+    "name": "Chapignon",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "grass",
+                "fight"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/breloom.jpg",
+            "base": {
+                "hp": 60,
+                "attack": 130,
+                "defense": 80,
+                "spAttack": 60,
+                "spDefense": 60,
+                "speed": 70
+            },
+            "description": "CHAPIGNON se rapproche de son ennemi en se servant de son jeu de jambes, puis donne des coups de poing avec ses grands bras. La technique de combat de ce POK\u00e9MON est digne des meilleurs boxeurs.",
+            "abilities": [
+                220,
+                255,
+                212
+            ]
+        }
+    ]
+}

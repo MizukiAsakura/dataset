@@ -1,0 +1,28 @@
+{
+    "number": 850,
+    "name": "Grillepattes",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fire",
+                "bug"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/sizzlipede.jpg",
+            "base": {
+                "hp": 50,
+                "attack": 65,
+                "defense": 45,
+                "spAttack": 50,
+                "spDefense": 50,
+                "speed": 45
+            },
+            "description": "Il produit de la chaleur gr\u00e2ce au gaz inflammable qu\u2019il emmagasine dans son corps. La partie jaune de son abdomen est particuli\u00e8rement br\u00fblante.",
+            "abilities": [
+                281,
+                99,
+                67
+            ]
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "number": 186,
+    "name": "Tarpaud",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/politoed.jpg",
+            "base": {
+                "hp": 90,
+                "attack": 75,
+                "defense": 75,
+                "spAttack": 90,
+                "spDefense": 100,
+                "speed": 70
+            },
+            "description": "Le cheveu boucl\u00e9 sur la t\u00eate de TARPAUD est la preuve de son statut de roi. On raconte que plus son cheveu est long et boucl\u00e9, plus ce POK\u00e9MON est respect\u00e9 par ses semblables.",
+            "abilities": [
+                2,
+                182,
+                76
+            ]
+        }
+    ]
+}

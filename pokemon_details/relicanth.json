@@ -1,0 +1,28 @@
+{
+    "number": 369,
+    "name": "Relicanth",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water",
+                "rock"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/relicanth.jpg",
+            "base": {
+                "hp": 100,
+                "attack": 90,
+                "defense": 130,
+                "spAttack": 45,
+                "spDefense": 65,
+                "speed": 55
+            },
+            "description": "Les RELICANTH sont une esp\u00e8ce de POK\u00e9MON qui a exist\u00e9 pendant cent millions d'ann\u00e9es sans jamais changer de forme. Ce POK\u00e9MON antique se nourrit d'organismes microscopiques avec sa bouche \u00e9dent\u00e9e.",
+            "abilities": [
+                134,
+                276,
+                117
+            ]
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "number": 591,
+    "name": "Gaulet",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "grass",
+                "poison"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/amoonguss.jpg",
+            "base": {
+                "hp": 114,
+                "attack": 85,
+                "defense": 70,
+                "spAttack": 85,
+                "spDefense": 80,
+                "speed": 30
+            },
+            "description": "Si l\u2019on ne nettoie pas rapidement les spores empoisonn\u00e9es qu\u2019il r\u00e9pand, celles-ci donnent naissance \u00e0 des champignons.",
+            "abilities": [
+                220,
+                241
+            ]
+        }
+    ]
+}

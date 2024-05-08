@@ -1,0 +1,28 @@
+{
+    "number": 279,
+    "name": "Bekipan",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water",
+                "fly"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/pelipper.jpg",
+            "base": {
+                "hp": 60,
+                "attack": 50,
+                "defense": 100,
+                "spAttack": 95,
+                "spDefense": 70,
+                "speed": 65
+            },
+            "description": "BEKIPAN est un transporteur volant chargeant des petits POK\u00e9MON et des \u0153ufs dans son \u00e9norme bec. Ce POK\u00e9MON construit son nid sur les falaises, face \u00e0 la mer.",
+            "abilities": [
+                240,
+                143,
+                83
+            ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "number": 385,
+    "name": "Jirachi",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "steel",
+                "psy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/jirachi.jpg",
+            "base": {
+                "hp": 100,
+                "attack": 100,
+                "defense": 100,
+                "spAttack": 100,
+                "spDefense": 100,
+                "speed": 100
+            },
+            "description": "Une l\u00e9gende raconte qu'\u00e0 son r\u00e9veil, JIRACHI r\u00e9alise n'importe quel souhait inscrit sur les papiers coll\u00e9s sur sa t\u00eate. Si ce POK\u00e9MON se sent en danger, il se d\u00e9fend sans m\u00eame se r\u00e9veiller.",
+            "abilities": [
+                252
+            ]
+        }
+    ]
+}

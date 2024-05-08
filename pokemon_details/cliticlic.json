@@ -1,0 +1,27 @@
+{
+    "number": 601,
+    "name": "Cliticlic",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "steel"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/klinklang.jpg",
+            "base": {
+                "hp": 60,
+                "attack": 100,
+                "defense": 115,
+                "spAttack": 70,
+                "spDefense": 85,
+                "speed": 90
+            },
+            "description": "Il peut envoyer de terribles d\u00e9charges \u00e9lectriques de la pointe de ses pics. Il accumule de grandes quantit\u00e9s d\u2019\u00e9nergie dans son noyau rouge.",
+            "abilities": [
+                214,
+                179,
+                73
+            ]
+        }
+    ]
+}

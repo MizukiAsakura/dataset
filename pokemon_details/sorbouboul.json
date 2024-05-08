@@ -1,0 +1,27 @@
+{
+    "number": 584,
+    "name": "Sorbouboul",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "ice"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/vanilluxe.jpg",
+            "base": {
+                "hp": 71,
+                "attack": 95,
+                "defense": 85,
+                "spAttack": 110,
+                "spDefense": 95,
+                "speed": 79
+            },
+            "description": "Ses deux bouches peuvent souffler du blizzard. Sa capacit\u00e9 \u00e0 cr\u00e9er de la neige \u00e0 volont\u00e9 le rend populaire aupr\u00e8s des skieurs et snowboarders.",
+            "abilities": [
+                71,
+                243,
+                24
+            ]
+        }
+    ]
+}

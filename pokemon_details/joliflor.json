@@ -1,0 +1,26 @@
+{
+    "number": 182,
+    "name": "Joliflor",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "grass"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/bellossom.jpg",
+            "base": {
+                "hp": 75,
+                "attack": 80,
+                "defense": 95,
+                "spAttack": 90,
+                "spDefense": 100,
+                "speed": 50
+            },
+            "description": "Lorsque JOLIFLOR reste expos\u00e9 \u00e0 la lumi\u00e8re du soleil, les feuilles autour de son corps se mettent \u00e0 tournoyer. La danse de ce POK\u00e9MON est tr\u00e8s c\u00e9l\u00e8bre dans les r\u00e9gions du sud.",
+            "abilities": [
+                56,
+                60
+            ]
+        }
+    ]
+}

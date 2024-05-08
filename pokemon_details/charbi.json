@@ -1,0 +1,27 @@
+{
+    "number": 837,
+    "name": "Charbi",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "rock"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/rolycoly.jpg",
+            "base": {
+                "hp": 30,
+                "attack": 40,
+                "defense": 50,
+                "spAttack": 40,
+                "spDefense": 50,
+                "speed": 30
+            },
+            "description": "On l\u2019a d\u00e9couvert dans une mine il y a 400 ans. Son corps est presque enti\u00e8rement compos\u00e9 d\u2019une substance identique au charbon.",
+            "abilities": [
+                285,
+                146,
+                281
+            ]
+        }
+    ]
+}

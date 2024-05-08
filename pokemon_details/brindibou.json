@@ -1,0 +1,27 @@
+{
+    "number": 722,
+    "name": "Brindibou",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "grass",
+                "fly"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/rowlet.jpg",
+            "base": {
+                "hp": 68,
+                "attack": 55,
+                "defense": 55,
+                "spAttack": 50,
+                "spDefense": 50,
+                "speed": 42
+            },
+            "description": "Ce Pok\u00e9mon ne baisse jamais sa garde. Pendant la journ\u00e9e, il accumule de l\u2019\u00e9nergie par photosynth\u00e8se, pour mieux agir la nuit venue.",
+            "abilities": [
+                104,
+                164
+            ]
+        }
+    ]
+}

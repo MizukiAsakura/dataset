@@ -1,0 +1,27 @@
+{
+    "number": 60,
+    "name": "Ptitard",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/poliwag.jpg",
+            "base": {
+                "hp": 40,
+                "attack": 50,
+                "defense": 40,
+                "spAttack": 40,
+                "spDefense": 40,
+                "speed": 90
+            },
+            "description": "Ptitard a une peau tr\u00e8s fine. On peut m\u00eame voir les entrailles en spirale de ce Pok\u00e9mon \u00e0 travers sa peau. Malgr\u00e9 sa finesse, cette peau est aussi tr\u00e8s \u00e9lastique. M\u00eame les crocs les plus ac\u00e9r\u00e9s rebondissent dessus.",
+            "abilities": [
+                2,
+                182,
+                57
+            ]
+        }
+    ]
+}

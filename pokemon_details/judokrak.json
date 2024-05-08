@@ -1,0 +1,27 @@
+{
+    "number": 538,
+    "name": "Judokrak",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fight"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/throh.jpg",
+            "base": {
+                "hp": 120,
+                "attack": 100,
+                "defense": 85,
+                "spAttack": 30,
+                "spDefense": 85,
+                "speed": 45
+            },
+            "description": "Ils s\u2019entra\u00eenent intens\u00e9ment par groupes de cinq. Ceux qui ne peuvent pas suivre le rythme abandonnent leur ceinture et se retirent.",
+            "abilities": [
+                77,
+                26,
+                215
+            ]
+        }
+    ]
+}

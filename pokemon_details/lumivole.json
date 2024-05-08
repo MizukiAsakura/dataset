@@ -1,0 +1,27 @@
+{
+    "number": 314,
+    "name": "Lumivole",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "bug"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/illumise.jpg",
+            "base": {
+                "hp": 65,
+                "attack": 47,
+                "defense": 75,
+                "spAttack": 73,
+                "spDefense": 85,
+                "speed": 85
+            },
+            "description": "LUMIVOLE peut attirer un essaim de MUCIOLE gr\u00e2ce \u00e0 son doux parfum. Une fois les MUCIOLE rassembl\u00e9s, ce POK\u00e9MON dirige cette nu\u00e9e lumineuse et lui fait dessiner des figures g\u00e9om\u00e9triques dans la nuit \u00e9toil\u00e9e.",
+            "abilities": [
+                35,
+                161,
+                116
+            ]
+        }
+    ]
+}

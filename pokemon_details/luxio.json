@@ -1,0 +1,27 @@
+{
+    "number": 404,
+    "name": "Luxio",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "electrik"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/luxio.jpg",
+            "base": {
+                "hp": 60,
+                "attack": 85,
+                "defense": 49,
+                "spAttack": 60,
+                "spDefense": 49,
+                "speed": 60
+            },
+            "description": "L'\u00e9lectricit\u00e9 lib\u00e9r\u00e9e par ses griffes peut assommer l'ennemi. Il vit en petits groupes. Il pose ses pattes avant sur ses pairs et \u00e9met des impulsions avec ses griffes pour communiquer.",
+            "abilities": [
+                271,
+                244,
+                77
+            ]
+        }
+    ]
+}

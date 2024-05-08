@@ -1,0 +1,26 @@
+{
+    "number": 258,
+    "name": "Gobou",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/mudkip.jpg",
+            "base": {
+                "hp": 50,
+                "attack": 70,
+                "defense": 50,
+                "spAttack": 50,
+                "spDefense": 50,
+                "speed": 40
+            },
+            "description": "La nageoire sur la t\u00eate de GOBOU lui sert de radar hyper-sensible. Il l'utilise pour sentir les mouvements de l'eau et de l'air. Ainsi, ce POK\u00e9MON peut savoir ce qui se passe autour de lui sans avoir \u00e0 se servir de ses yeux.",
+            "abilities": [
+                282,
+                182
+            ]
+        }
+    ]
+}

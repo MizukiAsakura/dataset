@@ -1,0 +1,26 @@
+{
+    "number": 725,
+    "name": "Flamiaou",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fire"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/litten.jpg",
+            "base": {
+                "hp": 45,
+                "attack": 65,
+                "defense": 40,
+                "spAttack": 60,
+                "spDefense": 40,
+                "speed": 70
+            },
+            "description": "Les poils qu\u2019il avale pendant sa toilette br\u00fblent et forment une flamme dans son ventre. Celle-ci change selon la fa\u00e7on dont il la recrache.",
+            "abilities": [
+                44,
+                156
+            ]
+        }
+    ]
+}

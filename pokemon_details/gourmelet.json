@@ -1,0 +1,27 @@
+{
+    "number": 915,
+    "name": "Gourmelet",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/lechonk.jpg",
+            "base": {
+                "hp": 54,
+                "attack": 45,
+                "defense": 40,
+                "spAttack": 35,
+                "spDefense": 45,
+                "speed": 35
+            },
+            "description": "Il ne mange que des mets raffin\u00e9s. Son corps d\u00e9gage une odeur d'herbes que les Pok\u00e9mon Insecte ex\u00e8crent.",
+            "abilities": [
+                25,
+                135,
+                157
+            ]
+        }
+    ]
+}

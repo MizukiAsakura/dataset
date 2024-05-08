@@ -1,0 +1,27 @@
+{
+    "number": 443,
+    "name": "Griknot",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "dragon",
+                "ground"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/gible.jpg",
+            "base": {
+                "hp": 58,
+                "attack": 70,
+                "defense": 45,
+                "spAttack": 40,
+                "spDefense": 45,
+                "speed": 42
+            },
+            "description": "Il niche dans les petits trous horizontaux des murs des grottes. Il bondit pour saisir sa proie. Jadis, il vivait sous les tropiques. Il hante les grottes b\u00e9n\u00e9ficiant de la chaleur g\u00e9othermique.",
+            "abilities": [
+                294,
+                202
+            ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "number": 255,
+    "name": "Poussifeu",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fire"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/torchic.jpg",
+            "base": {
+                "hp": 45,
+                "attack": 60,
+                "defense": 40,
+                "spAttack": 70,
+                "spDefense": 50,
+                "speed": 45
+            },
+            "description": "POUSSIFEU ne l\u00e2che pas son DRESSEUR d'une semelle, marchant maladroitement derri\u00e8re lui. Ce POK\u00e9MON crache des flammes pouvant atteindre 1 000 degr\u00e9s et des boules de feu qui carbonisent l'ennemi.",
+            "abilities": [
+                44,
+                287
+            ]
+        }
+    ]
+}

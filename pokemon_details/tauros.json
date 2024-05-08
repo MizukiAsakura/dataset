@@ -1,0 +1,92 @@
+{
+    "number": 128,
+    "name": "Tauros",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/tauros.jpg",
+            "base": {
+                "hp": 75,
+                "attack": 100,
+                "defense": 95,
+                "spAttack": 40,
+                "spDefense": 70,
+                "speed": 110
+            },
+            "description": "Ce Pok\u00e9mon n'est pas satisfait s'il ne d\u00e9truit pas tout sur son passage. Lorsque Tauros ne trouve pas d'adversaire, il se rue sur de gros arbres et les d\u00e9racine pour passer ses nerfs.",
+            "abilities": [
+                156,
+                61,
+                248
+            ]
+        },
+        {
+            "name": "padea combative",
+            "types": [
+                "fight"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/tauros-paldean.jpg",
+            "base": {
+                "hp": 75,
+                "attack": 110,
+                "defense": 105,
+                "spAttack": 30,
+                "spDefense": 70,
+                "speed": 100
+            },
+            "description": "Le Tauros de la Race Combative se caract\u00e9rise par son temp\u00e9rament agressif et par ses muscles aussi puissants que d\u00e9velopp\u00e9s.",
+            "abilities": [
+                156,
+                61,
+                245
+            ]
+        },
+        {
+            "name": "paldea flamboyante",
+            "types": [
+                "fight",
+                "fire"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/tauros-blaze.jpg",
+            "base": {
+                "hp": 75,
+                "attack": 110,
+                "defense": 105,
+                "spAttack": 30,
+                "spDefense": 70,
+                "speed": 100
+            },
+            "description": "Le Tauros de la Race Flamboyante doit son nom au fait qu'il expire de l'air br\u00fblant par les naseaux. Il poss\u00e8de trois queues tress\u00e9es.",
+            "abilities": [
+                156,
+                61,
+                245
+            ]
+        },
+        {
+            "name": "paldea aquatique",
+            "types": [
+                "fight",
+                "water"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/tauros-aqua.jpg",
+            "base": {
+                "hp": 75,
+                "attack": 110,
+                "defense": 105,
+                "spAttack": 30,
+                "spDefense": 70,
+                "speed": 100
+            },
+            "description": "Le Tauros de la Race Aquatique expulse de l'eau par les cornes pour nager. Il se caract\u00e9rise par sa graisse abondante, qui lui permet de flotter.",
+            "abilities": [
+                156,
+                61,
+                245
+            ]
+        }
+    ]
+}

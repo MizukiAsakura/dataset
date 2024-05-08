@@ -1,0 +1,27 @@
+{
+    "number": 573,
+    "name": "Pashmilla",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/cinccino.jpg",
+            "base": {
+                "hp": 75,
+                "attack": 95,
+                "defense": 60,
+                "spAttack": 65,
+                "spDefense": 60,
+                "speed": 115
+            },
+            "description": "Il ne supporte pas de voir le moindre grain de poussi\u00e8re. Il utilise l\u2019huile qu\u2019il s\u00e9cr\u00e8te pour recouvrir son nid d\u2019un rev\u00eatement protecteur.",
+            "abilities": [
+                158,
+                268,
+                187
+            ]
+        }
+    ]
+}

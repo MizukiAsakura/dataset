@@ -1,0 +1,27 @@
+{
+    "number": 284,
+    "name": "Maskadra",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "bug",
+                "fly"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/masquerain.jpg",
+            "base": {
+                "hp": 70,
+                "attack": 60,
+                "defense": 62,
+                "spAttack": 100,
+                "spDefense": 82,
+                "speed": 80
+            },
+            "description": "MASKADRA intimide ses ennemis gr\u00e2ce aux motifs en forme de regard sur ses antennes. En battant des ailes, ce POK\u00e9MON peut voler librement dans toutes les directions, m\u00eame lat\u00e9ralement ou \u00e0 reculons.",
+            "abilities": [
+                156,
+                273
+            ]
+        }
+    ]
+}

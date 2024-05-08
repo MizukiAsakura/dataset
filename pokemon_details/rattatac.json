@@ -1,0 +1,49 @@
+{
+    "number": 20,
+    "name": "Rattatac",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/raticate.jpg",
+            "base": {
+                "hp": 55,
+                "attack": 81,
+                "defense": 60,
+                "spAttack": 50,
+                "spDefense": 70,
+                "speed": 97
+            },
+            "description": "Les crocs robustes de Rattatac poussent constamment. Pour \u00e9viter qu'ils raclent le sol, il se fait les dents sur des cailloux ou des troncs d'arbre. Il lui arrive m\u00eame de ronger les murs des maisons.",
+            "abilities": [
+                128,
+                77,
+                8
+            ]
+        },
+        {
+            "name": "alola",
+            "types": [
+                "dark",
+                "normal"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/raticate-alolan.jpg",
+            "base": {
+                "hp": 75,
+                "attack": 71,
+                "defense": 70,
+                "spAttack": 40,
+                "spDefense": 80,
+                "speed": 77
+            },
+            "description": "Les crocs robustes de Rattatac poussent constamment. Pour \u00e9viter qu'ils raclent le sol, il se fait les dents sur des cailloux ou des troncs d'arbre. Il lui arrive m\u00eame de ronger les murs des maisons.",
+            "abilities": [
+                135,
+                8,
+                157
+            ]
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "number": 535,
+    "name": "Tritonde",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/tympole.jpg",
+            "base": {
+                "hp": 50,
+                "attack": 50,
+                "defense": 40,
+                "spAttack": 50,
+                "spDefense": 40,
+                "speed": 64
+            },
+            "description": "Il communique avec ses compagnons en \u00e9mettant des ondes. Son cri d\u2019alerte est inaudible pour les humains et les autres Pok\u00e9mon.",
+            "abilities": [
+                134,
+                143,
+                2
+            ]
+        }
+    ]
+}

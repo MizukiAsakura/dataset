@@ -1,0 +1,27 @@
+{
+    "number": 735,
+    "name": "Argouste",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/gumshoos.jpg",
+            "base": {
+                "hp": 88,
+                "attack": 110,
+                "defense": 60,
+                "spAttack": 55,
+                "spDefense": 60,
+                "speed": 45
+            },
+            "description": "Il est accro au go\u00fbt des Rattata et Rattatac, mais n\u2019en croise pas beaucoup car ceux-ci sont nocturnes. Heureusement, il sait rester patient.",
+            "abilities": [
+                119,
+                227,
+                6
+            ]
+        }
+    ]
+}

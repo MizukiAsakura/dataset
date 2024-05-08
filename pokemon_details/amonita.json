@@ -1,0 +1,28 @@
+{
+    "number": 138,
+    "name": "Amonita",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "rock",
+                "water"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/omanyte.jpg",
+            "base": {
+                "hp": 35,
+                "attack": 40,
+                "defense": 100,
+                "spAttack": 90,
+                "spDefense": 55,
+                "speed": 35
+            },
+            "description": "Amonita est l'un des Pok\u00e9mon disparus depuis longtemps et qui furent ressuscit\u00e9s \u00e0 partir de fossiles. Lorsqu'il est attaqu\u00e9 par un ennemi, il se r\u00e9tracte dans sa coquille.",
+            "abilities": [
+                134,
+                66,
+                24
+            ]
+        }
+    ]
+}

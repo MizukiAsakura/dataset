@@ -1,0 +1,27 @@
+{
+    "number": 399,
+    "name": "Keunotor",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/bidoof.jpg",
+            "base": {
+                "hp": 59,
+                "attack": 45,
+                "defense": 40,
+                "spAttack": 35,
+                "spDefense": 40,
+                "speed": 31
+            },
+            "description": "Rien ne peut perturber ses nerfs d'acier. Il est plus agile et \u00e9nergique qu'il n'y para\u00eet. Il ronge constamment des troncs et des pierres pour se faire les incisives. Il niche le long de l'eau.",
+            "abilities": [
+                253,
+                153,
+                162
+            ]
+        }
+    ]
+}

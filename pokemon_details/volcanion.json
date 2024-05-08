@@ -1,0 +1,26 @@
+{
+    "number": 721,
+    "name": "Volcanion",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fire",
+                "water"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/volcanion.jpg",
+            "base": {
+                "hp": 80,
+                "attack": 110,
+                "defense": 120,
+                "spAttack": 130,
+                "spDefense": 90,
+                "speed": 70
+            },
+            "description": "Il \u00e9vacue la vapeur qui s\u2019accumule \u00e0 l\u2019int\u00e9rieur de son corps par les bras situ\u00e9s sur son dos. Ce jet est assez puissant pour raser des montagnes.",
+            "abilities": [
+                2
+            ]
+        }
+    ]
+}

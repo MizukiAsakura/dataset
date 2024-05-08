@@ -1,0 +1,25 @@
+{
+    "number": 874,
+    "name": "Dolman",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "rock"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/stonjourner.jpg",
+            "base": {
+                "hp": 100,
+                "attack": 125,
+                "defense": 135,
+                "spAttack": 20,
+                "spDefense": 20,
+                "speed": 70
+            },
+            "description": "Il se tient immobile au milieu des plaines et passe son temps \u00e0 observer la course du soleil dans le ciel. Son jeu de jambes est ph\u00e9nom\u00e9nal.",
+            "abilities": [
+                49
+            ]
+        }
+    ]
+}

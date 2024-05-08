@@ -1,0 +1,28 @@
+{
+    "number": 732,
+    "name": "Piclairon",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal",
+                "fly"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/trumbeak.jpg",
+            "base": {
+                "hp": 55,
+                "attack": 85,
+                "defense": 50,
+                "spAttack": 40,
+                "spDefense": 50,
+                "speed": 75
+            },
+            "description": "En d\u00e9formant son bec, il peut produire une ribambelle de sons diff\u00e9rents, plus bruyants les uns que les autres. Le cauchemar des voisins.",
+            "abilities": [
+                240,
+                187,
+                235
+            ]
+        }
+    ]
+}

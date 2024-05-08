@@ -1,0 +1,25 @@
+{
+    "number": 808,
+    "name": "Meltan",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "steel"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/meltan.jpg",
+            "base": {
+                "hp": 46,
+                "attack": 65,
+                "defense": 65,
+                "spAttack": 55,
+                "spDefense": 35,
+                "speed": 34
+            },
+            "description": "Les Meltan vivent en groupe. Quand l\u2019heure de l\u2019\u00e9volution a sonn\u00e9, le plus fort d\u2019entre eux absorbe ses camarades pour changer de forme.",
+            "abilities": [
+                168
+            ]
+        }
+    ]
+}

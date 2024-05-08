@@ -1,0 +1,28 @@
+{
+    "number": 740,
+    "name": "Crabominable",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fight",
+                "ice"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/crabominable.jpg",
+            "base": {
+                "hp": 97,
+                "attack": 132,
+                "defense": 77,
+                "spAttack": 62,
+                "spDefense": 67,
+                "speed": 43
+            },
+            "description": "Il concentre le froid dans ses pinces avant de frapper. Ses coups sont suffisamment puissants pour r\u00e9duire un \u00e9pais mur de glace en morceaux.",
+            "abilities": [
+                144,
+                215,
+                61
+            ]
+        }
+    ]
+}

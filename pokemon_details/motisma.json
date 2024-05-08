@@ -1,0 +1,126 @@
+{
+    "number": 479,
+    "name": "Motisma",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "electrik",
+                "ghost"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/rotom.jpg",
+            "base": {
+                "hp": 50,
+                "attack": 50,
+                "defense": 77,
+                "spAttack": 95,
+                "spDefense": 77,
+                "speed": 91
+            },
+            "description": "Ce Pok\u00e9mon est connu pour jouer des tours en s\u2019infiltrant dans des appareils \u00e9lectriques. Son corps est fait de plasma.",
+            "abilities": [
+                162
+            ]
+        },
+        {
+            "name": "chaleur",
+            "types": [
+                "electrik",
+                "fire"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/rotom-heat.jpg",
+            "base": {
+                "hp": 50,
+                "attack": 65,
+                "defense": 107,
+                "spAttack": 105,
+                "spDefense": 107,
+                "speed": 86
+            },
+            "description": "Ce Pok\u00e9mon est connu pour jouer des tours en s\u2019infiltrant dans des appareils \u00e9lectriques. Son corps est fait de plasma.",
+            "abilities": [
+                162
+            ]
+        },
+        {
+            "name": "lavage",
+            "types": [
+                "electrik",
+                "water"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/rotom-wash.jpg",
+            "base": {
+                "hp": 50,
+                "attack": 65,
+                "defense": 107,
+                "spAttack": 105,
+                "spDefense": 107,
+                "speed": 86
+            },
+            "description": "Ce Pok\u00e9mon est connu pour jouer des tours en s\u2019infiltrant dans des appareils \u00e9lectriques. Son corps est fait de plasma.",
+            "abilities": [
+                162
+            ]
+        },
+        {
+            "name": "froid",
+            "types": [
+                "electrik",
+                "ice"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/rotom-frost.jpg",
+            "base": {
+                "hp": 50,
+                "attack": 65,
+                "defense": 107,
+                "spAttack": 105,
+                "spDefense": 107,
+                "speed": 86
+            },
+            "description": "Ce Pok\u00e9mon est connu pour jouer des tours en s\u2019infiltrant dans des appareils \u00e9lectriques. Son corps est fait de plasma.",
+            "abilities": [
+                162
+            ]
+        },
+        {
+            "name": "h\u00e9lice",
+            "types": [
+                "electrik",
+                "fly"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/rotom-fan.jpg",
+            "base": {
+                "hp": 50,
+                "attack": 65,
+                "defense": 107,
+                "spAttack": 105,
+                "spDefense": 107,
+                "speed": 86
+            },
+            "description": "Ce Pok\u00e9mon est connu pour jouer des tours en s\u2019infiltrant dans des appareils \u00e9lectriques. Son corps est fait de plasma.",
+            "abilities": [
+                162
+            ]
+        },
+        {
+            "name": "tonte",
+            "types": [
+                "electrik",
+                "grass"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/rotom-mow.jpg",
+            "base": {
+                "hp": 50,
+                "attack": 65,
+                "defense": 107,
+                "spAttack": 105,
+                "spDefense": 107,
+                "speed": 86
+            },
+            "description": "Ce Pok\u00e9mon est connu pour jouer des tours en s\u2019infiltrant dans des appareils \u00e9lectriques. Son corps est fait de plasma.",
+            "abilities": [
+                162
+            ]
+        }
+    ]
+}

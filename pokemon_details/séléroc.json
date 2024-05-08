@@ -1,0 +1,26 @@
+{
+    "number": 337,
+    "name": "S\u00e9l\u00e9roc",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "rock",
+                "psy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/lunatone.jpg",
+            "base": {
+                "hp": 90,
+                "attack": 55,
+                "defense": 65,
+                "spAttack": 95,
+                "spDefense": 85,
+                "speed": 70
+            },
+            "description": "SELEROC fut d\u00e9couvert \u00e0 c\u00f4t\u00e9 d'un crat\u00e8re de m\u00e9t\u00e9orite. Du coup, certaines personnes pensent que ce POK\u00e9MON vient de l'espace. Cependant, rien ne peut prouver cette th\u00e9orie pour le moment.",
+            "abilities": [
+                162
+            ]
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "number": 80,
+    "name": "Flagadoss",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water",
+                "psy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/slowbro.jpg",
+            "base": {
+                "hp": 95,
+                "attack": 75,
+                "defense": 110,
+                "spAttack": 100,
+                "spDefense": 80,
+                "speed": 30
+            },
+            "description": "Flagadoss a un Kokiyas solidement attach\u00e9 \u00e0 sa queue. Du coup, il ne peut plus l'utiliser pour p\u00eacher. Flagadoss s'est donc oblig\u00e9, \u00e0 contrec\u0153ur, de nager pour attraper ses proies.",
+            "abilities": [
+                35,
+                272,
+                241
+            ]
+        },
+        {
+            "name": "galar",
+            "types": [
+                "poison",
+                "psy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/slowbro-galarian.jpg",
+            "base": {
+                "hp": 95,
+                "attack": 100,
+                "defense": 95,
+                "spAttack": 100,
+                "spDefense": 70,
+                "speed": 30
+            },
+            "description": "Flagadoss a un Kokiyas solidement attach\u00e9 \u00e0 sa queue. Du coup, il ne peut plus l'utiliser pour p\u00eacher. Flagadoss s'est donc oblig\u00e9, \u00e0 contrec\u0153ur, de nager pour attraper ses proies.",
+            "abilities": [
+                135,
+                272,
+                241
+            ]
+        }
+    ]
+}

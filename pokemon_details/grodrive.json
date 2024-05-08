@@ -1,0 +1,28 @@
+{
+    "number": 426,
+    "name": "Grodrive",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "ghost",
+                "fly"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/drifblim.jpg",
+            "base": {
+                "hp": 150,
+                "attack": 80,
+                "defense": 44,
+                "spAttack": 90,
+                "spDefense": 54,
+                "speed": 80
+            },
+            "description": "Il somnole la journ\u00e9e et s'envole en grands groupes le soir venu. Nul ne sait o\u00f9 ils vont. Il peut embarquer des gens et des Pok\u00e9mon, mais nul ne sait o\u00f9 il va atterrir car il ne fait que flotter.",
+            "abilities": [
+                39,
+                91,
+                233
+            ]
+        }
+    ]
+}

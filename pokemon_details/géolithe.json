@@ -1,0 +1,27 @@
+{
+    "number": 525,
+    "name": "G\u00e9olithe",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "rock"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/boldore.jpg",
+            "base": {
+                "hp": 70,
+                "attack": 105,
+                "defense": 105,
+                "spAttack": 50,
+                "spDefense": 40,
+                "speed": 20
+            },
+            "description": "Il explore les grottes \u00e0 la recherche de nappes phr\u00e9atiques. L\u2019eau \u00e9tant l\u2019une de ses faiblesses, il ne peut la boire que par petites lap\u00e9es.",
+            "abilities": [
+                117,
+                24,
+                124
+            ]
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "number": 764,
+    "name": "Gu\u00e9rilande",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fairy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/comfey.jpg",
+            "base": {
+                "hp": 51,
+                "attack": 52,
+                "defense": 90,
+                "spAttack": 82,
+                "spDefense": 110,
+                "speed": 100
+            },
+            "description": "Utilis\u00e9es en bain, les fleurs qui se collent sur sa liane poss\u00e8dent des vertus relaxantes. Elles ont d\u00e9j\u00e0 s\u00e9duit les gens du monde entier.",
+            "abilities": [
+                121,
+                225,
+                174
+            ]
+        }
+    ]
+}

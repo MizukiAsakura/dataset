@@ -1,0 +1,26 @@
+{
+    "number": 409,
+    "name": "Charkos",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "rock"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/rampardos.jpg",
+            "base": {
+                "hp": 97,
+                "attack": 165,
+                "defense": 60,
+                "spAttack": 65,
+                "spDefense": 50,
+                "speed": 58
+            },
+            "description": "Son violent coup de t\u00eate est assez puissant pour pulv\u00e9riser les mat\u00e9riaux les plus r\u00e9sistants. Son cr\u00e2ne est dur comme du fer. Cette brute abat des arbres quand elle chasse sa proie dans la jungle.",
+            "abilities": [
+                46,
+                248
+            ]
+        }
+    ]
+}

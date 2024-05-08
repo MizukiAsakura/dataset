@@ -1,0 +1,26 @@
+{
+    "number": 729,
+    "name": "Otarlette",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/brionne.jpg",
+            "base": {
+                "hp": 60,
+                "attack": 69,
+                "defense": 69,
+                "spAttack": 91,
+                "spDefense": 81,
+                "speed": 50
+            },
+            "description": "Il est tout excit\u00e9 quand il est t\u00e9moin d\u2019une danse qu\u2019il ne conna\u00eet pas. Il s\u2019entra\u00eene alors comme un forcen\u00e9 jusqu\u2019\u00e0 la ma\u00eetriser \u00e0 la perfection.",
+            "abilities": [
+                282,
+                142
+            ]
+        }
+    ]
+}

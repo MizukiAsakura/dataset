@@ -1,0 +1,27 @@
+{
+    "number": 970,
+    "name": "Flor\u00e9clat",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "rock",
+                "poison"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/glimmora.jpg",
+            "base": {
+                "hp": 83,
+                "attack": 55,
+                "defense": 90,
+                "spAttack": 130,
+                "spDefense": 81,
+                "speed": 86
+            },
+            "description": "On a r\u00e9cemment d\u00e9couvert que ses p\u00e9tales constitu\u00e9s d'\u00e9nergie toxique cristallis\u00e9e ressemblent \u00e0 des Joyaux T\u00e9racristal.",
+            "abilities": [
+                93,
+                74
+            ]
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "number": 576,
+    "name": "Sid\u00e9rella",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "psy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/gothitelle.jpg",
+            "base": {
+                "hp": 70,
+                "attack": 55,
+                "defense": 95,
+                "spAttack": 95,
+                "spDefense": 110,
+                "speed": 65
+            },
+            "description": "Il pr\u00e9dit l\u2019avenir \u00e0 partir du mouvement des \u00e9toiles. Il dispose de grands pouvoirs psychiques, mais il n\u2019est pas de nature hostile.",
+            "abilities": [
+                126,
+                33,
+                170
+            ]
+        }
+    ]
+}

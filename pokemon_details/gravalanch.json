@@ -1,0 +1,50 @@
+{
+    "number": 75,
+    "name": "Gravalanch",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "ground",
+                "rock"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/graveler.jpg",
+            "base": {
+                "hp": 55,
+                "attack": 95,
+                "defense": 115,
+                "spAttack": 45,
+                "spDefense": 45,
+                "speed": 35
+            },
+            "description": "Gravalanch grandit en se nourrissant de cailloux. Apparemment, il a une pr\u00e9f\u00e9rence pour les cailloux recouverts de mousse. En moyenne, il mange une tonne de rochers par jour.",
+            "abilities": [
+                276,
+                117,
+                294
+            ]
+        },
+        {
+            "name": "alola",
+            "types": [
+                "electrik",
+                "rock"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/graveler-alolan.jpg",
+            "base": {
+                "hp": 55,
+                "attack": 95,
+                "defense": 115,
+                "spAttack": 45,
+                "spDefense": 45,
+                "speed": 35
+            },
+            "description": "Gravalanch grandit en se nourrissant de cailloux. Apparemment, il a une pr\u00e9f\u00e9rence pour les cailloux recouverts de mousse. En moyenne, il mange une tonne de rochers par jour.",
+            "abilities": [
+                168,
+                117,
+                203
+            ]
+        }
+    ]
+}

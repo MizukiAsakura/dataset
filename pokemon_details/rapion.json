@@ -1,0 +1,28 @@
+{
+    "number": 451,
+    "name": "Rapion",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "poison",
+                "bug"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/skorupi.jpg",
+            "base": {
+                "hp": 40,
+                "attack": 50,
+                "defense": 90,
+                "spAttack": 30,
+                "spDefense": 55,
+                "speed": 65
+            },
+            "description": "Il saisit sa proie avec les pinces de sa queue, lui injecte un poison et la retient jusqu'\u00e0 ce qu'il agisse. Il vit sur les terres arides. Il s'enfouit dans le sable dans l'attente d'une proie imprudente.",
+            "abilities": [
+                21,
+                254,
+                240
+            ]
+        }
+    ]
+}

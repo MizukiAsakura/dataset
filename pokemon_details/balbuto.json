@@ -1,0 +1,26 @@
+{
+    "number": 343,
+    "name": "Balbuto",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "ground",
+                "psy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/baltoy.jpg",
+            "base": {
+                "hp": 40,
+                "attack": 40,
+                "defense": 55,
+                "spAttack": 40,
+                "spDefense": 70,
+                "speed": 55
+            },
+            "description": "BALBUTO se d\u00e9place en pivotant sur son unique pied. Des peintures rupestres montrant ce POK\u00e9MON vivant avec les hommes furent d\u00e9couvertes dans des ruines tr\u00e8s anciennes.",
+            "abilities": [
+                162
+            ]
+        }
+    ]
+}

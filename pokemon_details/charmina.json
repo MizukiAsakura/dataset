@@ -1,0 +1,27 @@
+{
+    "number": 308,
+    "name": "Charmina",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fight",
+                "psy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/medicham.jpg",
+            "base": {
+                "hp": 60,
+                "attack": 60,
+                "defense": 75,
+                "spAttack": 60,
+                "spDefense": 75,
+                "speed": 80
+            },
+            "description": "On dit que gr\u00e2ce \u00e0 la m\u00e9ditation, CHARMINA stocke de l'\u00e9nergie dans son corps et affine son sixi\u00e8me sens. Ce POK\u00e9MON se cache des autres en se fondant dans les champs et les montagnes.",
+            "abilities": [
+                123,
+                270
+            ]
+        }
+    ]
+}

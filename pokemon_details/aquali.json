@@ -1,0 +1,26 @@
+{
+    "number": 134,
+    "name": "Aquali",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/vaporeon.jpg",
+            "base": {
+                "hp": 130,
+                "attack": 65,
+                "defense": 60,
+                "spAttack": 110,
+                "spDefense": 95,
+                "speed": 65
+            },
+            "description": "Aquali a subi une mutation spontan\u00e9e. Des nageoires et des branchies sont apparues sur son corps, ce qui lui permet de vivre dans les fonds marins. Ce Pok\u00e9mon peut contr\u00f4ler l'eau \u00e0 volont\u00e9.",
+            "abilities": [
+                2,
+                66
+            ]
+        }
+    ]
+}

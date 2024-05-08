@@ -1,0 +1,27 @@
+{
+    "number": 397,
+    "name": "\u00c9tourvol",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal",
+                "fly"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/staravia.jpg",
+            "base": {
+                "hp": 55,
+                "attack": 75,
+                "defense": 50,
+                "spAttack": 40,
+                "spDefense": 40,
+                "speed": 80
+            },
+            "description": "Il survole les for\u00eats et les champs en qu\u00eate de Pok\u00e9mon Insecte. Ils forment de grandes vol\u00e9es. \nIl peuple les champs et les for\u00eats. Lorsque deux vol\u00e9es se croisent, elles luttent pour le territoire.",
+            "abilities": [
+                156,
+                271
+            ]
+        }
+    ]
+}

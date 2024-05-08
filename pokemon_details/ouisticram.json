@@ -1,0 +1,26 @@
+{
+    "number": 390,
+    "name": "Ouisticram",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fire"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/chimchar.jpg",
+            "base": {
+                "hp": 44,
+                "attack": 58,
+                "defense": 44,
+                "spAttack": 58,
+                "spDefense": 44,
+                "speed": 61
+            },
+            "description": "Il escalade prestement les falaises escarp\u00e9es et vit sur les sommets. Sa flamme s'\u00e9teint quand il dort. La flamme de sa queue est aliment\u00e9e par un gaz de son estomac. M\u00eame la pluie ne saurait l'\u00e9teindre.",
+            "abilities": [
+                44,
+                215
+            ]
+        }
+    ]
+}

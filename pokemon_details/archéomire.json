@@ -1,0 +1,28 @@
+{
+    "number": 436,
+    "name": "Arch\u00e9omire",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "steel",
+                "psy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/bronzor.jpg",
+            "base": {
+                "hp": 57,
+                "attack": 24,
+                "defense": 86,
+                "spAttack": 24,
+                "spDefense": 86,
+                "speed": 23
+            },
+            "description": "Il rappelle des objets trouv\u00e9s dans des s\u00e9pultures anciennes. Nul ne sait s'ils sont li\u00e9s. On a voulu \u00e9tudier sa structure aux rayons X, mais les radios ne montraient absolument rien.",
+            "abilities": [
+                162,
+                146,
+                140
+            ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "number": 379,
+    "name": "Registeel",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "steel"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/registeel.jpg",
+            "base": {
+                "hp": 80,
+                "attack": 75,
+                "defense": 150,
+                "spAttack": 75,
+                "spDefense": 150,
+                "speed": 50
+            },
+            "description": "Le corps de REGISTEEL est plus dur que n'importe quel m\u00e9tal existant. Il est apparemment creux. Personne ne sait ce que ce POK\u00e9MON mange.",
+            "abilities": [
+                73,
+                163
+            ]
+        }
+    ]
+}

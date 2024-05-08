@@ -1,0 +1,27 @@
+{
+    "number": 262,
+    "name": "Grahy\u00e8na",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "dark"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/mightyena.jpg",
+            "base": {
+                "hp": 70,
+                "attack": 90,
+                "defense": 70,
+                "spAttack": 60,
+                "spDefense": 60,
+                "speed": 70
+            },
+            "description": "On peut facilement deviner quand GRAHYENA se pr\u00e9pare \u00e0 attaquer. Il grogne et se met \u00e0 plat ventre. Ce POK\u00e9MON mord sauvagement ses ennemis avec ses crocs ac\u00e9r\u00e9s.",
+            "abilities": [
+                156,
+                212,
+                151
+            ]
+        }
+    ]
+}

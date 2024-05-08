@@ -1,0 +1,27 @@
+{
+    "number": 631,
+    "name": "Aflamanoir",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fire"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/heatmor.jpg",
+            "base": {
+                "hp": 85,
+                "attack": 97,
+                "defense": 66,
+                "spAttack": 105,
+                "spDefense": 66,
+                "speed": 65
+            },
+            "description": "Il aspire de l\u2019air par le bout de sa queue et produit ainsi sa fameuse langue de feu. Si on lui bouche la queue, il se sent mal.",
+            "abilities": [
+                135,
+                281,
+                99
+            ]
+        }
+    ]
+}

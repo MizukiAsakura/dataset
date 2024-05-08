@@ -1,0 +1,27 @@
+{
+    "number": 99,
+    "name": "Krabboss",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/kingler.jpg",
+            "base": {
+                "hp": 55,
+                "attack": 130,
+                "defense": 115,
+                "spAttack": 50,
+                "spDefense": 50,
+                "speed": 75
+            },
+            "description": "Krabboss est dot\u00e9 d'une pince gigantesque, surdimensionn\u00e9e. Il l'agite en l'air pour communiquer avec ses semblables. En revanche, sa pince est tellement lourde que ce Pok\u00e9mon se fatigue tr\u00e8s vite.",
+            "abilities": [
+                144,
+                66,
+                248
+            ]
+        }
+    ]
+}

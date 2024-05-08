@@ -1,0 +1,26 @@
+{
+    "number": 968,
+    "name": "Ferdeter",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "steel"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/orthworm.jpg",
+            "base": {
+                "hp": 70,
+                "attack": 85,
+                "defense": 145,
+                "spAttack": 60,
+                "spDefense": 55,
+                "speed": 65
+            },
+            "description": "Ce Pok\u00e9mon vit dans les d\u00e9serts arides. Il ing\u00e8re le fer que contient le sol afin d'entretenir son corps de m\u00e9tal.",
+            "abilities": [
+                4,
+                294
+            ]
+        }
+    ]
+}

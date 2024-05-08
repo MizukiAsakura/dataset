@@ -1,0 +1,27 @@
+{
+    "number": 936,
+    "name": "Carmadura",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fire",
+                "psy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/armarouge.jpg",
+            "base": {
+                "hp": 85,
+                "attack": 60,
+                "defense": 100,
+                "spAttack": 125,
+                "spDefense": 80,
+                "speed": 75
+            },
+            "description": "Ce Pok\u00e9mon porte une armure renforc\u00e9e par de l'\u00e9nergie de type Psy et de type Feu. Il lance des boules de feu \u00e0 tr\u00e8s haute temp\u00e9rature. Il a \u00e9volu\u00e9 gr\u00e2ce \u00e0 l'armure d'une illustre \u00e2me guerri\u00e8re. Ce Pok\u00e9mon est extr\u00eamement loyal.",
+            "abilities": [
+                281,
+                24
+            ]
+        }
+    ]
+}

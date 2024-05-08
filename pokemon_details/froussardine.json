@@ -1,0 +1,44 @@
+{
+    "number": 746,
+    "name": "Froussardine",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/wishiwashi-solo.jpg",
+            "base": {
+                "hp": 45,
+                "attack": 20,
+                "defense": 20,
+                "spAttack": 25,
+                "spDefense": 25,
+                "speed": 40
+            },
+            "description": "Ses yeux se mouillent quand il sent le danger approcher. Le scintillement de ses larmes sert de signal pour que ses cong\u00e9n\u00e8res se rassemblent.",
+            "abilities": [
+                32
+            ]
+        },
+        {
+            "name": "banc",
+            "types": [
+                "water"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/wishiwashi-school.jpg",
+            "base": {
+                "hp": 45,
+                "attack": 140,
+                "defense": 130,
+                "spAttack": 140,
+                "spDefense": 135,
+                "speed": 30
+            },
+            "description": "Il s\u2019unit \u00e0 d\u2019autres sp\u00e9cimens pour faire face aux ennemis puissants. En subissant des d\u00e9g\u00e2ts, le groupe se d\u00e9sagr\u00e8ge et il se retrouve tout seul.",
+            "abilities": [
+                32
+            ]
+        }
+    ]
+}

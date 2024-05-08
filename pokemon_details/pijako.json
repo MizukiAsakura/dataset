@@ -1,0 +1,28 @@
+{
+    "number": 441,
+    "name": "Pijako",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal",
+                "fly"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/chatot.jpg",
+            "base": {
+                "hp": 76,
+                "attack": 65,
+                "defense": 45,
+                "spAttack": 92,
+                "spDefense": 42,
+                "speed": 91
+            },
+            "description": "Il m\u00e9morise et r\u00e9p\u00e8te les mots des \u00eatres humains. Si plusieurs de ces Pok\u00e9mon sont r\u00e9unis au m\u00eame endroit, ils apprennent tous les m\u00eames mots.",
+            "abilities": [
+                240,
+                211,
+                58
+            ]
+        }
+    ]
+}

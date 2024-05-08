@@ -1,0 +1,26 @@
+{
+    "number": 868,
+    "name": "Cr\u00e8my",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fairy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/milcery.jpg",
+            "base": {
+                "hp": 45,
+                "attack": 40,
+                "defense": 40,
+                "spAttack": 50,
+                "spDefense": 61,
+                "speed": 34
+            },
+            "description": "Son corps de cr\u00e8me s\u2019est compos\u00e9 \u00e0 partir de particules au parfum sucr\u00e9 flottant dans l\u2019air. Les p\u00e2tissiers connaissent tous ce vieil adage : Quand Cr\u00e8my appara\u00eet, le succ\u00e8s est assur\u00e9.",
+            "abilities": [
+                136,
+                25
+            ]
+        }
+    ]
+}

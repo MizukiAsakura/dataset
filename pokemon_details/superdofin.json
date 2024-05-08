@@ -1,0 +1,44 @@
+{
+    "number": 964,
+    "name": "Superdofin",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/palafin.jpg",
+            "base": {
+                "hp": 100,
+                "attack": 70,
+                "defense": 72,
+                "spAttack": 53,
+                "spDefense": 62,
+                "speed": 100
+            },
+            "description": "Il a les m\u00eames capacit\u00e9s physiques qu'avant son \u00e9volution, mais quand ses cong\u00e9n\u00e8res sont en danger, il change de forme et devient plus fort.",
+            "abilities": [
+                262
+            ]
+        },
+        {
+            "name": "super",
+            "types": [
+                "water"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/palafin-hero.jpg",
+            "base": {
+                "hp": 100,
+                "attack": 160,
+                "defense": 97,
+                "spAttack": 106,
+                "spDefense": 87,
+                "speed": 100
+            },
+            "description": "Il a les m\u00eames capacit\u00e9s physiques qu'avant son \u00e9volution, mais quand ses cong\u00e9n\u00e8res sont en danger, il change de forme et devient plus fort.",
+            "abilities": [
+                262
+            ]
+        }
+    ]
+}

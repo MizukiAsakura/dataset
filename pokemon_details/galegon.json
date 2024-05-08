@@ -1,0 +1,28 @@
+{
+    "number": 305,
+    "name": "Galegon",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "steel",
+                "rock"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/lairon.jpg",
+            "base": {
+                "hp": 60,
+                "attack": 90,
+                "defense": 140,
+                "spAttack": 50,
+                "spDefense": 50,
+                "speed": 40
+            },
+            "description": "GALEGON adoucit son corps d'acier en buvant une eau min\u00e9rale jusqu'\u00e0 ce qu'il soit tout boursoufl\u00e9. Ce POK\u00e9MON fait son nid pr\u00e8s des sources d'eau min\u00e9rale riches en nutriments.",
+            "abilities": [
+                117,
+                276,
+                140
+            ]
+        }
+    ]
+}

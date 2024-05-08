@@ -1,0 +1,26 @@
+{
+    "number": 1001,
+    "name": "Chongjian",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "dark",
+                "grass"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/wo-chien.jpg",
+            "base": {
+                "hp": 85,
+                "attack": 85,
+                "defense": 100,
+                "spAttack": 95,
+                "spDefense": 135,
+                "speed": 70
+            },
+            "description": "La ranc\u0153ur d'un \u00eatre humain puni pour avoir not\u00e9 les m\u00e9faits d'un roi sur des tablettes en bois s'est m\u00eal\u00e9e \u00e0 des feuilles mortes et a pris vie.",
+            "abilities": [
+                38
+            ]
+        }
+    ]
+}

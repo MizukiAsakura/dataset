@@ -1,0 +1,46 @@
+{
+    "number": 26,
+    "name": "Raichu",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "electrik"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/raichu.jpg",
+            "base": {
+                "hp": 60,
+                "attack": 90,
+                "defense": 55,
+                "spAttack": 90,
+                "spDefense": 80,
+                "speed": 110
+            },
+            "description": "Si ses joues contiennent trop d'\u00e9lectricit\u00e9, Raichu plante sa queue dans le sol pour se d\u00e9charger. On trouve des parcelles de terre br\u00fbl\u00e9e \u00e0 proximit\u00e9 du nid de ce Pok\u00e9mon.",
+            "abilities": [
+                260,
+                199
+            ]
+        },
+        {
+            "name": "alola",
+            "types": [
+                "electrik",
+                "psy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/raichu-alolan.jpg",
+            "base": {
+                "hp": 60,
+                "attack": 85,
+                "defense": 50,
+                "spAttack": 95,
+                "spDefense": 85,
+                "speed": 110
+            },
+            "description": "Si ses joues contiennent trop d'\u00e9lectricit\u00e9, Raichu plante sa queue dans le sol pour se d\u00e9charger. On trouve des parcelles de terre br\u00fbl\u00e9e \u00e0 proximit\u00e9 du nid de ce Pok\u00e9mon.",
+            "abilities": [
+                263
+            ]
+        }
+    ]
+}

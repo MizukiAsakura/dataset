@@ -1,0 +1,27 @@
+{
+    "number": 831,
+    "name": "Moumouton",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/wooloo.jpg",
+            "base": {
+                "hp": 42,
+                "attack": 40,
+                "defense": 55,
+                "spAttack": 40,
+                "spDefense": 45,
+                "speed": 48
+            },
+            "description": "Son pelage fris\u00e9 est doux et rebondi comme un coussin. Une telle toison le prot\u00e8gerait m\u00eame s\u2019il chutait d\u2019une falaise.",
+            "abilities": [
+                43,
+                128,
+                200
+            ]
+        }
+    ]
+}

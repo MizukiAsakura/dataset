@@ -1,0 +1,28 @@
+{
+    "number": 475,
+    "name": "Gallame",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "psy",
+                "fight"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/gallade.jpg",
+            "base": {
+                "hp": 68,
+                "attack": 125,
+                "defense": 65,
+                "spAttack": 65,
+                "spDefense": 115,
+                "speed": 80
+            },
+            "description": "Ce Pok\u00e9mon, que l\u2019on surnomme \u00ab l\u2019escrimeur \u00bb, ne se sert de ses coudes en forme de lames que s\u2019il doit d\u00e9fendre quelque chose.",
+            "abilities": [
+                149,
+                152,
+                59
+            ]
+        }
+    ]
+}

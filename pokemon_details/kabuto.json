@@ -1,0 +1,28 @@
+{
+    "number": 140,
+    "name": "Kabuto",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "rock",
+                "water"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/kabuto.jpg",
+            "base": {
+                "hp": 30,
+                "attack": 80,
+                "defense": 90,
+                "spAttack": 55,
+                "spDefense": 45,
+                "speed": 55
+            },
+            "description": "Kabuto est un Pok\u00e9mon ressuscit\u00e9 \u00e0 partir d'un fossile. Cependant, on a d\u00e9couvert des sp\u00e9cimens vivants. Ce Pok\u00e9mon n'a pas chang\u00e9 depuis 300 millions d'ann\u00e9es.",
+            "abilities": [
+                134,
+                21,
+                24
+            ]
+        }
+    ]
+}

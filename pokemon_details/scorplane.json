@@ -1,0 +1,28 @@
+{
+    "number": 207,
+    "name": "Scorplane",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "ground",
+                "fly"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/gligar.jpg",
+            "base": {
+                "hp": 65,
+                "attack": 75,
+                "defense": 105,
+                "spAttack": 35,
+                "spDefense": 65,
+                "speed": 85
+            },
+            "description": "SCORPLANE plane dans les airs sans un bruit, comme s'il glissait. Ce POK\u00e9MON s'accroche au visage de son ennemi gr\u00e2ce aux serres de ses pattes arri\u00e8re et aux pinces de ses pattes avant, et pique avec son dard empoisonn\u00e9.",
+            "abilities": [
+                294,
+                144,
+                290
+            ]
+        }
+    ]
+}

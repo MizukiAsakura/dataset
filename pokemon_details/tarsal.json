@@ -1,0 +1,28 @@
+{
+    "number": 280,
+    "name": "Tarsal",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "psy",
+                "fairy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/ralts.jpg",
+            "base": {
+                "hp": 28,
+                "attack": 25,
+                "defense": 25,
+                "spAttack": 45,
+                "spDefense": 35,
+                "speed": 40
+            },
+            "description": "TARSAL ressent les \u00e9motions des gens gr\u00e2ce \u00e0 ses cornes. Ce POK\u00e9MON se montre rarement, mais il arrive qu'il s'approche d'une personne s'il la sent dans un \u00e9tat d'esprit positif.",
+            "abilities": [
+                265,
+                48,
+                270
+            ]
+        }
+    ]
+}

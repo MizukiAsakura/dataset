@@ -1,0 +1,27 @@
+{
+    "number": 704,
+    "name": "Mucuscule",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "dragon"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/goomy.jpg",
+            "base": {
+                "hp": 45,
+                "attack": 50,
+                "defense": 35,
+                "spAttack": 55,
+                "spDefense": 75,
+                "speed": 40
+            },
+            "description": "C\u2019est le plus faible de tous les Pok\u00e9mon Dragon. Sa peau doit rester hydrat\u00e9e pour respirer, c\u2019est pourquoi il pr\u00e9f\u00e8re vivre tapi dans l\u2019ombre.",
+            "abilities": [
+                143,
+                141,
+                218
+            ]
+        }
+    ]
+}

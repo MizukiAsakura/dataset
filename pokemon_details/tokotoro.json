@@ -1,0 +1,27 @@
+{
+    "number": 787,
+    "name": "Tokotoro",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "grass",
+                "fairy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/tapu-bulu.jpg",
+            "base": {
+                "hp": 70,
+                "attack": 130,
+                "defense": 115,
+                "spAttack": 85,
+                "spDefense": 95,
+                "speed": 75
+            },
+            "description": "Il arrache de grands arbres et fait des moulinets avec. Il a le pouvoir de rendre la v\u00e9g\u00e9tation luxuriante pour ensuite se nourrir de cette force.",
+            "abilities": [
+                80,
+                270
+            ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "number": 986,
+    "name": "Fongus-Furie",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "grass",
+                "dark"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/brute-bonnet.jpg",
+            "base": {
+                "hp": 111,
+                "attack": 127,
+                "defense": 99,
+                "spAttack": 79,
+                "spDefense": 99,
+                "speed": 55
+            },
+            "description": "Il ressemble vaguement \u00e0 un Pok\u00e9mon mi-dinosaure mi-champignon \u00e9voqu\u00e9 dans une revue douteuse.",
+            "abilities": [
+                198
+            ]
+        }
+    ]
+}

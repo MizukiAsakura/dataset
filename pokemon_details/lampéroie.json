@@ -1,0 +1,25 @@
+{
+    "number": 603,
+    "name": "Lamp\u00e9roie",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "electrik"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/eelektrik.jpg",
+            "base": {
+                "hp": 65,
+                "attack": 85,
+                "defense": 70,
+                "spAttack": 75,
+                "spDefense": 70,
+                "speed": 40
+            },
+            "description": "Ses taches \u00e9mettent de l\u2019\u00e9lectricit\u00e9 quand il s\u2019enroule autour de ses proies pour les paralyser avant de les d\u00e9vorer.",
+            "abilities": [
+                162
+            ]
+        }
+    ]
+}

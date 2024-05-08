@@ -1,0 +1,26 @@
+{
+    "number": 639,
+    "name": "Terrakium",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "rock",
+                "fight"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/terrakion.jpg",
+            "base": {
+                "hp": 91,
+                "attack": 129,
+                "defense": 90,
+                "spAttack": 72,
+                "spDefense": 90,
+                "speed": 108
+            },
+            "description": "Selon une l\u00e9gende d\u2019Unys, Terrakium se serait jadis dress\u00e9 contre les humains pour prot\u00e9ger les Pok\u00e9mon.",
+            "abilities": [
+                59
+            ]
+        }
+    ]
+}

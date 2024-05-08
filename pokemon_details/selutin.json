@@ -1,0 +1,27 @@
+{
+    "number": 932,
+    "name": "Selutin",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "rock"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/nacli.jpg",
+            "base": {
+                "hp": 55,
+                "attack": 55,
+                "defense": 75,
+                "spAttack": 35,
+                "spDefense": 35,
+                "speed": 25
+            },
+            "description": "Ce Pok\u00e9mon est n\u00e9 dans des couches souterraines de sel gemme. Connu pour partager son pr\u00e9cieux sel, il \u00e9tait appr\u00e9ci\u00e9 autrefois.",
+            "abilities": [
+                250,
+                117,
+                73
+            ]
+        }
+    ]
+}

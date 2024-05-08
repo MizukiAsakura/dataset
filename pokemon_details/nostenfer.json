@@ -1,0 +1,27 @@
+{
+    "number": 169,
+    "name": "Nostenfer",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "poison",
+                "fly"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/crobat.jpg",
+            "base": {
+                "hp": 85,
+                "attack": 90,
+                "defense": 80,
+                "spAttack": 70,
+                "spDefense": 80,
+                "speed": 130
+            },
+            "description": "NOSTENFER s'approche discr\u00e8tement de sa proie gr\u00e2ce \u00e0 ses ailes silencieuses. Ce POK\u00e9MON se repose en s'accrochant \u00e0 une branche avec ses pattes arri\u00e8re, qui peuvent aussi lui servir d'ailes.",
+            "abilities": [
+                26,
+                154
+            ]
+        }
+    ]
+}

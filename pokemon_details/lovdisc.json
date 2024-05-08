@@ -1,0 +1,26 @@
+{
+    "number": 370,
+    "name": "Lovdisc",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/luvdisc.jpg",
+            "base": {
+                "hp": 43,
+                "attack": 30,
+                "defense": 55,
+                "spAttack": 40,
+                "spDefense": 65,
+                "speed": 97
+            },
+            "description": "LOVDISC vit dans les mers peu profondes des tropiques. Ce POK\u00e9MON en forme de c\u0153ur a gagn\u00e9 son nom en nageant derri\u00e8re les couples d'amoureux qu'il rep\u00e9rait dans les eaux claires de l'oc\u00e9an.",
+            "abilities": [
+                134,
+                143
+            ]
+        }
+    ]
+}

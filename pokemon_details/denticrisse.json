@@ -1,0 +1,28 @@
+{
+    "number": 779,
+    "name": "Denticrisse",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water",
+                "psy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/bruxish.jpg",
+            "base": {
+                "hp": 68,
+                "attack": 105,
+                "defense": 70,
+                "spAttack": 70,
+                "spDefense": 70,
+                "speed": 92
+            },
+            "description": "Lorsqu\u2019il utilise l\u2019appendice sur sa t\u00eate pour projeter ses pouvoirs psychiques, il \u00e9met un bruit aussi irritant qu\u2019un grincement de dents.",
+            "abilities": [
+                68,
+                227,
+                206
+            ]
+        }
+    ]
+}

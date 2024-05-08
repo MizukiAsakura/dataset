@@ -1,0 +1,27 @@
+{
+    "number": 524,
+    "name": "Nodulithe",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "rock"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/roggenrola.jpg",
+            "base": {
+                "hp": 55,
+                "attack": 75,
+                "defense": 85,
+                "spAttack": 25,
+                "spDefense": 25,
+                "speed": 15
+            },
+            "description": "La cavit\u00e9 hexagonale qu\u2019il arbore est son oreille. Il se pr\u00e9cipite vers tout ce qu\u2019il entend, mais perd l\u2019\u00e9quilibre et chute d\u00e8s que le son s\u2019arr\u00eate.",
+            "abilities": [
+                117,
+                24,
+                124
+            ]
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "number": 66,
+    "name": "Machoc",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fight"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/machop.jpg",
+            "base": {
+                "hp": 70,
+                "attack": 80,
+                "defense": 50,
+                "spAttack": 35,
+                "spDefense": 35,
+                "speed": 35
+            },
+            "description": "es muscles de Machoc sont sp\u00e9ciaux. Quels que soient les efforts qu'il produit, il n'a jamais de courbature. Ce Pok\u00e9mon est assez puissant pour lancer une centaine d'hommes adultes.",
+            "abilities": [
+                77,
+                16,
+                149
+            ]
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "number": 398,
+    "name": "\u00c9touraptor",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal",
+                "fly"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/staraptor.jpg",
+            "base": {
+                "hp": 85,
+                "attack": 120,
+                "defense": 70,
+                "spAttack": 50,
+                "spDefense": 60,
+                "speed": 100
+            },
+            "description": "Un Pok\u00e9mon sauvage qui a le courage de d\u00e9fier des ennemis beaucoup plus grands que lui. Ses ailes et ses pattes ont des muscles d\u00e9velopp\u00e9s. Il peut voler en agrippant un petit Pok\u00e9mon.",
+            "abilities": [
+                156,
+                271
+            ]
+        }
+    ]
+}

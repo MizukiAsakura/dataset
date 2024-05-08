@@ -1,0 +1,28 @@
+{
+    "number": 302,
+    "name": "T\u00e9n\u00e9fix",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "dark",
+                "ghost"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/sableye.jpg",
+            "base": {
+                "hp": 50,
+                "attack": 75,
+                "defense": 75,
+                "spAttack": 65,
+                "spDefense": 65,
+                "speed": 50
+            },
+            "description": "Les TENEFIX m\u00e8nent une vie tranquille dans les cavernes. Pourtant, ils sont craints, car on raconte que ces POK\u00e9MON volent l'esprit des gens quand leurs yeux brillent dans l'obscurit\u00e9.",
+            "abilities": [
+                240,
+                127,
+                116
+            ]
+        }
+    ]
+}

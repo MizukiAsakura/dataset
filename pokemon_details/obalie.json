@@ -1,0 +1,28 @@
+{
+    "number": 363,
+    "name": "Obalie",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "ice",
+                "water"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/spheal.jpg",
+            "base": {
+                "hp": 70,
+                "attack": 40,
+                "defense": 50,
+                "spAttack": 55,
+                "spDefense": 50,
+                "speed": 25
+            },
+            "description": "OBALIE est bien plus rapide quand il roule que quand il marche. Lorsque des groupes de ce POK\u00e9MON mangent, ils applaudissent tous en m\u00eame temps pour montrer qu'ils sont contents. Leurs repas sont tr\u00e8s bruyants.",
+            "abilities": [
+                157,
+                71,
+                35
+            ]
+        }
+    ]
+}

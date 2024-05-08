@@ -1,0 +1,26 @@
+{
+    "number": 135,
+    "name": "Voltali",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "electrik"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/jolteon.jpg",
+            "base": {
+                "hp": 65,
+                "attack": 65,
+                "defense": 60,
+                "spAttack": 110,
+                "spDefense": 95,
+                "speed": 130
+            },
+            "description": "Les cellules de Voltali g\u00e9n\u00e8rent un courant de faible intensit\u00e9. Ce pouvoir est amplifi\u00e9 par l'\u00e9lectricit\u00e9 statique de ses poils, ce qui lui permet d'envoyer des \u00e9clairs. Sa fourrure h\u00e9riss\u00e9e est faite d'aiguilles charg\u00e9es d'\u00e9lectricit\u00e9.",
+            "abilities": [
+                3,
+                212
+            ]
+        }
+    ]
+}

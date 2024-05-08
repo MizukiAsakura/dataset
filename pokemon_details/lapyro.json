@@ -1,0 +1,26 @@
+{
+    "number": 814,
+    "name": "Lapyro",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fire"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/raboot.jpg",
+            "base": {
+                "hp": 65,
+                "attack": 86,
+                "defense": 60,
+                "spAttack": 55,
+                "spDefense": 60,
+                "speed": 94
+            },
+            "description": "Son pelage \u00e9pais lui permet de mieux r\u00e9sister au froid et d\u2019augmenter la temp\u00e9rature de ses capacit\u00e9s Feu.",
+            "abilities": [
+                44,
+                297
+            ]
+        }
+    ]
+}

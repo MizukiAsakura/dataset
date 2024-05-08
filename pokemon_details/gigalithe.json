@@ -1,0 +1,27 @@
+{
+    "number": 526,
+    "name": "Gigalithe",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "rock"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/gigalith.jpg",
+            "base": {
+                "hp": 85,
+                "attack": 135,
+                "defense": 130,
+                "spAttack": 60,
+                "spDefense": 80,
+                "speed": 25
+            },
+            "description": "Il absorbe les rayons solaires pour tirer des balles d\u2019\u00e9nergie incroyablement destructrices. Une arme inutilisable s\u2019il pleut ou s\u2019il fait nuit.",
+            "abilities": [
+                117,
+                24,
+                124
+            ]
+        }
+    ]
+}

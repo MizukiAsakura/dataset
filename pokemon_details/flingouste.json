@@ -1,0 +1,25 @@
+{
+    "number": 692,
+    "name": "Flingouste",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/clauncher.jpg",
+            "base": {
+                "hp": 50,
+                "attack": 53,
+                "defense": 62,
+                "spAttack": 58,
+                "spDefense": 63,
+                "speed": 44
+            },
+            "description": "Il est capable de transformer son corps en canon \u00e0 eau, gr\u00e2ce \u00e0 la combustion d\u2019un gaz interne. \u00c0 bout portant, il peut r\u00e9duire un rocher en miettes.",
+            "abilities": [
+                175
+            ]
+        }
+    ]
+}

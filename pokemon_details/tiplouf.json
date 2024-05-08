@@ -1,0 +1,26 @@
+{
+    "number": 393,
+    "name": "Tiplouf",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/piplup.jpg",
+            "base": {
+                "hp": 53,
+                "attack": 51,
+                "defense": 53,
+                "spAttack": 61,
+                "spDefense": 56,
+                "speed": 40
+            },
+            "description": "Il vit seul, \u00e0 l'\u00e9cart de ses pairs. Chaque individu est convaincu d'\u00eatre meilleur que les autres. Les coups violents de ses ailes tranchent le bois le plus dur. Il chasse dans les eaux glac\u00e9es.",
+            "abilities": [
+                282,
+                5
+            ]
+        }
+    ]
+}

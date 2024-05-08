@@ -1,0 +1,27 @@
+{
+    "number": 505,
+    "name": "Miradar",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/watchog.jpg",
+            "base": {
+                "hp": 60,
+                "attack": 85,
+                "defense": 69,
+                "spAttack": 60,
+                "spDefense": 69,
+                "speed": 77
+            },
+            "description": "Il attaque en crachant les graines des Baies qu'il accumule dans ses bajoues. S'il voit un ennemi, il dresse la queue.",
+            "abilities": [
+                165,
+                240,
+                14
+            ]
+        }
+    ]
+}

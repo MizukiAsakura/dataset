@@ -1,0 +1,47 @@
+{
+    "number": 144,
+    "name": "Artikodin",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "ice",
+                "fly"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/articuno.jpg",
+            "base": {
+                "hp": 90,
+                "attack": 85,
+                "defense": 100,
+                "spAttack": 95,
+                "spDefense": 125,
+                "speed": 85
+            },
+            "description": "Artikodin est un Pok\u00e9mon Oiseau l\u00e9gendaire qui peut contr\u00f4ler la glace. Le battement de ses ailes g\u00e8le l'air tout autour de lui. C'est pourquoi on dit que lorsque ce Pok\u00e9mon vole, il va neiger.",
+            "abilities": [
+                223,
+                243
+            ]
+        },
+        {
+            "name": "galar",
+            "types": [
+                "psy",
+                "fly"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/articuno-galarian.jpg",
+            "base": {
+                "hp": 90,
+                "attack": 85,
+                "defense": 85,
+                "spAttack": 125,
+                "spDefense": 100,
+                "speed": 95
+            },
+            "description": "Artikodin est un Pok\u00e9mon Oiseau l\u00e9gendaire qui peut contr\u00f4ler la glace. Le battement de ses ailes g\u00e8le l'air tout autour de lui. C'est pourquoi on dit que lorsque ce Pok\u00e9mon vole, il va neiger.",
+            "abilities": [
+                33
+            ]
+        }
+    ]
+}

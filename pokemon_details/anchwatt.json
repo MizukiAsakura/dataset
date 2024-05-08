@@ -1,0 +1,25 @@
+{
+    "number": 602,
+    "name": "Anchwatt",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "electrik"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/tynamo.jpg",
+            "base": {
+                "hp": 35,
+                "attack": 55,
+                "defense": 40,
+                "spAttack": 45,
+                "spDefense": 40,
+                "speed": 60
+            },
+            "description": "Tout seuls, ils ne d\u00e9gagent pas beaucoup d\u2019\u00e9lectricit\u00e9, mais un banc d\u2019Anchwatt produit la m\u00eame puissance qu\u2019un \u00e9clair.",
+            "abilities": [
+                162
+            ]
+        }
+    ]
+}

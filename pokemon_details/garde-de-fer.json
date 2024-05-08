@@ -1,0 +1,26 @@
+{
+    "number": 1006,
+    "name": "Garde-de-Fer",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fairy",
+                "fight"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/iron-valiant.jpg",
+            "base": {
+                "hp": 74,
+                "attack": 130,
+                "defense": 90,
+                "spAttack": 120,
+                "spDefense": 60,
+                "speed": 116
+            },
+            "description": "Il ressemble un peu \u00e0 l'invention d'un cerveau d\u00e9ment mentionn\u00e9e dans une revue consacr\u00e9e aux ph\u00e9nom\u00e8nes paranormaux.",
+            "abilities": [
+                52
+            ]
+        }
+    ]
+}

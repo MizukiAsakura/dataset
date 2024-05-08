@@ -1,0 +1,28 @@
+{
+    "number": 453,
+    "name": "Cradopaud",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "poison",
+                "fight"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/croagunk.jpg",
+            "base": {
+                "hp": 48,
+                "attack": 61,
+                "defense": 40,
+                "spAttack": 61,
+                "spDefense": 40,
+                "speed": 50
+            },
+            "description": "Ses joues contiennent des glandes toxiques. Il attaque par surprise et utilise son toucher empoisonn\u00e9. Il \u00e9met un gargouillis \u00e9trange en gonflant ses glandes de poison pour intimider l'ennemi.",
+            "abilities": [
+                18,
+                207,
+                283
+            ]
+        }
+    ]
+}

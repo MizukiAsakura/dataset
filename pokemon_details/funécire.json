@@ -1,0 +1,28 @@
+{
+    "number": 607,
+    "name": "Fun\u00e9cire",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "ghost",
+                "fire"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/litwick.jpg",
+            "base": {
+                "hp": 50,
+                "attack": 30,
+                "defense": 55,
+                "spAttack": 65,
+                "spDefense": 55,
+                "speed": 20
+            },
+            "description": "Son corps est ti\u00e8de, r\u00e9chauff\u00e9 par sa flamme. Il prend les personnes \u00e9gar\u00e9es par la main et les guide vers le monde des esprits.",
+            "abilities": [
+                281,
+                67,
+                154
+            ]
+        }
+    ]
+}

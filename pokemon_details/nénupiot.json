@@ -1,0 +1,28 @@
+{
+    "number": 270,
+    "name": "N\u00e9nupiot",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water",
+                "grass"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/lotad.jpg",
+            "base": {
+                "hp": 40,
+                "attack": 30,
+                "defense": 30,
+                "spAttack": 40,
+                "spDefense": 50,
+                "speed": 30
+            },
+            "description": "NENUPIOT vit dans les \u00e9tangs et les lacs, sur lesquels il flotte \u00e0 la surface. Si sa feuille tombe, il est affaibli. De temps en temps, ce POK\u00e9MON sort sur la terre ferme \u00e0 la recherche d'eau propre.",
+            "abilities": [
+                134,
+                83,
+                272
+            ]
+        }
+    ]
+}

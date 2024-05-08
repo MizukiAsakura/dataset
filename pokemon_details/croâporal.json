@@ -1,0 +1,26 @@
+{
+    "number": 657,
+    "name": "Cro\u00e2poral",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/frogadier.jpg",
+            "base": {
+                "hp": 54,
+                "attack": 63,
+                "defense": 52,
+                "spAttack": 83,
+                "spDefense": 56,
+                "speed": 97
+            },
+            "description": "Il est capable de lancer des pierres recouvertes de mousse avec une pr\u00e9cision suffisante pour toucher une canette vide \u00e0 30 m.",
+            "abilities": [
+                282,
+                229
+            ]
+        }
+    ]
+}

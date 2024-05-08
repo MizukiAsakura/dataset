@@ -1,0 +1,27 @@
+{
+    "number": 577,
+    "name": "Nucl\u00e9os",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "psy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/solosis.jpg",
+            "base": {
+                "hp": 45,
+                "attack": 30,
+                "defense": 40,
+                "spAttack": 105,
+                "spDefense": 50,
+                "speed": 20
+            },
+            "description": "Ils communiquent entre eux par t\u00e9l\u00e9pathie. S\u2019ils subissent un choc physique violent, le fluide qui entoure leur corps se met \u00e0 fuir",
+            "abilities": [
+                106,
+                130,
+                241
+            ]
+        }
+    ]
+}

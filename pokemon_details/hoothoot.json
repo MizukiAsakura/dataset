@@ -1,0 +1,28 @@
+{
+    "number": 163,
+    "name": "Hoothoot",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal",
+                "fly"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/hoothoot.jpg",
+            "base": {
+                "hp": 60,
+                "attack": 30,
+                "defense": 30,
+                "spAttack": 36,
+                "spDefense": 56,
+                "speed": 50
+            },
+            "description": "HOOTHOOT est dot\u00e9 d'un organe interne qui ressent et suit la rotation de la terre. Gr\u00e2ce \u00e0 cet organe peu ordinaire, ce POK\u00e9MON commence \u00e0 hululer tous les jours exactement \u00e0 la m\u00eame heure.",
+            "abilities": [
+                155,
+                240,
+                161
+            ]
+        }
+    ]
+}

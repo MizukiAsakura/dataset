@@ -1,0 +1,28 @@
+{
+    "number": 592,
+    "name": "Viskuse",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water",
+                "ghost"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/frillish.jpg",
+            "base": {
+                "hp": 55,
+                "attack": 40,
+                "defense": 50,
+                "spAttack": 65,
+                "spDefense": 85,
+                "speed": 40
+            },
+            "description": "Il utilise ses membres en forme de voiles pour enlacer ses proies et les entra\u00eener \u00e0 8 000 m de profondeur sous la surface de l\u2019eau.",
+            "abilities": [
+                2,
+                72,
+                182
+            ]
+        }
+    ]
+}

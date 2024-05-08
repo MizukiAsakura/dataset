@@ -1,0 +1,28 @@
+{
+    "number": 586,
+    "name": "Haydaim",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "normal",
+                "grass"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/sawsbuck.jpg",
+            "base": {
+                "hp": 80,
+                "attack": 100,
+                "defense": 70,
+                "spAttack": 60,
+                "spDefense": 70,
+                "speed": 95
+            },
+            "description": "Il change d\u2019habitat selon les saisons. Les gens constatent le passage des saisons en regardant ses ramures.",
+            "abilities": [
+                56,
+                141,
+                252
+            ]
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "number": 593,
+    "name": "Moyade",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "water",
+                "ghost"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/jellicent.jpg",
+            "base": {
+                "hp": 100,
+                "attack": 60,
+                "defense": 70,
+                "spAttack": 85,
+                "spDefense": 105,
+                "speed": 60
+            },
+            "description": "Son corps est compos\u00e9 presque enti\u00e8rement d\u2019une substance identique \u00e0 l\u2019eau de mer. Les \u00e9paves de navires sont ses bastions.",
+            "abilities": [
+                2,
+                72,
+                182
+            ]
+        }
+    ]
+}

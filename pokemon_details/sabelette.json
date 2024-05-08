@@ -1,0 +1,47 @@
+{
+    "number": 27,
+    "name": "Sabelette",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "ground"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/sandshrew.jpg",
+            "base": {
+                "hp": 50,
+                "attack": 75,
+                "defense": 85,
+                "spAttack": 20,
+                "spDefense": 30,
+                "speed": 40
+            },
+            "description": "Le corps de Sabelette lui permet d'\u00e9conomiser l'eau qu'il absorbe, afin de survivre longtemps dans le d\u00e9sert. Ce Pok\u00e9mon s'enroule sur lui-m\u00eame pour se prot\u00e9ger de ses ennemis.",
+            "abilities": [
+                294,
+                30
+            ]
+        },
+        {
+            "name": "alola",
+            "types": [
+                "ice",
+                "steel"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/sandshrew-alolan.jpg",
+            "base": {
+                "hp": 50,
+                "attack": 75,
+                "defense": 90,
+                "spAttack": 10,
+                "spDefense": 35,
+                "speed": 40
+            },
+            "description": "Le corps de Sabelette lui permet d'\u00e9conomiser l'eau qu'il absorbe, afin de survivre longtemps dans le d\u00e9sert. Ce Pok\u00e9mon s'enroule sur lui-m\u00eame pour se prot\u00e9ger de ses ennemis.",
+            "abilities": [
+                243,
+                53
+            ]
+        }
+    ]
+}

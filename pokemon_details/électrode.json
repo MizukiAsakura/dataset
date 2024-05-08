@@ -1,0 +1,49 @@
+{
+    "number": 101,
+    "name": "\u00c9lectrode",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "electrik"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/electrode.jpg",
+            "base": {
+                "hp": 60,
+                "attack": 50,
+                "defense": 70,
+                "spAttack": 80,
+                "spDefense": 80,
+                "speed": 150
+            },
+            "description": "\u00c9lectrode mange l'\u00e9lectricit\u00e9 qui se trouve dans l'atmosph\u00e8re. Les jours d'orage, on peut voir ce Pok\u00e9mon exploser sans arr\u00eat parce qu'il a aval\u00e9 trop d'\u00e9lectricit\u00e9.",
+            "abilities": [
+                260,
+                17,
+                39
+            ]
+        },
+        {
+            "name": "hisui",
+            "types": [
+                "electrik",
+                "grass"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/electrode-hisuian.jpg",
+            "base": {
+                "hp": 60,
+                "attack": 50,
+                "defense": 70,
+                "spAttack": 80,
+                "spDefense": 80,
+                "speed": 150
+            },
+            "description": "\u00c9lectrode mange l'\u00e9lectricit\u00e9 qui se trouve dans l'atmosph\u00e8re. Les jours d'orage, on peut voir ce Pok\u00e9mon exploser sans arr\u00eat parce qu'il a aval\u00e9 trop d'\u00e9lectricit\u00e9.",
+            "abilities": [
+                260,
+                17,
+                39
+            ]
+        }
+    ]
+}

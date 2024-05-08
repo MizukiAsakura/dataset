@@ -1,0 +1,28 @@
+{
+    "number": 560,
+    "name": "Bagga\u00efd",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "dark",
+                "fight"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/scrafty.jpg",
+            "base": {
+                "hp": 65,
+                "attack": 90,
+                "defense": 115,
+                "spAttack": 45,
+                "spDefense": 115,
+                "speed": 58
+            },
+            "description": "Il provoque ses ennemis en crachant. Il passe toute sa vie sans s\u2019aventurer hors des fronti\u00e8res bien d\u00e9finies de son territoire.",
+            "abilities": [
+                186,
+                151,
+                156
+            ]
+        }
+    ]
+}

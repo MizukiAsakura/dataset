@@ -1,0 +1,26 @@
+{
+    "number": 498,
+    "name": "Gruikui",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fire"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/tepig.jpg",
+            "base": {
+                "hp": 65,
+                "attack": 63,
+                "defense": 45,
+                "spAttack": 45,
+                "spDefense": 45,
+                "speed": 45
+            },
+            "description": "Il \u00e9vite agilement les attaques ennemies et crache des boules de feu par le groin. Il aime \u00e9galement griller des Baies pour les manger.",
+            "abilities": [
+                44,
+                157
+            ]
+        }
+    ]
+}

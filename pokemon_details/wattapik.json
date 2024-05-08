@@ -1,0 +1,26 @@
+{
+    "number": 871,
+    "name": "Wattapik",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "electrik"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/pincurchin.jpg",
+            "base": {
+                "hp": 48,
+                "attack": 101,
+                "defense": 95,
+                "spAttack": 91,
+                "spDefense": 85,
+                "speed": 15
+            },
+            "description": "Il lib\u00e8re de l\u2019\u00e9lectricit\u00e9 depuis la pointe de ses \u00e9pines, et se nourrit des algues accroch\u00e9es aux rochers en les arrachant avec ses dents aiguis\u00e9es.",
+            "abilities": [
+                199,
+                79
+            ]
+        }
+    ]
+}

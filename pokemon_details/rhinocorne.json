@@ -1,0 +1,28 @@
+{
+    "number": 111,
+    "name": "Rhinocorne",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "ground",
+                "rock"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/rhyhorn.jpg",
+            "base": {
+                "hp": 80,
+                "attack": 85,
+                "defense": 95,
+                "spAttack": 30,
+                "spDefense": 30,
+                "speed": 25
+            },
+            "description": "Rhinocorne charge droit devant lui, d\u00e9truisant tout sur son passage. Il ne s'arr\u00eate jamais, m\u00eame lorsqu'il charge un bloc d'acier. Malgr\u00e9 tout, il sent la douleur le lendemain.",
+            "abilities": [
+                199,
+                276,
+                271
+            ]
+        }
+    ]
+}

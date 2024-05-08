@@ -1,0 +1,28 @@
+{
+    "number": 957,
+    "name": "Forgerette",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fairy",
+                "steel"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/tinkatink.jpg",
+            "base": {
+                "hp": 50,
+                "attack": 45,
+                "defense": 45,
+                "spAttack": 35,
+                "spDefense": 64,
+                "speed": 58
+            },
+            "description": "Il se d\u00e9fend en brandissant un marteau qu'il a cr\u00e9\u00e9 lui-m\u00eame, mais les Pok\u00e9mon qui se nourrissent de m\u00e9taux ont tendance \u00e0 le lui voler.",
+            "abilities": [
+                46,
+                272,
+                210
+            ]
+        }
+    ]
+}

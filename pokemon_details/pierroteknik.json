@@ -1,0 +1,26 @@
+{
+    "number": 806,
+    "name": "Pierroteknik",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "fire",
+                "ghost"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/blacephalon.jpg",
+            "base": {
+                "hp": 53,
+                "attack": 127,
+                "defense": 53,
+                "spAttack": 151,
+                "spDefense": 79,
+                "speed": 107
+            },
+            "description": "Cette Ultra-Chim\u00e8re sortie d\u2019une Ultra-Br\u00e8che provoque des explosions pour surprendre l\u2019ennemi et en profite pour voler son \u00e9nergie.",
+            "abilities": [
+                41
+            ]
+        }
+    ]
+}

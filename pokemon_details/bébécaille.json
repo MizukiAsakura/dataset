@@ -1,0 +1,27 @@
+{
+    "number": 782,
+    "name": "B\u00e9b\u00e9caille",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "dragon"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/jangmo-o.jpg",
+            "base": {
+                "hp": 45,
+                "attack": 55,
+                "defense": 65,
+                "spAttack": 45,
+                "spDefense": 45,
+                "speed": 45
+            },
+            "description": "Il frotte violemment l\u2019\u00e9caille de sa t\u00eate sur des pierres et sur le sol pour intimider ses ennemis ou pour communiquer avec ses cong\u00e9n\u00e8res.",
+            "abilities": [
+                200,
+                17,
+                106
+            ]
+        }
+    ]
+}

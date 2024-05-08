@@ -1,0 +1,27 @@
+{
+    "number": 606,
+    "name": "Neitram",
+    "form": [
+        {
+            "name": "normal",
+            "types": [
+                "psy"
+            ],
+            "image": "https://img.pokemondb.net/artwork/large/beheeyem.jpg",
+            "base": {
+                "hp": 75,
+                "attack": 75,
+                "defense": 75,
+                "spAttack": 125,
+                "spDefense": 95,
+                "speed": 40
+            },
+            "description": "Il peut modifier les souvenirs avec ses pouvoirs psychiques. Vous ne le savez pas encore, mais vous avez peut-\u00eatre d\u00e9j\u00e0 tout oubli\u00e9...",
+            "abilities": [
+                270,
+                265,
+                14
+            ]
+        }
+    ]
+}
