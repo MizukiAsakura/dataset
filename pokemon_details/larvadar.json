@@ -1,6 +1,7 @@
 {
     "number": 824,
     "name": "Larvadar",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/824.ogg",
     "form": [
         {
             "name": "normal",

@@ -1,6 +1,7 @@
 {
     "number": 844,
     "name": "Dunaconda",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/844.ogg",
     "form": [
         {
             "name": "normal",

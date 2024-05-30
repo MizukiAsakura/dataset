@@ -1,6 +1,7 @@
 {
     "number": 100,
     "name": "Voltorbe",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/100.ogg",
     "form": [
         {
             "name": "normal",

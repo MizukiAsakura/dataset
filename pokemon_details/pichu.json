@@ -1,6 +1,7 @@
 {
     "number": 172,
     "name": "Pichu",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/172.ogg",
     "form": [
         {
             "name": "normal",

@@ -1,6 +1,7 @@
 {
     "number": 32,
     "name": "Nidoran\u2642",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/32.ogg",
     "form": [
         {
             "name": "normal",

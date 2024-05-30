@@ -1,6 +1,7 @@
 {
     "number": 491,
     "name": "Darkrai",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/491.ogg",
     "form": [
         {
             "name": "normal",

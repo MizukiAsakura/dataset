@@ -1,6 +1,7 @@
 {
     "number": 182,
     "name": "Joliflor",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/182.ogg",
     "form": [
         {
             "name": "normal",

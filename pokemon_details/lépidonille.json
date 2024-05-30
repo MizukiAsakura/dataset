@@ -1,6 +1,7 @@
 {
     "number": 664,
     "name": "L\u00e9pidonille",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/664.ogg",
     "form": [
         {
             "name": "normal",

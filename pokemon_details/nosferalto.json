@@ -1,6 +1,7 @@
 {
     "number": 42,
     "name": "Nosferalto",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/42.ogg",
     "form": [
         {
             "name": "normal",

@@ -1,6 +1,7 @@
 {
     "number": 848,
     "name": "Toxizap",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/848.ogg",
     "form": [
         {
             "name": "normal",

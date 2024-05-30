@@ -1,6 +1,7 @@
 {
     "number": 590,
     "name": "Trompignon",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/590.ogg",
     "form": [
         {
             "name": "normal",

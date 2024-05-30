@@ -1,6 +1,7 @@
 {
     "number": 446,
     "name": "Goinfrex",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/446.ogg",
     "form": [
         {
             "name": "normal",

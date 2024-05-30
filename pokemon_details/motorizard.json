@@ -1,6 +1,7 @@
 {
     "number": 967,
     "name": "Motorizard",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/967.ogg",
     "form": [
         {
             "name": "normal",

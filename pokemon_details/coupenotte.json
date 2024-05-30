@@ -1,6 +1,7 @@
 {
     "number": 610,
     "name": "Coupenotte",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/610.ogg",
     "form": [
         {
             "name": "normal",

@@ -1,6 +1,7 @@
 {
     "number": 386,
     "name": "Deoxys",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/386.ogg",
     "form": [
         {
             "name": "normal",

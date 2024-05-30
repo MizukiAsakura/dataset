@@ -1,6 +1,7 @@
 {
     "number": 217,
     "name": "Ursaring",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/217.ogg",
     "form": [
         {
             "name": "normal",

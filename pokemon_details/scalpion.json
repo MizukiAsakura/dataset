@@ -1,6 +1,7 @@
 {
     "number": 624,
     "name": "Scalpion",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/624.ogg",
     "form": [
         {
             "name": "normal",

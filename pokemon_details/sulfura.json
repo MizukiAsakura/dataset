@@ -1,6 +1,7 @@
 {
     "number": 146,
     "name": "Sulfura",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/146.ogg",
     "form": [
         {
             "name": "normal",

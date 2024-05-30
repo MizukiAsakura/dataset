@@ -1,6 +1,7 @@
 {
     "number": 863,
     "name": "Berserkatt",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/863.ogg",
     "form": [
         {
             "name": "normal",

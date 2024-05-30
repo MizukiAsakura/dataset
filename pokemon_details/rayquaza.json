@@ -1,6 +1,7 @@
 {
     "number": 384,
     "name": "Rayquaza",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/384.ogg",
     "form": [
         {
             "name": "normal",

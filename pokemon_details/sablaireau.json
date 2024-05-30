@@ -1,6 +1,7 @@
 {
     "number": 28,
     "name": "Sablaireau",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/28.ogg",
     "form": [
         {
             "name": "normal",

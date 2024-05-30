@@ -1,6 +1,7 @@
 {
     "number": 225,
     "name": "Cadoizo",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/225.ogg",
     "form": [
         {
             "name": "normal",

@@ -1,6 +1,7 @@
 {
     "number": 868,
     "name": "Cr\u00e8my",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/868.ogg",
     "form": [
         {
             "name": "normal",

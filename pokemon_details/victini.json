@@ -1,6 +1,7 @@
 {
     "number": 494,
     "name": "Victini",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/494.ogg",
     "form": [
         {
             "name": "normal",

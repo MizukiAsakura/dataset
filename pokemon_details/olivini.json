@@ -1,6 +1,7 @@
 {
     "number": 928,
     "name": "Olivini",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/928.ogg",
     "form": [
         {
             "name": "normal",

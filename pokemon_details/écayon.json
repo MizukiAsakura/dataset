@@ -1,6 +1,7 @@
 {
     "number": 456,
     "name": "\u00c9cayon",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/456.ogg",
     "form": [
         {
             "name": "normal",

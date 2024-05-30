@@ -1,6 +1,7 @@
 {
     "number": 251,
     "name": "Celebi",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/251.ogg",
     "form": [
         {
             "name": "normal",

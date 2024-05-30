@@ -1,6 +1,7 @@
 {
     "number": 64,
     "name": "Kadabra",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/64.ogg",
     "form": [
         {
             "name": "normal",

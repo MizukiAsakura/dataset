@@ -1,6 +1,7 @@
 {
     "number": 993,
     "name": "T\u00eates-de-Fer",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/993.ogg",
     "form": [
         {
             "name": "normal",

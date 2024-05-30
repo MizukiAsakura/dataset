@@ -1,6 +1,7 @@
 {
     "number": 503,
     "name": "Clamiral",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/503.ogg",
     "form": [
         {
             "name": "normal",

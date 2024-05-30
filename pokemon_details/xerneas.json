@@ -1,6 +1,7 @@
 {
     "number": 716,
     "name": "Xerneas",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/716.ogg",
     "form": [
         {
             "name": "normal",

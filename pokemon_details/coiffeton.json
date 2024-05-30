@@ -1,6 +1,7 @@
 {
     "number": 912,
     "name": "Coiffeton",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/912.ogg",
     "form": [
         {
             "name": "normal",

@@ -1,6 +1,7 @@
 {
     "number": 106,
     "name": "Kicklee",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/106.ogg",
     "form": [
         {
             "name": "normal",

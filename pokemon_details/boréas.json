@@ -1,6 +1,7 @@
 {
     "number": 641,
     "name": "Bor\u00e9as",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/641.ogg",
     "form": [
         {
             "name": "normal",

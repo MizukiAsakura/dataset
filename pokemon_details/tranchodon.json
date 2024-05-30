@@ -1,6 +1,7 @@
 {
     "number": 612,
     "name": "Tranchodon",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/612.ogg",
     "form": [
         {
             "name": "normal",

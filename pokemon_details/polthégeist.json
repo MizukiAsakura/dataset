@@ -1,6 +1,7 @@
 {
     "number": 855,
     "name": "Polth\u00e9geist",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/855.ogg",
     "form": [
         {
             "name": "normal",

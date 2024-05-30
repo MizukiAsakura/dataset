@@ -1,6 +1,7 @@
 {
     "number": 48,
     "name": "Mimitoss",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/48.ogg",
     "form": [
         {
             "name": "normal",

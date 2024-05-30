@@ -1,6 +1,7 @@
 {
     "number": 672,
     "name": "Cabriolaine",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/672.ogg",
     "form": [
         {
             "name": "normal",

@@ -1,6 +1,7 @@
 {
     "number": 597,
     "name": "Grindur",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/597.ogg",
     "form": [
         {
             "name": "normal",

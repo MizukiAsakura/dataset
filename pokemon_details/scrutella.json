@@ -1,6 +1,7 @@
 {
     "number": 574,
     "name": "Scrutella",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/574.ogg",
     "form": [
         {
             "name": "normal",

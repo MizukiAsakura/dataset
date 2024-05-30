@@ -1,6 +1,7 @@
 {
     "number": 382,
     "name": "Kyogre",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/382.ogg",
     "form": [
         {
             "name": "normal",

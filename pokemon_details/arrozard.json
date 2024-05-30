@@ -1,6 +1,7 @@
 {
     "number": 817,
     "name": "Arrozard",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/817.ogg",
     "form": [
         {
             "name": "normal",

@@ -1,6 +1,7 @@
 {
     "number": 867,
     "name": "Tut\u00e9t\u00e9kri",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/867.ogg",
     "form": [
         {
             "name": "normal",

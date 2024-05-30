@@ -1,6 +1,7 @@
 {
     "number": 51,
     "name": "Triopikeur",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/51.ogg",
     "form": [
         {
             "name": "normal",

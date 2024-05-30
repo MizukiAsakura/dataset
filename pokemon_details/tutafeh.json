@@ -1,6 +1,7 @@
 {
     "number": 562,
     "name": "Tutafeh",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/562.ogg",
     "form": [
         {
             "name": "normal",

@@ -1,6 +1,7 @@
 {
     "number": 834,
     "name": "Torgamord",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/834.ogg",
     "form": [
         {
             "name": "normal",

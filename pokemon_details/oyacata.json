@@ -1,6 +1,7 @@
 {
     "number": 977,
     "name": "Oyacata",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/977.ogg",
     "form": [
         {
             "name": "normal",

@@ -1,6 +1,7 @@
 {
     "number": 777,
     "name": "Togedemaru",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/777.ogg",
     "form": [
         {
             "name": "normal",

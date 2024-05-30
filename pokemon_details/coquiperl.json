@@ -1,6 +1,7 @@
 {
     "number": 366,
     "name": "Coquiperl",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/366.ogg",
     "form": [
         {
             "name": "normal",

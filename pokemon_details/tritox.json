@@ -1,6 +1,7 @@
 {
     "number": 757,
     "name": "Tritox",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/757.ogg",
     "form": [
         {
             "name": "normal",

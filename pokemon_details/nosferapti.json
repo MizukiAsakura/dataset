@@ -1,6 +1,7 @@
 {
     "number": 41,
     "name": "Nosferapti",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/41.ogg",
     "form": [
         {
             "name": "normal",

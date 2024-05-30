@@ -1,6 +1,7 @@
 {
     "number": 206,
     "name": "Insolourdo",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/206.ogg",
     "form": [
         {
             "name": "normal",

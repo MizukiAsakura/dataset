@@ -1,6 +1,7 @@
 {
     "number": 244,
     "name": "Entei",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/244.ogg",
     "form": [
         {
             "name": "normal",

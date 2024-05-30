@@ -1,6 +1,7 @@
 {
     "number": 646,
     "name": "Kyurem",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/646.ogg",
     "form": [
         {
             "name": "normal",

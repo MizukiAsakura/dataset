@@ -1,6 +1,7 @@
 {
     "number": 44,
     "name": "Ortide",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/44.ogg",
     "form": [
         {
             "name": "normal",

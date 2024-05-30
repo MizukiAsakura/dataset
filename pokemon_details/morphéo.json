@@ -1,6 +1,7 @@
 {
     "number": 351,
     "name": "Morph\u00e9o",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/351.ogg",
     "form": [
         {
             "name": "normal",

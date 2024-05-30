@@ -1,6 +1,7 @@
 {
     "number": 600,
     "name": "Clic",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/600.ogg",
     "form": [
         {
             "name": "normal",

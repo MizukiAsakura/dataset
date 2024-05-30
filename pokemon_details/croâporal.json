@@ -1,6 +1,7 @@
 {
     "number": 657,
     "name": "Cro\u00e2poral",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/657.ogg",
     "form": [
         {
             "name": "normal",

@@ -1,6 +1,7 @@
 {
     "number": 166,
     "name": "Coxyclaque",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/166.ogg",
     "form": [
         {
             "name": "normal",

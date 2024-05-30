@@ -1,6 +1,7 @@
 {
     "number": 636,
     "name": "Pyronille",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/636.ogg",
     "form": [
         {
             "name": "normal",

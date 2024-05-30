@@ -1,6 +1,7 @@
 {
     "number": 293,
     "name": "Chuchmur",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/293.ogg",
     "form": [
         {
             "name": "normal",

@@ -1,6 +1,7 @@
 {
     "number": 991,
     "name": "Hotte-de-Fer",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/991.ogg",
     "form": [
         {
             "name": "normal",

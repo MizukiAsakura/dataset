@@ -1,6 +1,7 @@
 {
     "number": 731,
     "name": "Picassaut",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/731.ogg",
     "form": [
         {
             "name": "normal",

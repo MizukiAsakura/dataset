@@ -1,6 +1,7 @@
 {
     "number": 353,
     "name": "Polichombr",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/353.ogg",
     "form": [
         {
             "name": "normal",

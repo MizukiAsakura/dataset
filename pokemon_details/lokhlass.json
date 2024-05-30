@@ -1,6 +1,7 @@
 {
     "number": 131,
     "name": "Lokhlass",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/131.ogg",
     "form": [
         {
             "name": "normal",

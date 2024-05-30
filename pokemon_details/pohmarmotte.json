@@ -1,6 +1,7 @@
 {
     "number": 923,
     "name": "Pohmarmotte",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/923.ogg",
     "form": [
         {
             "name": "normal",

@@ -1,6 +1,7 @@
 {
     "number": 630,
     "name": "Vaututrice",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/630.ogg",
     "form": [
         {
             "name": "normal",

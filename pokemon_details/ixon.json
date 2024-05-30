@@ -1,6 +1,7 @@
 {
     "number": 862,
     "name": "Ixon",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/862.ogg",
     "form": [
         {
             "name": "normal",

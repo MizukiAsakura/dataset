@@ -1,6 +1,7 @@
 {
     "number": 827,
     "name": "Goupilou",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/827.ogg",
     "form": [
         {
             "name": "normal",

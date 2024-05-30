@@ -1,6 +1,7 @@
 {
     "number": 470,
     "name": "Phyllali",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/470.ogg",
     "form": [
         {
             "name": "normal",

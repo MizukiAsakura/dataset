@@ -1,6 +1,7 @@
 {
     "number": 115,
     "name": "Kangourex",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/115.ogg",
     "form": [
         {
             "name": "normal",

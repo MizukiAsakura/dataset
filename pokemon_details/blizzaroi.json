@@ -1,6 +1,7 @@
 {
     "number": 460,
     "name": "Blizzaroi",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/460.ogg",
     "form": [
         {
             "name": "normal",

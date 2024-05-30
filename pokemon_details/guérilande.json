@@ -1,6 +1,7 @@
 {
     "number": 764,
     "name": "Gu\u00e9rilande",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/764.ogg",
     "form": [
         {
             "name": "normal",

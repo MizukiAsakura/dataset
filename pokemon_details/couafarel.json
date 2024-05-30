@@ -1,6 +1,7 @@
 {
     "number": 676,
     "name": "Couafarel",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/676.ogg",
     "form": [
         {
             "name": "normal",

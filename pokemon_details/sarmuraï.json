@@ -1,6 +1,7 @@
 {
     "number": 768,
     "name": "Sarmura\u00ef",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/768.ogg",
     "form": [
         {
             "name": "normal",

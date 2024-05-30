@@ -1,6 +1,7 @@
 {
     "number": 188,
     "name": "Floravol",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/188.ogg",
     "form": [
         {
             "name": "normal",

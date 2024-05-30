@@ -1,6 +1,7 @@
 {
     "number": 123,
     "name": "Ins\u00e9cateur",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/123.ogg",
     "form": [
         {
             "name": "normal",

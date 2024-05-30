@@ -1,6 +1,7 @@
 {
     "number": 149,
     "name": "Dracolosse",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/149.ogg",
     "form": [
         {
             "name": "normal",

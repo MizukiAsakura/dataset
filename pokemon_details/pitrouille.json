@@ -1,6 +1,7 @@
 {
     "number": 710,
     "name": "Pitrouille",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/710.ogg",
     "form": [
         {
             "name": "normal",

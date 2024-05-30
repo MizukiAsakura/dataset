@@ -1,6 +1,7 @@
 {
     "number": 372,
     "name": "Drackhaus",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/372.ogg",
     "form": [
         {
             "name": "normal",

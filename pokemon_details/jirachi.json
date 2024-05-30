@@ -1,6 +1,7 @@
 {
     "number": 385,
     "name": "Jirachi",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/385.ogg",
     "form": [
         {
             "name": "normal",

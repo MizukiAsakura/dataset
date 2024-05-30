@@ -1,6 +1,7 @@
 {
     "number": 666,
     "name": "Prismillon",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/666.ogg",
     "form": [
         {
             "name": "normal",

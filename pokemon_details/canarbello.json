@@ -1,6 +1,7 @@
 {
     "number": 913,
     "name": "Canarbello",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/913.ogg",
     "form": [
         {
             "name": "normal",

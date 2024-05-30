@@ -1,6 +1,7 @@
 {
     "number": 462,
     "name": "Magn\u00e9zone",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/462.ogg",
     "form": [
         {
             "name": "normal",

@@ -1,6 +1,7 @@
 {
     "number": 429,
     "name": "Magir\u00eave",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/429.ogg",
     "form": [
         {
             "name": "normal",

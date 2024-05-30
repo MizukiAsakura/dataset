@@ -1,6 +1,7 @@
 {
     "number": 430,
     "name": "Corboss",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/430.ogg",
     "form": [
         {
             "name": "normal",

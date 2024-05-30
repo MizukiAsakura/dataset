@@ -1,6 +1,7 @@
 {
     "number": 431,
     "name": "Chaglam",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/431.ogg",
     "form": [
         {
             "name": "normal",

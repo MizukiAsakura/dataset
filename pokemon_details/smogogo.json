@@ -1,6 +1,7 @@
 {
     "number": 110,
     "name": "Smogogo",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/110.ogg",
     "form": [
         {
             "name": "normal",

@@ -1,6 +1,7 @@
 {
     "number": 700,
     "name": "Nymphali",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/700.ogg",
     "form": [
         {
             "name": "normal",

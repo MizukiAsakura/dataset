@@ -1,6 +1,7 @@
 {
     "number": 785,
     "name": "Tokorico",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/785.ogg",
     "form": [
         {
             "name": "normal",

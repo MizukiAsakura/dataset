@@ -1,6 +1,7 @@
 {
     "number": 988,
     "name": "Rampe-Ailes",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/988.ogg",
     "form": [
         {
             "name": "normal",

@@ -1,6 +1,7 @@
 {
     "number": 220,
     "name": "Marcacrin",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/220.ogg",
     "form": [
         {
             "name": "normal",

@@ -1,6 +1,7 @@
 {
     "number": 301,
     "name": "Delcatty",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/301.ogg",
     "form": [
         {
             "name": "normal",

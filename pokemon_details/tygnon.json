@@ -1,6 +1,7 @@
 {
     "number": 107,
     "name": "Tygnon",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/107.ogg",
     "form": [
         {
             "name": "normal",

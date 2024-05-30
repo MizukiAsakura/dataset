@@ -1,6 +1,7 @@
 {
     "number": 488,
     "name": "Cresselia",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/488.ogg",
     "form": [
         {
             "name": "normal",

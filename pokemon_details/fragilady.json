@@ -1,6 +1,7 @@
 {
     "number": 549,
     "name": "Fragilady",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/549.ogg",
     "form": [
         {
             "name": "normal",

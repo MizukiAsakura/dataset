@@ -1,6 +1,7 @@
 {
     "number": 792,
     "name": "Lunala",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/792.ogg",
     "form": [
         {
             "name": "normal",

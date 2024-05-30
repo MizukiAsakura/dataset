@@ -1,6 +1,7 @@
 {
     "number": 392,
     "name": "Simiabraz",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/392.ogg",
     "form": [
         {
             "name": "normal",

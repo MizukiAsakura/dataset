@@ -1,6 +1,7 @@
 {
     "number": 506,
     "name": "Ponchiot",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/506.ogg",
     "form": [
         {
             "name": "normal",

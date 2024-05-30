@@ -1,6 +1,7 @@
 {
     "number": 409,
     "name": "Charkos",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/409.ogg",
     "form": [
         {
             "name": "normal",

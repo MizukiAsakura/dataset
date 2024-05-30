@@ -1,6 +1,7 @@
 {
     "number": 365,
     "name": "Kaimorse",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/365.ogg",
     "form": [
         {
             "name": "normal",

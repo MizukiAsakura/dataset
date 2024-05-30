@@ -1,6 +1,7 @@
 {
     "number": 605,
     "name": "Lewsor",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/605.ogg",
     "form": [
         {
             "name": "normal",

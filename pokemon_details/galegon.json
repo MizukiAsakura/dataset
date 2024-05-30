@@ -1,6 +1,7 @@
 {
     "number": 305,
     "name": "Galegon",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/305.ogg",
     "form": [
         {
             "name": "normal",

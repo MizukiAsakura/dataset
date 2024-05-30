@@ -1,6 +1,7 @@
 {
     "number": 292,
     "name": "Munja",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/292.ogg",
     "form": [
         {
             "name": "normal",

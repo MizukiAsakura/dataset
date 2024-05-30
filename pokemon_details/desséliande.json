@@ -1,6 +1,7 @@
 {
     "number": 709,
     "name": "Dess\u00e9liande",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/709.ogg",
     "form": [
         {
             "name": "normal",

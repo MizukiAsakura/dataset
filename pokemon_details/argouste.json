@@ -1,6 +1,7 @@
 {
     "number": 735,
     "name": "Argouste",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/735.ogg",
     "form": [
         {
             "name": "normal",

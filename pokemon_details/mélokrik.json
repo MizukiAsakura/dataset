@@ -1,6 +1,7 @@
 {
     "number": 402,
     "name": "M\u00e9lokrik",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/402.ogg",
     "form": [
         {
             "name": "normal",

@@ -1,6 +1,7 @@
 {
     "number": 959,
     "name": "Forgelina",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/959.ogg",
     "form": [
         {
             "name": "normal",

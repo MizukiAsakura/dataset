@@ -1,6 +1,7 @@
 {
     "number": 432,
     "name": "Chaffreux",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/432.ogg",
     "form": [
         {
             "name": "normal",

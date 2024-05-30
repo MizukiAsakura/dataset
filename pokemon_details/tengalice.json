@@ -1,6 +1,7 @@
 {
     "number": 275,
     "name": "Tengalice",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/275.ogg",
     "form": [
         {
             "name": "normal",

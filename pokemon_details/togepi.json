@@ -1,6 +1,7 @@
 {
     "number": 175,
     "name": "Togepi",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/175.ogg",
     "form": [
         {
             "name": "normal",

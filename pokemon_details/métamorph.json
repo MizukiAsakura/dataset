@@ -1,6 +1,7 @@
 {
     "number": 132,
     "name": "M\u00e9tamorph",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/132.ogg",
     "form": [
         {
             "name": "normal",

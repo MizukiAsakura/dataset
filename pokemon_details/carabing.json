@@ -1,6 +1,7 @@
 {
     "number": 588,
     "name": "Carabing",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/588.ogg",
     "form": [
         {
             "name": "normal",

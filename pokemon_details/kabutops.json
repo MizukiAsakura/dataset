@@ -1,6 +1,7 @@
 {
     "number": 141,
     "name": "Kabutops",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/141.ogg",
     "form": [
         {
             "name": "normal",

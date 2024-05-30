@@ -1,6 +1,7 @@
 {
     "number": 775,
     "name": "Dodoala",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/775.ogg",
     "form": [
         {
             "name": "normal",

@@ -1,6 +1,7 @@
 {
     "number": 213,
     "name": "Caratroc",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/213.ogg",
     "form": [
         {
             "name": "normal",

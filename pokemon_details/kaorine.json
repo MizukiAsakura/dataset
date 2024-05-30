@@ -1,6 +1,7 @@
 {
     "number": 344,
     "name": "Kaorine",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/344.ogg",
     "form": [
         {
             "name": "normal",

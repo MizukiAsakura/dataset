@@ -1,6 +1,7 @@
 {
     "number": 801,
     "name": "Magearna",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/801.ogg",
     "form": [
         {
             "name": "normal",

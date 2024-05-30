@@ -1,6 +1,7 @@
 {
     "number": 828,
     "name": "Roublenard",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/828.ogg",
     "form": [
         {
             "name": "normal",

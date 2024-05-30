@@ -1,6 +1,7 @@
 {
     "number": 193,
     "name": "Yanma",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/193.ogg",
     "form": [
         {
             "name": "normal",

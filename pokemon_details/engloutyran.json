@@ -1,6 +1,7 @@
 {
     "number": 799,
     "name": "Engloutyran",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/799.ogg",
     "form": [
         {
             "name": "normal",

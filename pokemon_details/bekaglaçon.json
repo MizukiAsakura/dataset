@@ -1,6 +1,7 @@
 {
     "number": 875,
     "name": "Bekagla\u00e7on",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/875.ogg",
     "form": [
         {
             "name": "normal",

@@ -1,6 +1,7 @@
 {
     "number": 627,
     "name": "Furaiglon",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/627.ogg",
     "form": [
         {
             "name": "normal",

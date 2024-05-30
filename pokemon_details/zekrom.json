@@ -1,6 +1,7 @@
 {
     "number": 644,
     "name": "Zekrom",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/644.ogg",
     "form": [
         {
             "name": "normal",

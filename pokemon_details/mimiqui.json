@@ -1,6 +1,7 @@
 {
     "number": 778,
     "name": "Mimiqui",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/778.ogg",
     "form": [
         {
             "name": "normal",

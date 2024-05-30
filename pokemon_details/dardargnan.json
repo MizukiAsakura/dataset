@@ -1,6 +1,7 @@
 {
     "number": 15,
     "name": "Dardargnan",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/15.ogg",
     "form": [
         {
             "name": "normal",

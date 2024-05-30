@@ -1,6 +1,7 @@
 {
     "number": 889,
     "name": "Zamazenta",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/889.ogg",
     "form": [
         {
             "name": "normal",

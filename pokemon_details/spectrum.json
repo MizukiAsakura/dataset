@@ -1,6 +1,7 @@
 {
     "number": 93,
     "name": "Spectrum",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/93.ogg",
     "form": [
         {
             "name": "normal",

@@ -1,6 +1,7 @@
 {
     "number": 919,
     "name": "Lilliterelle",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/919.ogg",
     "form": [
         {
             "name": "normal",

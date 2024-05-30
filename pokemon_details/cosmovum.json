@@ -1,6 +1,7 @@
 {
     "number": 790,
     "name": "Cosmovum",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/790.ogg",
     "form": [
         {
             "name": "normal",

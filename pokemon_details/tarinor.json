@@ -1,6 +1,7 @@
 {
     "number": 299,
     "name": "Tarinor",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/299.ogg",
     "form": [
         {
             "name": "normal",

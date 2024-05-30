@@ -1,6 +1,7 @@
 {
     "number": 979,
     "name": "Courrousinge",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/979.ogg",
     "form": [
         {
             "name": "normal",

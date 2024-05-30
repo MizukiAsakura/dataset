@@ -1,6 +1,7 @@
 {
     "number": 290,
     "name": "Ningale",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/290.ogg",
     "form": [
         {
             "name": "normal",

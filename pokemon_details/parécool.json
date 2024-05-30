@@ -1,6 +1,7 @@
 {
     "number": 287,
     "name": "Par\u00e9cool",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/287.ogg",
     "form": [
         {
             "name": "normal",

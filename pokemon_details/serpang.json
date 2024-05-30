@@ -1,6 +1,7 @@
 {
     "number": 367,
     "name": "Serpang",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/367.ogg",
     "form": [
         {
             "name": "normal",

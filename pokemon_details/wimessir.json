@@ -1,6 +1,7 @@
 {
     "number": 876,
     "name": "Wimessir",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/876.ogg",
     "form": [
         {
             "name": "normal",

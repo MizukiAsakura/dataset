@@ -1,6 +1,7 @@
 {
     "number": 580,
     "name": "Couaneton",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/580.ogg",
     "form": [
         {
             "name": "normal",

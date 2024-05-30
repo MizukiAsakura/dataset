@@ -1,6 +1,7 @@
 {
     "number": 83,
     "name": "Canarticho",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/83.ogg",
     "form": [
         {
             "name": "normal",

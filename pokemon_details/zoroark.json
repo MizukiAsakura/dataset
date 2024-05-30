@@ -1,6 +1,7 @@
 {
     "number": 571,
     "name": "Zoroark",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/571.ogg",
     "form": [
         {
             "name": "normal",

@@ -1,6 +1,7 @@
 {
     "number": 969,
     "name": "Germ\u00e9clat",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/969.ogg",
     "form": [
         {
             "name": "normal",

@@ -1,6 +1,7 @@
 {
     "number": 625,
     "name": "Scalproie",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/625.ogg",
     "form": [
         {
             "name": "normal",

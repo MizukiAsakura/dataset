@@ -1,6 +1,7 @@
 {
     "number": 540,
     "name": "Larveyette",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/540.ogg",
     "form": [
         {
             "name": "normal",

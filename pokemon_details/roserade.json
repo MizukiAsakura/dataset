@@ -1,6 +1,7 @@
 {
     "number": 407,
     "name": "Roserade",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/407.ogg",
     "form": [
         {
             "name": "normal",

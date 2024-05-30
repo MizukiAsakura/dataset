@@ -1,6 +1,7 @@
 {
     "number": 756,
     "name": "Lampignon",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/756.ogg",
     "form": [
         {
             "name": "normal",

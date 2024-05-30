@@ -1,6 +1,7 @@
 {
     "number": 808,
     "name": "Meltan",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/808.ogg",
     "form": [
         {
             "name": "normal",

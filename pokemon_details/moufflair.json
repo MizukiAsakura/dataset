@@ -1,6 +1,7 @@
 {
     "number": 435,
     "name": "Moufflair",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/435.ogg",
     "form": [
         {
             "name": "normal",

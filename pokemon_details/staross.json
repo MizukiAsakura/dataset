@@ -1,6 +1,7 @@
 {
     "number": 121,
     "name": "Staross",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/121.ogg",
     "form": [
         {
             "name": "normal",

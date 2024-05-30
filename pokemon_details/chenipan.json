@@ -1,6 +1,7 @@
 {
     "number": 10,
     "name": "Chenipan",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/10.ogg",
     "form": [
         {
             "name": "normal",

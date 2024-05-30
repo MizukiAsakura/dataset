@@ -1,6 +1,7 @@
 {
     "number": 978,
     "name": "Nigirigon",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/978.ogg",
     "form": [
         {
             "name": "normal",

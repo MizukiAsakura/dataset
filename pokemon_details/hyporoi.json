@@ -1,6 +1,7 @@
 {
     "number": 230,
     "name": "Hyporoi",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/230.ogg",
     "form": [
         {
             "name": "normal",

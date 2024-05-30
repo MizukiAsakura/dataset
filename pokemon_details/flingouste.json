@@ -1,6 +1,7 @@
 {
     "number": 692,
     "name": "Flingouste",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/692.ogg",
     "form": [
         {
             "name": "normal",

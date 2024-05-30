@@ -1,6 +1,7 @@
 {
     "number": 957,
     "name": "Forgerette",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/957.ogg",
     "form": [
         {
             "name": "normal",

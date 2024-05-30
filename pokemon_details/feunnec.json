@@ -1,6 +1,7 @@
 {
     "number": 653,
     "name": "Feunnec",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/653.ogg",
     "form": [
         {
             "name": "normal",

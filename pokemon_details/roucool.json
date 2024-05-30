@@ -1,6 +1,7 @@
 {
     "number": 16,
     "name": "Roucool",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/16.ogg",
     "form": [
         {
             "name": "normal",

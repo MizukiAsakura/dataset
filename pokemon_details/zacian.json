@@ -1,6 +1,7 @@
 {
     "number": 888,
     "name": "Zacian",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/888.ogg",
     "form": [
         {
             "name": "normal",

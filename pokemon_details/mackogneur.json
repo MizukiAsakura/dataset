@@ -1,6 +1,7 @@
 {
     "number": 68,
     "name": "Mackogneur",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/68.ogg",
     "form": [
         {
             "name": "normal",

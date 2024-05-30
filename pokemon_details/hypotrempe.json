@@ -1,6 +1,7 @@
 {
     "number": 116,
     "name": "Hypotrempe",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/116.ogg",
     "form": [
         {
             "name": "normal",

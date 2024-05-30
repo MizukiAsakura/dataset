@@ -1,6 +1,7 @@
 {
     "number": 426,
     "name": "Grodrive",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/426.ogg",
     "form": [
         {
             "name": "normal",

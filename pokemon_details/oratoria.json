@@ -1,6 +1,7 @@
 {
     "number": 730,
     "name": "Oratoria",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/730.ogg",
     "form": [
         {
             "name": "normal",

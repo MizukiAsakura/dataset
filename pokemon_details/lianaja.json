@@ -1,6 +1,7 @@
 {
     "number": 496,
     "name": "Lianaja",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/496.ogg",
     "form": [
         {
             "name": "normal",

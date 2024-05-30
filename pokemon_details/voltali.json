@@ -1,6 +1,7 @@
 {
     "number": 135,
     "name": "Voltali",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/135.ogg",
     "form": [
         {
             "name": "normal",

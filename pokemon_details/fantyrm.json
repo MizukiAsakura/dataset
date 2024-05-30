@@ -1,6 +1,7 @@
 {
     "number": 885,
     "name": "Fantyrm",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/885.ogg",
     "form": [
         {
             "name": "normal",

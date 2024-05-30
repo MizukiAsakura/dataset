@@ -1,6 +1,7 @@
 {
     "number": 322,
     "name": "Chamallot",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/322.ogg",
     "form": [
         {
             "name": "normal",

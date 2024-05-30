@@ -1,6 +1,7 @@
 {
     "number": 661,
     "name": "Passerouge",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/661.ogg",
     "form": [
         {
             "name": "normal",

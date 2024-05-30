@@ -1,6 +1,7 @@
 {
     "number": 320,
     "name": "Wailmer",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/320.ogg",
     "form": [
         {
             "name": "normal",

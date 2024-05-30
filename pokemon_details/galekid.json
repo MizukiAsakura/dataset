@@ -1,6 +1,7 @@
 {
     "number": 304,
     "name": "Galekid",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/304.ogg",
     "form": [
         {
             "name": "normal",

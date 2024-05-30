@@ -1,6 +1,7 @@
 {
     "number": 284,
     "name": "Maskadra",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/284.ogg",
     "form": [
         {
             "name": "normal",

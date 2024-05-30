@@ -1,6 +1,7 @@
 {
     "number": 192,
     "name": "H\u00e9liatronc",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/192.ogg",
     "form": [
         {
             "name": "normal",

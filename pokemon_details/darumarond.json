@@ -1,6 +1,7 @@
 {
     "number": 554,
     "name": "Darumarond",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/554.ogg",
     "form": [
         {
             "name": "normal",

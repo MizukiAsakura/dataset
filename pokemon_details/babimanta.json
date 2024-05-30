@@ -1,6 +1,7 @@
 {
     "number": 458,
     "name": "Babimanta",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/458.ogg",
     "form": [
         {
             "name": "normal",

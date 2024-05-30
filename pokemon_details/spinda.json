@@ -1,6 +1,7 @@
 {
     "number": 327,
     "name": "Spinda",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/327.ogg",
     "form": [
         {
             "name": "normal",

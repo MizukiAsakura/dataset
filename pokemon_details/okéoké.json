@@ -1,6 +1,7 @@
 {
     "number": 360,
     "name": "Ok\u00e9ok\u00e9",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/360.ogg",
     "form": [
         {
             "name": "normal",

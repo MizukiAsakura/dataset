@@ -1,6 +1,7 @@
 {
     "number": 829,
     "name": "Tournicoton",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/829.ogg",
     "form": [
         {
             "name": "normal",

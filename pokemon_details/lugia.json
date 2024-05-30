@@ -1,6 +1,7 @@
 {
     "number": 249,
     "name": "Lugia",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/249.ogg",
     "form": [
         {
             "name": "normal",

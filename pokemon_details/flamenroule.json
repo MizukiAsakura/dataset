@@ -1,6 +1,7 @@
 {
     "number": 973,
     "name": "Flamenroule",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/973.ogg",
     "form": [
         {
             "name": "normal",

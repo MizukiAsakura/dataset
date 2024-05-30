@@ -1,6 +1,7 @@
 {
     "number": 45,
     "name": "Raffl\u00e9sia",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/45.ogg",
     "form": [
         {
             "name": "normal",

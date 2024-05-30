@@ -1,6 +1,7 @@
 {
     "number": 841,
     "name": "Pomdrapi",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/841.ogg",
     "form": [
         {
             "name": "normal",

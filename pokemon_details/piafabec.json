@@ -1,6 +1,7 @@
 {
     "number": 21,
     "name": "Piafabec",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/21.ogg",
     "form": [
         {
             "name": "normal",

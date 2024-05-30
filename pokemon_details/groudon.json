@@ -1,6 +1,7 @@
 {
     "number": 383,
     "name": "Groudon",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/383.ogg",
     "form": [
         {
             "name": "normal",

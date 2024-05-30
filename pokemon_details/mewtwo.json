@@ -1,6 +1,7 @@
 {
     "number": 150,
     "name": "Mewtwo",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/150.ogg",
     "form": [
         {
             "name": "normal",

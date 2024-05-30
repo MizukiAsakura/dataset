@@ -1,6 +1,7 @@
 {
     "number": 901,
     "name": "Ursaking",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/901.ogg",
     "form": [
         {
             "name": "normal",

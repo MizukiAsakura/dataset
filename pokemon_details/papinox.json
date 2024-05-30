@@ -1,6 +1,7 @@
 {
     "number": 269,
     "name": "Papinox",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/269.ogg",
     "form": [
         {
             "name": "normal",

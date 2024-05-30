@@ -1,6 +1,7 @@
 {
     "number": 138,
     "name": "Amonita",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/138.ogg",
     "form": [
         {
             "name": "normal",

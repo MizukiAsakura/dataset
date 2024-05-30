@@ -1,6 +1,7 @@
 {
     "number": 364,
     "name": "Phogleur",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/364.ogg",
     "form": [
         {
             "name": "normal",

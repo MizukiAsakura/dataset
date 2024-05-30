@@ -1,6 +1,7 @@
 {
     "number": 881,
     "name": "Galvagla",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/881.ogg",
     "form": [
         {
             "name": "normal",

@@ -1,6 +1,7 @@
 {
     "number": 260,
     "name": "Laggron",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/260.ogg",
     "form": [
         {
             "name": "normal",

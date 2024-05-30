@@ -1,6 +1,7 @@
 {
     "number": 609,
     "name": "Lugulabre",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/609.ogg",
     "form": [
         {
             "name": "normal",

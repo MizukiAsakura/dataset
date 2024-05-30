@@ -1,6 +1,7 @@
 {
     "number": 733,
     "name": "Bazoucan",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/733.ogg",
     "form": [
         {
             "name": "normal",

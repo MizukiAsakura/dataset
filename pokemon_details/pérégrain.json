@@ -1,6 +1,7 @@
 {
     "number": 665,
     "name": "P\u00e9r\u00e9grain",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/665.ogg",
     "form": [
         {
             "name": "normal",

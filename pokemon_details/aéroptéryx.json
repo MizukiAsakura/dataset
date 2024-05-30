@@ -1,6 +1,7 @@
 {
     "number": 567,
     "name": "A\u00e9ropt\u00e9ryx",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/567.ogg",
     "form": [
         {
             "name": "normal",

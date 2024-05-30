@@ -1,6 +1,7 @@
 {
     "number": 581,
     "name": "Lakm\u00e9cygne",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/581.ogg",
     "form": [
         {
             "name": "normal",

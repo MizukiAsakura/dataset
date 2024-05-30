@@ -1,6 +1,7 @@
 {
     "number": 108,
     "name": "Excelangue",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/108.ogg",
     "form": [
         {
             "name": "normal",

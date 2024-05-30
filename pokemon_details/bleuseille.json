@@ -1,6 +1,7 @@
 {
     "number": 822,
     "name": "Bleuseille",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/822.ogg",
     "form": [
         {
             "name": "normal",

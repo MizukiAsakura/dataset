@@ -1,6 +1,7 @@
 {
     "number": 61,
     "name": "T\u00eatarte",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/61.ogg",
     "form": [
         {
             "name": "normal",

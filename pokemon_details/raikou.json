@@ -1,6 +1,7 @@
 {
     "number": 243,
     "name": "Raikou",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/243.ogg",
     "form": [
         {
             "name": "normal",

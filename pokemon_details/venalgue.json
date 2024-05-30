@@ -1,6 +1,7 @@
 {
     "number": 690,
     "name": "Venalgue",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/690.ogg",
     "form": [
         {
             "name": "normal",

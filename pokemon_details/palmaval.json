@@ -1,6 +1,7 @@
 {
     "number": 914,
     "name": "Palmaval",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/914.ogg",
     "form": [
         {
             "name": "normal",

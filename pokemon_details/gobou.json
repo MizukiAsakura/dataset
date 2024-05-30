@@ -1,6 +1,7 @@
 {
     "number": 258,
     "name": "Gobou",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/258.ogg",
     "form": [
         {
             "name": "normal",

@@ -1,6 +1,7 @@
 {
     "number": 195,
     "name": "Maraiste",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/195.ogg",
     "form": [
         {
             "name": "normal",

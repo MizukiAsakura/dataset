@@ -1,6 +1,7 @@
 {
     "number": 917,
     "name": "Tissenboule",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/917.ogg",
     "form": [
         {
             "name": "normal",

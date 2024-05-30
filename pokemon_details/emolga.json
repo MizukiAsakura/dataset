@@ -1,6 +1,7 @@
 {
     "number": 587,
     "name": "Emolga",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/587.ogg",
     "form": [
         {
             "name": "normal",

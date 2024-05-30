@@ -1,6 +1,7 @@
 {
     "number": 421,
     "name": "Ceriflor",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/421.ogg",
     "form": [
         {
             "name": "normal",

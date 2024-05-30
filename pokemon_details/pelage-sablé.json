@@ -1,6 +1,7 @@
 {
     "number": 989,
     "name": "Pelage-Sabl\u00e9",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/989.ogg",
     "form": [
         {
             "name": "normal",

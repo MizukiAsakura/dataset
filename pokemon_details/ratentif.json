@@ -1,6 +1,7 @@
 {
     "number": 504,
     "name": "Ratentif",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/504.ogg",
     "form": [
         {
             "name": "normal",

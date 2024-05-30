@@ -1,6 +1,7 @@
 {
     "number": 987,
     "name": "Flotte-M\u00e8che",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/987.ogg",
     "form": [
         {
             "name": "normal",

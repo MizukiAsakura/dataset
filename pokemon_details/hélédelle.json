@@ -1,6 +1,7 @@
 {
     "number": 277,
     "name": "H\u00e9l\u00e9delle",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/277.ogg",
     "form": [
         {
             "name": "normal",

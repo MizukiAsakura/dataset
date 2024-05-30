@@ -1,6 +1,7 @@
 {
     "number": 445,
     "name": "Carchacrok",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/445.ogg",
     "form": [
         {
             "name": "normal",

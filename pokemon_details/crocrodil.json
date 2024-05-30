@@ -1,6 +1,7 @@
 {
     "number": 159,
     "name": "Crocrodil",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/159.ogg",
     "form": [
         {
             "name": "normal",

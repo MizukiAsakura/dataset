@@ -1,6 +1,7 @@
 {
     "number": 35,
     "name": "M\u00e9lof\u00e9e",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/35.ogg",
     "form": [
         {
             "name": "normal",

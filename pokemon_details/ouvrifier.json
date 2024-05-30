@@ -1,6 +1,7 @@
 {
     "number": 533,
     "name": "Ouvrifier",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/533.ogg",
     "form": [
         {
             "name": "normal",

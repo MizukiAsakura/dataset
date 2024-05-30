@@ -1,6 +1,7 @@
 {
     "number": 156,
     "name": "Feurisson",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/156.ogg",
     "form": [
         {
             "name": "normal",

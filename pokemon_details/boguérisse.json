@@ -1,6 +1,7 @@
 {
     "number": 651,
     "name": "Bogu\u00e9risse",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/651.ogg",
     "form": [
         {
             "name": "normal",

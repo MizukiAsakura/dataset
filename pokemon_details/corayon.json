@@ -1,6 +1,7 @@
 {
     "number": 222,
     "name": "Corayon",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/222.ogg",
     "form": [
         {
             "name": "normal",

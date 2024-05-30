@@ -1,6 +1,7 @@
 {
     "number": 165,
     "name": "Coxy",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/165.ogg",
     "form": [
         {
             "name": "normal",

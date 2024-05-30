@@ -1,6 +1,7 @@
 {
     "number": 874,
     "name": "Dolman",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/874.ogg",
     "form": [
         {
             "name": "normal",

@@ -1,6 +1,7 @@
 {
     "number": 3,
     "name": "Florizarre",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/3.ogg",
     "form": [
         {
             "name": "normal",

@@ -1,6 +1,7 @@
 {
     "number": 728,
     "name": "Otaquin",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/728.ogg",
     "form": [
         {
             "name": "normal",

@@ -1,6 +1,7 @@
 {
     "number": 618,
     "name": "Limonde",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/618.ogg",
     "form": [
         {
             "name": "normal",

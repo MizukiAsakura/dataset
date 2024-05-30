@@ -1,6 +1,7 @@
 {
     "number": 119,
     "name": "Poissoroy",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/119.ogg",
     "form": [
         {
             "name": "normal",

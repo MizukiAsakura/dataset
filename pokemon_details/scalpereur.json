@@ -1,6 +1,7 @@
 {
     "number": 983,
     "name": "Scalpereur",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/983.ogg",
     "form": [
         {
             "name": "normal",

@@ -1,6 +1,7 @@
 {
     "number": 480,
     "name": "Cr\u00e9helf",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/480.ogg",
     "form": [
         {
             "name": "normal",

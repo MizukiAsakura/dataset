@@ -1,6 +1,7 @@
 {
     "number": 561,
     "name": "Crypt\u00e9ro",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/561.ogg",
     "form": [
         {
             "name": "normal",

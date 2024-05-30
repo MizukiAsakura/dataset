@@ -1,6 +1,7 @@
 {
     "number": 187,
     "name": "Granivol",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/187.ogg",
     "form": [
         {
             "name": "normal",

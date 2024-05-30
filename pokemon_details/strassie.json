@@ -1,6 +1,7 @@
 {
     "number": 703,
     "name": "Strassie",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/703.ogg",
     "form": [
         {
             "name": "normal",

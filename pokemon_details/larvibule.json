@@ -1,6 +1,7 @@
 {
     "number": 736,
     "name": "Larvibule",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/736.ogg",
     "form": [
         {
             "name": "normal",

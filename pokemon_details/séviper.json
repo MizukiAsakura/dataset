@@ -1,6 +1,7 @@
 {
     "number": 336,
     "name": "S\u00e9viper",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/336.ogg",
     "form": [
         {
             "name": "normal",

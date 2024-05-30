@@ -1,6 +1,7 @@
 {
     "number": 129,
     "name": "Magicarpe",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/129.ogg",
     "form": [
         {
             "name": "normal",

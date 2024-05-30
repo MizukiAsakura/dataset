@@ -1,6 +1,7 @@
 {
     "number": 479,
     "name": "Motisma",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/479.ogg",
     "form": [
         {
             "name": "normal",

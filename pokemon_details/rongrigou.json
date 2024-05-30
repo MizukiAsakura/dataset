@@ -1,6 +1,7 @@
 {
     "number": 820,
     "name": "Rongrigou",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/820.ogg",
     "form": [
         {
             "name": "normal",

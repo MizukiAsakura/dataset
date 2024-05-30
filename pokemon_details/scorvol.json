@@ -1,6 +1,7 @@
 {
     "number": 472,
     "name": "Scorvol",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/472.ogg",
     "form": [
         {
             "name": "normal",

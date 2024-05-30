@@ -1,6 +1,7 @@
 {
     "number": 745,
     "name": "Lougaroc",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/745.ogg",
     "form": [
         {
             "name": "normal",

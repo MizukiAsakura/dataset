@@ -1,6 +1,7 @@
 {
     "number": 178,
     "name": "Xatu",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/178.ogg",
     "form": [
         {
             "name": "normal",

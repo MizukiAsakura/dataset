@@ -1,6 +1,7 @@
 {
     "number": 995,
     "name": "\u00c9pine-de-Fer",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/995.ogg",
     "form": [
         {
             "name": "normal",

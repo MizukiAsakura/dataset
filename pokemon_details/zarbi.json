@@ -1,6 +1,7 @@
 {
     "number": 201,
     "name": "Zarbi",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/201.ogg",
     "form": [
         {
             "name": "normal",

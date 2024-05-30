@@ -1,6 +1,7 @@
 {
     "number": 124,
     "name": "Lippoutou",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/124.ogg",
     "form": [
         {
             "name": "normal",

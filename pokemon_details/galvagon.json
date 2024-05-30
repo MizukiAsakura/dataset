@@ -1,6 +1,7 @@
 {
     "number": 880,
     "name": "Galvagon",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/880.ogg",
     "form": [
         {
             "name": "normal",

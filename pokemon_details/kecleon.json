@@ -1,6 +1,7 @@
 {
     "number": 352,
     "name": "Kecleon",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/352.ogg",
     "form": [
         {
             "name": "normal",

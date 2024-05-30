@@ -1,6 +1,7 @@
 {
     "number": 88,
     "name": "Tadmorv",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/88.ogg",
     "form": [
         {
             "name": "normal",

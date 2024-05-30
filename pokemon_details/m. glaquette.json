@@ -1,6 +1,7 @@
 {
     "number": 866,
     "name": "M. Glaquette",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/866.ogg",
     "form": [
         {
             "name": "normal",

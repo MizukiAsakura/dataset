@@ -1,6 +1,7 @@
 {
     "number": 707,
     "name": "Trousselin",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/707.ogg",
     "form": [
         {
             "name": "normal",

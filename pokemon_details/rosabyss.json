@@ -1,6 +1,7 @@
 {
     "number": 368,
     "name": "Rosabyss",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/368.ogg",
     "form": [
         {
             "name": "normal",

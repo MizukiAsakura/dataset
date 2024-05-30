@@ -1,6 +1,7 @@
 {
     "number": 936,
     "name": "Carmadura",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/936.ogg",
     "form": [
         {
             "name": "normal",

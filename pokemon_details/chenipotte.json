@@ -1,6 +1,7 @@
 {
     "number": 265,
     "name": "Chenipotte",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/265.ogg",
     "form": [
         {
             "name": "normal",

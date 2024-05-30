@@ -1,6 +1,7 @@
 {
     "number": 267,
     "name": "Charmillon",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/267.ogg",
     "form": [
         {
             "name": "normal",

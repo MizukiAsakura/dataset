@@ -1,6 +1,7 @@
 {
     "number": 759,
     "name": "Nounourson",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/759.ogg",
     "form": [
         {
             "name": "normal",

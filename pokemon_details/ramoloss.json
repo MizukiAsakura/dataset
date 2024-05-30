@@ -1,6 +1,7 @@
 {
     "number": 79,
     "name": "Ramoloss",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/79.ogg",
     "form": [
         {
             "name": "normal",

@@ -1,6 +1,7 @@
 {
     "number": 390,
     "name": "Ouisticram",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/390.ogg",
     "form": [
         {
             "name": "normal",

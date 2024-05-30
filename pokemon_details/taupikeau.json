@@ -1,6 +1,7 @@
 {
     "number": 960,
     "name": "Taupikeau",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/960.ogg",
     "form": [
         {
             "name": "normal",

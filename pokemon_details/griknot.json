@@ -1,6 +1,7 @@
 {
     "number": 443,
     "name": "Griknot",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/443.ogg",
     "form": [
         {
             "name": "normal",

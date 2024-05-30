@@ -1,6 +1,7 @@
 {
     "number": 424,
     "name": "Capidextre",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/424.ogg",
     "form": [
         {
             "name": "normal",

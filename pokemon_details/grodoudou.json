@@ -1,6 +1,7 @@
 {
     "number": 40,
     "name": "Grodoudou",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/40.ogg",
     "form": [
         {
             "name": "normal",

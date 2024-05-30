@@ -1,6 +1,7 @@
 {
     "number": 406,
     "name": "Rozbouton",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/406.ogg",
     "form": [
         {
             "name": "normal",

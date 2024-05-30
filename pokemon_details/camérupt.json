@@ -1,6 +1,7 @@
 {
     "number": 323,
     "name": "Cam\u00e9rupt",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/323.ogg",
     "form": [
         {
             "name": "normal",

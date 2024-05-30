@@ -1,6 +1,7 @@
 {
     "number": 564,
     "name": "Carapagos",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/564.ogg",
     "form": [
         {
             "name": "normal",

@@ -1,6 +1,7 @@
 {
     "number": 196,
     "name": "Mentali",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/196.ogg",
     "form": [
         {
             "name": "normal",

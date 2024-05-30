@@ -1,6 +1,7 @@
 {
     "number": 274,
     "name": "Pifeuil",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/274.ogg",
     "form": [
         {
             "name": "normal",

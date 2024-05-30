@@ -1,6 +1,7 @@
 {
     "number": 891,
     "name": "Wushours",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/891.ogg",
     "form": [
         {
             "name": "normal",

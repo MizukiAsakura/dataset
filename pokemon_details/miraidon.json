@@ -1,6 +1,7 @@
 {
     "number": 1008,
     "name": "Miraidon",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/1008.ogg",
     "form": [
         {
             "name": "normal",

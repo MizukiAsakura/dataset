@@ -1,6 +1,7 @@
 {
     "number": 572,
     "name": "Chinchidou",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/572.ogg",
     "form": [
         {
             "name": "normal",

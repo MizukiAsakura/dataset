@@ -1,6 +1,7 @@
 {
     "number": 111,
     "name": "Rhinocorne",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/111.ogg",
     "form": [
         {
             "name": "normal",

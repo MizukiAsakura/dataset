@@ -1,6 +1,7 @@
 {
     "number": 317,
     "name": "Avaltout",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/317.ogg",
     "form": [
         {
             "name": "normal",

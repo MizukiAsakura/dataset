@@ -1,6 +1,7 @@
 {
     "number": 477,
     "name": "Noctunoir",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/477.ogg",
     "form": [
         {
             "name": "normal",

@@ -1,6 +1,7 @@
 {
     "number": 168,
     "name": "Migalos",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/168.ogg",
     "form": [
         {
             "name": "normal",

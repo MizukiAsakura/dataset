@@ -1,6 +1,7 @@
 {
     "number": 994,
     "name": "Mite-de-Fer",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/994.ogg",
     "form": [
         {
             "name": "normal",

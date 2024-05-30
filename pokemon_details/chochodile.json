@@ -1,6 +1,7 @@
 {
     "number": 909,
     "name": "Chochodile",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/909.ogg",
     "form": [
         {
             "name": "normal",

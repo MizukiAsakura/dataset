@@ -1,6 +1,7 @@
 {
     "number": 512,
     "name": "Feuiloutan",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/512.ogg",
     "form": [
         {
             "name": "normal",

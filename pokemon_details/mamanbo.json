@@ -1,6 +1,7 @@
 {
     "number": 594,
     "name": "Mamanbo",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/594.ogg",
     "form": [
         {
             "name": "normal",

@@ -1,6 +1,7 @@
 {
     "number": 76,
     "name": "Grolem",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/76.ogg",
     "form": [
         {
             "name": "normal",

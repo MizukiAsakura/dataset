@@ -1,6 +1,7 @@
 {
     "number": 303,
     "name": "Mysdibule",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/303.ogg",
     "form": [
         {
             "name": "normal",

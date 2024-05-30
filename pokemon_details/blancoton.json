@@ -1,6 +1,7 @@
 {
     "number": 830,
     "name": "Blancoton",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/830.ogg",
     "form": [
         {
             "name": "normal",

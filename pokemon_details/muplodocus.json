@@ -1,6 +1,7 @@
 {
     "number": 706,
     "name": "Muplodocus",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/706.ogg",
     "form": [
         {
             "name": "normal",

@@ -1,6 +1,7 @@
 {
     "number": 831,
     "name": "Moumouton",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/831.ogg",
     "form": [
         {
             "name": "normal",

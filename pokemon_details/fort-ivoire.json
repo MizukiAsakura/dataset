@@ -1,6 +1,7 @@
 {
     "number": 984,
     "name": "Fort-Ivoire",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/984.ogg",
     "form": [
         {
             "name": "normal",

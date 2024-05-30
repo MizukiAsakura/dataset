@@ -1,6 +1,7 @@
 {
     "number": 401,
     "name": "Crikzik",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/401.ogg",
     "form": [
         {
             "name": "normal",

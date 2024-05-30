@@ -1,6 +1,7 @@
 {
     "number": 145,
     "name": "\u00c9lecthor",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/145.ogg",
     "form": [
         {
             "name": "normal",

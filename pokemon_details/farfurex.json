@@ -1,6 +1,7 @@
 {
     "number": 903,
     "name": "Farfurex",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/903.ogg",
     "form": [
         {
             "name": "normal",

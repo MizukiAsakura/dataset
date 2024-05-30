@@ -1,6 +1,7 @@
 {
     "number": 228,
     "name": "Malosse",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/228.ogg",
     "form": [
         {
             "name": "normal",

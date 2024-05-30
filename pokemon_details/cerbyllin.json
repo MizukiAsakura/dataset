@@ -1,6 +1,7 @@
 {
     "number": 899,
     "name": "Cerbyllin",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/899.ogg",
     "form": [
         {
             "name": "normal",

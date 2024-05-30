@@ -1,6 +1,7 @@
 {
     "number": 593,
     "name": "Moyade",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/593.ogg",
     "form": [
         {
             "name": "normal",

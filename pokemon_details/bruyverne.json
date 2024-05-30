@@ -1,6 +1,7 @@
 {
     "number": 715,
     "name": "Bruyverne",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/715.ogg",
     "form": [
         {
             "name": "normal",

@@ -1,6 +1,7 @@
 {
     "number": 524,
     "name": "Nodulithe",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/524.ogg",
     "form": [
         {
             "name": "normal",

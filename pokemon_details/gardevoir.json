@@ -1,6 +1,7 @@
 {
     "number": 282,
     "name": "Gardevoir",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/282.ogg",
     "form": [
         {
             "name": "normal",

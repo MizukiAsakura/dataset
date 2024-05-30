@@ -1,6 +1,7 @@
 {
     "number": 278,
     "name": "Go\u00e9lise",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/278.ogg",
     "form": [
         {
             "name": "normal",

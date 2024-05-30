@@ -1,6 +1,7 @@
 {
     "number": 784,
     "name": "\u00c9ka\u00efser",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/784.ogg",
     "form": [
         {
             "name": "normal",

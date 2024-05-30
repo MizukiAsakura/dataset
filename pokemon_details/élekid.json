@@ -1,6 +1,7 @@
 {
     "number": 239,
     "name": "\u00c9lekid",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/239.ogg",
     "form": [
         {
             "name": "normal",

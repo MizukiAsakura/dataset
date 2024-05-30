@@ -1,6 +1,7 @@
 {
     "number": 205,
     "name": "Foretress",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/205.ogg",
     "form": [
         {
             "name": "normal",

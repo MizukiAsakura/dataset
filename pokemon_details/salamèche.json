@@ -1,6 +1,7 @@
 {
     "number": 4,
     "name": "Salam\u00e8che",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/4.ogg",
     "form": [
         {
             "name": "normal",

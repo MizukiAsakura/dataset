@@ -1,6 +1,7 @@
 {
     "number": 311,
     "name": "Posipi",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/311.ogg",
     "form": [
         {
             "name": "normal",

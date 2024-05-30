@@ -1,6 +1,7 @@
 {
     "number": 656,
     "name": "Grenousse",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/656.ogg",
     "form": [
         {
             "name": "normal",

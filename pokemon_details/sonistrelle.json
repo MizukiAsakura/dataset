@@ -1,6 +1,7 @@
 {
     "number": 714,
     "name": "Sonistrelle",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/714.ogg",
     "form": [
         {
             "name": "normal",

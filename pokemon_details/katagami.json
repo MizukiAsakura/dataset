@@ -1,6 +1,7 @@
 {
     "number": 798,
     "name": "Katagami",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/798.ogg",
     "form": [
         {
             "name": "normal",

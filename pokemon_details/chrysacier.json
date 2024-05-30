@@ -1,6 +1,7 @@
 {
     "number": 11,
     "name": "Chrysacier",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/11.ogg",
     "form": [
         {
             "name": "normal",

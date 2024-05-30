@@ -1,6 +1,7 @@
 {
     "number": 918,
     "name": "Filentrappe",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/918.ogg",
     "form": [
         {
             "name": "normal",

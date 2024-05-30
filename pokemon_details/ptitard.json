@@ -1,6 +1,7 @@
 {
     "number": 60,
     "name": "Ptitard",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/60.ogg",
     "form": [
         {
             "name": "normal",

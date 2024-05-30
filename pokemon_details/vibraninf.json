@@ -1,6 +1,7 @@
 {
     "number": 329,
     "name": "Vibraninf",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/329.ogg",
     "form": [
         {
             "name": "normal",

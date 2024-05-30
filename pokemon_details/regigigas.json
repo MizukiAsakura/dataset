@@ -1,6 +1,7 @@
 {
     "number": 486,
     "name": "Regigigas",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/486.ogg",
     "form": [
         {
             "name": "normal",

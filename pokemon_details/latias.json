@@ -1,6 +1,7 @@
 {
     "number": 380,
     "name": "Latias",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/380.ogg",
     "form": [
         {
             "name": "normal",

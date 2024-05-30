@@ -1,6 +1,7 @@
 {
     "number": 576,
     "name": "Sid\u00e9rella",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/576.ogg",
     "form": [
         {
             "name": "normal",

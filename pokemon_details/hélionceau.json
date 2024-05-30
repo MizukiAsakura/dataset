@@ -1,6 +1,7 @@
 {
     "number": 667,
     "name": "H\u00e9lionceau",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/667.ogg",
     "form": [
         {
             "name": "normal",

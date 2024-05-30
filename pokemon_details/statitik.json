@@ -1,6 +1,7 @@
 {
     "number": 595,
     "name": "Statitik",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/595.ogg",
     "form": [
         {
             "name": "normal",

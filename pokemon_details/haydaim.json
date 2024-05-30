@@ -1,6 +1,7 @@
 {
     "number": 586,
     "name": "Haydaim",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/586.ogg",
     "form": [
         {
             "name": "normal",

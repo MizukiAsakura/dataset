@@ -1,6 +1,7 @@
 {
     "number": 33,
     "name": "Nidorino",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/33.ogg",
     "form": [
         {
             "name": "normal",

@@ -1,6 +1,7 @@
 {
     "number": 312,
     "name": "N\u00e9gapi",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/312.ogg",
     "form": [
         {
             "name": "normal",

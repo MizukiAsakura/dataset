@@ -1,6 +1,7 @@
 {
     "number": 926,
     "name": "P\u00e2tachiot",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/926.ogg",
     "form": [
         {
             "name": "normal",

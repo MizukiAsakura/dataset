@@ -1,6 +1,7 @@
 {
     "number": 966,
     "name": "Vrombotor",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/966.ogg",
     "form": [
         {
             "name": "normal",

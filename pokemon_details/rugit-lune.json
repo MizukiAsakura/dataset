@@ -1,6 +1,7 @@
 {
     "number": 1005,
     "name": "Rugit-Lune",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/1005.ogg",
     "form": [
         {
             "name": "normal",

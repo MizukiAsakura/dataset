@@ -1,6 +1,7 @@
 {
     "number": 376,
     "name": "M\u00e9talosse",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/376.ogg",
     "form": [
         {
             "name": "normal",

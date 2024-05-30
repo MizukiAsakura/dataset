@@ -1,6 +1,7 @@
 {
     "number": 337,
     "name": "S\u00e9l\u00e9roc",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/337.ogg",
     "form": [
         {
             "name": "normal",

@@ -1,6 +1,7 @@
 {
     "number": 37,
     "name": "Goupix",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/37.ogg",
     "form": [
         {
             "name": "normal",

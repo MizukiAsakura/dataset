@@ -1,6 +1,7 @@
 {
     "number": 980,
     "name": "Terraiste",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/980.ogg",
     "form": [
         {
             "name": "normal",

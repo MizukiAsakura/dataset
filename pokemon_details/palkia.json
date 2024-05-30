@@ -1,6 +1,7 @@
 {
     "number": 484,
     "name": "Palkia",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/484.ogg",
     "form": [
         {
             "name": "normal",

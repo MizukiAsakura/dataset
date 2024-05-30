@@ -1,6 +1,7 @@
 {
     "number": 210,
     "name": "Granbull",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/210.ogg",
     "form": [
         {
             "name": "normal",

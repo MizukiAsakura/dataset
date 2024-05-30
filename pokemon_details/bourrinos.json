@@ -1,6 +1,7 @@
 {
     "number": 750,
     "name": "Bourrinos",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/750.ogg",
     "form": [
         {
             "name": "normal",

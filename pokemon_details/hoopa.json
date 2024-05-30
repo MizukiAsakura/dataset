@@ -1,6 +1,7 @@
 {
     "number": 720,
     "name": "Hoopa",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/720.ogg",
     "form": [
         {
             "name": "normal",

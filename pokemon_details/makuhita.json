@@ -1,6 +1,7 @@
 {
     "number": 296,
     "name": "Makuhita",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/296.ogg",
     "form": [
         {
             "name": "normal",

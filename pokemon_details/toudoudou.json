@@ -1,6 +1,7 @@
 {
     "number": 174,
     "name": "Toudoudou",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/174.ogg",
     "form": [
         {
             "name": "normal",

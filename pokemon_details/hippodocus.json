@@ -1,6 +1,7 @@
 {
     "number": 450,
     "name": "Hippodocus",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/450.ogg",
     "form": [
         {
             "name": "normal",

@@ -1,6 +1,7 @@
 {
     "number": 705,
     "name": "Colimucus",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/705.ogg",
     "form": [
         {
             "name": "normal",

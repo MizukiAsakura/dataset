@@ -1,6 +1,7 @@
 {
     "number": 678,
     "name": "Mistigrix",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/678.ogg",
     "form": [
         {
             "name": "normal",

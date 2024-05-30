@@ -1,6 +1,7 @@
 {
     "number": 835,
     "name": "Voltoutou",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/835.ogg",
     "form": [
         {
             "name": "normal",

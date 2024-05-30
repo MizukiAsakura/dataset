@@ -1,6 +1,7 @@
 {
     "number": 295,
     "name": "Brouhabam",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/295.ogg",
     "form": [
         {
             "name": "normal",

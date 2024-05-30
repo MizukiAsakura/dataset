@@ -1,6 +1,7 @@
 {
     "number": 373,
     "name": "Drattak",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/373.ogg",
     "form": [
         {
             "name": "normal",

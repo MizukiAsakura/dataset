@@ -1,6 +1,7 @@
 {
     "number": 58,
     "name": "Caninos",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/58.ogg",
     "form": [
         {
             "name": "normal",

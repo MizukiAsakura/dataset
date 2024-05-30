@@ -1,6 +1,7 @@
 {
     "number": 677,
     "name": "Psystigri",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/677.ogg",
     "form": [
         {
             "name": "normal",

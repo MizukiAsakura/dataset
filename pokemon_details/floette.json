@@ -1,6 +1,7 @@
 {
     "number": 670,
     "name": "Floette",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/670.ogg",
     "form": [
         {
             "name": "normal",

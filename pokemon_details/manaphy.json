@@ -1,6 +1,7 @@
 {
     "number": 490,
     "name": "Manaphy",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/490.ogg",
     "form": [
         {
             "name": "normal",

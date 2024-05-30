@@ -1,6 +1,7 @@
 {
     "number": 810,
     "name": "Ouistempo",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/810.ogg",
     "form": [
         {
             "name": "normal",

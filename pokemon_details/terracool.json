@@ -1,6 +1,7 @@
 {
     "number": 948,
     "name": "Terracool",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/948.ogg",
     "form": [
         {
             "name": "normal",

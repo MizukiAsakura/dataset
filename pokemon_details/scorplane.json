@@ -1,6 +1,7 @@
 {
     "number": 207,
     "name": "Scorplane",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/207.ogg",
     "form": [
         {
             "name": "normal",

@@ -1,6 +1,7 @@
 {
     "number": 573,
     "name": "Pashmilla",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/573.ogg",
     "form": [
         {
             "name": "normal",

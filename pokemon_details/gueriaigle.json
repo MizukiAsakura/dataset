@@ -1,6 +1,7 @@
 {
     "number": 628,
     "name": "Gueriaigle",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/628.ogg",
     "form": [
         {
             "name": "normal",

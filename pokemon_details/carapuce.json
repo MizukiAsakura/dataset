@@ -1,6 +1,7 @@
 {
     "number": 7,
     "name": "Carapuce",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/7.ogg",
     "form": [
         {
             "name": "normal",

@@ -1,6 +1,7 @@
 {
     "number": 916,
     "name": "Fragroin",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/916.ogg",
     "form": [
         {
             "name": "normal",

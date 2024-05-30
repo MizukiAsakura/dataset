@@ -1,6 +1,7 @@
 {
     "number": 461,
     "name": "Dimoret",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/461.ogg",
     "form": [
         {
             "name": "normal",

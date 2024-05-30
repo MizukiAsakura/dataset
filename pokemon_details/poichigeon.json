@@ -1,6 +1,7 @@
 {
     "number": 519,
     "name": "Poichigeon",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/519.ogg",
     "form": [
         {
             "name": "normal",

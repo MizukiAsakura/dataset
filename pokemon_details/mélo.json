@@ -1,6 +1,7 @@
 {
     "number": 173,
     "name": "M\u00e9lo",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/173.ogg",
     "form": [
         {
             "name": "normal",

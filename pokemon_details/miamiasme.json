@@ -1,6 +1,7 @@
 {
     "number": 568,
     "name": "Miamiasme",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/568.ogg",
     "form": [
         {
             "name": "normal",

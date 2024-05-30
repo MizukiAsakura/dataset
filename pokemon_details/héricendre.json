@@ -1,6 +1,7 @@
 {
     "number": 155,
     "name": "H\u00e9ricendre",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/155.ogg",
     "form": [
         {
             "name": "normal",

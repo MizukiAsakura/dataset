@@ -1,6 +1,7 @@
 {
     "number": 202,
     "name": "Qulbutok\u00e9",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/202.ogg",
     "form": [
         {
             "name": "normal",

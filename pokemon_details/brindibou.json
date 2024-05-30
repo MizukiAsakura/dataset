@@ -1,6 +1,7 @@
 {
     "number": 722,
     "name": "Brindibou",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/722.ogg",
     "form": [
         {
             "name": "normal",

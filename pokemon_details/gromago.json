@@ -1,6 +1,7 @@
 {
     "number": 1000,
     "name": "Gromago",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/1000.ogg",
     "form": [
         {
             "name": "normal",

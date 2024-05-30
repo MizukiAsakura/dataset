@@ -1,6 +1,7 @@
 {
     "number": 546,
     "name": "Doudouvet",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/546.ogg",
     "form": [
         {
             "name": "normal",

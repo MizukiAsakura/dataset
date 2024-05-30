@@ -1,6 +1,7 @@
 {
     "number": 921,
     "name": "Pohm",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/921.ogg",
     "form": [
         {
             "name": "normal",

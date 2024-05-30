@@ -1,6 +1,7 @@
 {
     "number": 770,
     "name": "Tr\u00e9passable",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/770.ogg",
     "form": [
         {
             "name": "normal",

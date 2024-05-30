@@ -1,6 +1,7 @@
 {
     "number": 17,
     "name": "Roucoups",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/17.ogg",
     "form": [
         {
             "name": "normal",

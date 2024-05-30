@@ -1,6 +1,7 @@
 {
     "number": 448,
     "name": "Lucario",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/448.ogg",
     "form": [
         {
             "name": "normal",

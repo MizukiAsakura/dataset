@@ -1,6 +1,7 @@
 {
     "number": 314,
     "name": "Lumivole",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/314.ogg",
     "form": [
         {
             "name": "normal",

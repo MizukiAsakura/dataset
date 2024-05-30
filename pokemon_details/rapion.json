@@ -1,6 +1,7 @@
 {
     "number": 451,
     "name": "Rapion",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/451.ogg",
     "form": [
         {
             "name": "normal",

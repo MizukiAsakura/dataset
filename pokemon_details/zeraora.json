@@ -1,6 +1,7 @@
 {
     "number": 807,
     "name": "Zeraora",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/807.ogg",
     "form": [
         {
             "name": "normal",

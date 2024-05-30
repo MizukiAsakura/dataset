@@ -1,6 +1,7 @@
 {
     "number": 809,
     "name": "Melmetal",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/809.ogg",
     "form": [
         {
             "name": "normal",

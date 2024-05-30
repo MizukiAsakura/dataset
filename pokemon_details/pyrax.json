@@ -1,6 +1,7 @@
 {
     "number": 637,
     "name": "Pyrax",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/637.ogg",
     "form": [
         {
             "name": "normal",

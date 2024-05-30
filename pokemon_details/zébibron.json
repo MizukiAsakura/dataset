@@ -1,6 +1,7 @@
 {
     "number": 522,
     "name": "Z\u00e9bibron",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/522.ogg",
     "form": [
         {
             "name": "normal",

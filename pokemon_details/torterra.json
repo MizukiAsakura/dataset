@@ -1,6 +1,7 @@
 {
     "number": 389,
     "name": "Torterra",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/389.ogg",
     "form": [
         {
             "name": "normal",

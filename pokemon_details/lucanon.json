@@ -1,6 +1,7 @@
 {
     "number": 738,
     "name": "Lucanon",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/738.ogg",
     "form": [
         {
             "name": "normal",

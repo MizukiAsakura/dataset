@@ -1,6 +1,7 @@
 {
     "number": 465,
     "name": "Bouldeneu",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/465.ogg",
     "form": [
         {
             "name": "normal",

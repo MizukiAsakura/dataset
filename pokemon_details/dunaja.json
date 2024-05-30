@@ -1,6 +1,7 @@
 {
     "number": 843,
     "name": "Dunaja",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/843.ogg",
     "form": [
         {
             "name": "normal",

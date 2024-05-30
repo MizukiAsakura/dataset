@@ -1,6 +1,7 @@
 {
     "number": 62,
     "name": "Tartard",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/62.ogg",
     "form": [
         {
             "name": "normal",

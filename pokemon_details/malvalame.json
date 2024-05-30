@@ -1,6 +1,7 @@
 {
     "number": 937,
     "name": "Malvalame",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/937.ogg",
     "form": [
         {
             "name": "normal",

@@ -1,6 +1,7 @@
 {
     "number": 416,
     "name": "Apireine",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/416.ogg",
     "form": [
         {
             "name": "normal",

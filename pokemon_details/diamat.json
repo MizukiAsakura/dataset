@@ -1,6 +1,7 @@
 {
     "number": 634,
     "name": "Diamat",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/634.ogg",
     "form": [
         {
             "name": "normal",

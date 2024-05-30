@@ -1,6 +1,7 @@
 {
     "number": 856,
     "name": "Bibichut",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/856.ogg",
     "form": [
         {
             "name": "normal",

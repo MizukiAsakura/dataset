@@ -1,6 +1,7 @@
 {
     "number": 946,
     "name": "Virovent",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/946.ogg",
     "form": [
         {
             "name": "normal",

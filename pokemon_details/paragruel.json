@@ -1,6 +1,7 @@
 {
     "number": 902,
     "name": "Paragruel",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/902.ogg",
     "form": [
         {
             "name": "normal",

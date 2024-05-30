@@ -1,6 +1,7 @@
 {
     "number": 203,
     "name": "Girafarig",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/203.ogg",
     "form": [
         {
             "name": "normal",

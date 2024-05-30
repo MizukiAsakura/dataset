@@ -1,6 +1,7 @@
 {
     "number": 359,
     "name": "Absol",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/359.ogg",
     "form": [
         {
             "name": "normal",

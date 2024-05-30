@@ -1,6 +1,7 @@
 {
     "number": 118,
     "name": "Poissir\u00e8ne",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/118.ogg",
     "form": [
         {
             "name": "normal",

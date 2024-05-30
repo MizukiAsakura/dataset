@@ -1,6 +1,7 @@
 {
     "number": 525,
     "name": "G\u00e9olithe",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/525.ogg",
     "form": [
         {
             "name": "normal",

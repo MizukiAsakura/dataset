@@ -1,6 +1,7 @@
 {
     "number": 648,
     "name": "Meloetta",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/648.ogg",
     "form": [
         {
             "name": "normal",

@@ -1,6 +1,7 @@
 {
     "number": 986,
     "name": "Fongus-Furie",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/986.ogg",
     "form": [
         {
             "name": "normal",

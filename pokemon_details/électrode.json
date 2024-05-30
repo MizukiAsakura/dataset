@@ -1,6 +1,7 @@
 {
     "number": 101,
     "name": "\u00c9lectrode",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/101.ogg",
     "form": [
         {
             "name": "normal",

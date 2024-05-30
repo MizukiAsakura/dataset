@@ -1,6 +1,7 @@
 {
     "number": 787,
     "name": "Tokotoro",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/787.ogg",
     "form": [
         {
             "name": "normal",

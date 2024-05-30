@@ -1,6 +1,7 @@
 {
     "number": 585,
     "name": "Vivaldaim",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/585.ogg",
     "form": [
         {
             "name": "normal",

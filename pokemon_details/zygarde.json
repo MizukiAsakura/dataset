@@ -1,6 +1,7 @@
 {
     "number": 718,
     "name": "Zygarde",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/718.ogg",
     "form": [
         {
             "name": "normal",

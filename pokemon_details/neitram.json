@@ -1,6 +1,7 @@
 {
     "number": 606,
     "name": "Neitram",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/606.ogg",
     "form": [
         {
             "name": "normal",

@@ -1,6 +1,7 @@
 {
     "number": 198,
     "name": "Corn\u00e8bre",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/198.ogg",
     "form": [
         {
             "name": "normal",

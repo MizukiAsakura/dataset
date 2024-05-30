@@ -1,6 +1,7 @@
 {
     "number": 953,
     "name": "L\u00e9boul\u00e9rou",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/953.ogg",
     "form": [
         {
             "name": "normal",

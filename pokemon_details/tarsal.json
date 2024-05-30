@@ -1,6 +1,7 @@
 {
     "number": 280,
     "name": "Tarsal",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/280.ogg",
     "form": [
         {
             "name": "normal",

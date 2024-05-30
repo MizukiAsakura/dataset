@@ -1,6 +1,7 @@
 {
     "number": 635,
     "name": "Trioxhydre",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/635.ogg",
     "form": [
         {
             "name": "normal",

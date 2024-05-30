@@ -1,6 +1,7 @@
 {
     "number": 91,
     "name": "Crustabri",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/91.ogg",
     "form": [
         {
             "name": "normal",

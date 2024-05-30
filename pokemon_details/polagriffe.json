@@ -1,6 +1,7 @@
 {
     "number": 614,
     "name": "Polagriffe",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/614.ogg",
     "form": [
         {
             "name": "normal",

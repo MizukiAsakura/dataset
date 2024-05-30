@@ -1,6 +1,7 @@
 {
     "number": 468,
     "name": "Togekiss",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/468.ogg",
     "form": [
         {
             "name": "normal",

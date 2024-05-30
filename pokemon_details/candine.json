@@ -1,6 +1,7 @@
 {
     "number": 762,
     "name": "Candine",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/762.ogg",
     "form": [
         {
             "name": "normal",

@@ -1,6 +1,7 @@
 {
     "number": 542,
     "name": "Manternel",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/542.ogg",
     "form": [
         {
             "name": "normal",

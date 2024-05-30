@@ -1,6 +1,7 @@
 {
     "number": 1,
     "name": "Bulbizarre",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/1.ogg",
     "form": [
         {
             "name": "normal",

@@ -1,6 +1,7 @@
 {
     "number": 403,
     "name": "Lixy",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/403.ogg",
     "form": [
         {
             "name": "normal",

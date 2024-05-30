@@ -1,6 +1,7 @@
 {
     "number": 449,
     "name": "Hippopotas",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/449.ogg",
     "form": [
         {
             "name": "normal",

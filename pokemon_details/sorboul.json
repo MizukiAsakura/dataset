@@ -1,6 +1,7 @@
 {
     "number": 583,
     "name": "Sorboul",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/583.ogg",
     "form": [
         {
             "name": "normal",

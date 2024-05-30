@@ -1,6 +1,7 @@
 {
     "number": 932,
     "name": "Selutin",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/932.ogg",
     "form": [
         {
             "name": "normal",

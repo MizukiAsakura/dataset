@@ -1,6 +1,7 @@
 {
     "number": 652,
     "name": "Blind\u00e9pique",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/652.ogg",
     "form": [
         {
             "name": "normal",

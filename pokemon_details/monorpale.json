@@ -1,6 +1,7 @@
 {
     "number": 679,
     "name": "Monorpale",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/679.ogg",
     "form": [
         {
             "name": "normal",

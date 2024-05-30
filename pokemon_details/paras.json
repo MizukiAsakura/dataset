@@ -1,6 +1,7 @@
 {
     "number": 46,
     "name": "Paras",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/46.ogg",
     "form": [
         {
             "name": "normal",

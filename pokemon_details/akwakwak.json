@@ -1,6 +1,7 @@
 {
     "number": 55,
     "name": "Akwakwak",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/55.ogg",
     "form": [
         {
             "name": "normal",

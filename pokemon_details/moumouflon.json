@@ -1,6 +1,7 @@
 {
     "number": 832,
     "name": "Moumouflon",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/832.ogg",
     "form": [
         {
             "name": "normal",

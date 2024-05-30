@@ -1,6 +1,7 @@
 {
     "number": 362,
     "name": "Oniglali",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/362.ogg",
     "form": [
         {
             "name": "normal",

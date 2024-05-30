@@ -1,6 +1,7 @@
 {
     "number": 160,
     "name": "Aligatueur",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/160.ogg",
     "form": [
         {
             "name": "normal",

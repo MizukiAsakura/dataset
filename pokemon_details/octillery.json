@@ -1,6 +1,7 @@
 {
     "number": 224,
     "name": "Octillery",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/224.ogg",
     "form": [
         {
             "name": "normal",

@@ -1,6 +1,7 @@
 {
     "number": 742,
     "name": "Bombydou",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/742.ogg",
     "form": [
         {
             "name": "normal",

@@ -1,6 +1,7 @@
 {
     "number": 463,
     "name": "Coudlangue",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/463.ogg",
     "form": [
         {
             "name": "normal",

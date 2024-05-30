@@ -1,6 +1,7 @@
 {
     "number": 266,
     "name": "Armulys",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/266.ogg",
     "form": [
         {
             "name": "normal",

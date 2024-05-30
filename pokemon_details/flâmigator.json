@@ -1,6 +1,7 @@
 {
     "number": 911,
     "name": "Fl\u00e2migator",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/911.ogg",
     "form": [
         {
             "name": "normal",

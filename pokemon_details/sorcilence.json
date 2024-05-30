@@ -1,6 +1,7 @@
 {
     "number": 858,
     "name": "Sorcilence",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/858.ogg",
     "form": [
         {
             "name": "normal",

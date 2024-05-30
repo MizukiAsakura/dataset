@@ -1,6 +1,7 @@
 {
     "number": 684,
     "name": "Sucroquin",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/684.ogg",
     "form": [
         {
             "name": "normal",

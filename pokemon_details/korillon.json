@@ -1,6 +1,7 @@
 {
     "number": 433,
     "name": "Korillon",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/433.ogg",
     "form": [
         {
             "name": "normal",

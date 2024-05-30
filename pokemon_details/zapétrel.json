@@ -1,6 +1,7 @@
 {
     "number": 940,
     "name": "Zap\u00e9trel",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/940.ogg",
     "form": [
         {
             "name": "normal",

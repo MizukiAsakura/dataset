@@ -1,6 +1,7 @@
 {
     "number": 611,
     "name": "Incisache",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/611.ogg",
     "form": [
         {
             "name": "normal",

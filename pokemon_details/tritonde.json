@@ -1,6 +1,7 @@
 {
     "number": 535,
     "name": "Tritonde",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/535.ogg",
     "form": [
         {
             "name": "normal",

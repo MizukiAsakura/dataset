@@ -1,6 +1,7 @@
 {
     "number": 399,
     "name": "Keunotor",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/399.ogg",
     "form": [
         {
             "name": "normal",

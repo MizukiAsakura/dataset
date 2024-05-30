@@ -1,6 +1,7 @@
 {
     "number": 170,
     "name": "Loupio",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/170.ogg",
     "form": [
         {
             "name": "normal",

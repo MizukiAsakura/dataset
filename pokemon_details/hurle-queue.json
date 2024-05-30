@@ -1,6 +1,7 @@
 {
     "number": 985,
     "name": "Hurle-Queue",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/985.ogg",
     "form": [
         {
             "name": "normal",

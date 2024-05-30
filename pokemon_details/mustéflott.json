@@ -1,6 +1,7 @@
 {
     "number": 419,
     "name": "Must\u00e9flott",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/419.ogg",
     "form": [
         {
             "name": "normal",

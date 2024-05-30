@@ -1,6 +1,7 @@
 {
     "number": 418,
     "name": "Must\u00e9bou\u00e9e",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/418.ogg",
     "form": [
         {
             "name": "normal",

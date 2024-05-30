@@ -1,6 +1,7 @@
 {
     "number": 747,
     "name": "Vorast\u00e9rie",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/747.ogg",
     "form": [
         {
             "name": "normal",

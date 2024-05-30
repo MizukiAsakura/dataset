@@ -1,6 +1,7 @@
 {
     "number": 43,
     "name": "Mystherbe",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/43.ogg",
     "form": [
         {
             "name": "normal",

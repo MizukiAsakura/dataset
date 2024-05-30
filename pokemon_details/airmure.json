@@ -1,6 +1,7 @@
 {
     "number": 227,
     "name": "Airmure",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/227.ogg",
     "form": [
         {
             "name": "normal",

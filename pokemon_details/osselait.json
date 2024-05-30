@@ -1,6 +1,7 @@
 {
     "number": 104,
     "name": "Osselait",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/104.ogg",
     "form": [
         {
             "name": "normal",

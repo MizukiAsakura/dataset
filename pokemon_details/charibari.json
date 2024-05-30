@@ -1,6 +1,7 @@
 {
     "number": 878,
     "name": "Charibari",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/878.ogg",
     "form": [
         {
             "name": "normal",

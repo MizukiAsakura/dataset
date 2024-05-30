@@ -1,6 +1,7 @@
 {
     "number": 398,
     "name": "\u00c9touraptor",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/398.ogg",
     "form": [
         {
             "name": "normal",

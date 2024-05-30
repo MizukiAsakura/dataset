@@ -1,6 +1,7 @@
 {
     "number": 333,
     "name": "Tylton",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/333.ogg",
     "form": [
         {
             "name": "normal",

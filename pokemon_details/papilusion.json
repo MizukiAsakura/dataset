@@ -1,6 +1,7 @@
 {
     "number": 12,
     "name": "Papilusion",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/12.ogg",
     "form": [
         {
             "name": "normal",

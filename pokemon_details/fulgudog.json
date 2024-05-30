@@ -1,6 +1,7 @@
 {
     "number": 836,
     "name": "Fulgudog",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/836.ogg",
     "form": [
         {
             "name": "normal",

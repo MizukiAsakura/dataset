@@ -1,6 +1,7 @@
 {
     "number": 746,
     "name": "Froussardine",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/746.ogg",
     "form": [
         {
             "name": "normal",

@@ -1,6 +1,7 @@
 {
     "number": 513,
     "name": "Flamajou",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/513.ogg",
     "form": [
         {
             "name": "normal",

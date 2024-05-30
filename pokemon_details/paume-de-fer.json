@@ -1,6 +1,7 @@
 {
     "number": 992,
     "name": "Paume-de-Fer",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/992.ogg",
     "form": [
         {
             "name": "normal",

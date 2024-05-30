@@ -1,6 +1,7 @@
 {
     "number": 501,
     "name": "Moustillon",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/501.ogg",
     "form": [
         {
             "name": "normal",

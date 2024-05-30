@@ -1,6 +1,7 @@
 {
     "number": 933,
     "name": "Amassel",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/933.ogg",
     "form": [
         {
             "name": "normal",

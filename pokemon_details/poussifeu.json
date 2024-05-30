@@ -1,6 +1,7 @@
 {
     "number": 255,
     "name": "Poussifeu",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/255.ogg",
     "form": [
         {
             "name": "normal",

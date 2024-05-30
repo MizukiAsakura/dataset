@@ -1,6 +1,7 @@
 {
     "number": 998,
     "name": "Glaivodo",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/998.ogg",
     "form": [
         {
             "name": "normal",

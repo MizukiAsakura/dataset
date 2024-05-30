@@ -1,6 +1,7 @@
 {
     "number": 152,
     "name": "Germignon",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/152.ogg",
     "form": [
         {
             "name": "normal",

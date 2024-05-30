@@ -1,6 +1,7 @@
 {
     "number": 938,
     "name": "T\u00eatampoule",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/938.ogg",
     "form": [
         {
             "name": "normal",

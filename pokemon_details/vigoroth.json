@@ -1,6 +1,7 @@
 {
     "number": 288,
     "name": "Vigoroth",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/288.ogg",
     "form": [
         {
             "name": "normal",

@@ -1,6 +1,7 @@
 {
     "number": 212,
     "name": "Cizayox",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/212.ogg",
     "form": [
         {
             "name": "normal",

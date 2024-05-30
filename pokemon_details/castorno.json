@@ -1,6 +1,7 @@
 {
     "number": 400,
     "name": "Castorno",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/400.ogg",
     "form": [
         {
             "name": "normal",

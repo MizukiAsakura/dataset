@@ -1,6 +1,7 @@
 {
     "number": 221,
     "name": "Cochignon",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/221.ogg",
     "form": [
         {
             "name": "normal",

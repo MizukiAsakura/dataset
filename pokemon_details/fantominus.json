@@ -1,6 +1,7 @@
 {
     "number": 92,
     "name": "Fantominus",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/92.ogg",
     "form": [
         {
             "name": "normal",

@@ -1,6 +1,7 @@
 {
     "number": 591,
     "name": "Gaulet",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/591.ogg",
     "form": [
         {
             "name": "normal",

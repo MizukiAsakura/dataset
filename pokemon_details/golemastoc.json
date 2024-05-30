@@ -1,6 +1,7 @@
 {
     "number": 623,
     "name": "Golemastoc",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/623.ogg",
     "form": [
         {
             "name": "normal",

@@ -1,6 +1,7 @@
 {
     "number": 404,
     "name": "Luxio",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/404.ogg",
     "form": [
         {
             "name": "normal",

@@ -1,6 +1,7 @@
 {
     "number": 915,
     "name": "Gourmelet",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/915.ogg",
     "form": [
         {
             "name": "normal",

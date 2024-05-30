@@ -1,6 +1,7 @@
 {
     "number": 38,
     "name": "Feunard",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/38.ogg",
     "form": [
         {
             "name": "normal",

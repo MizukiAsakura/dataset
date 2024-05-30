@@ -1,6 +1,7 @@
 {
     "number": 78,
     "name": "Galopa",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/78.ogg",
     "form": [
         {
             "name": "normal",

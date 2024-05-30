@@ -1,6 +1,7 @@
 {
     "number": 816,
     "name": "Larm\u00e9l\u00e9on",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/816.ogg",
     "form": [
         {
             "name": "normal",

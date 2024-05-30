@@ -1,6 +1,7 @@
 {
     "number": 342,
     "name": "Colhomard",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/342.ogg",
     "form": [
         {
             "name": "normal",

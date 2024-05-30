@@ -1,6 +1,7 @@
 {
     "number": 340,
     "name": "Barbicha",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/340.ogg",
     "form": [
         {
             "name": "normal",

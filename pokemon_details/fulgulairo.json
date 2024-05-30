@@ -1,6 +1,7 @@
 {
     "number": 941,
     "name": "Fulgulairo",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/941.ogg",
     "form": [
         {
             "name": "normal",

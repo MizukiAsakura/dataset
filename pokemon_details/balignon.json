@@ -1,6 +1,7 @@
 {
     "number": 285,
     "name": "Balignon",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/285.ogg",
     "form": [
         {
             "name": "normal",

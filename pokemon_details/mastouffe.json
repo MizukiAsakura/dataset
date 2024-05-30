@@ -1,6 +1,7 @@
 {
     "number": 508,
     "name": "Mastouffe",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/508.ogg",
     "form": [
         {
             "name": "normal",

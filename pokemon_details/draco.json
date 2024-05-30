@@ -1,6 +1,7 @@
 {
     "number": 148,
     "name": "Draco",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/148.ogg",
     "form": [
         {
             "name": "normal",

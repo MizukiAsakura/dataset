@@ -1,6 +1,7 @@
 {
     "number": 840,
     "name": "Verpom",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/840.ogg",
     "form": [
         {
             "name": "normal",

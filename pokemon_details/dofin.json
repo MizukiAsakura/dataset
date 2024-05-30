@@ -1,6 +1,7 @@
 {
     "number": 963,
     "name": "Dofin",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/963.ogg",
     "form": [
         {
             "name": "normal",

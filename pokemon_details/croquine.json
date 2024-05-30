@@ -1,6 +1,7 @@
 {
     "number": 761,
     "name": "Croquine",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/761.ogg",
     "form": [
         {
             "name": "normal",

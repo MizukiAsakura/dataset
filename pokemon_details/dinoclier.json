@@ -1,6 +1,7 @@
 {
     "number": 410,
     "name": "Dinoclier",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/410.ogg",
     "form": [
         {
             "name": "normal",

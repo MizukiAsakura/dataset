@@ -1,6 +1,7 @@
 {
     "number": 647,
     "name": "Keldeo",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/647.ogg",
     "form": [
         {
             "name": "normal",

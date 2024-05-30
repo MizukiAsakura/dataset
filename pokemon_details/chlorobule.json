@@ -1,6 +1,7 @@
 {
     "number": 548,
     "name": "Chlorobule",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/548.ogg",
     "form": [
         {
             "name": "normal",

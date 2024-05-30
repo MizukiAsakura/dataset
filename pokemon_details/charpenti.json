@@ -1,6 +1,7 @@
 {
     "number": 532,
     "name": "Charpenti",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/532.ogg",
     "form": [
         {
             "name": "normal",

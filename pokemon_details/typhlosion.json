@@ -1,6 +1,7 @@
 {
     "number": 157,
     "name": "Typhlosion",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/157.ogg",
     "form": [
         {
             "name": "normal",

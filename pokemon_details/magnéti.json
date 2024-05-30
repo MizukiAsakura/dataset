@@ -1,6 +1,7 @@
 {
     "number": 81,
     "name": "Magn\u00e9ti",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/81.ogg",
     "form": [
         {
             "name": "normal",

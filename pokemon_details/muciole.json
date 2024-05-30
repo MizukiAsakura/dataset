@@ -1,6 +1,7 @@
 {
     "number": 313,
     "name": "Muciole",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/313.ogg",
     "form": [
         {
             "name": "normal",

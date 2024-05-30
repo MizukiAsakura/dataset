@@ -1,6 +1,7 @@
 {
     "number": 673,
     "name": "Chevroum",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/673.ogg",
     "form": [
         {
             "name": "normal",

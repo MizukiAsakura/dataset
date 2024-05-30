@@ -1,6 +1,7 @@
 {
     "number": 528,
     "name": "Rhinolove",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/528.ogg",
     "form": [
         {
             "name": "normal",

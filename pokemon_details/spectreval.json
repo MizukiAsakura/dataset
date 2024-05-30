@@ -1,6 +1,7 @@
 {
     "number": 897,
     "name": "Spectreval",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/897.ogg",
     "form": [
         {
             "name": "normal",

@@ -1,6 +1,7 @@
 {
     "number": 951,
     "name": "Pimito",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/951.ogg",
     "form": [
         {
             "name": "normal",

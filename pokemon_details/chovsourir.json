@@ -1,6 +1,7 @@
 {
     "number": 527,
     "name": "Chovsourir",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/527.ogg",
     "form": [
         {
             "name": "normal",

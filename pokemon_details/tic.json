@@ -1,6 +1,7 @@
 {
     "number": 599,
     "name": "Tic",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/599.ogg",
     "form": [
         {
             "name": "normal",

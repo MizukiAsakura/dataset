@@ -1,6 +1,7 @@
 {
     "number": 355,
     "name": "Skel\u00e9nox",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/355.ogg",
     "form": [
         {
             "name": "normal",

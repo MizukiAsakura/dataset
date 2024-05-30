@@ -1,6 +1,7 @@
 {
     "number": 14,
     "name": "Coconfort",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/14.ogg",
     "form": [
         {
             "name": "normal",

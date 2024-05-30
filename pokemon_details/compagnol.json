@@ -1,6 +1,7 @@
 {
     "number": 924,
     "name": "Compagnol",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/924.ogg",
     "form": [
         {
             "name": "normal",

@@ -1,6 +1,7 @@
 {
     "number": 838,
     "name": "Wagomine",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/838.ogg",
     "form": [
         {
             "name": "normal",

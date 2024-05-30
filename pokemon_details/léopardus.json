@@ -1,6 +1,7 @@
 {
     "number": 510,
     "name": "L\u00e9opardus",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/510.ogg",
     "form": [
         {
             "name": "normal",

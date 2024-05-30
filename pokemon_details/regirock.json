@@ -1,6 +1,7 @@
 {
     "number": 377,
     "name": "Regirock",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/377.ogg",
     "form": [
         {
             "name": "normal",

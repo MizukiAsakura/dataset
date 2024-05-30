@@ -1,6 +1,7 @@
 {
     "number": 507,
     "name": "Ponchien",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/507.ogg",
     "form": [
         {
             "name": "normal",

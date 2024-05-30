@@ -1,6 +1,7 @@
 {
     "number": 348,
     "name": "Armaldo",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/348.ogg",
     "form": [
         {
             "name": "normal",

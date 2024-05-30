@@ -1,6 +1,7 @@
 {
     "number": 893,
     "name": "Zarude",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/893.ogg",
     "form": [
         {
             "name": "normal",

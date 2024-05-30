@@ -1,6 +1,7 @@
 {
     "number": 396,
     "name": "\u00c9tourmi",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/396.ogg",
     "form": [
         {
             "name": "normal",

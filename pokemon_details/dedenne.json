@@ -1,6 +1,7 @@
 {
     "number": 702,
     "name": "Dedenne",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/702.ogg",
     "form": [
         {
             "name": "normal",

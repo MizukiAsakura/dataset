@@ -1,6 +1,7 @@
 {
     "number": 481,
     "name": "Cr\u00e9follet",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/481.ogg",
     "form": [
         {
             "name": "normal",

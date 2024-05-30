@@ -1,6 +1,7 @@
 {
     "number": 350,
     "name": "Milobellus",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/350.ogg",
     "form": [
         {
             "name": "normal",

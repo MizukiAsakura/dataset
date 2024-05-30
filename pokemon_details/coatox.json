@@ -1,6 +1,7 @@
 {
     "number": 454,
     "name": "Coatox",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/454.ogg",
     "form": [
         {
             "name": "normal",

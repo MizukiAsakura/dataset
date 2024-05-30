@@ -1,6 +1,7 @@
 {
     "number": 180,
     "name": "Lainergie",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/180.ogg",
     "form": [
         {
             "name": "normal",

@@ -1,6 +1,7 @@
 {
     "number": 335,
     "name": "Mangriff",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/335.ogg",
     "form": [
         {
             "name": "normal",

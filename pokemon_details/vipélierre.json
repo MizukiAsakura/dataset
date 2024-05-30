@@ -1,6 +1,7 @@
 {
     "number": 495,
     "name": "Vip\u00e9lierre",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/495.ogg",
     "form": [
         {
             "name": "normal",

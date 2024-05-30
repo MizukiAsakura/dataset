@@ -1,6 +1,7 @@
 {
     "number": 128,
     "name": "Tauros",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/128.ogg",
     "form": [
         {
             "name": "normal",

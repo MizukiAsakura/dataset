@@ -1,6 +1,7 @@
 {
     "number": 214,
     "name": "Scarhino",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/214.ogg",
     "form": [
         {
             "name": "normal",

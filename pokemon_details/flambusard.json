@@ -1,6 +1,7 @@
 {
     "number": 663,
     "name": "Flambusard",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/663.ogg",
     "form": [
         {
             "name": "normal",

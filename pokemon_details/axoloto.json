@@ -1,6 +1,7 @@
 {
     "number": 194,
     "name": "Axoloto",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/194.ogg",
     "form": [
         {
             "name": "normal",

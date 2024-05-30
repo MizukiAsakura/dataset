@@ -1,6 +1,7 @@
 {
     "number": 162,
     "name": "Fouinar",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/162.ogg",
     "form": [
         {
             "name": "normal",

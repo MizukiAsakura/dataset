@@ -1,6 +1,7 @@
 {
     "number": 633,
     "name": "Solochi",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/633.ogg",
     "form": [
         {
             "name": "normal",

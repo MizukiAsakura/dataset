@@ -1,6 +1,7 @@
 {
     "number": 521,
     "name": "D\u00e9flaisan",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/521.ogg",
     "form": [
         {
             "name": "normal",

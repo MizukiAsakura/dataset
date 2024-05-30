@@ -1,6 +1,7 @@
 {
     "number": 729,
     "name": "Otarlette",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/729.ogg",
     "form": [
         {
             "name": "normal",

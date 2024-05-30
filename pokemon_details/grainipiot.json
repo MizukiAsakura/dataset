@@ -1,6 +1,7 @@
 {
     "number": 273,
     "name": "Grainipiot",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/273.ogg",
     "form": [
         {
             "name": "normal",

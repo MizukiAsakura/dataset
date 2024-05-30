@@ -1,6 +1,7 @@
 {
     "number": 514,
     "name": "Flamoutan",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/514.ogg",
     "form": [
         {
             "name": "normal",

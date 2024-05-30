@@ -1,6 +1,7 @@
 {
     "number": 685,
     "name": "Cupcanaille",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/685.ogg",
     "form": [
         {
             "name": "normal",

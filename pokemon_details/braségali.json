@@ -1,6 +1,7 @@
 {
     "number": 257,
     "name": "Bras\u00e9gali",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/257.ogg",
     "form": [
         {
             "name": "normal",

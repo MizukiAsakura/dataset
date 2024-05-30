@@ -1,6 +1,7 @@
 {
     "number": 246,
     "name": "Embrylex",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/246.ogg",
     "form": [
         {
             "name": "normal",

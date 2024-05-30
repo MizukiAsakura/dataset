@@ -1,6 +1,7 @@
 {
     "number": 391,
     "name": "Chimpenfeu",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/391.ogg",
     "form": [
         {
             "name": "normal",

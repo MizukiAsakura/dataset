@@ -1,6 +1,7 @@
 {
     "number": 575,
     "name": "Mesm\u00e9rella",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/575.ogg",
     "form": [
         {
             "name": "normal",

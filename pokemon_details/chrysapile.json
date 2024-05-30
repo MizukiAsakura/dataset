@@ -1,6 +1,7 @@
 {
     "number": 737,
     "name": "Chrysapile",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/737.ogg",
     "form": [
         {
             "name": "normal",

@@ -1,6 +1,7 @@
 {
     "number": 640,
     "name": "Viridium",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/640.ogg",
     "form": [
         {
             "name": "normal",

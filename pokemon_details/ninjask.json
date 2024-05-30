@@ -1,6 +1,7 @@
 {
     "number": 291,
     "name": "Ninjask",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/291.ogg",
     "form": [
         {
             "name": "normal",

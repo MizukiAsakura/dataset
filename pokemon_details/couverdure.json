@@ -1,6 +1,7 @@
 {
     "number": 541,
     "name": "Couverdure",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/541.ogg",
     "form": [
         {
             "name": "normal",

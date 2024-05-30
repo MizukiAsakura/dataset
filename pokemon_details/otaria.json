@@ -1,6 +1,7 @@
 {
     "number": 86,
     "name": "Otaria",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/86.ogg",
     "form": [
         {
             "name": "normal",

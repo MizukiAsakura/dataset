@@ -1,6 +1,7 @@
 {
     "number": 766,
     "name": "Quartermac",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/766.ogg",
     "form": [
         {
             "name": "normal",

@@ -1,6 +1,7 @@
 {
     "number": 526,
     "name": "Gigalithe",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/526.ogg",
     "form": [
         {
             "name": "normal",

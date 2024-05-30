@@ -1,6 +1,7 @@
 {
     "number": 806,
     "name": "Pierroteknik",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/806.ogg",
     "form": [
         {
             "name": "normal",

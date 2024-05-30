@@ -1,6 +1,7 @@
 {
     "number": 492,
     "name": "Shaymin",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/492.ogg",
     "form": [
         {
             "name": "normal",

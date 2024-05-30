@@ -1,6 +1,7 @@
 {
     "number": 697,
     "name": "Rexillius",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/697.ogg",
     "form": [
         {
             "name": "normal",

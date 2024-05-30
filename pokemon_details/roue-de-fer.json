@@ -1,6 +1,7 @@
 {
     "number": 990,
     "name": "Roue-de-Fer",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/990.ogg",
     "form": [
         {
             "name": "normal",

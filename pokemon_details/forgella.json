@@ -1,6 +1,7 @@
 {
     "number": 958,
     "name": "Forgella",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/958.ogg",
     "form": [
         {
             "name": "normal",

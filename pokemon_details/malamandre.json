@@ -1,6 +1,7 @@
 {
     "number": 758,
     "name": "Malamandre",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/758.ogg",
     "form": [
         {
             "name": "normal",

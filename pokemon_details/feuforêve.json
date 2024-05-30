@@ -1,6 +1,7 @@
 {
     "number": 200,
     "name": "Feufor\u00eave",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/200.ogg",
     "form": [
         {
             "name": "normal",

@@ -1,6 +1,7 @@
 {
     "number": 639,
     "name": "Terrakium",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/639.ogg",
     "form": [
         {
             "name": "normal",

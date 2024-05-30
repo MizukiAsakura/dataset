@@ -1,6 +1,7 @@
 {
     "number": 474,
     "name": "Porygon-Z",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/474.ogg",
     "form": [
         {
             "name": "normal",

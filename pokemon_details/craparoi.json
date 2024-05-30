@@ -1,6 +1,7 @@
 {
     "number": 950,
     "name": "Craparoi",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/950.ogg",
     "form": [
         {
             "name": "normal",

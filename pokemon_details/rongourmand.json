@@ -1,6 +1,7 @@
 {
     "number": 819,
     "name": "Rongourmand",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/819.ogg",
     "form": [
         {
             "name": "normal",

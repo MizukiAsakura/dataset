@@ -1,6 +1,7 @@
 {
     "number": 694,
     "name": "Galvaran",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/694.ogg",
     "form": [
         {
             "name": "normal",

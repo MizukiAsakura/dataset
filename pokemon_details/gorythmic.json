@@ -1,6 +1,7 @@
 {
     "number": 812,
     "name": "Gorythmic",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/812.ogg",
     "form": [
         {
             "name": "normal",

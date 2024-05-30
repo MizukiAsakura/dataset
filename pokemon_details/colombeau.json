@@ -1,6 +1,7 @@
 {
     "number": 520,
     "name": "Colombeau",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/520.ogg",
     "form": [
         {
             "name": "normal",

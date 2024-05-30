@@ -1,6 +1,7 @@
 {
     "number": 755,
     "name": "Spododo",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/755.ogg",
     "form": [
         {
             "name": "normal",

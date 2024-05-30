@@ -1,6 +1,7 @@
 {
     "number": 412,
     "name": "Cheniti",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/412.ogg",
     "form": [
         {
             "name": "normal",

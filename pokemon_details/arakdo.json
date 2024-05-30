@@ -1,6 +1,7 @@
 {
     "number": 283,
     "name": "Arakdo",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/283.ogg",
     "form": [
         {
             "name": "normal",

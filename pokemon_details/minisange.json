@@ -1,6 +1,7 @@
 {
     "number": 821,
     "name": "Minisange",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/821.ogg",
     "form": [
         {
             "name": "normal",

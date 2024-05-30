@@ -1,6 +1,7 @@
 {
     "number": 154,
     "name": "M\u00e9ganium",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/154.ogg",
     "form": [
         {
             "name": "normal",

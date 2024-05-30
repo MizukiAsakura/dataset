@@ -1,6 +1,7 @@
 {
     "number": 629,
     "name": "Vostourno",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/629.ogg",
     "form": [
         {
             "name": "normal",

@@ -1,6 +1,7 @@
 {
     "number": 356,
     "name": "T\u00e9raclope",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/356.ogg",
     "form": [
         {
             "name": "normal",

@@ -1,6 +1,7 @@
 {
     "number": 147,
     "name": "Minidraco",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/147.ogg",
     "form": [
         {
             "name": "normal",

@@ -1,6 +1,7 @@
 {
     "number": 476,
     "name": "Tarinorme",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/476.ogg",
     "form": [
         {
             "name": "normal",

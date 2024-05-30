@@ -1,6 +1,7 @@
 {
     "number": 345,
     "name": "Lilia",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/345.ogg",
     "form": [
         {
             "name": "normal",

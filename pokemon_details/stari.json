@@ -1,6 +1,7 @@
 {
     "number": 120,
     "name": "Stari",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/120.ogg",
     "form": [
         {
             "name": "normal",

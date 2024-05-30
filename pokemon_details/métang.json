@@ -1,6 +1,7 @@
 {
     "number": 375,
     "name": "M\u00e9tang",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/375.ogg",
     "form": [
         {
             "name": "normal",

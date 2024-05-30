@@ -1,6 +1,7 @@
 {
     "number": 713,
     "name": "S\u00e9racrawl",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/713.ogg",
     "form": [
         {
             "name": "normal",

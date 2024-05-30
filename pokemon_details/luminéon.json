@@ -1,6 +1,7 @@
 {
     "number": 457,
     "name": "Lumin\u00e9on",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/457.ogg",
     "form": [
         {
             "name": "normal",

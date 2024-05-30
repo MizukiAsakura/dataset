@@ -1,6 +1,7 @@
 {
     "number": 276,
     "name": "Nirondelle",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/276.ogg",
     "form": [
         {
             "name": "normal",

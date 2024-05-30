@@ -1,6 +1,7 @@
 {
     "number": 622,
     "name": "Gringolem",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/622.ogg",
     "form": [
         {
             "name": "normal",

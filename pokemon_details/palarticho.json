@@ -1,6 +1,7 @@
 {
     "number": 865,
     "name": "Palarticho",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/865.ogg",
     "form": [
         {
             "name": "normal",

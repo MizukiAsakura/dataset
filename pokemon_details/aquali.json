@@ -1,6 +1,7 @@
 {
     "number": 134,
     "name": "Aquali",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/134.ogg",
     "form": [
         {
             "name": "normal",

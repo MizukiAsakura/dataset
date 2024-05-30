@@ -1,6 +1,7 @@
 {
     "number": 794,
     "name": "Mouscoto",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/794.ogg",
     "form": [
         {
             "name": "normal",

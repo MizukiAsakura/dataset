@@ -1,6 +1,7 @@
 {
     "number": 183,
     "name": "Marill",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/183.ogg",
     "form": [
         {
             "name": "normal",

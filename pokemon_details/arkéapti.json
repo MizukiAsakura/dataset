@@ -1,6 +1,7 @@
 {
     "number": 566,
     "name": "Ark\u00e9apti",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/566.ogg",
     "form": [
         {
             "name": "normal",

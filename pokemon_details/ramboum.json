@@ -1,6 +1,7 @@
 {
     "number": 294,
     "name": "Ramboum",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/294.ogg",
     "form": [
         {
             "name": "normal",

@@ -1,6 +1,7 @@
 {
     "number": 565,
     "name": "M\u00e9gapagos",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/565.ogg",
     "form": [
         {
             "name": "normal",

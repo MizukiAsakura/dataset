@@ -1,6 +1,7 @@
 {
     "number": 972,
     "name": "Tomberro",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/972.ogg",
     "form": [
         {
             "name": "normal",

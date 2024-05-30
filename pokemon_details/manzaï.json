@@ -1,6 +1,7 @@
 {
     "number": 438,
     "name": "Manza\u00ef",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/438.ogg",
     "form": [
         {
             "name": "normal",

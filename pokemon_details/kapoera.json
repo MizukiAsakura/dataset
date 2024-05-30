@@ -1,6 +1,7 @@
 {
     "number": 237,
     "name": "Kapoera",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/237.ogg",
     "form": [
         {
             "name": "normal",

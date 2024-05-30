@@ -1,6 +1,7 @@
 {
     "number": 698,
     "name": "Amagara",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/698.ogg",
     "form": [
         {
             "name": "normal",

@@ -1,6 +1,7 @@
 {
     "number": 727,
     "name": "F\u00e9linferno",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/727.ogg",
     "form": [
         {
             "name": "normal",

@@ -1,6 +1,7 @@
 {
     "number": 471,
     "name": "Givrali",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/471.ogg",
     "form": [
         {
             "name": "normal",

@@ -1,6 +1,7 @@
 {
     "number": 324,
     "name": "Chartor",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/324.ogg",
     "form": [
         {
             "name": "normal",

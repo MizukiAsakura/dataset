@@ -1,6 +1,7 @@
 {
     "number": 354,
     "name": "Branette",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/354.ogg",
     "form": [
         {
             "name": "normal",

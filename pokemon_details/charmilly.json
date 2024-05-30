@@ -1,6 +1,7 @@
 {
     "number": 869,
     "name": "Charmilly",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/869.ogg",
     "form": [
         {
             "name": "normal",

@@ -1,6 +1,7 @@
 {
     "number": 971,
     "name": "Toutombe",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/971.ogg",
     "form": [
         {
             "name": "normal",

@@ -1,6 +1,7 @@
 {
     "number": 751,
     "name": "Araqua",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/751.ogg",
     "form": [
         {
             "name": "normal",

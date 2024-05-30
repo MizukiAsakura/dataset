@@ -1,6 +1,7 @@
 {
     "number": 96,
     "name": "Soporifik",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/96.ogg",
     "form": [
         {
             "name": "normal",

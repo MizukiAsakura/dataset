@@ -1,6 +1,7 @@
 {
     "number": 603,
     "name": "Lamp\u00e9roie",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/603.ogg",
     "form": [
         {
             "name": "normal",

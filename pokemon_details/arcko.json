@@ -1,6 +1,7 @@
 {
     "number": 252,
     "name": "Arcko",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/252.ogg",
     "form": [
         {
             "name": "normal",

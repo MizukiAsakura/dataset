@@ -1,6 +1,7 @@
 {
     "number": 771,
     "name": "Concombaffe",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/771.ogg",
     "form": [
         {
             "name": "normal",

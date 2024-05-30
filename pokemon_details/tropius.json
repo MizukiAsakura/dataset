@@ -1,6 +1,7 @@
 {
     "number": 357,
     "name": "Tropius",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/357.ogg",
     "form": [
         {
             "name": "normal",

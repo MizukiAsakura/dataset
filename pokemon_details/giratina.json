@@ -1,6 +1,7 @@
 {
     "number": 487,
     "name": "Giratina",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/487.ogg",
     "form": [
         {
             "name": "normal",

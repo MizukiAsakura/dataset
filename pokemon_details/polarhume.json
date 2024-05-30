@@ -1,6 +1,7 @@
 {
     "number": 613,
     "name": "Polarhume",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/613.ogg",
     "form": [
         {
             "name": "normal",

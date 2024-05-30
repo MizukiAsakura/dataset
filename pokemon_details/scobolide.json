@@ -1,6 +1,7 @@
 {
     "number": 544,
     "name": "Scobolide",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/544.ogg",
     "form": [
         {
             "name": "normal",

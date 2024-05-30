@@ -1,6 +1,7 @@
 {
     "number": 9,
     "name": "Tortank",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/9.ogg",
     "form": [
         {
             "name": "normal",

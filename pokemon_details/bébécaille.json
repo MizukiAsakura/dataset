@@ -1,6 +1,7 @@
 {
     "number": 782,
     "name": "B\u00e9b\u00e9caille",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/782.ogg",
     "form": [
         {
             "name": "normal",

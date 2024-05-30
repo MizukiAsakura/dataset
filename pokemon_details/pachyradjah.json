@@ -1,6 +1,7 @@
 {
     "number": 879,
     "name": "Pachyradjah",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/879.ogg",
     "form": [
         {
             "name": "normal",

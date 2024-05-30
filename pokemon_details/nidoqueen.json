@@ -1,6 +1,7 @@
 {
     "number": 31,
     "name": "Nidoqueen",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/31.ogg",
     "form": [
         {
             "name": "normal",

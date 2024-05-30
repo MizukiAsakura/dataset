@@ -1,6 +1,7 @@
 {
     "number": 50,
     "name": "Taupiqueur",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/50.ogg",
     "form": [
         {
             "name": "normal",

@@ -1,6 +1,7 @@
 {
     "number": 545,
     "name": "Brutapode",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/545.ogg",
     "form": [
         {
             "name": "normal",

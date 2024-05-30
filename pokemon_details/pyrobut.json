@@ -1,6 +1,7 @@
 {
     "number": 815,
     "name": "Pyrobut",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/815.ogg",
     "form": [
         {
             "name": "normal",

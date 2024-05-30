@@ -1,6 +1,7 @@
 {
     "number": 414,
     "name": "Papilord",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/414.ogg",
     "form": [
         {
             "name": "normal",

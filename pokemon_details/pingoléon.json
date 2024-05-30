@@ -1,6 +1,7 @@
 {
     "number": 395,
     "name": "Pingol\u00e9on",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/395.ogg",
     "form": [
         {
             "name": "normal",

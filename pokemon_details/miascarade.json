@@ -1,6 +1,7 @@
 {
     "number": 908,
     "name": "Miascarade",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/908.ogg",
     "form": [
         {
             "name": "normal",

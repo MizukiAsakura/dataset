@@ -1,6 +1,7 @@
 {
     "number": 920,
     "name": "Gambex",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/920.ogg",
     "form": [
         {
             "name": "normal",

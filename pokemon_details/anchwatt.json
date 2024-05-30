@@ -1,6 +1,7 @@
 {
     "number": 602,
     "name": "Anchwatt",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/602.ogg",
     "form": [
         {
             "name": "normal",

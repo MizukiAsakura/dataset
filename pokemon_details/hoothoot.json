@@ -1,6 +1,7 @@
 {
     "number": 163,
     "name": "Hoothoot",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/163.ogg",
     "form": [
         {
             "name": "normal",

@@ -1,6 +1,7 @@
 {
     "number": 717,
     "name": "Yveltal",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/717.ogg",
     "form": [
         {
             "name": "normal",

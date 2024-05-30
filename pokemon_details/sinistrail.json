@@ -1,6 +1,7 @@
 {
     "number": 781,
     "name": "Sinistrail",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/781.ogg",
     "form": [
         {
             "name": "normal",

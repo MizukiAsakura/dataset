@@ -1,6 +1,7 @@
 {
     "number": 66,
     "name": "Machoc",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/66.ogg",
     "form": [
         {
             "name": "normal",

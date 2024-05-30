@@ -1,6 +1,7 @@
 {
     "number": 765,
     "name": "Gouroutan",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/765.ogg",
     "form": [
         {
             "name": "normal",

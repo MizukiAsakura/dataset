@@ -1,6 +1,7 @@
 {
     "number": 643,
     "name": "Reshiram",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/643.ogg",
     "form": [
         {
             "name": "normal",

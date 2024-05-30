@@ -1,6 +1,7 @@
 {
     "number": 5,
     "name": "Reptincel",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/5.ogg",
     "form": [
         {
             "name": "normal",

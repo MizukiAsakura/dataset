@@ -1,6 +1,7 @@
 {
     "number": 67,
     "name": "Machopeur",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/67.ogg",
     "form": [
         {
             "name": "normal",

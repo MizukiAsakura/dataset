@@ -1,12 +1,13 @@
 {
     "number": 1002,
     "name": "Baojian",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/1002.ogg",
     "form": [
         {
             "name": "normal",
             "types": [
                 "dark",
-                "ice"
+                "grass"
             ],
             "image": "https://img.pokemondb.net/artwork/large/chien-pao.jpg",
             "base": {

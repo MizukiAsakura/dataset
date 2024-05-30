@@ -1,6 +1,7 @@
 {
     "number": 681,
     "name": "Exagide",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/681.ogg",
     "form": [
         {
             "name": "normal",

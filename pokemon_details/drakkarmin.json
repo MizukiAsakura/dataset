@@ -1,6 +1,7 @@
 {
     "number": 621,
     "name": "Drakkarmin",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/621.ogg",
     "form": [
         {
             "name": "normal",

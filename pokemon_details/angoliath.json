@@ -1,6 +1,7 @@
 {
     "number": 861,
     "name": "Angoliath",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/861.ogg",
     "form": [
         {
             "name": "normal",

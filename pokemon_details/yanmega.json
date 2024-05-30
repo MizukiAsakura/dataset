@@ -1,6 +1,7 @@
 {
     "number": 469,
     "name": "Yanmega",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/469.ogg",
     "form": [
         {
             "name": "normal",

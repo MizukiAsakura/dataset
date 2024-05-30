@@ -1,6 +1,7 @@
 {
     "number": 551,
     "name": "Masca\u00efman",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/551.ogg",
     "form": [
         {
             "name": "normal",

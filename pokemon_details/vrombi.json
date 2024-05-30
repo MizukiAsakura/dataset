@@ -1,6 +1,7 @@
 {
     "number": 965,
     "name": "Vrombi",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/965.ogg",
     "form": [
         {
             "name": "normal",

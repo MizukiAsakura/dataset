@@ -1,6 +1,7 @@
 {
     "number": 805,
     "name": "Ama-Ama",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/805.ogg",
     "form": [
         {
             "name": "normal",

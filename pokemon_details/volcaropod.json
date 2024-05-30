@@ -1,6 +1,7 @@
 {
     "number": 219,
     "name": "Volcaropod",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/219.ogg",
     "form": [
         {
             "name": "normal",

@@ -1,6 +1,7 @@
 {
     "number": 952,
     "name": "Scovilain",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/952.ogg",
     "form": [
         {
             "name": "normal",

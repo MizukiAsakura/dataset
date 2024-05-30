@@ -1,6 +1,7 @@
 {
     "number": 502,
     "name": "Mateloutre",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/502.ogg",
     "form": [
         {
             "name": "normal",

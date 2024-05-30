@@ -1,6 +1,7 @@
 {
     "number": 143,
     "name": "Ronflex",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/143.ogg",
     "form": [
         {
             "name": "normal",

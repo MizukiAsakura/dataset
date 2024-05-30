@@ -1,6 +1,7 @@
 {
     "number": 732,
     "name": "Piclairon",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/732.ogg",
     "form": [
         {
             "name": "normal",

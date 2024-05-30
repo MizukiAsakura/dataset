@@ -1,6 +1,7 @@
 {
     "number": 883,
     "name": "Hydragla",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/883.ogg",
     "form": [
         {
             "name": "normal",

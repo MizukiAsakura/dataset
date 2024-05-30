@@ -1,6 +1,7 @@
 {
     "number": 20,
     "name": "Rattatac",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/20.ogg",
     "form": [
         {
             "name": "normal",

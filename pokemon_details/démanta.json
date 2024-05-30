@@ -1,6 +1,7 @@
 {
     "number": 226,
     "name": "D\u00e9manta",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/226.ogg",
     "form": [
         {
             "name": "normal",

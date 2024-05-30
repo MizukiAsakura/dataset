@@ -1,6 +1,7 @@
 {
     "number": 136,
     "name": "Pyroli",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/136.ogg",
     "form": [
         {
             "name": "normal",

@@ -1,6 +1,7 @@
 {
     "number": 139,
     "name": "Amonistar",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/139.ogg",
     "form": [
         {
             "name": "normal",

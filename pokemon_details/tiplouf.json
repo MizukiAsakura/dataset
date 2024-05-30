@@ -1,6 +1,7 @@
 {
     "number": 393,
     "name": "Tiplouf",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/393.ogg",
     "form": [
         {
             "name": "normal",

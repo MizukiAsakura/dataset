@@ -1,6 +1,7 @@
 {
     "number": 589,
     "name": "Lan\u00e7argot",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/589.ogg",
     "form": [
         {
             "name": "normal",

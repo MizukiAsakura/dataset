@@ -1,6 +1,7 @@
 {
     "number": 26,
     "name": "Raichu",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/26.ogg",
     "form": [
         {
             "name": "normal",

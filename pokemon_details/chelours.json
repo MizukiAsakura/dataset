@@ -1,6 +1,7 @@
 {
     "number": 760,
     "name": "Chelours",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/760.ogg",
     "form": [
         {
             "name": "normal",

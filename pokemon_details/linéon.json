@@ -1,6 +1,7 @@
 {
     "number": 264,
     "name": "Lin\u00e9on",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/264.ogg",
     "form": [
         {
             "name": "normal",

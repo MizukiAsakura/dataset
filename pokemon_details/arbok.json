@@ -1,6 +1,7 @@
 {
     "number": 24,
     "name": "Arbok",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/24.ogg",
     "form": [
         {
             "name": "normal",

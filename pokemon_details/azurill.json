@@ -1,6 +1,7 @@
 {
     "number": 298,
     "name": "Azurill",
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/298.ogg",
     "form": [
         {
             "name": "normal",
