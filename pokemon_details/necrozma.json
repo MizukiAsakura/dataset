@@ -43,8 +43,8 @@
             "abilities": [
                 226
             ],
-            "height": 24,
-            "weight": 2300
+            "height": 38,
+            "weight": 4600
         },
         {
             "name": "ailes de l'aurore",
@@ -65,8 +65,8 @@
             "abilities": [
                 226
             ],
-            "height": 24,
-            "weight": 2300
+            "height": 42,
+            "weight": 3500
         },
         {
             "name": "ultra",
@@ -87,7 +87,7 @@
             "abilities": [
                 50
             ],
-            "height": 24,
+            "height": 75,
             "weight": 2300
         }
     ]

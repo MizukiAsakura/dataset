@@ -48,8 +48,8 @@
                 126,
                 155
             ],
-            "height": 9,
-            "weight": 125
+            "height": 7,
+            "weight": 95
         },
         {
             "name": "maxi",
@@ -72,8 +72,8 @@
                 126,
                 155
             ],
-            "height": 9,
-            "weight": 125
+            "height": 11,
+            "weight": 140
         },
         {
             "name": "ultra",
@@ -96,8 +96,8 @@
                 126,
                 155
             ],
-            "height": 9,
-            "weight": 125
+            "height": 17,
+            "weight": 390
         }
     ]
 }

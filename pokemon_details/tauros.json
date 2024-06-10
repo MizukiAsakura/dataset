@@ -24,10 +24,10 @@
                 248
             ],
             "height": 14,
-            "weight": 884
+            "weight": 1150
         },
         {
-            "name": "padea combative",
+            "name": "paldea combative",
             "types": [
                 "fight"
             ],
@@ -47,7 +47,7 @@
                 245
             ],
             "height": 14,
-            "weight": 884
+            "weight": 885
         },
         {
             "name": "paldea flamboyante",
@@ -71,7 +71,7 @@
                 245
             ],
             "height": 14,
-            "weight": 884
+            "weight": 1100
         },
         {
             "name": "paldea aquatique",
