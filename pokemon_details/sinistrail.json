@@ -21,7 +21,9 @@
             "description": "Il tend des guets-apens \u00e0 ses proies en larguant son ancre dans la mer. Il peut absorber l\u2019\u00e9nergie vitale de grosses proies comme Wailord.",
             "abilities": [
                 112
-            ]
+            ],
+            "height": 39,
+            "weight": 2100
         }
     ]
 }

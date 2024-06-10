@@ -22,7 +22,9 @@
             "abilities": [
                 223,
                 67
-            ]
+            ],
+            "height": 20,
+            "weight": 600
         },
         {
             "name": "galar",
@@ -42,7 +44,9 @@
             "description": "Sulfura est un Pok\u00e9mon Oiseau l\u00e9gendaire capable de contr\u00f4ler le feu. On raconte que lorsque ce Pok\u00e9mon est bless\u00e9, il se baigne dans le magma en \u00e9bullition d'un volcan pour se soigner.",
             "abilities": [
                 95
-            ]
+            ],
+            "height": 20,
+            "weight": 600
         }
     ]
 }

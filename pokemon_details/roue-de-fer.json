@@ -21,7 +21,9 @@
             "description": "Il ressemble beaucoup \u00e0 une arme sophistiqu\u00e9e qui serait d'origine extraterrestre, selon une revue consacr\u00e9e aux ph\u00e9nom\u00e8nes paranormaux.",
             "abilities": [
                 52
-            ]
+            ],
+            "height": 9,
+            "weight": 2400
         }
     ]
 }

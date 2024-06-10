@@ -21,7 +21,9 @@
             "description": "Il peut cr\u00e9er une multitude de diamants en un instant en serrant ses mains, simplement en compressant les mol\u00e9cules de carbone contenues dans l\u2019air.",
             "abilities": [
                 73
-            ]
+            ],
+            "height": 7,
+            "weight": 88
         }
     ]
 }

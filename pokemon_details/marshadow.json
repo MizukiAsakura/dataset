@@ -21,7 +21,9 @@
             "description": "En se glissant dans l\u2019ombre de son adversaire, il peut copier ses mouvements et ses forces. C\u2019est un Pok\u00e9mon au caract\u00e8re timide et craintif.",
             "abilities": [
                 268
-            ]
+            ],
+            "height": 7,
+            "weight": 222
         }
     ]
 }

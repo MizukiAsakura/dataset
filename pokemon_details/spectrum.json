@@ -21,7 +21,9 @@
             "description": "Spectrum est un Pok\u00e9mon dangereux. Si l'un d'entre eux fait signe d'approcher, il ne faut jamais l'\u00e9couter. Ce Pok\u00e9mon risque de sortir sa langue pour essayer de voler votre vie.",
             "abilities": [
                 162
-            ]
+            ],
+            "height": 16,
+            "weight": 1
         }
     ]
 }

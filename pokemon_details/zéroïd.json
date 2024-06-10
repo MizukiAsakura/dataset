@@ -21,7 +21,9 @@
             "description": "Nul ne sait si cette Ultra-Chim\u00e8re poss\u00e8de une conscience propre, mais on l\u2019aurait aper\u00e7ue en train d\u2019imiter les gestes d\u2019une jeune fille.",
             "abilities": [
                 41
-            ]
+            ],
+            "height": 12,
+            "weight": 555
         }
     ]
 }

@@ -22,7 +22,9 @@
                 129,
                 31,
                 268
-            ]
+            ],
+            "height": 3,
+            "weight": 23
         },
         {
             "name": "famille de quatre",
@@ -43,7 +45,9 @@
                 129,
                 31,
                 268
-            ]
+            ],
+            "height": 3,
+            "weight": 23
         }
     ]
 }

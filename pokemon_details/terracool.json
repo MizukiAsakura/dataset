@@ -21,7 +21,9 @@
             "description": "Il ressemble \u00e0 un Tentacool, mais il n'en est pas un. Malgr\u00e9 leur finesse, ses pattes lui permettent de courir \u00e0 une vitesse de 50 km/h.",
             "abilities": [
                 122
-            ]
+            ],
+            "height": 9,
+            "weight": 330
         }
     ]
 }

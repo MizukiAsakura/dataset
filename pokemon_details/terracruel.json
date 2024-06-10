@@ -21,7 +21,9 @@
             "description": "Il enserre sa proie de ses dix tentacules et lui vole ses nutriments, ce qui est douloureux. Les plis au-dessus de ses yeux sont appr\u00e9ci\u00e9s pour leur go\u00fbt.",
             "abilities": [
                 122
-            ]
+            ],
+            "height": 19,
+            "weight": 580
         }
     ]
 }

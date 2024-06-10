@@ -21,7 +21,9 @@
             "abilities": [
                 24,
                 69
-            ]
+            ],
+            "height": 10,
+            "weight": 4
         }
     ]
 }

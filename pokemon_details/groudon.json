@@ -20,7 +20,9 @@
             "description": "GROUDON est depuis longtemps d\u00e9crit dans la mythologie comme le POK\u00e9MON qui a cr\u00e9\u00e9 les terres et agrandi les continents. Ce POK\u00e9MON s'est endormi apr\u00e8s un combat cataclysmique contre KYOGRE.",
             "abilities": [
                 249
-            ]
+            ],
+            "height": 35,
+            "weight": 9500
         }
     ]
 }

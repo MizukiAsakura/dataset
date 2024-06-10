@@ -21,7 +21,9 @@
             "abilities": [
                 248,
                 181
-            ]
+            ],
+            "height": 13,
+            "weight": 929
         },
         {
             "name": "transe",
@@ -42,7 +44,9 @@
             "abilities": [
                 248,
                 181
-            ]
+            ],
+            "height": 13,
+            "weight": 929
         },
         {
             "name": "galar",
@@ -62,7 +66,9 @@
             "abilities": [
                 105,
                 181
-            ]
+            ],
+            "height": 13,
+            "weight": 929
         },
         {
             "name": "transe galar",
@@ -83,7 +89,9 @@
             "abilities": [
                 105,
                 181
-            ]
+            ],
+            "height": 13,
+            "weight": 929
         }
     ]
 }

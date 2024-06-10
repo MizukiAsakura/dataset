@@ -20,7 +20,9 @@
             "description": "Coconfort est la plupart du temps immobile et reste accroch\u00e9 \u00e0 un arbre. Cependant, int\u00e9rieurement, il est tr\u00e8s actif, car il se pr\u00e9pare pour sa prochaine \u00e9volution. En touchant sa carapace, on peut sentir sa chaleur.",
             "abilities": [
                 186
-            ]
+            ],
+            "height": 6,
+            "weight": 100
         }
     ]
 }

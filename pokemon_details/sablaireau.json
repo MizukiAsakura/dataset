@@ -21,7 +21,9 @@
             "abilities": [
                 294,
                 30
-            ]
+            ],
+            "height": 10,
+            "weight": 295
         },
         {
             "name": "alola",
@@ -42,7 +44,9 @@
             "abilities": [
                 243,
                 53
-            ]
+            ],
+            "height": 10,
+            "weight": 295
         }
     ]
 }

@@ -22,7 +22,9 @@
             "abilities": [
                 64,
                 160
-            ]
+            ],
+            "height": 3,
+            "weight": 80
         }
     ]
 }

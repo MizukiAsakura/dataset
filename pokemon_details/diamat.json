@@ -21,7 +21,9 @@
             "description": "Il cherche des proies en arpentant son territoire. Ses deux t\u00eates se disputent souvent pour savoir quelle direction prendre.",
             "abilities": [
                 8
-            ]
+            ],
+            "height": 14,
+            "weight": 500
         }
     ]
 }

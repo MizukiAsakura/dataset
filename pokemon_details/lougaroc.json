@@ -22,7 +22,9 @@
                 240,
                 30,
                 149
-            ]
+            ],
+            "height": 8,
+            "weight": 250
         },
         {
             "name": "nocturne",
@@ -43,7 +45,9 @@
                 240,
                 110,
                 16
-            ]
+            ],
+            "height": 8,
+            "weight": 250
         },
         {
             "name": "cr\u00e9puscule",
@@ -62,7 +66,9 @@
             "description": "Ce Pok\u00e9mon \u00e0 l\u2019attitude r\u00e9fl\u00e9chie sait aussi \u00eatre f\u00e9roce. Il est difficile \u00e0 satisfaire, et donc compliqu\u00e9 \u00e0 apprivoiser.",
             "abilities": [
                 139
-            ]
+            ],
+            "height": 8,
+            "weight": 250
         }
     ]
 }

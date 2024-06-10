@@ -20,7 +20,9 @@
             "description": "Une th\u00e9orie stipule que ses bras ont la forme de la t\u00eate d\u2019un Pok\u00e9mon Dragon des temps anciens, mais aucune preuve ne l\u2019atteste.",
             "abilities": [
                 92
-            ]
+            ],
+            "height": 21,
+            "weight": 2000
         }
     ]
 }

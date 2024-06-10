@@ -20,7 +20,9 @@
             "description": "Si sa temp\u00e9rature monte, il se dissipe en vapeur d'eau et dispara\u00eet. Quand elle diminue, il redevient de glace.",
             "abilities": [
                 162
-            ]
+            ],
+            "height": 11,
+            "weight": 1480
         }
     ]
 }

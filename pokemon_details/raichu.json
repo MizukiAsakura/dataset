@@ -21,7 +21,9 @@
             "abilities": [
                 260,
                 199
-            ]
+            ],
+            "height": 8,
+            "weight": 300
         },
         {
             "name": "alola",
@@ -41,7 +43,9 @@
             "description": "Si ses joues contiennent trop d'\u00e9lectricit\u00e9, Raichu plante sa queue dans le sol pour se d\u00e9charger. On trouve des parcelles de terre br\u00fbl\u00e9e \u00e0 proximit\u00e9 du nid de ce Pok\u00e9mon.",
             "abilities": [
                 263
-            ]
+            ],
+            "height": 8,
+            "weight": 300
         }
     ]
 }

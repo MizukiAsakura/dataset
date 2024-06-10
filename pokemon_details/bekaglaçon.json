@@ -20,7 +20,9 @@
             "description": "Originaire d\u2019une contr\u00e9e polaire, ce Pok\u00e9mon a d\u00e9barqu\u00e9 dans la r\u00e9gion ballott\u00e9 par les flots. Il garde toujours la t\u00eate froide.",
             "abilities": [
                 275
-            ]
+            ],
+            "height": 14,
+            "weight": 890
         },
         {
             "name": "t\u00eate d\u00e9gel",
@@ -39,7 +41,9 @@
             "description": "Le cheveu sur sa t\u00eate est directement reli\u00e9 \u00e0 son cerveau. Quand il r\u00e9fl\u00e9chit, il r\u00e9pand de l\u2019air glacial.",
             "abilities": [
                 275
-            ]
+            ],
+            "height": 14,
+            "weight": 890
         }
     ]
 }

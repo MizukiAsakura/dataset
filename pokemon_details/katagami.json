@@ -21,7 +21,9 @@
             "description": "Une Ultra-Chim\u00e8re venue de l\u2019Ultra-Br\u00e8che. Elle ne semble pas agressive, bien que son corps tout entier soit une arme tranchante.",
             "abilities": [
                 41
-            ]
+            ],
+            "height": 3,
+            "weight": 1
         }
     ]
 }

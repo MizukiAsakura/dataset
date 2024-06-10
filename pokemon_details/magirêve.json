@@ -20,7 +20,9 @@
             "description": "Son cri rappelle une incantation. Ceux qui l'entendent souffrent de migraines et d'hallucinations. Il psalmodie des incantations. Ce sont souvent des mal\u00e9dictions, mais certaines apportent la joie.",
             "abilities": [
                 162
-            ]
+            ],
+            "height": 9,
+            "weight": 44
         }
     ]
 }

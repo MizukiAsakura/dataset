@@ -21,7 +21,9 @@
             "description": "Son apparence partage des similarit\u00e9s avec celle qu'auront les Tyranocif dans un milliard d'ann\u00e9es, selon une revue douteuse.",
             "abilities": [
                 52
-            ]
+            ],
+            "height": 16,
+            "weight": 3030
         }
     ]
 }

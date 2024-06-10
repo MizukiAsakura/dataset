@@ -21,7 +21,9 @@
             "description": "Il poss\u00e8de une puissance consid\u00e9rable sous son apparence v\u00e9ritable. Une l\u00e9gende raconte qu\u2019il d\u00e9sirait si fort un tr\u00e9sor cach\u00e9 dans un ch\u00e2teau qu\u2019il d\u00e9roba l\u2019\u00e9difice tout entier.",
             "abilities": [
                 167
-            ]
+            ],
+            "height": 5,
+            "weight": 90
         },
         {
             "name": "d\u00e9cha\u00een\u00e9",
@@ -41,7 +43,9 @@
             "description": "Il poss\u00e8de une puissance consid\u00e9rable sous son apparence v\u00e9ritable. Une l\u00e9gende raconte qu\u2019il d\u00e9sirait si fort un tr\u00e9sor cach\u00e9 dans un ch\u00e2teau qu\u2019il d\u00e9roba l\u2019\u00e9difice tout entier.",
             "abilities": [
                 167
-            ]
+            ],
+            "height": 5,
+            "weight": 90
         }
     ]
 }

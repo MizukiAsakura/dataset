@@ -21,7 +21,9 @@
             "description": "BALBUTO se d\u00e9place en pivotant sur son unique pied. Des peintures rupestres montrant ce POK\u00e9MON vivant avec les hommes furent d\u00e9couvertes dans des ruines tr\u00e8s anciennes.",
             "abilities": [
                 162
-            ]
+            ],
+            "height": 5,
+            "weight": 215
         }
     ]
 }

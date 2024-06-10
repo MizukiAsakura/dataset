@@ -20,7 +20,9 @@
             "description": "Les Meltan vivent en groupe. Quand l\u2019heure de l\u2019\u00e9volution a sonn\u00e9, le plus fort d\u2019entre eux absorbe ses camarades pour changer de forme.",
             "abilities": [
                 168
-            ]
+            ],
+            "height": 2,
+            "weight": 80
         }
     ]
 }

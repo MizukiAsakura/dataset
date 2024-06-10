@@ -21,7 +21,9 @@
             "description": "Ce Pok\u00e9mon manipule des flammes \u00e0 3 000\u00b0C. Il nage tranquillement dans une mer de magma qu'il a cr\u00e9\u00e9e en faisant fondre de la roche et du gravier.",
             "abilities": [
                 208
-            ]
+            ],
+            "height": 4,
+            "weight": 49
         }
     ]
 }

@@ -20,7 +20,9 @@
             "description": "La confiance qu\u2019il place en son Dresseur a r\u00e9veill\u00e9 ses pouvoirs. Il est \u00e0 pr\u00e9sent capable de changer de type \u00e0 loisir durant le combat.",
             "abilities": [
                 267
-            ]
+            ],
+            "height": 23,
+            "weight": 1005
         }
     ]
 }

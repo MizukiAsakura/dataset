@@ -21,7 +21,9 @@
             "description": "Son corps contient des hectolitres de poison. Il fait partie de ces cr\u00e9atures que l\u2019on nomme \u00ab Ultra-Chim\u00e8res \u00bb.",
             "abilities": [
                 41
-            ]
+            ],
+            "height": 36,
+            "weight": 1500
         }
     ]
 }

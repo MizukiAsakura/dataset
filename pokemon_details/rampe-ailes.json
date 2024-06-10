@@ -21,7 +21,9 @@
             "description": "Il ressemble vaguement \u00e0 une forme de Pyrax tr\u00e8s ancienne \u00e9voqu\u00e9e dans une revue douteuse.",
             "abilities": [
                 198
-            ]
+            ],
+            "height": 32,
+            "weight": 920
         }
     ]
 }

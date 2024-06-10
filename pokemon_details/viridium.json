@@ -21,7 +21,9 @@
             "description": "Selon la l\u00e9gende, il aurait combattu aux c\u00f4t\u00e9s de Cobaltium et de Terrakium pour prot\u00e9ger les Pok\u00e9mon d\u2019Unys.",
             "abilities": [
                 59
-            ]
+            ],
+            "height": 20,
+            "weight": 2000
         }
     ]
 }

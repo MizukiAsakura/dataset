@@ -20,7 +20,9 @@
             "description": "On dit que, gr\u00e2ce \u00e0 la force centrifuge, les coups de poing qu\u2019il ass\u00e8ne avec ses lourds \u00e9crous seraient les plus d\u00e9vastateurs parmi les Pok\u00e9mon.",
             "abilities": [
                 215
-            ]
+            ],
+            "height": 25,
+            "weight": 8000
         }
     ]
 }

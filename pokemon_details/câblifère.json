@@ -20,7 +20,9 @@
             "description": "Une cr\u00e9ature \u00e9chapp\u00e9e de l\u2019Ultra-Br\u00e8che. Elle a attaqu\u00e9 une centrale \u00e9lectrique, aussi suppose-t-on qu\u2019elle se nourrit d\u2019\u00e9lectricit\u00e9.",
             "abilities": [
                 41
-            ]
+            ],
+            "height": 38,
+            "weight": 1000
         }
     ]
 }

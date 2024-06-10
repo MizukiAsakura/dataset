@@ -21,7 +21,9 @@
             "description": "Il ressemble un peu \u00e0 l'invention d'un cerveau d\u00e9ment mentionn\u00e9e dans une revue consacr\u00e9e aux ph\u00e9nom\u00e8nes paranormaux.",
             "abilities": [
                 52
-            ]
+            ],
+            "height": 14,
+            "weight": 350
         }
     ]
 }

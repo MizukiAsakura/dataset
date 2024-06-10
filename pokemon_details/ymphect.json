@@ -21,7 +21,9 @@
             "description": "YMPHECT cr\u00e9e un gaz dans son corps qu'il comprime puissamment pour se propulser, comme un avion \u00e0 r\u00e9action. Son corps est tr\u00e8s solide. Il ne l'endommage pas m\u00eame lorsqu'il frappe de l'acier tremp\u00e9.",
             "abilities": [
                 186
-            ]
+            ],
+            "height": 12,
+            "weight": 1520
         }
     ]
 }

@@ -20,7 +20,9 @@
             "description": "Il a confectionn\u00e9 l'anneau autour de sa queue \u00e0 partir d'eau de mer et du liquide collant que son \u00e9vent s\u00e9cr\u00e8te.",
             "abilities": [
                 147
-            ]
+            ],
+            "height": 13,
+            "weight": 602
         }
     ]
 }

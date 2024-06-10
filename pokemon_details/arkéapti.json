@@ -20,7 +20,9 @@
             "description": "On dit qu'il serait l'anc\u00eatre de tous les Pok\u00e9mon Oiseaux. Il ne sait pas voler et se d\u00e9place en sautant d'arbre en arbre.",
             "abilities": [
                 88
-            ]
+            ],
+            "height": 5,
+            "weight": 95
         }
     ]
 }

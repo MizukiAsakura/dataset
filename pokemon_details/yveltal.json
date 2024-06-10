@@ -21,7 +21,9 @@
             "description": "Lorsque les plumes de sa queue et de ses ailes sont d\u00e9ploy\u00e9es et virent au rouge, ce Pok\u00e9mon l\u00e9gendaire absorbe l\u2019\u00e9nergie vitale de ce qui l\u2019entoure.",
             "abilities": [
                 29
-            ]
+            ],
+            "height": 58,
+            "weight": 2030
         }
     ]
 }

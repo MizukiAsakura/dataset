@@ -21,7 +21,9 @@
             "description": "Sa voix si particuli\u00e8re lui permet de chanter des m\u00e9lodies qui ensorcellent les gens et modifient leurs \u00e9motions.",
             "abilities": [
                 252
-            ]
+            ],
+            "height": 6,
+            "weight": 65
         },
         {
             "name": "danse",
@@ -41,7 +43,9 @@
             "description": "Sa voix si particuli\u00e8re lui permet de chanter des m\u00e9lodies qui ensorcellent les gens et modifient leurs \u00e9motions.",
             "abilities": [
                 252
-            ]
+            ],
+            "height": 6,
+            "weight": 65
         }
     ]
 }

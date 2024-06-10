@@ -21,7 +21,9 @@
             "description": "LIBEGON est surnomm\u00e9 \"l'esprit \u00e9l\u00e9mentaire du d\u00e9sert\". Le battement de ses ailes soul\u00e8ve des nuages de sable. C'est pourquoi ce POK\u00e9MON est toujours entour\u00e9 d'une temp\u00eate de sable quand il vole.",
             "abilities": [
                 162
-            ]
+            ],
+            "height": 20,
+            "weight": 820
         }
     ]
 }

@@ -20,7 +20,9 @@
             "description": "Il vit dans un vieux coffre au tr\u00e9sor. On le trouve parfois dans un coin chez l'antiquaire, quand personne ne s'est aper\u00e7u que c'\u00e9tait un Pok\u00e9mon",
             "abilities": [
                 209
-            ]
+            ],
+            "height": 3,
+            "weight": 50
         },
         {
             "name": "marche",
@@ -39,7 +41,9 @@
             "description": "Il vit dans un vieux coffre au tr\u00e9sor. On le trouve parfois dans un coin chez l'antiquaire, quand personne ne s'est aper\u00e7u que c'\u00e9tait un Pok\u00e9mon",
             "abilities": [
                 209
-            ]
+            ],
+            "height": 3,
+            "weight": 50
         }
     ]
 }

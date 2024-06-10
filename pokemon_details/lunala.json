@@ -21,7 +21,9 @@
             "description": "On suppose que c\u2019est l\u2019\u00e9volution de Cosmog lorsqu\u2019il s\u2019agit d\u2019une femelle. Son troisi\u00e8me \u0153il appara\u00eet quand il s\u2019envole vers un autre monde.",
             "abilities": [
                 259
-            ]
+            ],
+            "height": 40,
+            "weight": 1200
         }
     ]
 }

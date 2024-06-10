@@ -21,7 +21,9 @@
             "description": "Un Pok\u00e9mon existant depuis 300 millions d\u2019ann\u00e9es, et modifi\u00e9 par la Team Plasma. Il a maintenant un canon dans le dos.",
             "abilities": [
                 269
-            ]
+            ],
+            "height": 15,
+            "weight": 825
         }
     ]
 }

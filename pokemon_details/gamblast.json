@@ -20,7 +20,9 @@
             "description": "La force de propulsion g\u00e9n\u00e9r\u00e9e par l\u2019expulsion de l\u2019eau via la tuy\u00e8re situ\u00e9e \u00e0 l\u2019arri\u00e8re de sa pince peut lui conf\u00e9rer une vitesse de 60 n\u0153uds.",
             "abilities": [
                 175
-            ]
+            ],
+            "height": 13,
+            "weight": 353
         }
     ]
 }

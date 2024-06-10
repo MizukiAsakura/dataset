@@ -20,7 +20,9 @@
             "description": "\u00c9galement surnomm\u00e9 \u00ab h\u00e9ros l\u00e9gendaire \u00bb, ce Pok\u00e9mon absorbe du m\u00e9tal et se change en arme pour se battre.",
             "abilities": [
                 159
-            ]
+            ],
+            "height": 28,
+            "weight": 1100
         },
         {
             "name": "\u00e9p\u00e9e supr\u00eame",
@@ -40,7 +42,9 @@
             "description": "Il est \u00e9quip\u00e9 d\u2019une arme antique avec laquelle il tranche d\u2019un seul coup les Pok\u00e9mon, m\u00eame ceux qui disposent du pouvoir du Gigamax.",
             "abilities": [
                 159
-            ]
+            ],
+            "height": 28,
+            "weight": 1100
         }
     ]
 }

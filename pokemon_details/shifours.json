@@ -21,7 +21,9 @@
             "description": "Il vit dans une lointaine r\u00e9gion montagneuse o\u00f9 il peaufine ses techniques et muscle ses jambes en courant le long des falaises abruptes.",
             "abilities": [
                 216
-            ]
+            ],
+            "height": 19,
+            "weight": 1050
         },
         {
             "name": "mille-poings",
@@ -41,7 +43,9 @@
             "description": "Tant\u00f4t violent, tant\u00f4t calme, ce Pok\u00e9mon aurait d\u00e9velopp\u00e9 ses techniques de combat en s\u2019inspirant du courant des rivi\u00e8res.",
             "abilities": [
                 216
-            ]
+            ],
+            "height": 19,
+            "weight": 1050
         }
     ]
 }

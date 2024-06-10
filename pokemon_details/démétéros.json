@@ -22,7 +22,9 @@
             "abilities": [
                 124,
                 248
-            ]
+            ],
+            "height": 15,
+            "weight": 680
         },
         {
             "name": "tot\u00e9mique",
@@ -42,7 +44,9 @@
             "description": "Il fait fructifier les cultures partout o\u00f9 il passe, c'est pourquoi on l'appelle \"le dieu des moissons\".",
             "abilities": [
                 156
-            ]
+            ],
+            "height": 15,
+            "weight": 680
         }
     ]
 }

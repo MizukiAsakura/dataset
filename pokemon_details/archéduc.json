@@ -22,7 +22,9 @@
             "abilities": [
                 104,
                 164
-            ]
+            ],
+            "height": 16,
+            "weight": 366
         },
         {
             "name": "hisui",
@@ -43,7 +45,9 @@
             "abilities": [
                 104,
                 232
-            ]
+            ],
+            "height": 16,
+            "weight": 366
         }
     ]
 }

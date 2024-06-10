@@ -20,7 +20,9 @@
             "description": "On raconte qu\u2019apr\u00e8s avoir cr\u00e9\u00e9 des Pok\u00e9mon avec diff\u00e9rentes mati\u00e8res, il aurait plac\u00e9 les continents \u00e0 leur position actuelle.",
             "abilities": [
                 85
-            ]
+            ],
+            "height": 37,
+            "weight": 4200
         }
     ]
 }

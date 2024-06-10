@@ -21,7 +21,9 @@
             "description": "Il se prot\u00e8ge en projetant ses \u00e9pines, mais il lui faut beaucoup d\u2019entra\u00eenement pour r\u00e9ussir \u00e0 tirer dans une direction pr\u00e9cise.",
             "abilities": [
                 108
-            ]
+            ],
+            "height": 6,
+            "weight": 188
         }
     ]
 }

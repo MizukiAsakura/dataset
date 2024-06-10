@@ -21,7 +21,9 @@
             "description": "Selon la l\u00e9gende, il aurait d\u00e9fi\u00e9 les Hommes, aux c\u00f4t\u00e9s de Terrakium et de Viridium, pour prot\u00e9ger les Pok\u00e9mon d\u2019Unys.",
             "abilities": [
                 59
-            ]
+            ],
+            "height": 21,
+            "weight": 2500
         }
     ]
 }

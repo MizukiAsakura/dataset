@@ -21,7 +21,9 @@
             "description": "Dans son monde, cette Ultra-Chim\u00e8re est fort appr\u00e9ci\u00e9e pour son naturel conciliant, qui fait d\u2019elle un compagnon de voyage id\u00e9al.",
             "abilities": [
                 41
-            ]
+            ],
+            "height": 6,
+            "weight": 18
         }
     ]
 }

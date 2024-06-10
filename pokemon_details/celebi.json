@@ -21,7 +21,9 @@
             "description": "Ce POK\u00e9MON est venu du futur en voyageant dans le temps. On raconte que tant que CELEBI appara\u00eet, cela signifie que le futur sera bon et agr\u00e9able.",
             "abilities": [
                 174
-            ]
+            ],
+            "height": 6,
+            "weight": 50
         }
     ]
 }

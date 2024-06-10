@@ -22,7 +22,9 @@
             "abilities": [
                 223,
                 270
-            ]
+            ],
+            "height": 54,
+            "weight": 6830
         },
         {
             "name": "originelle",
@@ -43,7 +45,9 @@
             "abilities": [
                 223,
                 270
-            ]
+            ],
+            "height": 54,
+            "weight": 6830
         }
     ]
 }

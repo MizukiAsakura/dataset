@@ -23,7 +23,9 @@
                 2,
                 182,
                 153
-            ]
+            ],
+            "height": 4,
+            "weight": 85
         },
         {
             "name": "paldea",
@@ -44,7 +46,9 @@
             "abilities": [
                 217,
                 2
-            ]
+            ],
+            "height": 4,
+            "weight": 85
         }
     ]
 }

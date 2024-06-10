@@ -21,7 +21,9 @@
             "description": "L\u2019une des dangereuses Ultra-Chim\u00e8res. Elle est constamment en train de manger, mais ne semble pas produire d\u2019excr\u00e9ments.",
             "abilities": [
                 41
-            ]
+            ],
+            "height": 55,
+            "weight": 8880
         }
     ]
 }

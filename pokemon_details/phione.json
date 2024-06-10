@@ -20,7 +20,9 @@
             "description": "Ce Pok\u00e9mon vit dans les mers chaudes et gonfle l\u2019organe de flottaison sur sa t\u00eate pour nager au creux des vagues, en qu\u00eate de nourriture.",
             "abilities": [
                 143
-            ]
+            ],
+            "height": 4,
+            "weight": 31
         }
     ]
 }

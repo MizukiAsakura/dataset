@@ -21,7 +21,9 @@
             "description": "Il a toujours un petit creux. Il grignote les graines qu\u2019il a mises dans ses sortes de poches pour produire de l\u2019\u00e9lectricit\u00e9.",
             "abilities": [
                 86
-            ]
+            ],
+            "height": 3,
+            "weight": 30
         }
     ]
 }

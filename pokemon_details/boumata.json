@@ -21,7 +21,9 @@
             "description": "Il peut cracher des flammes et du gaz toxique par les naseaux. Ses excr\u00e9ments sont des explosifs qui peuvent servir \u00e0 plein de choses.",
             "abilities": [
                 66
-            ]
+            ],
+            "height": 20,
+            "weight": 2120
         }
     ]
 }

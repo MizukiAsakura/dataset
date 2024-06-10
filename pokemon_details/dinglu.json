@@ -21,7 +21,9 @@
             "description": "Sa t\u00eate est si lourde que quand il la pose en douceur sur le sol, celui-ci se fend et une faille de 50 m\u00e8tres de profondeur se forme.",
             "abilities": [
                 289
-            ]
+            ],
+            "height": 27,
+            "weight": 6997
         }
     ]
 }

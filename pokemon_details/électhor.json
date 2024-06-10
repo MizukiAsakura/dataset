@@ -22,7 +22,9 @@
             "abilities": [
                 223,
                 260
-            ]
+            ],
+            "height": 16,
+            "weight": 526
         },
         {
             "name": "galar",
@@ -42,7 +44,9 @@
             "description": "\u00c9lecthor est un Pok\u00e9mon Oiseau l\u00e9gendaire capable de contr\u00f4ler l'\u00e9lectricit\u00e9. Il vit g\u00e9n\u00e9ralement dans les nuages orageux. Ce Pok\u00e9mon gagne en puissance lorsqu'il est frapp\u00e9 par la foudre.",
             "abilities": [
                 5
-            ]
+            ],
+            "height": 16,
+            "weight": 526
         }
     ]
 }

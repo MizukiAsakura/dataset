@@ -21,7 +21,9 @@
             "description": "Ce roi l\u00e9gendaire qui a r\u00e9gn\u00e9 sur Galar il y a fort longtemps poss\u00e8de le pouvoir d\u2019apaiser les c\u0153urs et de faire germer les plantes.",
             "abilities": [
                 273
-            ]
+            ],
+            "height": 11,
+            "weight": 77
         },
         {
             "name": "cavalier d'effroi",
@@ -41,7 +43,9 @@
             "description": "On raconte que gr\u00e2ce \u00e0 son aptitude \u00e0 voir le pass\u00e9 et le futur, il a sauv\u00e9 les cr\u00e9atures d\u2019une for\u00eat de la chute d\u2019une m\u00e9t\u00e9orite.",
             "abilities": [
                 197
-            ]
+            ],
+            "height": 11,
+            "weight": 77
         },
         {
             "name": "cavalier du froid",
@@ -61,7 +65,9 @@
             "description": "On raconte qu\u2019il \u00e9tait sans piti\u00e9 envers ceux qui lui barraient la route, mais qu\u2019il n\u2019h\u00e9sitait pas \u00e0 soigner leurs blessures apr\u00e8s le combat.",
             "abilities": [
                 197
-            ]
+            ],
+            "height": 11,
+            "weight": 77
         }
     ]
 }

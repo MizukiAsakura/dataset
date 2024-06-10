@@ -22,7 +22,9 @@
             "abilities": [
                 223,
                 270
-            ]
+            ],
+            "height": 45,
+            "weight": 7500
         },
         {
             "name": "originelle",
@@ -42,7 +44,9 @@
             "description": "Sa grande violence lui a valu d\u2019\u00eatre banni. Il observe les hommes en silence depuis le Monde Distorsion.",
             "abilities": [
                 162
-            ]
+            ],
+            "height": 45,
+            "weight": 7500
         }
     ]
 }

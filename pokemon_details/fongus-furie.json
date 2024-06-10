@@ -21,7 +21,9 @@
             "description": "Il ressemble vaguement \u00e0 un Pok\u00e9mon mi-dinosaure mi-champignon \u00e9voqu\u00e9 dans une revue douteuse.",
             "abilities": [
                 198
-            ]
+            ],
+            "height": 12,
+            "weight": 210
         }
     ]
 }

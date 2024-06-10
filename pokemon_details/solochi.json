@@ -21,7 +21,9 @@
             "description": "Comme il ne voit rien, il per\u00e7oit son environnement en mordant et en fon\u00e7ant \u00e0 tout va. Il est couvert de plaies.",
             "abilities": [
                 8
-            ]
+            ],
+            "height": 8,
+            "weight": 173
         }
     ]
 }

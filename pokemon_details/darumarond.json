@@ -21,7 +21,9 @@
             "abilities": [
                 8,
                 26
-            ]
+            ],
+            "height": 6,
+            "weight": 375
         },
         {
             "name": "galar",
@@ -41,7 +43,9 @@
             "abilities": [
                 8,
                 26
-            ]
+            ],
+            "height": 6,
+            "weight": 375
         }
     ]
 }

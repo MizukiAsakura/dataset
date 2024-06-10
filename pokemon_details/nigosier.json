@@ -21,7 +21,9 @@
             "description": "Tr\u00e8s glouton, il avale les Embrochet d\u2019une seule bouch\u00e9e, mais il lui arrive de se tromper et de tenter de gober un autre Pok\u00e9mon.",
             "abilities": [
                 89
-            ]
+            ],
+            "height": 8,
+            "weight": 180
         }
     ]
 }

@@ -22,7 +22,9 @@
             "abilities": [
                 158,
                 65
-            ]
+            ],
+            "height": 16,
+            "weight": 480
         },
         {
             "name": "tot\u00e9mique",
@@ -42,7 +44,9 @@
             "description": "Ce Pok\u00e9mon quitte son apparence de femme et rev\u00eat cette forme avant de se r\u00e9v\u00e9ler entre les nuages pour ch\u00e2tier ceux qui n\u00e9gligent les \u00eatres vivants. Sa col\u00e8re est implacable.",
             "abilities": [
                 106
-            ]
+            ],
+            "height": 16,
+            "weight": 480
         }
     ]
 }

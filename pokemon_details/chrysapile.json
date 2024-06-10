@@ -21,7 +21,9 @@
             "description": "Il passe son temps \u00e0 manger du terreau, tapi sans bouger sous les feuilles mortes. Gare \u00e0 la d\u00e9charge si vous lui marchez dessus !",
             "abilities": [
                 34
-            ]
+            ],
+            "height": 5,
+            "weight": 105
         }
     ]
 }

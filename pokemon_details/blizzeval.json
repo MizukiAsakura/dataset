@@ -20,7 +20,9 @@
             "description": "Violent au point de s\u2019emparer de tout ce qu\u2019il d\u00e9sire par la force, ce Pok\u00e9mon est capable de lib\u00e9rer un puissant air glacial de ses sabots.",
             "abilities": [
                 37
-            ]
+            ],
+            "height": 22,
+            "weight": 8000
         }
     ]
 }

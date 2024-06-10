@@ -20,7 +20,9 @@
             "description": "MONAFLEMIT passe toute sa journ\u00e9e allong\u00e9 \u00e0 paresser. Il mange l'herbe qu'il trouve \u00e0 port\u00e9e de sa main. Une fois qu'il a mang\u00e9 toute l'herbe autour de lui, ce POK\u00e9MON change d'endroit, \u00e0 contrec\u0153ur.",
             "abilities": [
                 1
-            ]
+            ],
+            "height": 20,
+            "weight": 1305
         }
     ]
 }

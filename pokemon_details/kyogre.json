@@ -20,7 +20,9 @@
             "description": "KYOGRE a le pouvoir de cr\u00e9er d'imposants nuages pluvieux capables de couvrir le ciel et de d\u00e9clencher des pluies torrentielles. Ce POK\u00e9MON a sauv\u00e9 des gens de la s\u00e9cheresse.",
             "abilities": [
                 76
-            ]
+            ],
+            "height": 45,
+            "weight": 3520
         }
     ]
 }

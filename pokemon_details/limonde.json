@@ -23,7 +23,9 @@
                 260,
                 98,
                 294
-            ]
+            ],
+            "height": 7,
+            "weight": 110
         },
         {
             "name": "galar",
@@ -43,7 +45,9 @@
             "description": "Il se cache dans la boue et attire l\u2019attention de ses proies avec son \u00e9trange bouche. Il les coince ensuite dans ses nageoires d\u2019acier dentel\u00e9es.",
             "abilities": [
                 178
-            ]
+            ],
+            "height": 7,
+            "weight": 110
         }
     ]
 }

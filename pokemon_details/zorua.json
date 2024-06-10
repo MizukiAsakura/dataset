@@ -20,7 +20,9 @@
             "description": "Si un enfant volubile a soudain perdu sa langue, m\u00e9fiez-vous ! C\u2019est peut-\u00eatre un Zorua qui a pris son apparence...",
             "abilities": [
                 148
-            ]
+            ],
+            "height": 7,
+            "weight": 125
         },
         {
             "name": "hisui",
@@ -40,7 +42,9 @@
             "description": "Si un enfant volubile a soudain perdu sa langue, m\u00e9fiez-vous ! C\u2019est peut-\u00eatre un Zorua qui a pris son apparence...",
             "abilities": [
                 148
-            ]
+            ],
+            "height": 7,
+            "weight": 125
         }
     ]
 }

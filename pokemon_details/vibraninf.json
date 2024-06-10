@@ -21,7 +21,9 @@
             "description": "Pour mettre ses proies K.O., VIBRANINF envoie des ultrasons en faisant vibrer ses deux ailes. Les ondes sonores de ce POK\u00e9MON sont si puissantes qu'elles peuvent d\u00e9clencher des maux de t\u00eate chez les gens.",
             "abilities": [
                 162
-            ]
+            ],
+            "height": 11,
+            "weight": 153
         }
     ]
 }

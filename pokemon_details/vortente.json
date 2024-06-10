@@ -20,7 +20,9 @@
             "description": "Il attire sa proie avec sa salive odorante avant de la croquer. Il lui faut une journ\u00e9e pour l'avaler. On dirait une plante, pendu aux branches avec ses tentacules. Il attend sa proie la bouche ouverte.",
             "abilities": [
                 162
-            ]
+            ],
+            "height": 14,
+            "weight": 270
         }
     ]
 }

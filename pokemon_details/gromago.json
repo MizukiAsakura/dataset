@@ -21,7 +21,9 @@
             "description": "Son corps robuste est compos\u00e9 de pi\u00e8ces empil\u00e9es. Il accable ses adversaires en leur lan\u00e7ant des rafales de pi\u00e8ces.",
             "abilities": [
                 70
-            ]
+            ],
+            "height": 12,
+            "weight": 300
         }
     ]
 }

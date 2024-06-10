@@ -21,7 +21,9 @@
             "description": "SOLAROC est une nouvelle esp\u00e8ce de POK\u00e9MON. On raconte qu'il serait tomb\u00e9 de l'espace. Il flotte dans les airs et se d\u00e9place silencieusement. Au combat, ce POK\u00e9MON lib\u00e8re une lumi\u00e8re intense.",
             "abilities": [
                 162
-            ]
+            ],
+            "height": 12,
+            "weight": 1540
         }
     ]
 }

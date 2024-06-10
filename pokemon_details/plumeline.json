@@ -21,7 +21,9 @@
             "description": "Il envo\u00fbte ses ennemis avec une danse fougueuse, et profite de leur inattention pour les noyer sous un torrent de flammes.",
             "abilities": [
                 84
-            ]
+            ],
+            "height": 6,
+            "weight": 34
         },
         {
             "name": "pom-pom",
@@ -41,7 +43,9 @@
             "description": "Il envo\u00fbte ses ennemis avec une danse fougueuse, et profite de leur inattention pour les noyer sous un torrent de flammes.",
             "abilities": [
                 84
-            ]
+            ],
+            "height": 6,
+            "weight": 34
         },
         {
             "name": "hula",
@@ -61,7 +65,9 @@
             "description": "Il envo\u00fbte ses ennemis avec une danse fougueuse, et profite de leur inattention pour les noyer sous un torrent de flammes.",
             "abilities": [
                 84
-            ]
+            ],
+            "height": 6,
+            "weight": 34
         },
         {
             "name": "buyo",
@@ -81,7 +87,9 @@
             "description": "Il envo\u00fbte ses ennemis avec une danse fougueuse, et profite de leur inattention pour les noyer sous un torrent de flammes.",
             "abilities": [
                 84
-            ]
+            ],
+            "height": 6,
+            "weight": 34
         }
     ]
 }

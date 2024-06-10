@@ -21,7 +21,9 @@
             "description": "Ce Pok\u00e9mon peut contr\u00f4ler 100 tonnes de neige tomb\u00e9e. Il s'amuse en sautant joyeusement dans les avalanches qu'il provoque.",
             "abilities": [
                 107
-            ]
+            ],
+            "height": 19,
+            "weight": 1522
         }
     ]
 }

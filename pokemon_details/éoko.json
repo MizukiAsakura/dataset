@@ -20,7 +20,9 @@
             "description": "Lorsqu'il y a beaucoup de vent, EOKO pousse des cris, accroch\u00e9 \u00e0 une branche ou \u00e0 un auvent par une ventouse plac\u00e9e sur sa t\u00eate. Ce POK\u00e9MON attrape des BAIES avec sa longue queue pour les manger.",
             "abilities": [
                 166
-            ]
+            ],
+            "height": 6,
+            "weight": 10
         }
     ]
 }

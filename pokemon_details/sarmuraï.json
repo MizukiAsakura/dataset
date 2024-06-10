@@ -21,7 +21,9 @@
             "description": "Il ne recule devant rien pour gagner. Il profite de l\u2019inattention de son adversaire pour lui administrer un coup d\u00e9cisif de ses petites griffes ant\u00e9rieures.",
             "abilities": [
                 242
-            ]
+            ],
+            "height": 20,
+            "weight": 1080
         }
     ]
 }

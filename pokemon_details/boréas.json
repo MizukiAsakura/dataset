@@ -21,7 +21,9 @@
             "abilities": [
                 116,
                 5
-            ]
+            ],
+            "height": 15,
+            "weight": 630
         },
         {
             "name": "tot\u00e9mique",
@@ -40,7 +42,9 @@
             "description": "Le bas de son corps est entour\u00e9 d\u2019une masse d\u2019\u00e9nergie semblable \u00e0 un nuage. Il vole dans le ciel \u00e0 300 km/h.",
             "abilities": [
                 241
-            ]
+            ],
+            "height": 15,
+            "weight": 630
         }
     ]
 }

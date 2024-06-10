@@ -21,7 +21,9 @@
             "description": "Il peut d\u00e9celer les qualit\u00e9s r\u00e9galiennes dans les \u00e2mes humaines. On raconte que celui ou celle qui obtient sa faveur deviendra \u00e0 coup s\u00fbr roi ou reine.",
             "abilities": [
                 87
-            ]
+            ],
+            "height": 17,
+            "weight": 530
         }
     ]
 }

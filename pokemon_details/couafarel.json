@@ -20,7 +20,9 @@
             "description": "Si son abondante fourrure gagne \u00e0 \u00eatre toilett\u00e9e, ce n\u2019est pas qu\u2019une question de style. En effet, cela lui permet \u00e9galement de se mouvoir plus librement.",
             "abilities": [
                 279
-            ]
+            ],
+            "height": 12,
+            "weight": 280
         }
     ]
 }

@@ -21,7 +21,9 @@
             "description": "On suppose que cette myst\u00e9rieuse forme de vie est une Ultra-Chim\u00e8re. Si un mur se met en branle et vous attaque sans pr\u00e9venir, c\u2019est lui.",
             "abilities": [
                 41
-            ]
+            ],
+            "height": 55,
+            "weight": 8200
         }
     ]
 }

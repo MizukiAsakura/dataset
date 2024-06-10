@@ -21,7 +21,9 @@
             "description": "Selon une l\u00e9gende d\u2019Unys, Terrakium se serait jadis dress\u00e9 contre les humains pour prot\u00e9ger les Pok\u00e9mon.",
             "abilities": [
                 59
-            ]
+            ],
+            "height": 19,
+            "weight": 2600
         }
     ]
 }

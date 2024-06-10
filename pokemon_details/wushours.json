@@ -20,7 +20,9 @@
             "description": "Il suit un entra\u00eenement rigoureux pour parfaire ses techniques. La forme de son \u00e9volution d\u00e9pend des capacit\u00e9s qu\u2019il a assimil\u00e9es.",
             "abilities": [
                 26
-            ]
+            ],
+            "height": 6,
+            "weight": 120
         }
     ]
 }

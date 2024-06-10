@@ -20,7 +20,9 @@
             "description": "On l\u2019appelle \u00ab l\u2019\u00eatre de la volont\u00e9 \u00bb. Il dort au fond d\u2019un lac et maintient l\u2019\u00e9quilibre du monde.",
             "abilities": [
                 162
-            ]
+            ],
+            "height": 3,
+            "weight": 3
         }
     ]
 }

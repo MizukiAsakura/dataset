@@ -22,7 +22,9 @@
             "abilities": [
                 282,
                 229
-            ]
+            ],
+            "height": 15,
+            "weight": 400
         },
         {
             "name": "sashanobi",
@@ -42,7 +44,9 @@
             "description": "Il transforme des jets d\u2019eau sous pression en redoutables shuriken. Une fois lanc\u00e9s, ils tournent si vite qu\u2019ils peuvent m\u00eame couper le m\u00e9tal.",
             "abilities": [
                 266
-            ]
+            ],
+            "height": 15,
+            "weight": 400
         }
     ]
 }

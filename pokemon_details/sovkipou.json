@@ -21,7 +21,9 @@
             "description": "Il vit aussi bien en bord de mer que dans les fonds marins. V\u00e9ritable aspirateur sur pattes, il avale n\u2019importe quelle nourriture, m\u00eame pourrie.",
             "abilities": [
                 109
-            ]
+            ],
+            "height": 5,
+            "weight": 120
         }
     ]
 }

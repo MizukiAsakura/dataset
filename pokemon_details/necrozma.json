@@ -20,7 +20,9 @@
             "description": "Une cr\u00e9ature endormie sous terre. On suppose qu\u2019il s\u2019agit d\u2019une Ultra-Chim\u00e8re et qu\u2019elle serait venue d\u2019un autre monde, il y a bien longtemps.",
             "abilities": [
                 226
-            ]
+            ],
+            "height": 24,
+            "weight": 2300
         },
         {
             "name": "crini\u00e8re du couchant",
@@ -40,7 +42,9 @@
             "description": "La forme que Necrozma prend lorsqu'il absorbe la lumi\u00e8re de Solgaleo. Il bondit sur ses ennemis et leur ass\u00e8ne des coups de griffes.",
             "abilities": [
                 226
-            ]
+            ],
+            "height": 24,
+            "weight": 2300
         },
         {
             "name": "ailes de l'aurore",
@@ -60,7 +64,9 @@
             "description": "La forme que Necrozma prend lorsqu'il absorbe la lumi\u00e8re de Lunala. Il attrape et d\u00e9chiquette ses adversaires \u00e0 l'aide de ses longues griffes.",
             "abilities": [
                 226
-            ]
+            ],
+            "height": 24,
+            "weight": 2300
         },
         {
             "name": "ultra",
@@ -80,7 +86,9 @@
             "description": "Necrozma prend cette forme quand il a absorb\u00e9 une quantit\u00e9 ph\u00e9nom\u00e9nale d'\u00e9nergie lumineuse. Des rayons laser \u00e9manent de tout son corps.",
             "abilities": [
                 50
-            ]
+            ],
+            "height": 24,
+            "weight": 2300
         }
     ]
 }

@@ -21,7 +21,9 @@
             "description": "Ce Pok\u00e9mon serait capable de prendre une forme encore plus puissante quand il se bat contre un ennemi qui menace l\u2019\u00e9cosyst\u00e8me.",
             "abilities": [
                 28
-            ]
+            ],
+            "height": 50,
+            "weight": 3050
         }
     ]
 }

@@ -20,7 +20,9 @@
             "description": "On l\u2019appelle \u00ab l\u2019\u00eatre de l\u2019\u00e9motion \u00bb. Il a enseign\u00e9 aux \u00eatres humains la douleur de la tristesse et la noblesse de la joie.",
             "abilities": [
                 162
-            ]
+            ],
+            "height": 3,
+            "weight": 3
         }
     ]
 }

@@ -20,7 +20,9 @@
             "description": "Dot\u00e9 d\u2019un grand sens de la camaraderie, ce Pok\u00e9mon peut cr\u00e9er des illusions effrayantes pour prot\u00e9ger son habitat et ses cong\u00e9n\u00e8res.",
             "abilities": [
                 148
-            ]
+            ],
+            "height": 16,
+            "weight": 811
         },
         {
             "name": "hisui",
@@ -40,7 +42,9 @@
             "description": "Dot\u00e9 d\u2019un grand sens de la camaraderie, ce Pok\u00e9mon peut cr\u00e9er des illusions effrayantes pour prot\u00e9ger son habitat et ses cong\u00e9n\u00e8res.",
             "abilities": [
                 148
-            ]
+            ],
+            "height": 16,
+            "weight": 811
         }
     ]
 }

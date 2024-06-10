@@ -20,7 +20,9 @@
             "description": "L'ADN d'un virus extraterrestre entama une mutation non attendue suite \u00e0 une exposition \u00e0 un rayon laser, ce qui cr\u00e9a DEOXYS. L'organe cristallin se trouvant sur la poitrine de ce POK\u00e9MON semble \u00eatre son cerveau.",
             "abilities": [
                 223
-            ]
+            ],
+            "height": 17,
+            "weight": 608
         },
         {
             "name": "attaque",
@@ -39,7 +41,9 @@
             "description": "L'ADN d'un virus extraterrestre entama une mutation non attendue suite \u00e0 une exposition \u00e0 un rayon laser, ce qui cr\u00e9a DEOXYS. L'organe cristallin se trouvant sur la poitrine de ce POK\u00e9MON semble \u00eatre son cerveau.",
             "abilities": [
                 223
-            ]
+            ],
+            "height": 17,
+            "weight": 608
         },
         {
             "name": "d\u00e9fense",
@@ -58,7 +62,9 @@
             "description": "L'ADN d'un virus extraterrestre entama une mutation non attendue suite \u00e0 une exposition \u00e0 un rayon laser, ce qui cr\u00e9a DEOXYS. L'organe cristallin se trouvant sur la poitrine de ce POK\u00e9MON semble \u00eatre son cerveau.",
             "abilities": [
                 223
-            ]
+            ],
+            "height": 17,
+            "weight": 608
         },
         {
             "name": "vitesse",
@@ -77,7 +83,9 @@
             "description": "L'ADN d'un virus extraterrestre entama une mutation non attendue suite \u00e0 une exposition \u00e0 un rayon laser, ce qui cr\u00e9a DEOXYS. L'organe cristallin se trouvant sur la poitrine de ce POK\u00e9MON semble \u00eatre son cerveau.",
             "abilities": [
                 223
-            ]
+            ],
+            "height": 17,
+            "weight": 608
         }
     ]
 }

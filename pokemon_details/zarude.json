@@ -21,7 +21,9 @@
             "description": "Lorsque ses lianes se d\u00e9tachent de son corps, elles fertilisent le sol et favorisent la croissance des plantes de la for\u00eat.",
             "abilities": [
                 118
-            ]
+            ],
+            "height": 18,
+            "weight": 700
         }
     ]
 }

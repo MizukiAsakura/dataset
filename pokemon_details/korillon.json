@@ -20,7 +20,9 @@
             "description": "Il \u00e9met des cris en agitant l'orbe \u00e0 l'arri\u00e8re de sa gorge. Il avance par bonds d\u00e9sordonn\u00e9s. Il produit un bruit de sonnerie \u00e0 chaque bond. Il assourdit l'ennemi avec ses cris \u00e0 haute fr\u00e9quence.",
             "abilities": [
                 162
-            ]
+            ],
+            "height": 2,
+            "weight": 6
         }
     ]
 }

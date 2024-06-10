@@ -20,7 +20,9 @@
             "description": "La carapace prot\u00e9geant ce Pok\u00e9mon est dure comme du m\u00e9tal. Chrysacier ne bouge pas beaucoup. Il reste immobile pour pr\u00e9parer les organes \u00e0 l'int\u00e9rieur de sa carapace en vue d'une \u00e9volution future.",
             "abilities": [
                 186
-            ]
+            ],
+            "height": 7,
+            "weight": 99
         }
     ]
 }

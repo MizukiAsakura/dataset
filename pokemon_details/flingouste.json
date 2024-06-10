@@ -20,7 +20,9 @@
             "description": "Il est capable de transformer son corps en canon \u00e0 eau, gr\u00e2ce \u00e0 la combustion d\u2019un gaz interne. \u00c0 bout portant, il peut r\u00e9duire un rocher en miettes.",
             "abilities": [
                 175
-            ]
+            ],
+            "height": 5,
+            "weight": 83
         }
     ]
 }

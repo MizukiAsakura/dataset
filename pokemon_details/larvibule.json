@@ -20,7 +20,9 @@
             "description": "Ses mandibules peuvent briser de tr\u00e8s grosses branches. M\u00eame Minisange, son ennemi naturel, s\u2019enfuit \u00e0 tire-d\u2019aile devant lui.",
             "abilities": [
                 111
-            ]
+            ],
+            "height": 4,
+            "weight": 44
         }
     ]
 }

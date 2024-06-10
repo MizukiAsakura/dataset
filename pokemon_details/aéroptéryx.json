@@ -21,7 +21,9 @@
             "description": "Bien qu\u2019ayant enfin acquis la capacit\u00e9 de voler, ce Pok\u00e9mon pr\u00e9f\u00e9rait bien souvent courir sur le sol, \u00e0 une vitesse moyenne de 40 km/h.",
             "abilities": [
                 88
-            ]
+            ],
+            "height": 14,
+            "weight": 320
         }
     ]
 }

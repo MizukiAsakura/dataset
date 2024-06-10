@@ -20,7 +20,9 @@
             "description": "Il peut d\u00e9composer les toxines pr\u00e9sentes dans l\u2019air pour transformer instantan\u00e9ment des terres arides en champs de fleurs.",
             "abilities": [
                 174
-            ]
+            ],
+            "height": 2,
+            "weight": 21
         },
         {
             "name": "c\u00e9leste",
@@ -40,7 +42,9 @@
             "description": "Il peut d\u00e9composer les toxines pr\u00e9sentes dans l\u2019air pour transformer instantan\u00e9ment des terres arides en champs de fleurs.",
             "abilities": [
                 252
-            ]
+            ],
+            "height": 2,
+            "weight": 21
         }
     ]
 }

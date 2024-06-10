@@ -21,7 +21,9 @@
             "description": "Il vit dans la couche d\u2019ozone, o\u00f9 des Pok\u00e9mon plus forts que lui cherchent \u00e0 le manger. Il tombe \u00e0 terre lorsqu\u2019il tente de s\u2019enfuir.",
             "abilities": [
                 42
-            ]
+            ],
+            "height": 3,
+            "weight": 400
         },
         {
             "name": "noyau",
@@ -41,7 +43,9 @@
             "description": "Il vit dans la couche d\u2019ozone, o\u00f9 des Pok\u00e9mon plus forts que lui cherchent \u00e0 le manger. Il tombe \u00e0 terre lorsqu\u2019il tente de s\u2019enfuir.",
             "abilities": [
                 42
-            ]
+            ],
+            "height": 3,
+            "weight": 400
         }
     ]
 }

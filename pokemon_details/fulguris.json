@@ -22,7 +22,9 @@
             "abilities": [
                 116,
                 5
-            ]
+            ],
+            "height": 15,
+            "weight": 610
         },
         {
             "name": "tot\u00e9mique",
@@ -42,7 +44,9 @@
             "description": "Il vole dans le ciel d\u2019Unys et fait tomber des \u00e9clairs, provoquant des incendies qui font sa mauvaise r\u00e9putation.",
             "abilities": [
                 3
-            ]
+            ],
+            "height": 15,
+            "weight": 610
         }
     ]
 }

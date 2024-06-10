@@ -22,7 +22,9 @@
             "abilities": [
                 223,
                 243
-            ]
+            ],
+            "height": 17,
+            "weight": 554
         },
         {
             "name": "galar",
@@ -42,7 +44,9 @@
             "description": "Artikodin est un Pok\u00e9mon Oiseau l\u00e9gendaire qui peut contr\u00f4ler la glace. Le battement de ses ailes g\u00e8le l'air tout autour de lui. C'est pourquoi on dit que lorsque ce Pok\u00e9mon vole, il va neiger.",
             "abilities": [
                 33
-            ]
+            ],
+            "height": 17,
+            "weight": 554
         }
     ]
 }

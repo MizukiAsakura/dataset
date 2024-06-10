@@ -21,7 +21,9 @@
             "abilities": [
                 4,
                 294
-            ]
+            ],
+            "height": 25,
+            "weight": 3100
         }
     ]
 }

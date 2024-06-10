@@ -21,7 +21,9 @@
             "description": "Ce Pok\u00e9mon est connu pour jouer des tours en s\u2019infiltrant dans des appareils \u00e9lectriques. Son corps est fait de plasma.",
             "abilities": [
                 162
-            ]
+            ],
+            "height": 3,
+            "weight": 3
         },
         {
             "name": "chaleur",
@@ -41,7 +43,9 @@
             "description": "Ce Pok\u00e9mon est connu pour jouer des tours en s\u2019infiltrant dans des appareils \u00e9lectriques. Son corps est fait de plasma.",
             "abilities": [
                 162
-            ]
+            ],
+            "height": 3,
+            "weight": 3
         },
         {
             "name": "lavage",
@@ -61,7 +65,9 @@
             "description": "Ce Pok\u00e9mon est connu pour jouer des tours en s\u2019infiltrant dans des appareils \u00e9lectriques. Son corps est fait de plasma.",
             "abilities": [
                 162
-            ]
+            ],
+            "height": 3,
+            "weight": 3
         },
         {
             "name": "froid",
@@ -81,7 +87,9 @@
             "description": "Ce Pok\u00e9mon est connu pour jouer des tours en s\u2019infiltrant dans des appareils \u00e9lectriques. Son corps est fait de plasma.",
             "abilities": [
                 162
-            ]
+            ],
+            "height": 3,
+            "weight": 3
         },
         {
             "name": "h\u00e9lice",
@@ -101,7 +109,9 @@
             "description": "Ce Pok\u00e9mon est connu pour jouer des tours en s\u2019infiltrant dans des appareils \u00e9lectriques. Son corps est fait de plasma.",
             "abilities": [
                 162
-            ]
+            ],
+            "height": 3,
+            "weight": 3
         },
         {
             "name": "tonte",
@@ -121,7 +131,9 @@
             "description": "Ce Pok\u00e9mon est connu pour jouer des tours en s\u2019infiltrant dans des appareils \u00e9lectriques. Son corps est fait de plasma.",
             "abilities": [
                 162
-            ]
+            ],
+            "height": 3,
+            "weight": 3
         }
     ]
 }

@@ -21,7 +21,9 @@
             "description": "En \u00e9voluant, Monorpale se divise en deux \u00e9p\u00e9es qui communiquent par t\u00e9l\u00e9pathie pour mieux d\u00e9couper leur adversaire en morceaux.",
             "abilities": [
                 16
-            ]
+            ],
+            "height": 8,
+            "weight": 45
         }
     ]
 }

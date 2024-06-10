@@ -20,7 +20,9 @@
             "description": "ARMULYS s'accroche \u00e0 une branche d'arbre avec de la soie pour \u00e9viter de tomber. Ce POK\u00e9MON y reste tranquillement en attendant son \u00e9volution. Il regarde l'ext\u00e9rieur \u00e0 travers un petit trou dans son cocon de soie.",
             "abilities": [
                 186
-            ]
+            ],
+            "height": 6,
+            "weight": 100
         }
     ]
 }

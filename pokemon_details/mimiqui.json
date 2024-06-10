@@ -21,7 +21,9 @@
             "description": "Une bourrasque a un jour permis \u00e0 un Dresseur de voir sous le d\u00e9guisement de Mimiqui. Il est mort le soir m\u00eame dans d\u2019atroces souffrances.",
             "abilities": [
                 115
-            ]
+            ],
+            "height": 2,
+            "weight": 7
         }
     ]
 }

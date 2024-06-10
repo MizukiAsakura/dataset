@@ -21,7 +21,9 @@
             "description": "La ranc\u0153ur d'un \u00eatre humain puni pour avoir not\u00e9 les m\u00e9faits d'un roi sur des tablettes en bois s'est m\u00eal\u00e9e \u00e0 des feuilles mortes et a pris vie.",
             "abilities": [
                 38
-            ]
+            ],
+            "height": 15,
+            "weight": 742
         }
     ]
 }

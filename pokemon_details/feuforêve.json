@@ -20,7 +20,9 @@
             "description": "FEUFOREVE effraie les gens en poussant un cri \u00e0 faire froid dans le dos, sorte de lamentation. Le POK\u00e9MON utilise ses sph\u00e8res rouges pour absorber les sentiments de terreur de ses ennemis et s'en nourrir.",
             "abilities": [
                 162
-            ]
+            ],
+            "height": 7,
+            "weight": 10
         }
     ]
 }
