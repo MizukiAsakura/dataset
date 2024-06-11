@@ -19,7 +19,12 @@
             },
             "description": "Si un enfant volubile a soudain perdu sa langue, m\u00e9fiez-vous ! C\u2019est peut-\u00eatre un Zorua qui a pris son apparence...",
             "abilities": [
-                148
+                {
+                    "id": 148,
+                    "name": "Illusion",
+                    "description": "Lorsqu'il entre en combat, le Pok\u00e9mon prend l'apparence du dernier Pok\u00e9mon de l'\u00e9quipe.",
+                    "isHidden": false
+                }
             ],
             "height": 7,
             "weight": 125
@@ -41,7 +46,12 @@
             },
             "description": "Si un enfant volubile a soudain perdu sa langue, m\u00e9fiez-vous ! C\u2019est peut-\u00eatre un Zorua qui a pris son apparence...",
             "abilities": [
-                148
+                {
+                    "id": 148,
+                    "name": "Illusion",
+                    "description": "Lorsqu'il entre en combat, le Pok\u00e9mon prend l'apparence du dernier Pok\u00e9mon de l'\u00e9quipe.",
+                    "isHidden": false
+                }
             ],
             "height": 7,
             "weight": 125

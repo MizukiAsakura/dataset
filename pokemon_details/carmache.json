@@ -20,8 +20,18 @@
             },
             "description": "Selon une croyance ancienne, on peut utiliser ses \u00e9cailles pour gu\u00e9rir les maladies incurables. Il creuse en qu\u00eate de gemmes dont il d\u00e9core son nid. Bien des voleurs convoitent son butin.",
             "abilities": [
-                294,
-                202
+                {
+                    "id": 294,
+                    "name": "Voile Sable",
+                    "description": "Augmente l'esquive de 20% lors d'une temp\u00eate de sable et immunise contre ses d\u00e9g\u00e2ts.",
+                    "isHidden": false
+                },
+                {
+                    "id": 202,
+                    "name": "Peau Dure",
+                    "description": "Fait perdre 1/8 des PV du Pok\u00e9mon adverse ayant lanc\u00e9 une attaque de contact",
+                    "isHidden": true
+                }
             ],
             "height": 14,
             "weight": 560

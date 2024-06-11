@@ -20,9 +20,24 @@
             },
             "description": "Il abat ses proies \u00e0 l\u2019aide de techniques \u00e0 faire p\u00e2lir d\u2019envie des combattants professionnels, puis les emporte sous les bras dans sa tani\u00e8re.",
             "abilities": [
-                43,
-                169,
-                158
+                {
+                    "id": 43,
+                    "name": "Boule de Poils",
+                    "description": "Divise par 2 les d\u00e9g\u00e2ts des capacit\u00e9s directes mais les multiplie par 2 si elles sont de type Feu.",
+                    "isHidden": false
+                },
+                {
+                    "id": 169,
+                    "name": "Maladresse",
+                    "description": "Emp\u00eache l'utilisation et/ou ignore l'effet des objets tenus en combat.",
+                    "isHidden": false
+                },
+                {
+                    "id": 158,
+                    "name": "Joli Sourire",
+                    "description": "A 30% de chance de provoquer l'attirance du Pok\u00e9mon adverse ayant attaqu\u00e9.",
+                    "isHidden": true
+                }
             ],
             "height": 21,
             "weight": 1350

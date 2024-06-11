@@ -19,8 +19,18 @@
             },
             "description": "Ce Pok\u00e9mon est assez costaud pour porter des charges de cinq tonnes sans probl\u00e8me. Il utilise sa trompe pour creuser le sol.",
             "abilities": [
-                248,
-                140
+                {
+                    "id": 248,
+                    "name": "Sans Limite",
+                    "description": "Augmente de 30% la puissance des attaques pouvant avoir un effet secondaire. L'effet secondaire est annul\u00e9.",
+                    "isHidden": false
+                },
+                {
+                    "id": 140,
+                    "name": "Heavy Metal",
+                    "description": "Double la masse du Pok\u00e9mon.",
+                    "isHidden": true
+                }
             ],
             "height": 12,
             "weight": 1000

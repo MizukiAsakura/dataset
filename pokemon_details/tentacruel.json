@@ -20,9 +20,24 @@
             },
             "description": "Tentacruel a deux gros globes sur la t\u00eate. Les globes s'illuminent lorsqu'il va envoyer un violent rayon d'ultrasons. Lorsque ce Pok\u00e9mon se d\u00e9cha\u00eene, il cr\u00e9\u00e9 d'\u00e9normes vagues autour de lui.",
             "abilities": [
-                73,
-                261,
-                83
+                {
+                    "id": 73,
+                    "name": "Corps Sain",
+                    "description": "Emp\u00eache la diminution de statistiques par le Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 261,
+                    "name": "Suintement",
+                    "description": "Les attaques absorbantes du Pok\u00e9mon adverse lui font perdre des PV.",
+                    "isHidden": false
+                },
+                {
+                    "id": 83,
+                    "name": "Cuvette",
+                    "description": "R\u00e9g\u00e9n\u00e8re 1/16e des PV par temps de pluie.",
+                    "isHidden": true
+                }
             ],
             "height": 16,
             "weight": 550

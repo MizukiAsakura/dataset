@@ -20,8 +20,18 @@
             },
             "description": "NINJASK se d\u00e9place tellement vite qu'il est impossible de le voir. En revanche, on entend clairement son cri. On a pendant tr\u00e8s longtemps cru que ce POK\u00e9MON \u00e9tait invisible.",
             "abilities": [
-                287,
-                154
+                {
+                    "id": 287,
+                    "name": "Turbo",
+                    "description": "La vitesse du Pok\u00e9mon augmente \u00e0 chaque tour.",
+                    "isHidden": false
+                },
+                {
+                    "id": 154,
+                    "name": "Infiltration",
+                    "description": "Emp\u00eache les attaques de protection adverses tels que Protection ou Mur Lumi\u00e8re de fonctionner. N'influe pas sur D\u00e9tection et Abri.",
+                    "isHidden": true
+                }
             ],
             "height": 8,
             "weight": 120

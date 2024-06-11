@@ -19,8 +19,18 @@
             },
             "description": "Il peut terrasser ses ennemis d\u2019un coup de la lame ench\u00e2ss\u00e9e dans son armure, et les faire taire d\u2019un seul regard.",
             "abilities": [
-                282,
-                66
+                {
+                    "id": 282,
+                    "name": "Torrent",
+                    "description": "Augmente la puissance des attaques de type Eau de 50% lorsque le Pok\u00e9mon a moins d'1/3 de ses PV totaux.",
+                    "isHidden": false
+                },
+                {
+                    "id": 66,
+                    "name": "Coque Armure",
+                    "description": "Annule les chances de coups critiques du Pok\u00e9mon ennemi.",
+                    "isHidden": true
+                }
             ],
             "height": 15,
             "weight": 946
@@ -42,8 +52,18 @@
             },
             "description": "Il peut terrasser ses ennemis d\u2019un coup de la lame ench\u00e2ss\u00e9e dans son armure, et les faire taire d\u2019un seul regard.",
             "abilities": [
-                282,
-                152
+                {
+                    "id": 282,
+                    "name": "Torrent",
+                    "description": "Augmente la puissance des attaques de type Eau de 50% lorsque le Pok\u00e9mon a moins d'1/3 de ses PV totaux.",
+                    "isHidden": false
+                },
+                {
+                    "id": 152,
+                    "name": "Incisif",
+                    "description": "Augmente la puissance des capacit\u00e9s tranchantes.",
+                    "isHidden": true
+                }
             ],
             "height": 15,
             "weight": 582

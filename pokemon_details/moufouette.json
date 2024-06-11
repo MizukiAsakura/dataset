@@ -20,9 +20,24 @@
             },
             "description": "Il se prot\u00e8ge en expulsant un fluide nocif par son derri\u00e8re. La puanteur dure 24 heures. Son derri\u00e8re projette un fluide puant et f\u00e9tide qu'il utilise pour repousser l'ennemi.",
             "abilities": [
-                230,
-                39,
-                240
+                {
+                    "id": 230,
+                    "name": "Puanteur",
+                    "description": "Les attaques physiques ont 10% d'apeurer la cible. Uniquement \u00e0 partir de la 5e g\u00e9n\u00e9ration.",
+                    "isHidden": false
+                },
+                {
+                    "id": 39,
+                    "name": "Boom Final",
+                    "description": "Enl\u00e8ve 1/4 des PV totaux du Pok\u00e9mon ennemi mettant K.O. par contact.",
+                    "isHidden": false
+                },
+                {
+                    "id": 240,
+                    "name": "Regard Vif",
+                    "description": "Emp\u00eache la perte de pr\u00e9cision.",
+                    "isHidden": true
+                }
             ],
             "height": 4,
             "weight": 192

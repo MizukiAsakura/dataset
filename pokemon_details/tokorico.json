@@ -20,8 +20,18 @@
             },
             "description": "Bien qu\u2019on le consid\u00e8re comme une divinit\u00e9 protectrice, il peut se montrer cruel envers les humains et les Pok\u00e9mon qui l\u2019ont offens\u00e9.",
             "abilities": [
-                79,
-                270
+                {
+                    "id": 79,
+                    "name": "Cr\u00e9a-\u00c9lec",
+                    "description": "Pose un Champ \u00c9lectrifi\u00e9 qui augmente la puissance des attaques \u00c9lectrik et emp\u00eache le sommeil.",
+                    "isHidden": false
+                },
+                {
+                    "id": 270,
+                    "name": "T\u00e9l\u00e9pathe",
+                    "description": "Anticipe et \u00e9vite les attaques des alli\u00e9s en Combat Double ou triple.",
+                    "isHidden": true
+                }
             ],
             "height": 18,
             "weight": 205

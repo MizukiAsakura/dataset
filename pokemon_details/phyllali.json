@@ -19,8 +19,18 @@
             },
             "description": "Les habitants de Galar adorent l\u2019odeur unique qui se d\u00e9gage de ses feuilles, aussi entrent-elles dans la composition d\u2019un parfum tr\u00e8s populaire.",
             "abilities": [
-                118,
-                56
+                {
+                    "id": 118,
+                    "name": "Feuille Garde",
+                    "description": "Soigne les alt\u00e9rations d'\u00e9tat par temps ensoleill\u00e9.",
+                    "isHidden": false
+                },
+                {
+                    "id": 56,
+                    "name": "Chlorophylle",
+                    "description": "Augmente la vitesse au soleil.",
+                    "isHidden": true
+                }
             ],
             "height": 10,
             "weight": 255

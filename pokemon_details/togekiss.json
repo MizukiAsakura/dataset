@@ -20,9 +20,24 @@
             },
             "description": "On dit que ce Pok\u00e9mon dispense ses bienfaits, ce qui explique pourquoi il est repr\u00e9sent\u00e9 sur les porte-bonheurs depuis fort longtemps.",
             "abilities": [
-                252,
-                8,
-                51
+                {
+                    "id": 252,
+                    "name": "S\u00e9r\u00e9nit\u00e9",
+                    "description": "Double les chances de r\u00e9ussite des effets secondaires des attaques.",
+                    "isHidden": false
+                },
+                {
+                    "id": 8,
+                    "name": "Agitation",
+                    "description": "Augmente l'attaque de 50% mais baisse la pr\u00e9cision de 20%.",
+                    "isHidden": false
+                },
+                {
+                    "id": 51,
+                    "name": "Chanceux",
+                    "description": "Double les chances de porter un coup critique.",
+                    "isHidden": true
+                }
             ],
             "height": 15,
             "weight": 380

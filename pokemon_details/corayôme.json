@@ -19,8 +19,18 @@
             },
             "description": "Ceux qui ont le malheur de toucher le corps spirituel qui prot\u00e8ge son noyau se retrouveront immobilis\u00e9s, comme chang\u00e9s en pierre.",
             "abilities": [
-                24,
-                69
+                {
+                    "id": 24,
+                    "name": "Armurouill\u00e9e",
+                    "description": "Le Pok\u00e9mon touch\u00e9 par une attaque physique voit sa d\u00e9fense diminu\u00e9e d'un niveau et sa vitesse augment\u00e9e de deux.",
+                    "isHidden": false
+                },
+                {
+                    "id": 69,
+                    "name": "Corps Condamn\u00e9",
+                    "description": "Lorsque le Pok\u00e9mon est directement touch\u00e9 par une attaque, l'assaillant et lui tomberont K.O. dans trois tours, \u00e0 moins qu'ils ne soient remplac\u00e9s entre temps.",
+                    "isHidden": true
+                }
             ],
             "height": 10,
             "weight": 4

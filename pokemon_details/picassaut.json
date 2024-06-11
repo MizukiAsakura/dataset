@@ -20,9 +20,24 @@
             },
             "description": "Il creuse les arbres \u00e0 raison de seize coups de bec par seconde. Le trou creus\u00e9 lui sert ensuite \u00e0 stocker des provisions ou \u00e0 faire son nid.",
             "abilities": [
-                240,
-                187,
-                235
+                {
+                    "id": 240,
+                    "name": "Regard Vif",
+                    "description": "Emp\u00eache la perte de pr\u00e9cision.",
+                    "isHidden": false
+                },
+                {
+                    "id": 187,
+                    "name": "Multi-Coups",
+                    "description": "Utilise toujours le nombre de coups maximum d'une attaque.",
+                    "isHidden": false
+                },
+                {
+                    "id": 235,
+                    "name": "Ramassage",
+                    "description": "Donne une chance au Pok\u00e9mon de ramasser un objet apr\u00e8s un combat.",
+                    "isHidden": true
+                }
             ],
             "height": 3,
             "weight": 12

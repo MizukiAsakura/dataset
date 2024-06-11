@@ -19,9 +19,24 @@
             },
             "description": "Arcanin est c\u00e9l\u00e8bre pour son extraordinaire vitesse. On le dit capable de parcourir plus de 10 000 km en 24h. Le feu qui fait rage \u00e0 l'int\u00e9rieur du corps de ce Pok\u00e9mon est la source de son pouvoir.",
             "abilities": [
-                156,
-                281,
-                59
+                {
+                    "id": 156,
+                    "name": "Intimidation",
+                    "description": "Diminue d'un niveau l'attaque du Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 281,
+                    "name": "Torche",
+                    "description": "Annule les d\u00e9g\u00e2ts des attaques de type Feu subies et augmente de 50% la puissance des attaques de type Feu lanc\u00e9es.",
+                    "isHidden": true
+                },
+                {
+                    "id": 59,
+                    "name": "C\u0153ur Noble",
+                    "description": "Si le Pok\u00e9mon est touch\u00e9 par une attaque de type T\u00e9n\u00e8bres, son attaque augmente d'un niveau.",
+                    "isHidden": true
+                }
             ],
             "height": 19,
             "weight": 1550
@@ -43,9 +58,24 @@
             },
             "description": "Arcanin est c\u00e9l\u00e8bre pour son extraordinaire vitesse. On le dit capable de parcourir plus de 10 000 km en 24h. Le feu qui fait rage \u00e0 l'int\u00e9rieur du corps de ce Pok\u00e9mon est la source de son pouvoir.",
             "abilities": [
-                156,
-                276,
-                281
+                {
+                    "id": 156,
+                    "name": "Intimidation",
+                    "description": "Diminue d'un niveau l'attaque du Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 276,
+                    "name": "T\u00eate de Roc",
+                    "description": "Le Pok\u00e9mon ne subit pas de d\u00e9g\u00e2ts de contrecoup.",
+                    "isHidden": false
+                },
+                {
+                    "id": 281,
+                    "name": "Torche",
+                    "description": "Annule les d\u00e9g\u00e2ts des attaques de type Feu subies et augmente de 50% la puissance des attaques de type Feu lanc\u00e9es.",
+                    "isHidden": true
+                }
             ],
             "height": 20,
             "weight": 1680

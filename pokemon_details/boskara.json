@@ -19,8 +19,18 @@
             },
             "description": "Il vit en for\u00eat pr\u00e8s de l'eau. En journ\u00e9e, il la quitte pour dorer sa carapace feuillue au soleil. Sa carapace est faite de terre durcie. Certains Pok\u00e9mon picorent les Baies des arbres sur son dos.",
             "abilities": [
-                104,
-                66
+                {
+                    "id": 104,
+                    "name": "Engrais",
+                    "description": "Augmente la puissance des attaques de type Plante de 50% lorsque le Pok\u00e9mon a moins d'1/3 de ses PV totaux.",
+                    "isHidden": false
+                },
+                {
+                    "id": 66,
+                    "name": "Coque Armure",
+                    "description": "Annule les chances de coups critiques du Pok\u00e9mon ennemi.",
+                    "isHidden": true
+                }
             ],
             "height": 11,
             "weight": 970

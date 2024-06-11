@@ -20,9 +20,24 @@
             },
             "description": "Il se glisse dans les foyers pour commettre un larcin et en profite pour se nourrir de l\u2019\u00e9nergie n\u00e9gative des habitants contrari\u00e9s.",
             "abilities": [
-                116,
-                126,
-                210
+                {
+                    "id": 116,
+                    "name": "Farceur",
+                    "description": "Augmente la priorit\u00e9 des attaques de statut d'un niveau.",
+                    "isHidden": false
+                },
+                {
+                    "id": 126,
+                    "name": "Fouille",
+                    "description": "Permet de connaitre l'objet tenu d'un Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 210,
+                    "name": "Pickpocket",
+                    "description": "Si le Pok\u00e9mon subit une attaque physique, il r\u00e9cup\u00e8re l'objet tenu par son adversaire.",
+                    "isHidden": true
+                }
             ],
             "height": 4,
             "weight": 55

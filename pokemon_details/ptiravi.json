@@ -19,9 +19,24 @@
             },
             "description": "Ce Pok\u00e9mon aime ce qui est rond et blanc et transporte un caillou en forme d'\u0153uf pour imiter LEVEINARD. PTIRAVI transporte un caillou rond en forme d'\u0153uf dans sa poche ventrale pour l'offrir \u00e0 ses amis.",
             "abilities": [
-                174,
-                252,
-                129
+                {
+                    "id": 174,
+                    "name": "M\u00e9dic Nature",
+                    "description": "Le Pok\u00e9mon est soign\u00e9 de toute alt\u00e9ration d'\u00e9tat lorsqu'il est chang\u00e9 ou en fin de combat.",
+                    "isHidden": false
+                },
+                {
+                    "id": 252,
+                    "name": "S\u00e9r\u00e9nit\u00e9",
+                    "description": "Double les chances de r\u00e9ussite des effets secondaires des attaques.",
+                    "isHidden": false
+                },
+                {
+                    "id": 129,
+                    "name": "Garde Amie",
+                    "description": "R\u00e9duire de 25% les d\u00e9g\u00e2ts inflig\u00e9s aux alli\u00e9s en Combat Double ou triple.",
+                    "isHidden": true
+                }
             ],
             "height": 6,
             "weight": 244

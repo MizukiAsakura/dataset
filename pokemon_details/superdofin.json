@@ -19,7 +19,12 @@
             },
             "description": "Il a les m\u00eames capacit\u00e9s physiques qu'avant son \u00e9volution, mais quand ses cong\u00e9n\u00e8res sont en danger, il change de forme et devient plus fort.",
             "abilities": [
-                262
+                {
+                    "id": 262,
+                    "name": "Supermutation",
+                    "description": "Le Pok\u00e9mon prend sa Forme Super en quittant le combat.",
+                    "isHidden": false
+                }
             ],
             "height": 13,
             "weight": 602
@@ -40,7 +45,12 @@
             },
             "description": "Il a les m\u00eames capacit\u00e9s physiques qu'avant son \u00e9volution, mais quand ses cong\u00e9n\u00e8res sont en danger, il change de forme et devient plus fort.",
             "abilities": [
-                262
+                {
+                    "id": 262,
+                    "name": "Supermutation",
+                    "description": "Le Pok\u00e9mon prend sa Forme Super en quittant le combat.",
+                    "isHidden": false
+                }
             ],
             "height": 18,
             "weight": 974

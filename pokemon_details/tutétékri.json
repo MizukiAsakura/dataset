@@ -20,7 +20,12 @@
             },
             "description": "Les motifs antiques qui ont \u00e9t\u00e9 grav\u00e9s en y incorporant une puissante mal\u00e9diction ont aspir\u00e9 l\u2019\u00e2me de Tutafeh avant de prendre vie.",
             "abilities": [
-                12
+                {
+                    "id": 12,
+                    "name": "\u00c2me Vagabonde",
+                    "description": "Lorsque le Pok\u00e9mon est directement touch\u00e9 par une attaque, il \u00e9change son talent avec celui de l'assaillant.",
+                    "isHidden": false
+                }
             ],
             "height": 16,
             "weight": 666

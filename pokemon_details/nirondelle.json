@@ -20,8 +20,18 @@
             },
             "description": "NIRONDELLE d\u00e9fend courageusement son territoire contre ses ennemis, m\u00eame les plus puissants. Ce vaillant POK\u00e9MON est toujours pr\u00eat \u00e0 relever un d\u00e9fi, mais s'il a faim, il se met \u00e0 pleurer \u00e0 chaudes larmes.",
             "abilities": [
-                77,
-                232
+                {
+                    "id": 77,
+                    "name": "Cran",
+                    "description": "Augmente de 50% l'attaque du Pok\u00e9mon s'il subit un changement de statut.",
+                    "isHidden": false
+                },
+                {
+                    "id": 232,
+                    "name": "Querelleur",
+                    "description": "Permet de toucher les Pok\u00e9mon de type Spectre avec des attaques de type Normal ou Combat.",
+                    "isHidden": true
+                }
             ],
             "height": 3,
             "weight": 23

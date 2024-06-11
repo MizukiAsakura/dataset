@@ -19,7 +19,12 @@
             },
             "description": "Ses mandibules peuvent briser de tr\u00e8s grosses branches. M\u00eame Minisange, son ennemi naturel, s\u2019enfuit \u00e0 tire-d\u2019aile devant lui.",
             "abilities": [
-                111
+                {
+                    "id": 111,
+                    "name": "Essaim",
+                    "description": "Augmente la puissance des attaques de type Insecte de 50% lorsque le Pok\u00e9mon a moins d'1/3 de ses PV totaux.",
+                    "isHidden": false
+                }
             ],
             "height": 4,
             "weight": 44

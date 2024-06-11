@@ -19,9 +19,24 @@
             },
             "description": "Les STALGAMIN vivent dans les r\u00e9gions enneig\u00e9es. Pendant les saisons sans neige, comme le printemps et l'\u00e9t\u00e9, ces POK\u00e9MON se retirent pour vivre dans les cavernes, au milieu des stalactites et des stalagmites.",
             "abilities": [
-                26,
-                71,
-                166
+                {
+                    "id": 26,
+                    "name": "Attention",
+                    "description": "Immunise contre la peur.",
+                    "isHidden": false
+                },
+                {
+                    "id": 71,
+                    "name": "Corps Gel",
+                    "description": "R\u00e9g\u00e9n\u00e8re 1/16e des PV par temps de gr\u00eale. Immunise les Pok\u00e9mon n'ayant pas le type Glace contre la gr\u00eale.",
+                    "isHidden": false
+                },
+                {
+                    "id": 166,
+                    "name": "Lunatique",
+                    "description": "Al\u00e9atoirement, \u00e0 la fin de chaque tour, une statistique du Pok\u00e9mon augmente de deux niveaux, et une autre baisse d'un niveau (pr\u00e9cision et esquive comprises).",
+                    "isHidden": true
+                }
             ],
             "height": 7,
             "weight": 168

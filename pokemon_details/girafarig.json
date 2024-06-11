@@ -20,9 +20,24 @@
             },
             "description": "La t\u00eate \u00e0 l'arri\u00e8re de GIRAFARIG a aussi un cerveau, mais il est plus petit. Elle attaque en r\u00e9ponse aux sons et aux odeurs. Si on approche de ce POK\u00e9MON par derri\u00e8re, cette petite t\u00eate peut tout \u00e0 coup jaillir et mordre.",
             "abilities": [
-                26,
-                171,
-                141
+                {
+                    "id": 26,
+                    "name": "Attention",
+                    "description": "Immunise contre la peur.",
+                    "isHidden": false
+                },
+                {
+                    "id": 171,
+                    "name": "Matinal",
+                    "description": "R\u00e9duit le nombre de tours de sommeil du Pok\u00e9mon.",
+                    "isHidden": false
+                },
+                {
+                    "id": 141,
+                    "name": "Herbivore",
+                    "description": "Si le Pok\u00e9mon est touch\u00e9 par une attaque de type Plante, son attaque augmente d'un niveau.",
+                    "isHidden": true
+                }
             ],
             "height": 15,
             "weight": 415

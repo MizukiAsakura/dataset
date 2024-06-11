@@ -20,9 +20,24 @@
             },
             "description": "Dans l'obscurit\u00e9, NOARFANG ne rate jamais une proie. Il le doit \u00e0 sa vision surd\u00e9velopp\u00e9e qui lui permet de tout voir, m\u00eame avec une lueur tr\u00e8s faible, ainsi qu'\u00e0 ses ailes tr\u00e8s souples et silencieuses.",
             "abilities": [
-                155,
-                240,
-                161
+                {
+                    "id": 155,
+                    "name": "Insomnia",
+                    "description": "Emp\u00eache le Pok\u00e9mon d'\u00eatre endormi.",
+                    "isHidden": false
+                },
+                {
+                    "id": 240,
+                    "name": "Regard Vif",
+                    "description": "Emp\u00eache la perte de pr\u00e9cision.",
+                    "isHidden": false
+                },
+                {
+                    "id": 161,
+                    "name": "Lentiteint\u00e9e",
+                    "description": "Double les d\u00e9g\u00e2ts des attaques peu efficaces port\u00e9es au Pok\u00e9mon adverse.",
+                    "isHidden": true
+                }
             ],
             "height": 16,
             "weight": 408

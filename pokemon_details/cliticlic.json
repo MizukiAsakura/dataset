@@ -19,9 +19,24 @@
             },
             "description": "Il peut envoyer de terribles d\u00e9charges \u00e9lectriques de la pointe de ses pics. Il accumule de grandes quantit\u00e9s d\u2019\u00e9nergie dans son noyau rouge.",
             "abilities": [
-                214,
-                179,
-                73
+                {
+                    "id": 214,
+                    "name": "Plus",
+                    "description": "Augmente l'attaque sp\u00e9ciale de 50% en Match Double, si le partenaire \u00e0 le talent Minus (ou le m\u00eame talent, depuis Pok\u00e9mon Noir et Blanc).",
+                    "isHidden": false
+                },
+                {
+                    "id": 179,
+                    "name": "Moins",
+                    "description": "Augmente l'attaque sp\u00e9ciale de 50% si le partenaire \u00e0 le talent Plus.",
+                    "isHidden": false
+                },
+                {
+                    "id": 73,
+                    "name": "Corps Sain",
+                    "description": "Emp\u00eache la diminution de statistiques par le Pok\u00e9mon adverse.",
+                    "isHidden": true
+                }
             ],
             "height": 6,
             "weight": 810

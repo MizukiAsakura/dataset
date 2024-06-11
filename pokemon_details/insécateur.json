@@ -20,9 +20,24 @@
             },
             "description": "Ins\u00e9cateur est incroyablement rapide. Sa vitesse fulgurante am\u00e9liore l'efficacit\u00e9 des deux lames situ\u00e9es sur ses avant-bras. Elles sont si coupantes qu'elles peuvent trancher un \u00e9norme tronc d'arbre en un coup.",
             "abilities": [
-                111,
-                268,
-                149
+                {
+                    "id": 111,
+                    "name": "Essaim",
+                    "description": "Augmente la puissance des attaques de type Insecte de 50% lorsque le Pok\u00e9mon a moins d'1/3 de ses PV totaux.",
+                    "isHidden": false
+                },
+                {
+                    "id": 268,
+                    "name": "Technicien",
+                    "description": "Augmente de 50% la puissance des attaques dont la puissance est inf\u00e9rieure ou \u00e9gale \u00e0 60.",
+                    "isHidden": false
+                },
+                {
+                    "id": 149,
+                    "name": "Impassible",
+                    "description": "Augmente d'un niveau la vitesse du Pok\u00e9mon lorsqu'il est apeur\u00e9.",
+                    "isHidden": true
+                }
             ],
             "height": 15,
             "weight": 560

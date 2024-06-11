@@ -19,9 +19,24 @@
             },
             "description": "Il ne supporte pas de voir le moindre grain de poussi\u00e8re. Il utilise l\u2019huile qu\u2019il s\u00e9cr\u00e8te pour recouvrir son nid d\u2019un rev\u00eatement protecteur.",
             "abilities": [
-                158,
-                268,
-                187
+                {
+                    "id": 158,
+                    "name": "Joli Sourire",
+                    "description": "A 30% de chance de provoquer l'attirance du Pok\u00e9mon adverse ayant attaqu\u00e9.",
+                    "isHidden": false
+                },
+                {
+                    "id": 268,
+                    "name": "Technicien",
+                    "description": "Augmente de 50% la puissance des attaques dont la puissance est inf\u00e9rieure ou \u00e9gale \u00e0 60.",
+                    "isHidden": false
+                },
+                {
+                    "id": 187,
+                    "name": "Multi-Coups",
+                    "description": "Utilise toujours le nombre de coups maximum d'une attaque.",
+                    "isHidden": true
+                }
             ],
             "height": 5,
             "weight": 75

@@ -19,9 +19,24 @@
             },
             "description": "Ils stockent \u00e0 manger dans leurs bajoues et font le guet ind\u00e9finiment. Ils se font des signes en remuant de la queue.",
             "abilities": [
-                128,
-                240,
-                14
+                {
+                    "id": 128,
+                    "name": "Fuite",
+                    "description": "Assure la fuite contre les Pok\u00e9mon sauvages.",
+                    "isHidden": false
+                },
+                {
+                    "id": 240,
+                    "name": "Regard Vif",
+                    "description": "Emp\u00eache la perte de pr\u00e9cision.",
+                    "isHidden": false
+                },
+                {
+                    "id": 14,
+                    "name": "Analyste",
+                    "description": "Si le Pok\u00e9mon frappe en dernier durant le tour, la puissance de son attaque est augment\u00e9e de 30%.",
+                    "isHidden": true
+                }
             ],
             "height": 5,
             "weight": 116

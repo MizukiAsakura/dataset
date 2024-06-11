@@ -20,7 +20,12 @@
             },
             "description": "L\u2019une des Ultra-Chim\u00e8res. Elle semble refuser de toucher les choses de ce monde, comme si tout \u00e9tait souill\u00e9 \u00e0 ses yeux.",
             "abilities": [
-                41
+                {
+                    "id": 41,
+                    "name": "Boost Chim\u00e8re",
+                    "description": "Augmente la stat la plus \u00e9lev\u00e9e du Pok\u00e9mon quand il met K.O. un autre Pok\u00e9mon.",
+                    "isHidden": false
+                }
             ],
             "height": 18,
             "weight": 250

@@ -19,8 +19,18 @@
             },
             "description": "Il est sociable et n'aime pas la solitude. Une fois qu'une personne lui accorde la moindre attention, il ne la quitte plus d'une semelle.",
             "abilities": [
-                235,
-                43
+                {
+                    "id": 235,
+                    "name": "Ramassage",
+                    "description": "Donne une chance au Pok\u00e9mon de ramasser un objet apr\u00e8s un combat.",
+                    "isHidden": false
+                },
+                {
+                    "id": 43,
+                    "name": "Boule de Poils",
+                    "description": "Divise par 2 les d\u00e9g\u00e2ts des capacit\u00e9s directes mais les multiplie par 2 si elles sont de type Feu.",
+                    "isHidden": true
+                }
             ],
             "height": 6,
             "weight": 350

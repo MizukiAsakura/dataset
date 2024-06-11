@@ -19,9 +19,24 @@
             },
             "description": "L'\u00e9lectricit\u00e9 lib\u00e9r\u00e9e par ses griffes peut assommer l'ennemi. Il vit en petits groupes. Il pose ses pattes avant sur ses pairs et \u00e9met des impulsions avec ses griffes pour communiquer.",
             "abilities": [
-                271,
-                244,
-                77
+                {
+                    "id": 271,
+                    "name": "T\u00e9m\u00e9raire",
+                    "description": "Augmente de 20% la puissance des attaques infligeant un contrecoup.",
+                    "isHidden": false
+                },
+                {
+                    "id": 244,
+                    "name": "Rivalit\u00e9",
+                    "description": "Augmente l'attaque et l'attaque sp\u00e9ciale de 25% si le Pok\u00e9mon adverse est de m\u00eame sexe. Les diminue s'il est de sexe oppos\u00e9.",
+                    "isHidden": false
+                },
+                {
+                    "id": 77,
+                    "name": "Cran",
+                    "description": "Augmente de 50% l'attaque du Pok\u00e9mon s'il subit un changement de statut.",
+                    "isHidden": true
+                }
             ],
             "height": 9,
             "weight": 305

@@ -20,9 +20,24 @@
             },
             "description": "Les \u00e9normes m\u00e2choires de MYSDIBULE sont en r\u00e9alit\u00e9 des cornes en m\u00e9tal transform\u00e9es. Son visage doux et gentil est un leurre pour tromper l'ennemi. Quand l'ennemi s'y attend le moins, il le croque d'un coup de m\u00e2choire.",
             "abilities": [
-                144,
-                156,
-                248
+                {
+                    "id": 144,
+                    "name": "Hyper Cutter",
+                    "description": "Emp\u00eache la diminution d'attaque du Pok\u00e9mon.",
+                    "isHidden": false
+                },
+                {
+                    "id": 156,
+                    "name": "Intimidation",
+                    "description": "Diminue d'un niveau l'attaque du Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 248,
+                    "name": "Sans Limite",
+                    "description": "Augmente de 30% la puissance des attaques pouvant avoir un effet secondaire. L'effet secondaire est annul\u00e9.",
+                    "isHidden": true
+                }
             ],
             "height": 6,
             "weight": 115

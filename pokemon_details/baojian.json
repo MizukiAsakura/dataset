@@ -20,7 +20,12 @@
             },
             "description": "Ce Pok\u00e9mon peut contr\u00f4ler 100 tonnes de neige tomb\u00e9e. Il s'amuse en sautant joyeusement dans les avalanches qu'il provoque.",
             "abilities": [
-                107
+                {
+                    "id": 107,
+                    "name": "\u00c9p\u00e9e du Fl\u00e9au",
+                    "description": "Le pouvoir de l\u2019\u00e9p\u00e9e qui appelle le fl\u00e9au affaiblit la D\u00e9fense de tous les autres Pok\u00e9mon.",
+                    "isHidden": false
+                }
             ],
             "height": 19,
             "weight": 1522

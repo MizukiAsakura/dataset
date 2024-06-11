@@ -20,9 +20,24 @@
             },
             "description": "Il a \u00e9volu\u00e9 apr\u00e8s avoir mang\u00e9 une pomme acide. Il concentre dans ses joues un liquide si corrosif qu\u2019il peut provoquer des br\u00fblures.",
             "abilities": [
-                190,
-                135,
-                8
+                {
+                    "id": 190,
+                    "name": "M\u00fbrissement",
+                    "description": "Le Pok\u00e9mon fait m\u00fbrir la Baie qu'il tient et double ainsi son effet.",
+                    "isHidden": false
+                },
+                {
+                    "id": 135,
+                    "name": "Gloutonnerie",
+                    "description": "Le Pok\u00e9mon utilise la baie port\u00e9e lorsque les PV descendent en dessous de 50%.",
+                    "isHidden": false
+                },
+                {
+                    "id": 8,
+                    "name": "Agitation",
+                    "description": "Augmente l'attaque de 50% mais baisse la pr\u00e9cision de 20%.",
+                    "isHidden": true
+                }
             ],
             "height": 3,
             "weight": 10

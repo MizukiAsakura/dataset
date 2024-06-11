@@ -20,8 +20,18 @@
             },
             "description": "Les plumes de ses ailes lui servent de fl\u00e8ches. Quand il doit \u00e0 tout prix toucher sa cible, il tire sur les lianes de son cou pour se concentrer.",
             "abilities": [
-                104,
-                164
+                {
+                    "id": 104,
+                    "name": "Engrais",
+                    "description": "Augmente la puissance des attaques de type Plante de 50% lorsque le Pok\u00e9mon a moins d'1/3 de ses PV totaux.",
+                    "isHidden": false
+                },
+                {
+                    "id": 164,
+                    "name": "Longue Port\u00e9e",
+                    "description": "Toutes les capacit\u00e9s du Pok\u00e9mon sont consid\u00e9r\u00e9es comme sans contact.",
+                    "isHidden": true
+                }
             ],
             "height": 16,
             "weight": 366
@@ -43,8 +53,18 @@
             },
             "description": "Les plumes de ses ailes lui servent de fl\u00e8ches. Quand il doit \u00e0 tout prix toucher sa cible, il tire sur les lianes de son cou pour se concentrer.",
             "abilities": [
-                104,
-                232
+                {
+                    "id": 104,
+                    "name": "Engrais",
+                    "description": "Augmente la puissance des attaques de type Plante de 50% lorsque le Pok\u00e9mon a moins d'1/3 de ses PV totaux.",
+                    "isHidden": false
+                },
+                {
+                    "id": 232,
+                    "name": "Querelleur",
+                    "description": "Permet de toucher les Pok\u00e9mon de type Spectre avec des attaques de type Normal ou Combat.",
+                    "isHidden": true
+                }
             ],
             "height": 16,
             "weight": 370

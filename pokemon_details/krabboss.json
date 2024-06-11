@@ -19,9 +19,24 @@
             },
             "description": "Krabboss est dot\u00e9 d'une pince gigantesque, surdimensionn\u00e9e. Il l'agite en l'air pour communiquer avec ses semblables. En revanche, sa pince est tellement lourde que ce Pok\u00e9mon se fatigue tr\u00e8s vite.",
             "abilities": [
-                144,
-                66,
-                248
+                {
+                    "id": 144,
+                    "name": "Hyper Cutter",
+                    "description": "Emp\u00eache la diminution d'attaque du Pok\u00e9mon.",
+                    "isHidden": false
+                },
+                {
+                    "id": 66,
+                    "name": "Coque Armure",
+                    "description": "Annule les chances de coups critiques du Pok\u00e9mon ennemi.",
+                    "isHidden": false
+                },
+                {
+                    "id": 248,
+                    "name": "Sans Limite",
+                    "description": "Augmente de 30% la puissance des attaques pouvant avoir un effet secondaire. L'effet secondaire est annul\u00e9.",
+                    "isHidden": true
+                }
             ],
             "height": 13,
             "weight": 600

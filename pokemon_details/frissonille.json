@@ -20,8 +20,18 @@
             },
             "description": "Il crache un fil gel\u00e9 qu\u2019il utilise pour s\u2019accrocher \u00e0 une branche : il dort ainsi en imitant une stalactite.",
             "abilities": [
-                100,
-                97
+                {
+                    "id": 100,
+                    "name": "\u00c9cran Poudre",
+                    "description": "Emp\u00eache les effets secondaires des attaques subies.",
+                    "isHidden": false
+                },
+                {
+                    "id": 97,
+                    "name": "\u00c9cailles Glac\u00e9es",
+                    "description": "Le Pok\u00e9mon est prot\u00e9g\u00e9 par des \u00e9cailles de glace. Les d\u00e9g\u00e2ts qu'il subit par des capacit\u00e9s sp\u00e9ciales sont divis\u00e9s par deux.",
+                    "isHidden": true
+                }
             ],
             "height": 3,
             "weight": 38

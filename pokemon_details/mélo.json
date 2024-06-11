@@ -19,9 +19,24 @@
             },
             "description": "Les nuits o\u00f9 il y a des \u00e9toiles filantes, on peut voir des MELO danser en cercle. Ils dansent toute la nuit et ne s'arr\u00eatent qu'\u00e0 l'aube. Ces POK\u00e9MON se d\u00e9salt\u00e8rent alors avec la ros\u00e9e du matin.",
             "abilities": [
-                158,
-                130,
-                129
+                {
+                    "id": 158,
+                    "name": "Joli Sourire",
+                    "description": "A 30% de chance de provoquer l'attirance du Pok\u00e9mon adverse ayant attaqu\u00e9.",
+                    "isHidden": false
+                },
+                {
+                    "id": 130,
+                    "name": "Garde Magik",
+                    "description": "Le Pok\u00e9mon ne subit de d\u00e9g\u00e2ts que lors d'attaques directes.",
+                    "isHidden": false
+                },
+                {
+                    "id": 129,
+                    "name": "Garde Amie",
+                    "description": "R\u00e9duire de 25% les d\u00e9g\u00e2ts inflig\u00e9s aux alli\u00e9s en Combat Double ou triple.",
+                    "isHidden": true
+                }
             ],
             "height": 3,
             "weight": 30

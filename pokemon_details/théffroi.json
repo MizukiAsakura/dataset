@@ -19,8 +19,18 @@
             },
             "description": "Il \u00e9lit domicile dans des tasses de th\u00e9 anciennes de grand renom. Parmi celles-ci se trouvent de nombreuses contrefa\u00e7ons.",
             "abilities": [
-                72,
-                24
+                {
+                    "id": 72,
+                    "name": "Corps Maudit",
+                    "description": "Toute attaque port\u00e9e par l'adversaire a 30% de chance de s'entraver.",
+                    "isHidden": false
+                },
+                {
+                    "id": 24,
+                    "name": "Armurouill\u00e9e",
+                    "description": "Le Pok\u00e9mon touch\u00e9 par une attaque physique voit sa d\u00e9fense diminu\u00e9e d'un niveau et sa vitesse augment\u00e9e de deux.",
+                    "isHidden": true
+                }
             ],
             "height": 1,
             "weight": 2

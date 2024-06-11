@@ -19,9 +19,24 @@
             },
             "description": "Le corps boueux et g\u00e9latineux de Tadmorv peut s'enfoncer dans n'importe quelle ouverture, m\u00eame la plus petite. Ce Pok\u00e9mon se prom\u00e8ne dans les tuyaux des \u00e9gouts pour boire de l'eau croupie.",
             "abilities": [
-                230,
-                137,
-                283
+                {
+                    "id": 230,
+                    "name": "Puanteur",
+                    "description": "Les attaques physiques ont 10% d'apeurer la cible. Uniquement \u00e0 partir de la 5e g\u00e9n\u00e9ration.",
+                    "isHidden": false
+                },
+                {
+                    "id": 137,
+                    "name": "Glue",
+                    "description": "Emp\u00eache la perte de l'objet tenu.",
+                    "isHidden": false
+                },
+                {
+                    "id": 283,
+                    "name": "Toxitouche",
+                    "description": "Peut empoisonner l'adversaire apr\u00e8s lui avoir port\u00e9 une attaque physique.",
+                    "isHidden": false
+                }
             ],
             "height": 9,
             "weight": 300
@@ -43,9 +58,24 @@
             },
             "description": "Le corps boueux et g\u00e9latineux de Tadmorv peut s'enfoncer dans n'importe quelle ouverture, m\u00eame la plus petite. Ce Pok\u00e9mon se prom\u00e8ne dans les tuyaux des \u00e9gouts pour boire de l'eau croupie.",
             "abilities": [
-                283,
-                135,
-                196
+                {
+                    "id": 283,
+                    "name": "Toxitouche",
+                    "description": "Peut empoisonner l'adversaire apr\u00e8s lui avoir port\u00e9 une attaque physique.",
+                    "isHidden": false
+                },
+                {
+                    "id": 135,
+                    "name": "Gloutonnerie",
+                    "description": "Le Pok\u00e9mon utilise la baie port\u00e9e lorsque les PV descendent en dessous de 50%.",
+                    "isHidden": false
+                },
+                {
+                    "id": 196,
+                    "name": "Osmose",
+                    "description": "Obtient le Talent du Pok\u00e9mon alli\u00e9 tomb\u00e9 K.O.",
+                    "isHidden": true
+                }
             ],
             "height": 7,
             "weight": 420

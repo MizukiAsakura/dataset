@@ -19,9 +19,24 @@
             },
             "description": "Lorsqu'il se bat, Magmar fait jaillir des flammes de son corps pour intimider son adversaire. Les explosions enflamm\u00e9es de ce Pok\u00e9mon d\u00e9clenchent des vagues de chaleur qui embrasent la v\u00e9g\u00e9tation environnante.",
             "abilities": [
-                144,
-                46,
-                151
+                {
+                    "id": 144,
+                    "name": "Hyper Cutter",
+                    "description": "Emp\u00eache la diminution d'attaque du Pok\u00e9mon.",
+                    "isHidden": false
+                },
+                {
+                    "id": 46,
+                    "name": "Brise Moule",
+                    "description": "Peut toucher un Pok\u00e9mon adverse malgr\u00e9 son talent.",
+                    "isHidden": false
+                },
+                {
+                    "id": 151,
+                    "name": "Impudence",
+                    "description": "Monte l'attaque du Pok\u00e9mon d'un niveau lorsqu'il met un adversaire K.O.",
+                    "isHidden": true
+                }
             ],
             "height": 15,
             "weight": 550

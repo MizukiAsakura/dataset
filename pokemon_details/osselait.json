@@ -19,9 +19,24 @@
             },
             "description": "La maman d'Osselait lui manque terriblement et il ne la reverra jamais. La lune le fait pleurer, car elle lui rappelle sa m\u00e8re. Les taches sur le cr\u00e2ne que porte ce Pok\u00e9mon sont les marques de ses larmes.",
             "abilities": [
-                276,
-                199,
-                21
+                {
+                    "id": 276,
+                    "name": "T\u00eate de Roc",
+                    "description": "Le Pok\u00e9mon ne subit pas de d\u00e9g\u00e2ts de contrecoup.",
+                    "isHidden": false
+                },
+                {
+                    "id": 199,
+                    "name": "Paratonnerre",
+                    "description": "Attire toutes les attaques de type \u00c9lectrik. \u00c0 partir de la 5e g\u00e9n\u00e9ration, ce talent augmente aussi l'Attaque Sp\u00e9ciale du Pok\u00e9mon recevant l'attaque.",
+                    "isHidden": false
+                },
+                {
+                    "id": 21,
+                    "name": "Armurbaston",
+                    "description": "Annule les chances de coups critiques du Pok\u00e9mon ennemi.",
+                    "isHidden": true
+                }
             ],
             "height": 4,
             "weight": 65

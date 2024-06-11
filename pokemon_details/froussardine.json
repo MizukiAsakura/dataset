@@ -19,7 +19,12 @@
             },
             "description": "Ses yeux se mouillent quand il sent le danger approcher. Le scintillement de ses larmes sert de signal pour que ses cong\u00e9n\u00e8res se rassemblent.",
             "abilities": [
-                32
+                {
+                    "id": 32,
+                    "name": "Banc",
+                    "description": "Permet de changer de forme (sous certaines conditions).",
+                    "isHidden": false
+                }
             ],
             "height": 2,
             "weight": 3
@@ -40,7 +45,12 @@
             },
             "description": "Il s\u2019unit \u00e0 d\u2019autres sp\u00e9cimens pour faire face aux ennemis puissants. En subissant des d\u00e9g\u00e2ts, le groupe se d\u00e9sagr\u00e8ge et il se retrouve tout seul.",
             "abilities": [
-                32
+                {
+                    "id": 32,
+                    "name": "Banc",
+                    "description": "Permet de changer de forme (sous certaines conditions).",
+                    "isHidden": false
+                }
             ],
             "height": 82,
             "weight": 786

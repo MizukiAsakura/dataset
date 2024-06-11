@@ -20,8 +20,18 @@
             },
             "description": "Il se met t\u00eate en bas et crache de l'air glac\u00e9 pour se propulser dans les airs et charger ses ennemis, qu'il \u00e9limine avec sa cr\u00eate dorsale ac\u00e9r\u00e9e.",
             "abilities": [
-                277,
-                71
+                {
+                    "id": 277,
+                    "name": "Thermodynamique",
+                    "description": "Lorsque le Pok\u00e9mon est touch\u00e9 par une capacit\u00e9 de type Feu, il ne subit aucun d\u00e9g\u00e2t et son Attaque augmente.",
+                    "isHidden": false
+                },
+                {
+                    "id": 71,
+                    "name": "Corps Gel",
+                    "description": "R\u00e9g\u00e9n\u00e8re 1/16e des PV par temps de gr\u00eale. Immunise les Pok\u00e9mon n'ayant pas le type Glace contre la gr\u00eale.",
+                    "isHidden": true
+                }
             ],
             "height": 21,
             "weight": 2100

@@ -19,9 +19,24 @@
             },
             "description": "A la tomb\u00e9e de la nuit, la queue de MUCIOLE \u00e9met de la lumi\u00e8re. Il communique avec les autres en ajustant l'intensit\u00e9 et le clignotement de sa lumi\u00e8re. Ce POK\u00e9MON est attir\u00e9 par le doux parfum de LUMIVOLE.",
             "abilities": [
-                165,
-                111,
-                116
+                {
+                    "id": 165,
+                    "name": "Lumiattirance",
+                    "description": "Aucun effet en combat",
+                    "isHidden": false
+                },
+                {
+                    "id": 111,
+                    "name": "Essaim",
+                    "description": "Augmente la puissance des attaques de type Insecte de 50% lorsque le Pok\u00e9mon a moins d'1/3 de ses PV totaux.",
+                    "isHidden": false
+                },
+                {
+                    "id": 116,
+                    "name": "Farceur",
+                    "description": "Augmente la priorit\u00e9 des attaques de statut d'un niveau.",
+                    "isHidden": true
+                }
             ],
             "height": 7,
             "weight": 177

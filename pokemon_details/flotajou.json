@@ -19,8 +19,18 @@
             },
             "description": "Il supporte mal les environnements secs. Il s'humidifie avec sa queue en aspirant l'eau stock\u00e9e dans la m\u00e8che sur sa t\u00eate.",
             "abilities": [
-                135,
-                282
+                {
+                    "id": 135,
+                    "name": "Gloutonnerie",
+                    "description": "Le Pok\u00e9mon utilise la baie port\u00e9e lorsque les PV descendent en dessous de 50%.",
+                    "isHidden": false
+                },
+                {
+                    "id": 282,
+                    "name": "Torrent",
+                    "description": "Augmente la puissance des attaques de type Eau de 50% lorsque le Pok\u00e9mon a moins d'1/3 de ses PV totaux.",
+                    "isHidden": true
+                }
             ],
             "height": 6,
             "weight": 135

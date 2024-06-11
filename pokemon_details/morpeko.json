@@ -20,7 +20,12 @@
             },
             "description": "Il a toujours un petit creux. Il grignote les graines qu\u2019il a mises dans ses sortes de poches pour produire de l\u2019\u00e9lectricit\u00e9.",
             "abilities": [
-                86
+                {
+                    "id": 86,
+                    "name": "D\u00e9clic Fringale",
+                    "description": "Le Pok\u00e9mon change de forme et le type de la capacit\u00e9 Roue Libre. Celle-ci est de type \u00c9lectrik en Mode Rassasi\u00e9, et de type T\u00e9n\u00e8bres en Mode Affam\u00e9.",
+                    "isHidden": false
+                }
             ],
             "height": 3,
             "weight": 30

@@ -20,9 +20,24 @@
             },
             "description": "Il \u00e9branle le moral des ennemis lui cherchant noise gr\u00e2ce aux clignotements qu\u2019il \u00e9met. Il profite de cette diversion pour se cacher.",
             "abilities": [
-                291,
-                65,
-                154
+                {
+                    "id": 291,
+                    "name": "Ventouse",
+                    "description": "Emp\u00eache d'\u00eatre chang\u00e9 de force par une attaque adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 65,
+                    "name": "Contestation",
+                    "description": "Inverse les effets des attaques modifiant les statistiques.",
+                    "isHidden": false
+                },
+                {
+                    "id": 154,
+                    "name": "Infiltration",
+                    "description": "Emp\u00eache les attaques de protection adverses tels que Protection ou Mur Lumi\u00e8re de fonctionner. N'influe pas sur D\u00e9tection et Abri.",
+                    "isHidden": true
+                }
             ],
             "height": 4,
             "weight": 35

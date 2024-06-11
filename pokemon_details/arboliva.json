@@ -20,8 +20,18 @@
             },
             "description": "Il repousse ses adversaires en projetant son huile riche en ar\u00f4mes avec suffisamment de force pour pulv\u00e9riser un rocher.",
             "abilities": [
-                251,
-                239
+                {
+                    "id": 251,
+                    "name": "Semencier",
+                    "description": "Le Pok\u00e9mon cr\u00e9e un Champ Herbu quand il subit une attaque.",
+                    "isHidden": false
+                },
+                {
+                    "id": 239,
+                    "name": "R\u00e9colte",
+                    "description": "Une baie consomm\u00e9e par le Pok\u00e9mon a 50% de chances d'\u00eatre r\u00e9cup\u00e9r\u00e9e \u00e0 la fin de chaque tour.",
+                    "isHidden": true
+                }
             ],
             "height": 14,
             "weight": 482

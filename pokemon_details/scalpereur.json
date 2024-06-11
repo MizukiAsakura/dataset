@@ -20,9 +20,24 @@
             },
             "description": "Seul un Scalproie qui s'est hiss\u00e9 au plus haut rang d'une grande arm\u00e9e peut \u00e9voluer en Scalpereur.",
             "abilities": [
-                5,
-                133,
-                223
+                {
+                    "id": 5,
+                    "name": "Acharn\u00e9",
+                    "description": "Monte l'Attaque du Pok\u00e9mon de deux niveaux si l'une de ses statistiques est baiss\u00e9e par l'adversaire.",
+                    "isHidden": false
+                },
+                {
+                    "id": 133,
+                    "name": "G\u00e9n\u00e9ral Supr\u00eame",
+                    "description": "Quand le Pok\u00e9mon entre sur le terrain, son Attaque et son Attaque Sp\u00e9ciale augmentent l\u00e9g\u00e8rement pour chaque alli\u00e9 mis K.O. auparavant.",
+                    "isHidden": false
+                },
+                {
+                    "id": 223,
+                    "name": "Pression",
+                    "description": "Double l'utilisation de PP des attaques offensives du Pok\u00e9mon adverse.",
+                    "isHidden": true
+                }
             ],
             "height": 20,
             "weight": 1200

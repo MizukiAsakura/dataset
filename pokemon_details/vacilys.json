@@ -20,8 +20,18 @@
             },
             "description": "VACILYS erre dans les profondeurs de l'oc\u00e9an pour chercher de la nourriture. Ce POK\u00e9MON peut allonger son cou \u00e0 volont\u00e9 et capturer ses proies \u00e0 l'aide de ses huit tentacules.",
             "abilities": [
-                291,
-                160
+                {
+                    "id": 291,
+                    "name": "Ventouse",
+                    "description": "Emp\u00eache d'\u00eatre chang\u00e9 de force par une attaque adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 160,
+                    "name": "Lavabo",
+                    "description": "Attire toutes les attaques de type Eau. \u00c0 partir de la 5e g\u00e9n\u00e9ration, ce talent augmente aussi l'Attaque Sp\u00e9ciale du Pok\u00e9mon recevant l'attaque.",
+                    "isHidden": true
+                }
             ],
             "height": 15,
             "weight": 604

@@ -19,9 +19,24 @@
             },
             "description": "Il se faufile dans les tunnels creus\u00e9s par les Taupiqueur et les Triopikeur. Il attend ensuite tranquillement qu\u2019une proie passe \u00e0 sa port\u00e9e.",
             "abilities": [
-                202,
-                248,
-                46
+                {
+                    "id": 202,
+                    "name": "Peau Dure",
+                    "description": "Fait perdre 1/8 des PV du Pok\u00e9mon adverse ayant lanc\u00e9 une attaque de contact",
+                    "isHidden": false
+                },
+                {
+                    "id": 248,
+                    "name": "Sans Limite",
+                    "description": "Augmente de 30% la puissance des attaques pouvant avoir un effet secondaire. L'effet secondaire est annul\u00e9.",
+                    "isHidden": false
+                },
+                {
+                    "id": 46,
+                    "name": "Brise Moule",
+                    "description": "Peut toucher un Pok\u00e9mon adverse malgr\u00e9 son talent.",
+                    "isHidden": true
+                }
             ],
             "height": 16,
             "weight": 1390

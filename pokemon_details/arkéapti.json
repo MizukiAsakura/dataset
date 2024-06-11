@@ -19,7 +19,12 @@
             },
             "description": "On dit qu'il serait l'anc\u00eatre de tous les Pok\u00e9mon Oiseaux. Il ne sait pas voler et se d\u00e9place en sautant d'arbre en arbre.",
             "abilities": [
-                88
+                {
+                    "id": 88,
+                    "name": "D\u00e9faitiste",
+                    "description": "Divise par deux l'attaque et l'attaque sp\u00e9ciale du Pok\u00e9mon s'il a moins de la moiti\u00e9 de ses PV totaux.",
+                    "isHidden": false
+                }
             ],
             "height": 5,
             "weight": 95

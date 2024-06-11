@@ -20,8 +20,18 @@
             },
             "description": "Noadkoko vient des tropiques. \u00c0 force de vivre sous un soleil ardent, ses t\u00eates ont rapidement grandi. On raconte que lorsque ses t\u00eates tombent, elles se rassemblent et forment un Noeunoeuf.",
             "abilities": [
-                56,
-                239
+                {
+                    "id": 56,
+                    "name": "Chlorophylle",
+                    "description": "Augmente la vitesse au soleil.",
+                    "isHidden": false
+                },
+                {
+                    "id": 239,
+                    "name": "R\u00e9colte",
+                    "description": "Une baie consomm\u00e9e par le Pok\u00e9mon a 50% de chances d'\u00eatre r\u00e9cup\u00e9r\u00e9e \u00e0 la fin de chaque tour.",
+                    "isHidden": true
+                }
             ],
             "height": 20,
             "weight": 1200
@@ -43,8 +53,18 @@
             },
             "description": "Noadkoko vient des tropiques. \u00c0 force de vivre sous un soleil ardent, ses t\u00eates ont rapidement grandi. On raconte que lorsque ses t\u00eates tombent, elles se rassemblent et forment un Noeunoeuf.",
             "abilities": [
-                126,
-                239
+                {
+                    "id": 126,
+                    "name": "Fouille",
+                    "description": "Permet de connaitre l'objet tenu d'un Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 239,
+                    "name": "R\u00e9colte",
+                    "description": "Une baie consomm\u00e9e par le Pok\u00e9mon a 50% de chances d'\u00eatre r\u00e9cup\u00e9r\u00e9e \u00e0 la fin de chaque tour.",
+                    "isHidden": true
+                }
             ],
             "height": 109,
             "weight": 4156

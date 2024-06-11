@@ -19,8 +19,18 @@
             },
             "description": "Bien qu\u2019il soit vuln\u00e9rable sans le pouvoir de sa fleur, il voyagera jusqu\u2019\u00e0 en trouver une de la couleur et de la forme qu\u2019il pr\u00e9f\u00e8re.",
             "abilities": [
-                121,
-                264
+                {
+                    "id": 121,
+                    "name": "Flora-Voile",
+                    "description": "Emp\u00eache la diminution des statistiques des alli\u00e9s de type Plante par les Pok\u00e9mon adverses.",
+                    "isHidden": false
+                },
+                {
+                    "id": 264,
+                    "name": "Symbiose",
+                    "description": "Passe un objet tenu \u00e0 un Pok\u00e9mon alli\u00e9 lorsque l'alli\u00e9 utilise son objet.",
+                    "isHidden": true
+                }
             ],
             "height": 1,
             "weight": 1

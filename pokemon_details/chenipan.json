@@ -19,8 +19,18 @@
             },
             "description": "Chenipan a un app\u00e9tit d'ogre. Il peut engloutir des feuilles plus grosses que lui. Les antennes de ce Pok\u00e9mon d\u00e9gagent une odeur particuli\u00e8rement ent\u00eatante.",
             "abilities": [
-                100,
-                128
+                {
+                    "id": 100,
+                    "name": "\u00c9cran Poudre",
+                    "description": "Emp\u00eache les effets secondaires des attaques subies.",
+                    "isHidden": false
+                },
+                {
+                    "id": 128,
+                    "name": "Fuite",
+                    "description": "Assure la fuite contre les Pok\u00e9mon sauvages.",
+                    "isHidden": true
+                }
             ],
             "height": 3,
             "weight": 29

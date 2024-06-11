@@ -20,9 +20,24 @@
             },
             "description": "Les jours de beau temps, on peut voir des bancs de DEMANTA sauter au-dessus des vagues. Le REMORAID qui l'accompagne ne d\u00e9range pas ce POK\u00e9MON.",
             "abilities": [
-                134,
-                2,
-                147
+                {
+                    "id": 134,
+                    "name": "Glissade",
+                    "description": "Double la vitesse par temps de pluie.",
+                    "isHidden": false
+                },
+                {
+                    "id": 2,
+                    "name": "Absorb Eau",
+                    "description": "Les attaques de type Eau re\u00e7ues par le Pok\u00e9mon r\u00e9g\u00e9n\u00e8rent 1/4 de ses PV.",
+                    "isHidden": false
+                },
+                {
+                    "id": 147,
+                    "name": "Ignifu-Voile",
+                    "description": "Immunise contre la br\u00fblure.",
+                    "isHidden": true
+                }
             ],
             "height": 21,
             "weight": 2200

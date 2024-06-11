@@ -19,9 +19,24 @@
             },
             "description": "Un fluide naus\u00e9abond suinte du corps de Grotadmorv, agressant les narines de ses ennemis. Une seule goutte de ce fluide suffit \u00e0 faire croupir un bassin d'eau propre.",
             "abilities": [
-                230,
-                137,
-                283
+                {
+                    "id": 230,
+                    "name": "Puanteur",
+                    "description": "Les attaques physiques ont 10% d'apeurer la cible. Uniquement \u00e0 partir de la 5e g\u00e9n\u00e9ration.",
+                    "isHidden": false
+                },
+                {
+                    "id": 137,
+                    "name": "Glue",
+                    "description": "Emp\u00eache la perte de l'objet tenu.",
+                    "isHidden": false
+                },
+                {
+                    "id": 283,
+                    "name": "Toxitouche",
+                    "description": "Peut empoisonner l'adversaire apr\u00e8s lui avoir port\u00e9 une attaque physique.",
+                    "isHidden": false
+                }
             ],
             "height": 12,
             "weight": 300
@@ -43,9 +58,24 @@
             },
             "description": "Un fluide naus\u00e9abond suinte du corps de Grotadmorv, agressant les narines de ses ennemis. Une seule goutte de ce fluide suffit \u00e0 faire croupir un bassin d'eau propre.",
             "abilities": [
-                283,
-                135,
-                196
+                {
+                    "id": 283,
+                    "name": "Toxitouche",
+                    "description": "Peut empoisonner l'adversaire apr\u00e8s lui avoir port\u00e9 une attaque physique.",
+                    "isHidden": false
+                },
+                {
+                    "id": 135,
+                    "name": "Gloutonnerie",
+                    "description": "Le Pok\u00e9mon utilise la baie port\u00e9e lorsque les PV descendent en dessous de 50%.",
+                    "isHidden": false
+                },
+                {
+                    "id": 196,
+                    "name": "Osmose",
+                    "description": "Obtient le Talent du Pok\u00e9mon alli\u00e9 tomb\u00e9 K.O.",
+                    "isHidden": true
+                }
             ],
             "height": 10,
             "weight": 520

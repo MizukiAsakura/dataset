@@ -19,9 +19,24 @@
             },
             "description": "Nombreux sont les Pok\u00e9mon qui se rassemblent autour des Gigansel dans l'espoir de pouvoir l\u00e9cher leur sel riche en min\u00e9raux.",
             "abilities": [
-                250,
-                117,
-                73
+                {
+                    "id": 250,
+                    "name": "Sel Purificateur",
+                    "description": "Le sel pur immunise le Pok\u00e9mon contre les alt\u00e9rations de statut, et diminue de moiti\u00e9 les d\u00e9g\u00e2ts des capacit\u00e9s de type Spectre.",
+                    "isHidden": false
+                },
+                {
+                    "id": 117,
+                    "name": "Fermet\u00e9",
+                    "description": "Immunise contre les attaques OHKO. \u00c0 partir de la 5e g\u00e9n\u00e9ration, ce talent fait aussi conserver 1 PV au Pok\u00e9mon m\u00eame apr\u00e8s une attaque qui aurait d\u00fb le terrasser, s'il a tous ses PV.",
+                    "isHidden": false
+                },
+                {
+                    "id": 73,
+                    "name": "Corps Sain",
+                    "description": "Emp\u00eache la diminution de statistiques par le Pok\u00e9mon adverse.",
+                    "isHidden": true
+                }
             ],
             "height": 23,
             "weight": 2400

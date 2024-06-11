@@ -20,9 +20,24 @@
             },
             "description": "Il peut voler avec aise tout en portant un adulte dans ses six pattes. Les ailes de sa queue lui servent de balancier.",
             "abilities": [
-                287,
-                161,
-                126
+                {
+                    "id": 287,
+                    "name": "Turbo",
+                    "description": "La vitesse du Pok\u00e9mon augmente \u00e0 chaque tour.",
+                    "isHidden": false
+                },
+                {
+                    "id": 161,
+                    "name": "Lentiteint\u00e9e",
+                    "description": "Double les d\u00e9g\u00e2ts des attaques peu efficaces port\u00e9es au Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 126,
+                    "name": "Fouille",
+                    "description": "Permet de connaitre l'objet tenu d'un Pok\u00e9mon adverse.",
+                    "isHidden": true
+                }
             ],
             "height": 19,
             "weight": 515

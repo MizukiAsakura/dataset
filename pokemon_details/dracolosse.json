@@ -20,8 +20,18 @@
             },
             "description": "Dracolosse est capable de faire le tour de la plan\u00e8te en seize heures \u00e0 peine. C'est un Pok\u00e9mon au grand c\u0153ur qui ram\u00e8ne \u00e0 bon port les navires perdus dans les temp\u00eates.",
             "abilities": [
-                26,
-                188
+                {
+                    "id": 26,
+                    "name": "Attention",
+                    "description": "Immunise contre la peur.",
+                    "isHidden": false
+                },
+                {
+                    "id": 188,
+                    "name": "Multi\u00e9caille",
+                    "description": "Si le Pok\u00e9mon poss\u00e8de 100% de ses PV, alors les d\u00e9g\u00e2ts inflig\u00e9s par l'adversaire sont divis\u00e9s par deux.",
+                    "isHidden": true
+                }
             ],
             "height": 22,
             "weight": 2100

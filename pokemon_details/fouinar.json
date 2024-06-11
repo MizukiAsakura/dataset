@@ -19,9 +19,24 @@
             },
             "description": "FOUINAR est tr\u00e8s mince. Lorsqu'il est attaqu\u00e9, il peut s'enfuir en se faufilant habilement dans les recoins \u00e9troits. Malgr\u00e9 ses pattes courtes, ce POK\u00e9MON est tr\u00e8s agile et rapide.",
             "abilities": [
-                128,
-                240,
-                126
+                {
+                    "id": 128,
+                    "name": "Fuite",
+                    "description": "Assure la fuite contre les Pok\u00e9mon sauvages.",
+                    "isHidden": false
+                },
+                {
+                    "id": 240,
+                    "name": "Regard Vif",
+                    "description": "Emp\u00eache la perte de pr\u00e9cision.",
+                    "isHidden": false
+                },
+                {
+                    "id": 126,
+                    "name": "Fouille",
+                    "description": "Permet de connaitre l'objet tenu d'un Pok\u00e9mon adverse.",
+                    "isHidden": true
+                }
             ],
             "height": 18,
             "weight": 325

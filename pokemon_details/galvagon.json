@@ -20,9 +20,24 @@
             },
             "description": "Jadis, la partie inf\u00e9rieure de son corps muscl\u00e9 le rendait invincible, mais il s\u2019est \u00e9teint apr\u00e8s avoir mang\u00e9 toutes les plantes dont il se nourrissait.",
             "abilities": [
-                3,
-                8,
-                30
+                {
+                    "id": 3,
+                    "name": "Absorb Volt",
+                    "description": "Les attaques de type \u00c9lectrik re\u00e7ues par le Pok\u00e9mon r\u00e9g\u00e9n\u00e8rent 1/4 de ses PV.",
+                    "isHidden": false
+                },
+                {
+                    "id": 8,
+                    "name": "Agitation",
+                    "description": "Augmente l'attaque de 50% mais baisse la pr\u00e9cision de 20%.",
+                    "isHidden": false
+                },
+                {
+                    "id": 30,
+                    "name": "Baigne Sable",
+                    "description": "Double la Vitesse du Pok\u00e9mon lors d'une temp\u00eate de sable. Immunise contre les d\u00e9g\u00e2ts de la temp\u00eate.",
+                    "isHidden": true
+                }
             ],
             "height": 18,
             "weight": 1900

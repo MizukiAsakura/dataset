@@ -19,8 +19,18 @@
             },
             "description": "La carapace de Carapuce ne sert pas qu'\u00e0 le prot\u00e9ger. La forme ronde de sa carapace et ses rainures lui permettent d'am\u00e9liorer son hydrodynamisme. Ce Pok\u00e9mon nage extr\u00eamement vite.",
             "abilities": [
-                282,
-                83
+                {
+                    "id": 282,
+                    "name": "Torrent",
+                    "description": "Augmente la puissance des attaques de type Eau de 50% lorsque le Pok\u00e9mon a moins d'1/3 de ses PV totaux.",
+                    "isHidden": false
+                },
+                {
+                    "id": 83,
+                    "name": "Cuvette",
+                    "description": "R\u00e9g\u00e9n\u00e8re 1/16e des PV par temps de pluie.",
+                    "isHidden": true
+                }
             ],
             "height": 5,
             "weight": 90

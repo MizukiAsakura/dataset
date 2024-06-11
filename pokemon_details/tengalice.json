@@ -20,9 +20,24 @@
             },
             "description": "Les grands \u00e9ventails de TENGALICE peuvent d\u00e9clencher des bourrasques de vent allant jusqu'\u00e0 30 m/s. Le vent d\u00e9cha\u00een\u00e9 peut tout envoyer balader. Ce POK\u00e9MON a choisi de vivre tranquillement dans la for\u00eat.",
             "abilities": [
-                56,
-                171,
-                210
+                {
+                    "id": 56,
+                    "name": "Chlorophylle",
+                    "description": "Augmente la vitesse au soleil.",
+                    "isHidden": false
+                },
+                {
+                    "id": 171,
+                    "name": "Matinal",
+                    "description": "R\u00e9duit le nombre de tours de sommeil du Pok\u00e9mon.",
+                    "isHidden": false
+                },
+                {
+                    "id": 210,
+                    "name": "Pickpocket",
+                    "description": "Si le Pok\u00e9mon subit une attaque physique, il r\u00e9cup\u00e8re l'objet tenu par son adversaire.",
+                    "isHidden": true
+                }
             ],
             "height": 13,
             "weight": 596

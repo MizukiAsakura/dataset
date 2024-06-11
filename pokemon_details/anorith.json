@@ -20,8 +20,18 @@
             },
             "description": "ANORITH fut r\u00e9g\u00e9n\u00e9r\u00e9 \u00e0 partir d'un fossile pr\u00e9historique. Ce POK\u00e9MON primitif vivait \u00e0 l'\u00e9poque dans les eaux tropicales. Il attrape fermement sa proie avec ses deux grandes pinces.",
             "abilities": [
-                21,
-                134
+                {
+                    "id": 21,
+                    "name": "Armurbaston",
+                    "description": "Annule les chances de coups critiques du Pok\u00e9mon ennemi.",
+                    "isHidden": false
+                },
+                {
+                    "id": 134,
+                    "name": "Glissade",
+                    "description": "Double la vitesse par temps de pluie.",
+                    "isHidden": true
+                }
             ],
             "height": 7,
             "weight": 125

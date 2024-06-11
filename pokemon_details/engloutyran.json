@@ -20,7 +20,12 @@
             },
             "description": "L\u2019une des dangereuses Ultra-Chim\u00e8res. Elle est constamment en train de manger, mais ne semble pas produire d\u2019excr\u00e9ments.",
             "abilities": [
-                41
+                {
+                    "id": 41,
+                    "name": "Boost Chim\u00e8re",
+                    "description": "Augmente la stat la plus \u00e9lev\u00e9e du Pok\u00e9mon quand il met K.O. un autre Pok\u00e9mon.",
+                    "isHidden": false
+                }
             ],
             "height": 55,
             "weight": 8880

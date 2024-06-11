@@ -19,8 +19,18 @@
             },
             "description": "Chaque fois que Pikachu d\u00e9couvre quelque chose de nouveau, il envoie un arc \u00e9lectrique. Lorsqu'on tombe sur une Baie carbonis\u00e9e, \u00e7a signifie sans doute qu'un de ces Pok\u00e9mon a envoy\u00e9 une charge trop forte.",
             "abilities": [
-                260,
-                199
+                {
+                    "id": 260,
+                    "name": "Statik",
+                    "description": "30% de chance de provoquer la paralysie du Pok\u00e9mon adverse ayant lanc\u00e9 une attaque de contact.",
+                    "isHidden": false
+                },
+                {
+                    "id": 199,
+                    "name": "Paratonnerre",
+                    "description": "Attire toutes les attaques de type \u00c9lectrik. \u00c0 partir de la 5e g\u00e9n\u00e9ration, ce talent augmente aussi l'Attaque Sp\u00e9ciale du Pok\u00e9mon recevant l'attaque.",
+                    "isHidden": true
+                }
             ],
             "height": 4,
             "weight": 60

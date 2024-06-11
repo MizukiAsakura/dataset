@@ -19,9 +19,24 @@
             },
             "description": "MAKUHITA est tenace. M\u00eame s'il est presque battu, il continue \u00e0 se relever et \u00e0 attaquer son ennemi. Chaque fois qu'il se rel\u00e8ve, ce POK\u00e9MON stocke plus d'\u00e9nergie en vue de sa future \u00e9volution.",
             "abilities": [
-                157,
-                77,
-                248
+                {
+                    "id": 157,
+                    "name": "Isograisse",
+                    "description": "Les d\u00e9g\u00e2ts provoqu\u00e9s par les attaques des types Feu ou Glace sont divis\u00e9s par 2.",
+                    "isHidden": false
+                },
+                {
+                    "id": 77,
+                    "name": "Cran",
+                    "description": "Augmente de 50% l'attaque du Pok\u00e9mon s'il subit un changement de statut.",
+                    "isHidden": false
+                },
+                {
+                    "id": 248,
+                    "name": "Sans Limite",
+                    "description": "Augmente de 30% la puissance des attaques pouvant avoir un effet secondaire. L'effet secondaire est annul\u00e9.",
+                    "isHidden": true
+                }
             ],
             "height": 10,
             "weight": 864

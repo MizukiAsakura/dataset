@@ -20,7 +20,12 @@
             },
             "description": "Il poss\u00e8de une puissance qui d\u00e9passe celle de Reshiram et de Zekrom, mais il a scell\u00e9 son corps gr\u00e2ce \u00e0 son souffle glac\u00e9.",
             "abilities": [
-                223
+                {
+                    "id": 223,
+                    "name": "Pression",
+                    "description": "Double l'utilisation de PP des attaques offensives du Pok\u00e9mon adverse.",
+                    "isHidden": false
+                }
             ],
             "height": 30,
             "weight": 3250

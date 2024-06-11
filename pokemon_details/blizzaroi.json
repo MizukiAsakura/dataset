@@ -20,8 +20,18 @@
             },
             "description": "L\u2019abominable homme des neiges, c\u2019est lui. Il vit dans les montagnes recouvertes de neiges \u00e9ternelles, et d\u00e9clenche des blizzards.",
             "abilities": [
-                11,
-                17
+                {
+                    "id": 11,
+                    "name": "Alerte Neige",
+                    "description": "Le Pok\u00e9mon d\u00e9clenche une gr\u00eale lorsqu'il est envoy\u00e9 au combat.",
+                    "isHidden": false
+                },
+                {
+                    "id": 17,
+                    "name": "Anti-Bruit",
+                    "description": "Annule les effets dus \u00e0 une attaque sonore.",
+                    "isHidden": true
+                }
             ],
             "height": 22,
             "weight": 1355

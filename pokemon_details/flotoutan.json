@@ -19,8 +19,18 @@
             },
             "description": "Le jet d\u2019eau \u00e0 haute pression qu\u2019il propulse par la queue est assez puissant pour traverser un mur de b\u00e9ton.",
             "abilities": [
-                135,
-                282
+                {
+                    "id": 135,
+                    "name": "Gloutonnerie",
+                    "description": "Le Pok\u00e9mon utilise la baie port\u00e9e lorsque les PV descendent en dessous de 50%.",
+                    "isHidden": false
+                },
+                {
+                    "id": 282,
+                    "name": "Torrent",
+                    "description": "Augmente la puissance des attaques de type Eau de 50% lorsque le Pok\u00e9mon a moins d'1/3 de ses PV totaux.",
+                    "isHidden": true
+                }
             ],
             "height": 10,
             "weight": 290

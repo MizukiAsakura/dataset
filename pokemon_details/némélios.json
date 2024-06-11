@@ -20,9 +20,24 @@
             },
             "description": "Le m\u00e2le a tendance \u00e0 se pr\u00e9lasser \u00e0 longueur de journ\u00e9e. Si un ennemi surgit, en revanche, il d\u00e9fend ses cong\u00e9n\u00e8res au p\u00e9ril de sa vie.",
             "abilities": [
-                244,
-                273,
-                151
+                {
+                    "id": 244,
+                    "name": "Rivalit\u00e9",
+                    "description": "Augmente l'attaque et l'attaque sp\u00e9ciale de 25% si le Pok\u00e9mon adverse est de m\u00eame sexe. Les diminue s'il est de sexe oppos\u00e9.",
+                    "isHidden": false
+                },
+                {
+                    "id": 273,
+                    "name": "Tension",
+                    "description": "Emp\u00eache l'adversaire de consommer sa baie.",
+                    "isHidden": false
+                },
+                {
+                    "id": 151,
+                    "name": "Impudence",
+                    "description": "Monte l'attaque du Pok\u00e9mon d'un niveau lorsqu'il met un adversaire K.O.",
+                    "isHidden": true
+                }
             ],
             "height": 15,
             "weight": 815

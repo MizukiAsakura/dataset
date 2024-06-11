@@ -19,9 +19,24 @@
             },
             "description": "Les POLICHOMBR sont attir\u00e9s par les sentiments de jalousie et les esprits revanchards. Si quelqu'un veut se venger, ces POK\u00e9MON apparaissent en nu\u00e9e et s'alignent devant la porte des gens concern\u00e9s.",
             "abilities": [
-                155,
-                126,
-                72
+                {
+                    "id": 155,
+                    "name": "Insomnia",
+                    "description": "Emp\u00eache le Pok\u00e9mon d'\u00eatre endormi.",
+                    "isHidden": false
+                },
+                {
+                    "id": 126,
+                    "name": "Fouille",
+                    "description": "Permet de connaitre l'objet tenu d'un Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 72,
+                    "name": "Corps Maudit",
+                    "description": "Toute attaque port\u00e9e par l'adversaire a 30% de chance de s'entraver.",
+                    "isHidden": true
+                }
             ],
             "height": 6,
             "weight": 23

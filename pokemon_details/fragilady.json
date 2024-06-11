@@ -19,9 +19,24 @@
             },
             "description": "Le parfum de sa fleur calme les nerfs et apaise l\u2019esprit. Il varie l\u00e9g\u00e8rement selon la composition de la terre dans laquelle Fragilady a pouss\u00e9.",
             "abilities": [
-                56,
-                8,
-                118
+                {
+                    "id": 56,
+                    "name": "Chlorophylle",
+                    "description": "Augmente la vitesse au soleil.",
+                    "isHidden": false
+                },
+                {
+                    "id": 8,
+                    "name": "Agitation",
+                    "description": "Augmente l'attaque de 50% mais baisse la pr\u00e9cision de 20%.",
+                    "isHidden": false
+                },
+                {
+                    "id": 118,
+                    "name": "Feuille Garde",
+                    "description": "Soigne les alt\u00e9rations d'\u00e9tat par temps ensoleill\u00e9.",
+                    "isHidden": true
+                }
             ],
             "height": 11,
             "weight": 163
@@ -43,9 +58,24 @@
             },
             "description": "Le parfum de sa fleur calme les nerfs et apaise l\u2019esprit. Il varie l\u00e9g\u00e8rement selon la composition de la terre dans laquelle Fragilady a pouss\u00e9.",
             "abilities": [
-                56,
-                272,
-                118
+                {
+                    "id": 56,
+                    "name": "Chlorophylle",
+                    "description": "Augmente la vitesse au soleil.",
+                    "isHidden": false
+                },
+                {
+                    "id": 272,
+                    "name": "Tempo Perso",
+                    "description": "Immunise contre la confusion.",
+                    "isHidden": false
+                },
+                {
+                    "id": 118,
+                    "name": "Feuille Garde",
+                    "description": "Soigne les alt\u00e9rations d'\u00e9tat par temps ensoleill\u00e9.",
+                    "isHidden": true
+                }
             ],
             "height": 12,
             "weight": 192

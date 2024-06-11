@@ -20,8 +20,18 @@
             },
             "description": "Il fissure la roche avec ses \u00e9pines pour ensuite absorber les nutriments qui s\u2019y trouvent gr\u00e2ce \u00e0 l\u2019extr\u00e9mit\u00e9 de ses tentacules.",
             "abilities": [
-                108,
-                18
+                {
+                    "id": 108,
+                    "name": "\u00c9pine de Fer",
+                    "description": "Retire 1/8 de ses PV \u00e0 l'adversaire lorsque celui-ci porte une capacit\u00e9 directe.",
+                    "isHidden": false
+                },
+                {
+                    "id": 18,
+                    "name": "Anticipation",
+                    "description": "Alerte et prot\u00e8ge lorsque le Pok\u00e9mon adverse poss\u00e8de certaines attaques.",
+                    "isHidden": true
+                }
             ],
             "height": 10,
             "weight": 1100

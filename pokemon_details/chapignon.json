@@ -20,9 +20,24 @@
             },
             "description": "CHAPIGNON se rapproche de son ennemi en se servant de son jeu de jambes, puis donne des coups de poing avec ses grands bras. La technique de combat de ce POK\u00e9MON est digne des meilleurs boxeurs.",
             "abilities": [
-                220,
-                255,
-                212
+                {
+                    "id": 220,
+                    "name": "Pose Spore",
+                    "description": "30% de chance de provoquer l'empoisonnement, le sommeil ou la paralysie du Pok\u00e9mon adverse ayant lanc\u00e9 une attaque de contact.",
+                    "isHidden": false
+                },
+                {
+                    "id": 255,
+                    "name": "Soin Poison",
+                    "description": "Le Pok\u00e9mon r\u00e9cup\u00e8re 1/8\u00e8 de ses PV par tour lors d'un empoisonnement.",
+                    "isHidden": false
+                },
+                {
+                    "id": 212,
+                    "name": "Pied V\u00e9loce",
+                    "description": "Augmente la vitesse de 50% lorsque le Pok\u00e9mon subit une alt\u00e9ration d'\u00e9tat.",
+                    "isHidden": true
+                }
             ],
             "height": 12,
             "weight": 392

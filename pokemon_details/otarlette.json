@@ -19,8 +19,18 @@
             },
             "description": "Il est tout excit\u00e9 quand il est t\u00e9moin d\u2019une danse qu\u2019il ne conna\u00eet pas. Il s\u2019entra\u00eene alors comme un forcen\u00e9 jusqu\u2019\u00e0 la ma\u00eetriser \u00e0 la perfection.",
             "abilities": [
-                282,
-                142
+                {
+                    "id": 282,
+                    "name": "Torrent",
+                    "description": "Augmente la puissance des attaques de type Eau de 50% lorsque le Pok\u00e9mon a moins d'1/3 de ses PV totaux.",
+                    "isHidden": false
+                },
+                {
+                    "id": 142,
+                    "name": "Hydrata-Son",
+                    "description": "Toutes les attaques sonores du Pok\u00e9mon prennent le type Eau.",
+                    "isHidden": true
+                }
             ],
             "height": 6,
             "weight": 175

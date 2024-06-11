@@ -19,8 +19,18 @@
             },
             "description": "Son parfum est tellement capiteux qu\u2019un Dresseur n\u2019appr\u00e9ciant pas pleinement son odeur aura toutes les difficult\u00e9s du monde \u00e0 cheminer \u00e0 ses c\u00f4t\u00e9s.",
             "abilities": [
-                60,
-                25
+                {
+                    "id": 60,
+                    "name": "C\u0153ur Soin",
+                    "description": "\u00c0 la fin de chaque tour, le Pok\u00e9mon a 30% de chance de gu\u00e9rir ses alli\u00e9s d'une alt\u00e9ration d'\u00e9tat en Combat Double ou triple.",
+                    "isHidden": false
+                },
+                {
+                    "id": 25,
+                    "name": "Aroma-Voile",
+                    "description": "Prot\u00e8ge les Pok\u00e9mon alli\u00e9s des capacit\u00e9s ayant un effet sur l'\u00e9tat mental tels que Attraction ou Tourmente.",
+                    "isHidden": true
+                }
             ],
             "height": 8,
             "weight": 155

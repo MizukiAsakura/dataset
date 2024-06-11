@@ -20,7 +20,12 @@
             },
             "description": "Tr\u00e8s glouton, il avale les Embrochet d\u2019une seule bouch\u00e9e, mais il lui arrive de se tromper et de tenter de gober un autre Pok\u00e9mon.",
             "abilities": [
-                89
+                {
+                    "id": 89,
+                    "name": "D\u00e9gobage",
+                    "description": "Si le Pok\u00e9mon utilise la capacit\u00e9 Surf ou Plong\u00e9e, il r\u00e9appara\u00eet avec une prise dans le bec. S'il subit des d\u00e9g\u00e2ts pendant qu'il tient une prise, Le Pok\u00e9mon riposte en recrachant ce qu'il a dans le bec.",
+                    "isHidden": false
+                }
             ],
             "height": 8,
             "weight": 180

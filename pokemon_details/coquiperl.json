@@ -19,8 +19,18 @@
             },
             "description": "La puissante coquille de COQUIPERL ne sert pas qu'\u00e0 le prot\u00e9ger. Elle lui permet \u00e9galement de pincer et d'attraper sa proie. Une coquille de COQUIPERL adulte porte souvent de nombreuses \u00e9gratignures et \u00e9raflures.",
             "abilities": [
-                66,
-                209
+                {
+                    "id": 66,
+                    "name": "Coque Armure",
+                    "description": "Annule les chances de coups critiques du Pok\u00e9mon ennemi.",
+                    "isHidden": false
+                },
+                {
+                    "id": 209,
+                    "name": "Phobique",
+                    "description": "Si le Pok\u00e9mon est touch\u00e9 par une attaque de type Insecte, Spectre ou T\u00e9n\u00e8bres, sa vitesse augmente d'un niveau.",
+                    "isHidden": true
+                }
             ],
             "height": 4,
             "weight": 525

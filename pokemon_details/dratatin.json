@@ -20,9 +20,24 @@
             },
             "description": "Il a \u00e9volu\u00e9 apr\u00e8s avoir mang\u00e9 une pomme sucr\u00e9e. Il attire ses proies, les Pok\u00e9mon Insecte, en d\u00e9gageant un parfum mielleux.",
             "abilities": [
-                190,
-                135,
-                157
+                {
+                    "id": 190,
+                    "name": "M\u00fbrissement",
+                    "description": "Le Pok\u00e9mon fait m\u00fbrir la Baie qu'il tient et double ainsi son effet.",
+                    "isHidden": false
+                },
+                {
+                    "id": 135,
+                    "name": "Gloutonnerie",
+                    "description": "Le Pok\u00e9mon utilise la baie port\u00e9e lorsque les PV descendent en dessous de 50%.",
+                    "isHidden": false
+                },
+                {
+                    "id": 157,
+                    "name": "Isograisse",
+                    "description": "Les d\u00e9g\u00e2ts provoqu\u00e9s par les attaques des types Feu ou Glace sont divis\u00e9s par 2.",
+                    "isHidden": true
+                }
             ],
             "height": 4,
             "weight": 130

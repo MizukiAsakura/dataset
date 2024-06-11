@@ -19,9 +19,24 @@
             },
             "description": "Les Frison vivent en troupeau d\u2019une vingtaine d\u2019individus. Pour une raison inconnue, si l\u2019un d\u2019eux trahit le groupe, il perd sa crini\u00e8re.",
             "abilities": [
-                271,
-                141,
-                17
+                {
+                    "id": 271,
+                    "name": "T\u00e9m\u00e9raire",
+                    "description": "Augmente de 20% la puissance des attaques infligeant un contrecoup.",
+                    "isHidden": false
+                },
+                {
+                    "id": 141,
+                    "name": "Herbivore",
+                    "description": "Si le Pok\u00e9mon est touch\u00e9 par une attaque de type Plante, son attaque augmente d'un niveau.",
+                    "isHidden": false
+                },
+                {
+                    "id": 17,
+                    "name": "Anti-Bruit",
+                    "description": "Annule les effets dus \u00e0 une attaque sonore.",
+                    "isHidden": true
+                }
             ],
             "height": 16,
             "weight": 946

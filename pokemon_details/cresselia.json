@@ -19,7 +19,12 @@
             },
             "description": "Lorsqu\u2019il vole, ses ailes semblables \u00e0 des voiles lib\u00e8rent des particules brillantes. On l\u2019appelle \u00ab l\u2019avatar du croissant de lune \u00bb.",
             "abilities": [
-                162
+                {
+                    "id": 162,
+                    "name": "L\u00e9vitation",
+                    "description": "Immunise contre les attaques de type Sol.",
+                    "isHidden": false
+                }
             ],
             "height": 15,
             "weight": 856

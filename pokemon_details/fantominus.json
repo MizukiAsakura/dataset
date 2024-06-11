@@ -20,7 +20,12 @@
             },
             "description": "Fantominus est principalement constitu\u00e9 de mati\u00e8re gazeuse. Lorsqu'il est expos\u00e9 au vent, son corps gazeux se disperse et diminue. Des groupes de ce Pok\u00e9mon se rassemblent sous les auvents des maisons pour se prot\u00e9ger.",
             "abilities": [
-                162
+                {
+                    "id": 162,
+                    "name": "L\u00e9vitation",
+                    "description": "Immunise contre les attaques de type Sol.",
+                    "isHidden": false
+                }
             ],
             "height": 13,
             "weight": 1

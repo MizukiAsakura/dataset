@@ -19,9 +19,24 @@
             },
             "description": "Un Pok\u00e9mon extr\u00eamement prudent. Il couvre son corps de ses oreilles pelucheuses en cas de danger. Il est tr\u00e8s coquet et n'oublie jamais de toiletter ses oreilles. Il avance en bonds \u00e9nergiques.",
             "abilities": [
-                158,
-                169,
-                98
+                {
+                    "id": 158,
+                    "name": "Joli Sourire",
+                    "description": "A 30% de chance de provoquer l'attirance du Pok\u00e9mon adverse ayant attaqu\u00e9.",
+                    "isHidden": false
+                },
+                {
+                    "id": 169,
+                    "name": "Maladresse",
+                    "description": "Emp\u00eache l'utilisation et/ou ignore l'effet des objets tenus en combat.",
+                    "isHidden": false
+                },
+                {
+                    "id": 98,
+                    "name": "\u00c9chauffement",
+                    "description": "Immunise contre la paralysie.",
+                    "isHidden": true
+                }
             ],
             "height": 12,
             "weight": 333

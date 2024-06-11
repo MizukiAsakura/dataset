@@ -20,7 +20,12 @@
             },
             "description": "Il virevolte dans tous les sens, guettant la faille pour frapper. Il concentre l\u2019\u00e9lectricit\u00e9 dans ses grandes mandibules pour foudroyer l\u2019ennemi.",
             "abilities": [
-                162
+                {
+                    "id": 162,
+                    "name": "L\u00e9vitation",
+                    "description": "Immunise contre les attaques de type Sol.",
+                    "isHidden": false
+                }
             ],
             "height": 15,
             "weight": 450

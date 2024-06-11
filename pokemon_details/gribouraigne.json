@@ -20,9 +20,24 @@
             },
             "description": "Afin de maintenir ses adversaires hors de son territoire, il dessine des symboles autour de son nid \u00e0 l'aide d'une toxine \u00e0 l'odeur irritante.",
             "abilities": [
-                91,
-                210,
-                116
+                {
+                    "id": 91,
+                    "name": "D\u00e9lestage",
+                    "description": "Augmente la vitesse lorsqu'un objet tenu est utilis\u00e9, lanc\u00e9 ou perdu.",
+                    "isHidden": false
+                },
+                {
+                    "id": 210,
+                    "name": "Pickpocket",
+                    "description": "Si le Pok\u00e9mon subit une attaque physique, il r\u00e9cup\u00e8re l'objet tenu par son adversaire.",
+                    "isHidden": false
+                },
+                {
+                    "id": 116,
+                    "name": "Farceur",
+                    "description": "Augmente la priorit\u00e9 des attaques de statut d'un niveau.",
+                    "isHidden": true
+                }
             ],
             "height": 2,
             "weight": 7

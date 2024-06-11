@@ -19,8 +19,18 @@
             },
             "description": "Il a un temp\u00e9rament violent et se bat avec sa queue pleine d\u2019\u00e9pines. La feuille sur sa t\u00eate est tr\u00e8s am\u00e8re.",
             "abilities": [
-                135,
-                104
+                {
+                    "id": 135,
+                    "name": "Gloutonnerie",
+                    "description": "Le Pok\u00e9mon utilise la baie port\u00e9e lorsque les PV descendent en dessous de 50%.",
+                    "isHidden": false
+                },
+                {
+                    "id": 104,
+                    "name": "Engrais",
+                    "description": "Augmente la puissance des attaques de type Plante de 50% lorsque le Pok\u00e9mon a moins d'1/3 de ses PV totaux.",
+                    "isHidden": true
+                }
             ],
             "height": 11,
             "weight": 305

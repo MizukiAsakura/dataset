@@ -19,8 +19,18 @@
             },
             "description": "ROSABYSS vit dans les profondeurs des mers du sud. Son corps est con\u00e7u pour supporter l'\u00e9norme pression des profondeurs abyssales. Du coup, le corps de ce POK\u00e9MON n'est pas endommag\u00e9 par les attaques ordinaires.",
             "abilities": [
-                134,
-                143
+                {
+                    "id": 134,
+                    "name": "Glissade",
+                    "description": "Double la vitesse par temps de pluie.",
+                    "isHidden": false
+                },
+                {
+                    "id": 143,
+                    "name": "Hydratation",
+                    "description": "Soigne les alt\u00e9rations d'\u00e9tat par temps de pluie.",
+                    "isHidden": true
+                }
             ],
             "height": 18,
             "weight": 226

@@ -19,9 +19,24 @@
             },
             "description": "Ce Pok\u00e9mon adore jouer avec les enfants. Il est doux en g\u00e9n\u00e9ral, mais lorsqu'il doit prot\u00e9ger sa famille, il prend un air mena\u00e7ant.",
             "abilities": [
-                55,
-                156,
-                119
+                {
+                    "id": 55,
+                    "name": "Chien de Garde",
+                    "description": "L\u2019Attaque du Pok\u00e9mon augmente s\u2019il subit l\u2019effet du talent Intimidation. Les capacit\u00e9s ou objets qui font changer de Pok\u00e9mon n\u2019ont aucun effet sur lui.",
+                    "isHidden": false
+                },
+                {
+                    "id": 156,
+                    "name": "Intimidation",
+                    "description": "Diminue d'un niveau l'attaque du Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 119,
+                    "name": "Filature",
+                    "description": "Inflige le double de d\u00e9g\u00e2ts aux Pok\u00e9mon arrivant au milieu d'un combat.",
+                    "isHidden": true
+                }
             ],
             "height": 11,
             "weight": 610

@@ -20,9 +20,24 @@
             },
             "description": "Leur capacit\u00e9 \u00e0 se synchroniser permet \u00e0 toute une vol\u00e9e d'attaquer parfaitement \u00e0 l'unisson.",
             "abilities": [
-                232,
-                211,
-                62
+                {
+                    "id": 232,
+                    "name": "Querelleur",
+                    "description": "Permet de toucher les Pok\u00e9mon de type Spectre avec des attaques de type Normal ou Combat.",
+                    "isHidden": false
+                },
+                {
+                    "id": 211,
+                    "name": "Pied Confus",
+                    "description": "Augmente l'esquive de 20% lorsque le Pok\u00e9mon est confus.",
+                    "isHidden": false
+                },
+                {
+                    "id": 62,
+                    "name": "Collab",
+                    "description": "Quand le Pok\u00e9mon entre sur le terrain, il copie les changements de statistiques de son alli\u00e9.",
+                    "isHidden": true
+                }
             ],
             "height": 16,
             "weight": 370

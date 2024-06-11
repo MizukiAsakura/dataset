@@ -19,9 +19,24 @@
             },
             "description": "Il peut expulser 100 kg de sable de ses narines en compressant tout son corps. Quand il est \u00e0 court de sable, il a tendance \u00e0 se d\u00e9rober.",
             "abilities": [
-                113,
-                186,
-                294
+                {
+                    "id": 113,
+                    "name": "Expul'Sable",
+                    "description": "Le Pok\u00e9mon d\u00e9clenche une temp\u00eate de sable quand il subit une attaque.",
+                    "isHidden": false
+                },
+                {
+                    "id": 186,
+                    "name": "Mue",
+                    "description": "\u00c0 chaque tour, le Pok\u00e9mon a 33% de chance d'\u00eatre soign\u00e9 d'une alt\u00e9ration d'\u00e9tat.",
+                    "isHidden": false
+                },
+                {
+                    "id": 294,
+                    "name": "Voile Sable",
+                    "description": "Augmente l'esquive de 20% lors d'une temp\u00eate de sable et immunise contre ses d\u00e9g\u00e2ts.",
+                    "isHidden": true
+                }
             ],
             "height": 38,
             "weight": 655

@@ -19,8 +19,18 @@
             },
             "description": "Son corps est en combustion. Il projette des flamm\u00e8ches par la t\u00eate et la queue pour carboniser ses ennemis.",
             "abilities": [
-                135,
-                44
+                {
+                    "id": 135,
+                    "name": "Gloutonnerie",
+                    "description": "Le Pok\u00e9mon utilise la baie port\u00e9e lorsque les PV descendent en dessous de 50%.",
+                    "isHidden": false
+                },
+                {
+                    "id": 44,
+                    "name": "Brasier",
+                    "description": "Augmente la puissance des attaques de type Feu de 50% lorsque le Pok\u00e9mon a moins d'1/3 de ses PV totaux.",
+                    "isHidden": true
+                }
             ],
             "height": 10,
             "weight": 280

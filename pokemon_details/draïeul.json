@@ -20,9 +20,24 @@
             },
             "description": "S\u2019il apprend qu\u2019un enfant avec lequel il s\u2019est li\u00e9 d\u2019amiti\u00e9 est pers\u00e9cut\u00e9 par ses camarades, il trouve leur maison et la r\u00e9duit en cendres.",
             "abilities": [
-                95,
-                141,
-                57
+                {
+                    "id": 95,
+                    "name": "Dracol\u00e8re",
+                    "description": "Augmente l'Attaque Sp\u00e9ciale du Pok\u00e9mon lorsqu'il perd plus de la moiti\u00e9 de ses PV.",
+                    "isHidden": false
+                },
+                {
+                    "id": 141,
+                    "name": "Herbivore",
+                    "description": "Si le Pok\u00e9mon est touch\u00e9 par une attaque de type Plante, son attaque augmente d'un niveau.",
+                    "isHidden": false
+                },
+                {
+                    "id": 57,
+                    "name": "Ciel Gris",
+                    "description": "Annule les effets du climat.",
+                    "isHidden": true
+                }
             ],
             "height": 30,
             "weight": 1850

@@ -20,8 +20,18 @@
             },
             "description": "Piafabec crie tellement fort qu'il peut \u00eatre entendu \u00e0 1km de distance. Ces Pok\u00e9mon se pr\u00e9viennent d'un danger en entonnant une m\u00e9lop\u00e9e tr\u00e8s aigu\u00eb, qu'ils se renvoient les uns les autres, comme un \u00e9cho.",
             "abilities": [
-                240,
-                254
+                {
+                    "id": 240,
+                    "name": "Regard Vif",
+                    "description": "Emp\u00eache la perte de pr\u00e9cision.",
+                    "isHidden": false
+                },
+                {
+                    "id": 254,
+                    "name": "Sniper",
+                    "description": "Triple la puissance des coups critiques.",
+                    "isHidden": true
+                }
             ],
             "height": 3,
             "weight": 20

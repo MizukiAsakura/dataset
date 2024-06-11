@@ -19,8 +19,18 @@
             },
             "description": "M\u00e9tamorph peut modifier sa structure mol\u00e9culaire pour prendre d'autres formes. Lorsqu'il essaie de se transformer de m\u00e9moire, il lui arrive de se tromper sur certains d\u00e9tails.",
             "abilities": [
-                98,
-                150
+                {
+                    "id": 98,
+                    "name": "\u00c9chauffement",
+                    "description": "Immunise contre la paralysie.",
+                    "isHidden": false
+                },
+                {
+                    "id": 150,
+                    "name": "Imposteur",
+                    "description": "Le Pok\u00e9mon entrant en combat prend automatiquement l'apparence du Pok\u00e9mon adverse.",
+                    "isHidden": true
+                }
             ],
             "height": 3,
             "weight": 40

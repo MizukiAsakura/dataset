@@ -19,9 +19,24 @@
             },
             "description": "Ces Pok\u00e9mon vont toujours par paire. Lorsqu'ils trouvent de la nourriture, ils la divisent en deux parts \u00e9gales avant de la d\u00e9guster.",
             "abilities": [
-                128,
-                235,
-                272
+                {
+                    "id": 128,
+                    "name": "Fuite",
+                    "description": "Assure la fuite contre les Pok\u00e9mon sauvages.",
+                    "isHidden": false
+                },
+                {
+                    "id": 235,
+                    "name": "Ramassage",
+                    "description": "Donne une chance au Pok\u00e9mon de ramasser un objet apr\u00e8s un combat.",
+                    "isHidden": false
+                },
+                {
+                    "id": 272,
+                    "name": "Tempo Perso",
+                    "description": "Immunise contre la confusion.",
+                    "isHidden": true
+                }
             ],
             "height": 3,
             "weight": 18

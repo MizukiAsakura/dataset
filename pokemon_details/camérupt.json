@@ -20,9 +20,24 @@
             },
             "description": "Le corps de CAMERUPT renferme un volcan. Du magma \u00e0 10 000 degr\u00e9s coule dans ses veines. De temps en temps, les bosses sur le dos de ce POK\u00e9MON entrent en \u00e9ruption et crachent le magma surchauff\u00e9.",
             "abilities": [
-                20,
-                256,
-                63
+                {
+                    "id": 20,
+                    "name": "Armumagma",
+                    "description": "Immunise contre le gel.",
+                    "isHidden": false
+                },
+                {
+                    "id": 256,
+                    "name": "Solide Roc",
+                    "description": "Retire 1/4 des d\u00e9g\u00e2ts subits si le Pok\u00e9mon re\u00e7oit une attaque super efficace.",
+                    "isHidden": false
+                },
+                {
+                    "id": 63,
+                    "name": "Coloforce",
+                    "description": "Double l'attaque du Pok\u00e9mon.",
+                    "isHidden": true
+                }
             ],
             "height": 19,
             "weight": 2200

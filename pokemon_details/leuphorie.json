@@ -19,9 +19,24 @@
             },
             "description": "LEUPHORIE ressent la tristesse gr\u00e2ce \u00e0 son pelage duveteux. Lorsqu'il la remarque, ce POK\u00e9MON se pr\u00e9cipite vers la personne triste pour partager avec elle un \u0153uf rempli de bonheur, capable de faire na\u00eetre un sourire sur tout visage.",
             "abilities": [
-                174,
-                252,
-                60
+                {
+                    "id": 174,
+                    "name": "M\u00e9dic Nature",
+                    "description": "Le Pok\u00e9mon est soign\u00e9 de toute alt\u00e9ration d'\u00e9tat lorsqu'il est chang\u00e9 ou en fin de combat.",
+                    "isHidden": false
+                },
+                {
+                    "id": 252,
+                    "name": "S\u00e9r\u00e9nit\u00e9",
+                    "description": "Double les chances de r\u00e9ussite des effets secondaires des attaques.",
+                    "isHidden": false
+                },
+                {
+                    "id": 60,
+                    "name": "C\u0153ur Soin",
+                    "description": "\u00c0 la fin de chaque tour, le Pok\u00e9mon a 30% de chance de gu\u00e9rir ses alli\u00e9s d'une alt\u00e9ration d'\u00e9tat en Combat Double ou triple.",
+                    "isHidden": true
+                }
             ],
             "height": 15,
             "weight": 468

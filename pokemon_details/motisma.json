@@ -20,7 +20,12 @@
             },
             "description": "Ce Pok\u00e9mon est connu pour jouer des tours en s\u2019infiltrant dans des appareils \u00e9lectriques. Son corps est fait de plasma.",
             "abilities": [
-                162
+                {
+                    "id": 162,
+                    "name": "L\u00e9vitation",
+                    "description": "Immunise contre les attaques de type Sol.",
+                    "isHidden": false
+                }
             ],
             "height": 3,
             "weight": 3
@@ -42,7 +47,12 @@
             },
             "description": "Ce Pok\u00e9mon est connu pour jouer des tours en s\u2019infiltrant dans des appareils \u00e9lectriques. Son corps est fait de plasma.",
             "abilities": [
-                162
+                {
+                    "id": 162,
+                    "name": "L\u00e9vitation",
+                    "description": "Immunise contre les attaques de type Sol.",
+                    "isHidden": false
+                }
             ],
             "height": 3,
             "weight": 3
@@ -64,7 +74,12 @@
             },
             "description": "Ce Pok\u00e9mon est connu pour jouer des tours en s\u2019infiltrant dans des appareils \u00e9lectriques. Son corps est fait de plasma.",
             "abilities": [
-                162
+                {
+                    "id": 162,
+                    "name": "L\u00e9vitation",
+                    "description": "Immunise contre les attaques de type Sol.",
+                    "isHidden": false
+                }
             ],
             "height": 3,
             "weight": 3
@@ -86,7 +101,12 @@
             },
             "description": "Ce Pok\u00e9mon est connu pour jouer des tours en s\u2019infiltrant dans des appareils \u00e9lectriques. Son corps est fait de plasma.",
             "abilities": [
-                162
+                {
+                    "id": 162,
+                    "name": "L\u00e9vitation",
+                    "description": "Immunise contre les attaques de type Sol.",
+                    "isHidden": false
+                }
             ],
             "height": 3,
             "weight": 3
@@ -108,7 +128,12 @@
             },
             "description": "Ce Pok\u00e9mon est connu pour jouer des tours en s\u2019infiltrant dans des appareils \u00e9lectriques. Son corps est fait de plasma.",
             "abilities": [
-                162
+                {
+                    "id": 162,
+                    "name": "L\u00e9vitation",
+                    "description": "Immunise contre les attaques de type Sol.",
+                    "isHidden": false
+                }
             ],
             "height": 3,
             "weight": 3
@@ -130,7 +155,12 @@
             },
             "description": "Ce Pok\u00e9mon est connu pour jouer des tours en s\u2019infiltrant dans des appareils \u00e9lectriques. Son corps est fait de plasma.",
             "abilities": [
-                162
+                {
+                    "id": 162,
+                    "name": "L\u00e9vitation",
+                    "description": "Immunise contre les attaques de type Sol.",
+                    "isHidden": false
+                }
             ],
             "height": 3,
             "weight": 3

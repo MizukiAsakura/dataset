@@ -20,9 +20,24 @@
             },
             "description": "Il an\u00e9antit ses adversaires en leur ass\u00e9nant des coups de poing anim\u00e9s par la rage enfouie tout au fond de lui.",
             "abilities": [
-                110,
-                26,
-                5
+                {
+                    "id": 110,
+                    "name": "Esprit Vital",
+                    "description": "Emp\u00eache le Pok\u00e9mon d'\u00eatre endormi.",
+                    "isHidden": false
+                },
+                {
+                    "id": 26,
+                    "name": "Attention",
+                    "description": "Immunise contre la peur.",
+                    "isHidden": false
+                },
+                {
+                    "id": 5,
+                    "name": "Acharn\u00e9",
+                    "description": "Monte l'Attaque du Pok\u00e9mon de deux niveaux si l'une de ses statistiques est baiss\u00e9e par l'adversaire.",
+                    "isHidden": true
+                }
             ],
             "height": 12,
             "weight": 560

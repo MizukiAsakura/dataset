@@ -20,9 +20,24 @@
             },
             "description": "Les Escroco se d\u00e9placent en bandes, souvent men\u00e9es par une femelle. La plupart du temps, les m\u00e2les se chargent de collecter la nourriture.",
             "abilities": [
-                156,
-                151,
-                61
+                {
+                    "id": 156,
+                    "name": "Intimidation",
+                    "description": "Diminue d'un niveau l'attaque du Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 151,
+                    "name": "Impudence",
+                    "description": "Monte l'attaque du Pok\u00e9mon d'un niveau lorsqu'il met un adversaire K.O.",
+                    "isHidden": false
+                },
+                {
+                    "id": 61,
+                    "name": "Col\u00e9rique",
+                    "description": "L'attaque du Pok\u00e9mon est fortement augment\u00e9e lorsqu'il subit un coup critique.",
+                    "isHidden": true
+                }
             ],
             "height": 10,
             "weight": 334

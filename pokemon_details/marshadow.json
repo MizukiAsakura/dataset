@@ -20,7 +20,12 @@
             },
             "description": "En se glissant dans l\u2019ombre de son adversaire, il peut copier ses mouvements et ses forces. C\u2019est un Pok\u00e9mon au caract\u00e8re timide et craintif.",
             "abilities": [
-                268
+                {
+                    "id": 268,
+                    "name": "Technicien",
+                    "description": "Augmente de 50% la puissance des attaques dont la puissance est inf\u00e9rieure ou \u00e9gale \u00e0 60.",
+                    "isHidden": false
+                }
             ],
             "height": 7,
             "weight": 222

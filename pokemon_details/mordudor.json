@@ -19,7 +19,12 @@
             },
             "description": "Il vit dans un vieux coffre au tr\u00e9sor. On le trouve parfois dans un coin chez l'antiquaire, quand personne ne s'est aper\u00e7u que c'\u00e9tait un Pok\u00e9mon",
             "abilities": [
-                209
+                {
+                    "id": 209,
+                    "name": "Phobique",
+                    "description": "Si le Pok\u00e9mon est touch\u00e9 par une attaque de type Insecte, Spectre ou T\u00e9n\u00e8bres, sa vitesse augmente d'un niveau.",
+                    "isHidden": false
+                }
             ],
             "height": 3,
             "weight": 50
@@ -40,7 +45,12 @@
             },
             "description": "Il vit dans un vieux coffre au tr\u00e9sor. On le trouve parfois dans un coin chez l'antiquaire, quand personne ne s'est aper\u00e7u que c'\u00e9tait un Pok\u00e9mon",
             "abilities": [
-                209
+                {
+                    "id": 209,
+                    "name": "Phobique",
+                    "description": "Si le Pok\u00e9mon est touch\u00e9 par une attaque de type Insecte, Spectre ou T\u00e9n\u00e8bres, sa vitesse augmente d'un niveau.",
+                    "isHidden": false
+                }
             ],
             "height": 1,
             "weight": 1

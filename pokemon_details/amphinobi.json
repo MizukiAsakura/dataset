@@ -20,8 +20,18 @@
             },
             "description": "Il transforme des jets d\u2019eau sous pression en redoutables shuriken. Une fois lanc\u00e9s, ils tournent si vite qu\u2019ils peuvent m\u00eame couper le m\u00e9tal.",
             "abilities": [
-                282,
-                229
+                {
+                    "id": 282,
+                    "name": "Torrent",
+                    "description": "Augmente la puissance des attaques de type Eau de 50% lorsque le Pok\u00e9mon a moins d'1/3 de ses PV totaux.",
+                    "isHidden": false
+                },
+                {
+                    "id": 229,
+                    "name": "Prot\u00e9en",
+                    "description": "Change le type du Pok\u00e9mon en celui de toute capacit\u00e9 qu'il utilise.",
+                    "isHidden": true
+                }
             ],
             "height": 15,
             "weight": 400
@@ -43,7 +53,12 @@
             },
             "description": "Il transforme des jets d\u2019eau sous pression en redoutables shuriken. Une fois lanc\u00e9s, ils tournent si vite qu\u2019ils peuvent m\u00eame couper le m\u00e9tal.",
             "abilities": [
-                266
+                {
+                    "id": 266,
+                    "name": "Synergie",
+                    "description": "Le Pok\u00e9mon change de forme et la puissance de l'attaque Sheauriken augmente apr\u00e8s avoir mis K.O. un Pok\u00e9mon adverse.",
+                    "isHidden": false
+                }
             ],
             "height": 15,
             "weight": 400

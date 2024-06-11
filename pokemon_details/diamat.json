@@ -20,7 +20,12 @@
             },
             "description": "Il cherche des proies en arpentant son territoire. Ses deux t\u00eates se disputent souvent pour savoir quelle direction prendre.",
             "abilities": [
-                8
+                {
+                    "id": 8,
+                    "name": "Agitation",
+                    "description": "Augmente l'attaque de 50% mais baisse la pr\u00e9cision de 20%.",
+                    "isHidden": false
+                }
             ],
             "height": 14,
             "weight": 500

@@ -19,9 +19,24 @@
             },
             "description": "Son petit corps lui permet de se jouer d\u2019ennemis bien plus grands que lui en volant \u00e0 toute vitesse pour les piquer o\u00f9 ils sont vuln\u00e9rables.",
             "abilities": [
-                240,
-                273,
-                58
+                {
+                    "id": 240,
+                    "name": "Regard Vif",
+                    "description": "Emp\u00eache la perte de pr\u00e9cision.",
+                    "isHidden": false
+                },
+                {
+                    "id": 273,
+                    "name": "Tension",
+                    "description": "Emp\u00eache l'adversaire de consommer sa baie.",
+                    "isHidden": false
+                },
+                {
+                    "id": 58,
+                    "name": "C\u0153ur de Coq",
+                    "description": "Emp\u00eache la d\u00e9fense du Pok\u00e9mon d'\u00eatre baiss\u00e9e par les attaques adverses.",
+                    "isHidden": true
+                }
             ],
             "height": 2,
             "weight": 18

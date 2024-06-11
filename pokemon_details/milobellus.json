@@ -19,9 +19,24 @@
             },
             "description": "Certains pr\u00e9tendent que MILOBELLUS est le plus beau de tous les POK\u00e9MON. Il a le pouvoir d'apaiser certaines \u00e9motions comme la col\u00e8re ou l'hostilit\u00e9, afin d'\u00e9viter les querelles inutiles.",
             "abilities": [
-                96,
-                33,
-                158
+                {
+                    "id": 96,
+                    "name": "\u00c9caille Sp\u00e9ciale",
+                    "description": "Augmente la d\u00e9fense de 50% lorsque le Pok\u00e9mon subit un changement de statut.",
+                    "isHidden": false
+                },
+                {
+                    "id": 33,
+                    "name": "Battant",
+                    "description": "Augmente l'Attaque Sp\u00e9ciale par deux niveaux lorsque n'importe quelle stat est baiss\u00e9e par un Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 158,
+                    "name": "Joli Sourire",
+                    "description": "A 30% de chance de provoquer l'attirance du Pok\u00e9mon adverse ayant attaqu\u00e9.",
+                    "isHidden": true
+                }
             ],
             "height": 62,
             "weight": 1620

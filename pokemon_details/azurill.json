@@ -20,9 +20,24 @@
             },
             "description": "AZURILL fait tournoyer sa queue comme un lasso et l'envoie si fort que le reste de son corps est \u00e9galement projet\u00e9. Le record de lancer de ce POK\u00e9MON est actuellement de 10 m.",
             "abilities": [
-                157,
-                63,
-                141
+                {
+                    "id": 157,
+                    "name": "Isograisse",
+                    "description": "Les d\u00e9g\u00e2ts provoqu\u00e9s par les attaques des types Feu ou Glace sont divis\u00e9s par 2.",
+                    "isHidden": false
+                },
+                {
+                    "id": 63,
+                    "name": "Coloforce",
+                    "description": "Double l'attaque du Pok\u00e9mon.",
+                    "isHidden": false
+                },
+                {
+                    "id": 141,
+                    "name": "Herbivore",
+                    "description": "Si le Pok\u00e9mon est touch\u00e9 par une attaque de type Plante, son attaque augmente d'un niveau.",
+                    "isHidden": true
+                }
             ],
             "height": 2,
             "weight": 20

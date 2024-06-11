@@ -19,9 +19,24 @@
             },
             "description": "Rattata est extr\u00eamement prudent. M\u00eame lorsqu'il est endormi, il fait pivoter ses oreilles pour \u00e9couter autour de lui. En ce qui concerne son habitat, il n'est vraiment pas difficile. Il peut faire son nid n'importe o\u00f9.",
             "abilities": [
-                128,
-                77,
-                8
+                {
+                    "id": 128,
+                    "name": "Fuite",
+                    "description": "Assure la fuite contre les Pok\u00e9mon sauvages.",
+                    "isHidden": false
+                },
+                {
+                    "id": 77,
+                    "name": "Cran",
+                    "description": "Augmente de 50% l'attaque du Pok\u00e9mon s'il subit un changement de statut.",
+                    "isHidden": false
+                },
+                {
+                    "id": 8,
+                    "name": "Agitation",
+                    "description": "Augmente l'attaque de 50% mais baisse la pr\u00e9cision de 20%.",
+                    "isHidden": false
+                }
             ],
             "height": 3,
             "weight": 35
@@ -43,9 +58,24 @@
             },
             "description": "Rattata est extr\u00eamement prudent. M\u00eame lorsqu'il est endormi, il fait pivoter ses oreilles pour \u00e9couter autour de lui. En ce qui concerne son habitat, il n'est vraiment pas difficile. Il peut faire son nid n'importe o\u00f9.",
             "abilities": [
-                135,
-                8,
-                157
+                {
+                    "id": 135,
+                    "name": "Gloutonnerie",
+                    "description": "Le Pok\u00e9mon utilise la baie port\u00e9e lorsque les PV descendent en dessous de 50%.",
+                    "isHidden": false
+                },
+                {
+                    "id": 8,
+                    "name": "Agitation",
+                    "description": "Augmente l'attaque de 50% mais baisse la pr\u00e9cision de 20%.",
+                    "isHidden": false
+                },
+                {
+                    "id": 157,
+                    "name": "Isograisse",
+                    "description": "Les d\u00e9g\u00e2ts provoqu\u00e9s par les attaques des types Feu ou Glace sont divis\u00e9s par 2.",
+                    "isHidden": true
+                }
             ],
             "height": 3,
             "weight": 38

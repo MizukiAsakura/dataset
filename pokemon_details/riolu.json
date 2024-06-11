@@ -19,9 +19,24 @@
             },
             "description": "Son aura s'intensifie pour pr\u00e9venir son entourage quand il a peur ou qu'il est triste. Son corps est fr\u00eale mais puissant. Il peut traverser trois montagnes et deux canyons en une nuit.",
             "abilities": [
-                26,
-                149,
-                116
+                {
+                    "id": 26,
+                    "name": "Attention",
+                    "description": "Immunise contre la peur.",
+                    "isHidden": false
+                },
+                {
+                    "id": 149,
+                    "name": "Impassible",
+                    "description": "Augmente d'un niveau la vitesse du Pok\u00e9mon lorsqu'il est apeur\u00e9.",
+                    "isHidden": false
+                },
+                {
+                    "id": 116,
+                    "name": "Farceur",
+                    "description": "Augmente la priorit\u00e9 des attaques de statut d'un niveau.",
+                    "isHidden": true
+                }
             ],
             "height": 7,
             "weight": 202

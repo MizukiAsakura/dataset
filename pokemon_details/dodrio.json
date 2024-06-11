@@ -20,9 +20,24 @@
             },
             "description": "Il faut se m\u00e9fier lorsque les trois t\u00eates de Dodrio regardent dans des directions diff\u00e9rentes. Cela signifie qu'il est sur ses gardes. Si c'est le cas, il vaut mieux ne pas s'approcher de ce Pok\u00e9mon, il pourrait d\u00e9cider d'attaquer.",
             "abilities": [
-                128,
-                171,
-                211
+                {
+                    "id": 128,
+                    "name": "Fuite",
+                    "description": "Assure la fuite contre les Pok\u00e9mon sauvages.",
+                    "isHidden": false
+                },
+                {
+                    "id": 171,
+                    "name": "Matinal",
+                    "description": "R\u00e9duit le nombre de tours de sommeil du Pok\u00e9mon.",
+                    "isHidden": false
+                },
+                {
+                    "id": 211,
+                    "name": "Pied Confus",
+                    "description": "Augmente l'esquive de 20% lorsque le Pok\u00e9mon est confus.",
+                    "isHidden": true
+                }
             ],
             "height": 18,
             "weight": 852

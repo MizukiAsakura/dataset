@@ -19,9 +19,24 @@
             },
             "description": "On voit souvent Galopa trotter dans les champs et les plaines. Cependant, lorsque ce Pok\u00e9mon s'en donne la peine, il peut galoper \u00e0 plus de 240 km/h et sa crini\u00e8re flamboyante s'embrase.",
             "abilities": [
-                128,
-                281,
-                67
+                {
+                    "id": 128,
+                    "name": "Fuite",
+                    "description": "Assure la fuite contre les Pok\u00e9mon sauvages.",
+                    "isHidden": false
+                },
+                {
+                    "id": 281,
+                    "name": "Torche",
+                    "description": "Annule les d\u00e9g\u00e2ts des attaques de type Feu subies et augmente de 50% la puissance des attaques de type Feu lanc\u00e9es.",
+                    "isHidden": false
+                },
+                {
+                    "id": 67,
+                    "name": "Corps Ardent",
+                    "description": "30% de chance de provoquer une br\u00fblure sur le Pok\u00e9mon adverse ayant attaqu\u00e9.",
+                    "isHidden": true
+                }
             ],
             "height": 17,
             "weight": 950
@@ -43,9 +58,24 @@
             },
             "description": "On voit souvent Galopa trotter dans les champs et les plaines. Cependant, lorsque ce Pok\u00e9mon s'en donne la peine, il peut galoper \u00e0 plus de 240 km/h et sa crini\u00e8re flamboyante s'embrase.",
             "abilities": [
-                128,
-                293,
-                18
+                {
+                    "id": 128,
+                    "name": "Fuite",
+                    "description": "Assure la fuite contre les Pok\u00e9mon sauvages.",
+                    "isHidden": false
+                },
+                {
+                    "id": 293,
+                    "name": "Voile Pastel",
+                    "description": "Prot\u00e8ge le Pok\u00e9mon et ses alli\u00e9s contre toutes les alt\u00e9rations de statut li\u00e9es \u00e0 l'empoisonnement. En Combat Duo et Multi, soigne un alli\u00e9 empoisonn\u00e9 lorsque le Pok\u00e9mon arrive sur le terrain.",
+                    "isHidden": false
+                },
+                {
+                    "id": 18,
+                    "name": "Anticipation",
+                    "description": "Alerte et prot\u00e8ge lorsque le Pok\u00e9mon adverse poss\u00e8de certaines attaques.",
+                    "isHidden": true
+                }
             ],
             "height": 17,
             "weight": 800

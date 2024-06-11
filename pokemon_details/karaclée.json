@@ -19,9 +19,24 @@
             },
             "description": "Apr\u00e8s avoir suivi un entra\u00eenement intensif, la puissance du tranchant de sa main est telle qu\u2019il peut fendre la mer en deux.",
             "abilities": [
-                117,
-                26,
-                215
+                {
+                    "id": 117,
+                    "name": "Fermet\u00e9",
+                    "description": "Immunise contre les attaques OHKO. \u00c0 partir de la 5e g\u00e9n\u00e9ration, ce talent fait aussi conserver 1 PV au Pok\u00e9mon m\u00eame apr\u00e8s une attaque qui aurait d\u00fb le terrasser, s'il a tous ses PV.",
+                    "isHidden": false
+                },
+                {
+                    "id": 26,
+                    "name": "Attention",
+                    "description": "Immunise contre la peur.",
+                    "isHidden": false
+                },
+                {
+                    "id": 215,
+                    "name": "Poing de Fer",
+                    "description": "Augmente de 20% la puissance des attaques de \"Poing\".",
+                    "isHidden": true
+                }
             ],
             "height": 14,
             "weight": 510

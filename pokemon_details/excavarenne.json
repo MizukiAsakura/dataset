@@ -20,9 +20,24 @@
             },
             "description": "Ses grandes oreilles sont si muscl\u00e9es qu\u2019il peut soulever un rocher d\u2019une tonne sans broncher. Ce Pok\u00e9mon est souvent utilis\u00e9 sur les chantiers.",
             "abilities": [
-                235,
-                31,
-                63
+                {
+                    "id": 235,
+                    "name": "Ramassage",
+                    "description": "Donne une chance au Pok\u00e9mon de ramasser un objet apr\u00e8s un combat.",
+                    "isHidden": false
+                },
+                {
+                    "id": 31,
+                    "name": "Bajoues",
+                    "description": "Lorsque le Pok\u00e9mon mange une Baie, il obtient ses effets et regagne des PV en plus.",
+                    "isHidden": false
+                },
+                {
+                    "id": 63,
+                    "name": "Coloforce",
+                    "description": "Double l'attaque du Pok\u00e9mon.",
+                    "isHidden": true
+                }
             ],
             "height": 10,
             "weight": 424

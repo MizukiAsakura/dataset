@@ -20,9 +20,24 @@
             },
             "description": "Lamantine adore piquer un roupillon \u00e0 m\u00eame la glace. Il y a tr\u00e8s longtemps, un marin ayant aper\u00e7u ce Pok\u00e9mon dormant sur un glacier a cru voir une sir\u00e8ne.",
             "abilities": [
-                157,
-                143,
-                71
+                {
+                    "id": 157,
+                    "name": "Isograisse",
+                    "description": "Les d\u00e9g\u00e2ts provoqu\u00e9s par les attaques des types Feu ou Glace sont divis\u00e9s par 2.",
+                    "isHidden": false
+                },
+                {
+                    "id": 143,
+                    "name": "Hydratation",
+                    "description": "Soigne les alt\u00e9rations d'\u00e9tat par temps de pluie.",
+                    "isHidden": false
+                },
+                {
+                    "id": 71,
+                    "name": "Corps Gel",
+                    "description": "R\u00e9g\u00e9n\u00e8re 1/16e des PV par temps de gr\u00eale. Immunise les Pok\u00e9mon n'ayant pas le type Glace contre la gr\u00eale.",
+                    "isHidden": true
+                }
             ],
             "height": 17,
             "weight": 1200

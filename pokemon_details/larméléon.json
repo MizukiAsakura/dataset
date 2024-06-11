@@ -19,8 +19,18 @@
             },
             "description": "Quand il a peur, il pleure des larmes contenant une substance lacrymog\u00e8ne d\u2019une puissance \u00e9quivalente \u00e0 celle de cent oignons.",
             "abilities": [
-                282,
-                254
+                {
+                    "id": 282,
+                    "name": "Torrent",
+                    "description": "Augmente la puissance des attaques de type Eau de 50% lorsque le Pok\u00e9mon a moins d'1/3 de ses PV totaux.",
+                    "isHidden": false
+                },
+                {
+                    "id": 254,
+                    "name": "Sniper",
+                    "description": "Triple la puissance des coups critiques.",
+                    "isHidden": true
+                }
             ],
             "height": 3,
             "weight": 40

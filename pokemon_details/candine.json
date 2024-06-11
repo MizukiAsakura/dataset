@@ -19,9 +19,24 @@
             },
             "description": "Il passe son temps \u00e0 gambader joyeusement. Sa silhouette pleine d\u2019entrain et son parfum agr\u00e9able ont le don d\u2019attirer les autres Pok\u00e9mon.",
             "abilities": [
-                118,
-                35,
-                136
+                {
+                    "id": 118,
+                    "name": "Feuille Garde",
+                    "description": "Soigne les alt\u00e9rations d'\u00e9tat par temps ensoleill\u00e9.",
+                    "isHidden": false
+                },
+                {
+                    "id": 35,
+                    "name": "Ben\u00eat",
+                    "description": "Immunise contre l'attraction. \u00c0 partir de la 6e g\u00e9n\u00e9ration, ce talent immunise aussi contre la provocation.",
+                    "isHidden": false
+                },
+                {
+                    "id": 136,
+                    "name": "Gluco-Voile",
+                    "description": "Emp\u00eache les Pok\u00e9mon alli\u00e9s de s'endormir.",
+                    "isHidden": true
+                }
             ],
             "height": 7,
             "weight": 82

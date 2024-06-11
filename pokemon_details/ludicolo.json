@@ -20,9 +20,24 @@
             },
             "description": "LUDICOLO ne peut pas s'emp\u00eacher de danser quand il entend une musique joyeuse et festive. On raconte que ce POK\u00e9MON appara\u00eet lorsqu'il entend les enfants chanter pendant leurs randonn\u00e9es.",
             "abilities": [
-                134,
-                83,
-                272
+                {
+                    "id": 134,
+                    "name": "Glissade",
+                    "description": "Double la vitesse par temps de pluie.",
+                    "isHidden": false
+                },
+                {
+                    "id": 83,
+                    "name": "Cuvette",
+                    "description": "R\u00e9g\u00e9n\u00e8re 1/16e des PV par temps de pluie.",
+                    "isHidden": false
+                },
+                {
+                    "id": 272,
+                    "name": "Tempo Perso",
+                    "description": "Immunise contre la confusion.",
+                    "isHidden": true
+                }
             ],
             "height": 15,
             "weight": 550

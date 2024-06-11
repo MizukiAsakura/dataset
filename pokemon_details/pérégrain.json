@@ -19,8 +19,18 @@
             },
             "description": "M\u00eame les becs ac\u00e9r\u00e9s des Pok\u00e9mon Oiseaux ne parviennent pas \u00e0 meurtrir son corps tr\u00e8s dur. Il se d\u00e9fend en crachant de la poudre.",
             "abilities": [
-                186,
-                129
+                {
+                    "id": 186,
+                    "name": "Mue",
+                    "description": "\u00c0 chaque tour, le Pok\u00e9mon a 33% de chance d'\u00eatre soign\u00e9 d'une alt\u00e9ration d'\u00e9tat.",
+                    "isHidden": false
+                },
+                {
+                    "id": 129,
+                    "name": "Garde Amie",
+                    "description": "R\u00e9duire de 25% les d\u00e9g\u00e2ts inflig\u00e9s aux alli\u00e9s en Combat Double ou triple.",
+                    "isHidden": true
+                }
             ],
             "height": 3,
             "weight": 84

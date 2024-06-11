@@ -20,7 +20,12 @@
             },
             "description": "Son corps contient des hectolitres de poison. Il fait partie de ces cr\u00e9atures que l\u2019on nomme \u00ab Ultra-Chim\u00e8res \u00bb.",
             "abilities": [
-                41
+                {
+                    "id": 41,
+                    "name": "Boost Chim\u00e8re",
+                    "description": "Augmente la stat la plus \u00e9lev\u00e9e du Pok\u00e9mon quand il met K.O. un autre Pok\u00e9mon.",
+                    "isHidden": false
+                }
             ],
             "height": 36,
             "weight": 1500

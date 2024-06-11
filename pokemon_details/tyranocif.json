@@ -20,8 +20,18 @@
             },
             "description": "TYRANOCIF est si incroyablement puissant qu'il peut abattre une montagne pour y faire son nid. Ce POK\u00e9MON se prom\u00e8ne dans les montagnes pour y trouver de nouveaux adversaires.",
             "abilities": [
-                294,
-                273
+                {
+                    "id": 294,
+                    "name": "Voile Sable",
+                    "description": "Augmente l'esquive de 20% lors d'une temp\u00eate de sable et immunise contre ses d\u00e9g\u00e2ts.",
+                    "isHidden": false
+                },
+                {
+                    "id": 273,
+                    "name": "Tension",
+                    "description": "Emp\u00eache l'adversaire de consommer sa baie.",
+                    "isHidden": true
+                }
             ],
             "height": 20,
             "weight": 2020

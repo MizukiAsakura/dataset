@@ -19,9 +19,24 @@
             },
             "description": "Chaque fois qu'ABSOL appara\u00eet devant des gens, une catastrophe comme un tremblement de terre ou un raz de mar\u00e9e survient peu de temps apr\u00e8s. Il est devenu tristement c\u00e9l\u00e8bre sous l'appellation de POK\u00e9MON d\u00e9sastreux.",
             "abilities": [
-                239,
-                51,
-                59
+                {
+                    "id": 239,
+                    "name": "R\u00e9colte",
+                    "description": "Une baie consomm\u00e9e par le Pok\u00e9mon a 50% de chances d'\u00eatre r\u00e9cup\u00e9r\u00e9e \u00e0 la fin de chaque tour.",
+                    "isHidden": false
+                },
+                {
+                    "id": 51,
+                    "name": "Chanceux",
+                    "description": "Double les chances de porter un coup critique.",
+                    "isHidden": false
+                },
+                {
+                    "id": 59,
+                    "name": "C\u0153ur Noble",
+                    "description": "Si le Pok\u00e9mon est touch\u00e9 par une attaque de type T\u00e9n\u00e8bres, son attaque augmente d'un niveau.",
+                    "isHidden": true
+                }
             ],
             "height": 12,
             "weight": 470

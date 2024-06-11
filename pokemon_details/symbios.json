@@ -19,9 +19,24 @@
             },
             "description": "S\u2019il ne s\u2019agissait pas d\u2019un poison violent que seul Symbios peut boire, son curieux fluide pourrait, selon les dires, rendre plus intelligent.",
             "abilities": [
-                106,
-                130,
-                241
+                {
+                    "id": 106,
+                    "name": "Envelocape",
+                    "description": "Immunise contre les d\u00e9g\u00e2ts caus\u00e9s par la gr\u00eale et les temp\u00eates de sable.",
+                    "isHidden": false
+                },
+                {
+                    "id": 130,
+                    "name": "Garde Magik",
+                    "description": "Le Pok\u00e9mon ne subit de d\u00e9g\u00e2ts que lors d'attaques directes.",
+                    "isHidden": false
+                },
+                {
+                    "id": 241,
+                    "name": "R\u00e9g\u00e9-Force",
+                    "description": "Restaure 1/3 des PV totaux si le Pok\u00e9mon est retir\u00e9 du combat.",
+                    "isHidden": true
+                }
             ],
             "height": 10,
             "weight": 201

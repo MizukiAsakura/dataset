@@ -20,9 +20,24 @@
             },
             "description": "L'\u00e9paisse queue de Nidoking est d'une puissance incroyable. En un seul coup, il peut renverser une tour m\u00e9tallique. Lorsque ce Pok\u00e9mon se d\u00e9cha\u00eene, plus rien ne peut l'arr\u00eater.",
             "abilities": [
-                217,
-                244,
-                248
+                {
+                    "id": 217,
+                    "name": "Point Poison",
+                    "description": "30% de chance de provoquer l'empoisonnement du Pok\u00e9mon adverse ayant lanc\u00e9 une attaque de contact.",
+                    "isHidden": false
+                },
+                {
+                    "id": 244,
+                    "name": "Rivalit\u00e9",
+                    "description": "Augmente l'attaque et l'attaque sp\u00e9ciale de 25% si le Pok\u00e9mon adverse est de m\u00eame sexe. Les diminue s'il est de sexe oppos\u00e9.",
+                    "isHidden": false
+                },
+                {
+                    "id": 248,
+                    "name": "Sans Limite",
+                    "description": "Augmente de 30% la puissance des attaques pouvant avoir un effet secondaire. L'effet secondaire est annul\u00e9.",
+                    "isHidden": true
+                }
             ],
             "height": 14,
             "weight": 620

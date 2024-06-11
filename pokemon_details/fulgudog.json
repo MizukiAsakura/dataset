@@ -19,8 +19,18 @@
             },
             "description": "Il se sert de l\u2019\u00e9nergie \u00e9lectrique pour augmenter la puissance de ses membres. Sa vitesse maximale d\u00e9passe de peu les 90 km/h.",
             "abilities": [
-                227,
-                33
+                {
+                    "id": 227,
+                    "name": "Prognathe",
+                    "description": "Augmente la puissance des attaques \u00e0 base de morsures.",
+                    "isHidden": false
+                },
+                {
+                    "id": 33,
+                    "name": "Battant",
+                    "description": "Augmente l'Attaque Sp\u00e9ciale par deux niveaux lorsque n'importe quelle stat est baiss\u00e9e par un Pok\u00e9mon adverse.",
+                    "isHidden": true
+                }
             ],
             "height": 10,
             "weight": 340

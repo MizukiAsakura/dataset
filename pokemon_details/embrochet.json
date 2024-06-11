@@ -19,8 +19,18 @@
             },
             "description": "Lorsqu\u2019il a le ventre plein, il a beaucoup plus de mal \u00e0 se d\u00e9placer, et c\u2019est \u00e0 ce moment pr\u00e9cis qu\u2019il se fait gober par les Nigosier.",
             "abilities": [
-                134,
-                228
+                {
+                    "id": 134,
+                    "name": "Glissade",
+                    "description": "Double la vitesse par temps de pluie.",
+                    "isHidden": false
+                },
+                {
+                    "id": 228,
+                    "name": "Propulseur",
+                    "description": "Permet d'ignorer l'effet des capacit\u00e9s ou des talents qui attirent les capacit\u00e9s.",
+                    "isHidden": true
+                }
             ],
             "height": 5,
             "weight": 10

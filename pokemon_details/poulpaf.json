@@ -19,8 +19,18 @@
             },
             "description": "Il se rend sur la terre ferme pour se nourrir. Tr\u00e8s curieux, son premier r\u00e9flexe est de frapper tout ce qu\u2019il voit avec ses tentacules.",
             "abilities": [
-                98,
-                268
+                {
+                    "id": 98,
+                    "name": "\u00c9chauffement",
+                    "description": "Immunise contre la paralysie.",
+                    "isHidden": false
+                },
+                {
+                    "id": 268,
+                    "name": "Technicien",
+                    "description": "Augmente de 50% la puissance des attaques dont la puissance est inf\u00e9rieure ou \u00e9gale \u00e0 60.",
+                    "isHidden": true
+                }
             ],
             "height": 6,
             "weight": 40

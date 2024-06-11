@@ -19,9 +19,24 @@
             },
             "description": "PORYGON2 fut cr\u00e9\u00e9 par des humains gr\u00e2ce aux progr\u00e8s de la science. Ce POK\u00e9MON a \u00e9t\u00e9 dot\u00e9 d'une intelligence artificielle qui lui permet d'apprendre de nouveaux mouvements et des \u00e9motions par lui-m\u00eame.",
             "abilities": [
-                48,
-                269,
-                14
+                {
+                    "id": 48,
+                    "name": "Calque",
+                    "description": "Copie le talent du Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 269,
+                    "name": "T\u00e9l\u00e9charge",
+                    "description": "Augmente l'attaque ou l'attaque sp\u00e9ciale du Pok\u00e9mon, selon la statistique de d\u00e9fense la plus faible du Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 14,
+                    "name": "Analyste",
+                    "description": "Si le Pok\u00e9mon frappe en dernier durant le tour, la puissance de son attaque est augment\u00e9e de 30%.",
+                    "isHidden": true
+                }
             ],
             "height": 6,
             "weight": 325

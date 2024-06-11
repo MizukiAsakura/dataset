@@ -19,8 +19,18 @@
             },
             "description": "Seuls les Canarticho ayant surv\u00e9cu \u00e0 de nombreux combats atteignent ce stade d\u2019\u00e9volution. Si son poireau se fl\u00e9trit, il se retire du champ de bataille.",
             "abilities": [
-                149,
-                232
+                {
+                    "id": 149,
+                    "name": "Impassible",
+                    "description": "Augmente d'un niveau la vitesse du Pok\u00e9mon lorsqu'il est apeur\u00e9.",
+                    "isHidden": false
+                },
+                {
+                    "id": 232,
+                    "name": "Querelleur",
+                    "description": "Permet de toucher les Pok\u00e9mon de type Spectre avec des attaques de type Normal ou Combat.",
+                    "isHidden": true
+                }
             ],
             "height": 8,
             "weight": 1170

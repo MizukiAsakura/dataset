@@ -20,8 +20,18 @@
             },
             "description": "Lorsque deux TERHAL fusionnent, un METANG appara\u00eet. Les cerveaux des TERHAL sont reli\u00e9s par un syst\u00e8me nerveux magn\u00e9tique, ce qui permet \u00e0 ce POK\u00e9MON de g\u00e9n\u00e9rer un puissant pouvoir t\u00e9l\u00e9kin\u00e9sique.",
             "abilities": [
-                73,
-                163
+                {
+                    "id": 73,
+                    "name": "Corps Sain",
+                    "description": "Emp\u00eache la diminution de statistiques par le Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 163,
+                    "name": "Light Metal",
+                    "description": "Divise par deux la masse du Pok\u00e9mon.",
+                    "isHidden": true
+                }
             ],
             "height": 12,
             "weight": 2025

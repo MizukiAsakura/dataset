@@ -20,8 +20,18 @@
             },
             "description": "Il se bat en donnant des \u00ab coups de bulle \u00bb. Les plus petits Pok\u00e9mon peuvent se retrouver pi\u00e9g\u00e9s \u00e0 l\u2019int\u00e9rieur de sa bulle et mourir noy\u00e9s.",
             "abilities": [
-                19,
-                2
+                {
+                    "id": 19,
+                    "name": "Aquabulle",
+                    "description": "R\u00e9duit la puissance des capacit\u00e9s Feu subies, immunise contre les br\u00fblures et double la puissance des capacit\u00e9s Eau",
+                    "isHidden": false
+                },
+                {
+                    "id": 2,
+                    "name": "Absorb Eau",
+                    "description": "Les attaques de type Eau re\u00e7ues par le Pok\u00e9mon r\u00e9g\u00e9n\u00e8rent 1/4 de ses PV.",
+                    "isHidden": true
+                }
             ],
             "height": 18,
             "weight": 820

@@ -20,8 +20,18 @@
             },
             "description": "HELEDELLE vole dans les cieux en dessinant de grands arcs. Ce POK\u00e9MON plonge en piqu\u00e9 d\u00e8s qu'il rep\u00e8re sa proie. Il attrape fermement la malheureuse cible dans ses serres, emp\u00eachant toute fuite.",
             "abilities": [
-                77,
-                232
+                {
+                    "id": 77,
+                    "name": "Cran",
+                    "description": "Augmente de 50% l'attaque du Pok\u00e9mon s'il subit un changement de statut.",
+                    "isHidden": false
+                },
+                {
+                    "id": 232,
+                    "name": "Querelleur",
+                    "description": "Permet de toucher les Pok\u00e9mon de type Spectre avec des attaques de type Normal ou Combat.",
+                    "isHidden": true
+                }
             ],
             "height": 7,
             "weight": 198

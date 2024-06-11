@@ -19,8 +19,18 @@
             },
             "description": "Il recouvre son territoire de fil solide et collant pour pi\u00e9ger les ind\u00e9sirables qui s'y aventurent.",
             "abilities": [
-                155,
-                119
+                {
+                    "id": 155,
+                    "name": "Insomnia",
+                    "description": "Emp\u00eache le Pok\u00e9mon d'\u00eatre endormi.",
+                    "isHidden": false
+                },
+                {
+                    "id": 119,
+                    "name": "Filature",
+                    "description": "Inflige le double de d\u00e9g\u00e2ts aux Pok\u00e9mon arrivant au milieu d'un combat.",
+                    "isHidden": true
+                }
             ],
             "height": 10,
             "weight": 165

@@ -19,7 +19,12 @@
             },
             "description": "Il est n\u00e9 de l\u2019\u00e2me d\u2019un \u00eatre humain d\u2019un peuple antique. Il erre dans les ruines \u00e0 la recherche de quiconque reconna\u00eetra son visage.",
             "abilities": [
-                183
+                {
+                    "id": 183,
+                    "name": "Momie",
+                    "description": "Si le Pok\u00e9mon subit une attaque de contact, le talent de l'adversaire devient Momie. Ce talent est sans effet en lui-m\u00eame.",
+                    "isHidden": false
+                }
             ],
             "height": 5,
             "weight": 15
@@ -41,7 +46,12 @@
             },
             "description": "Tutafeh a pris possession d\u2019une tablette en argile o\u00f9 est grav\u00e9e une mal\u00e9diction. On dit qu\u2019il aspire la rancune des autres pour en faire sa force.",
             "abilities": [
-                12
+                {
+                    "id": 12,
+                    "name": "\u00c2me Vagabonde",
+                    "description": "Lorsque le Pok\u00e9mon est directement touch\u00e9 par une attaque, il \u00e9change son talent avec celui de l'assaillant.",
+                    "isHidden": false
+                }
             ],
             "height": 5,
             "weight": 15

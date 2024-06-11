@@ -20,9 +20,24 @@
             },
             "description": "GARDEVOIR est dot\u00e9 d'un pouvoir t\u00e9l\u00e9kin\u00e9sique lui permettant de d\u00e9former les dimensions et de cr\u00e9er un petit trou noir. Ce POK\u00e9MON est pr\u00eat \u00e0 risquer sa vie pour prot\u00e9ger son DRESSEUR.",
             "abilities": [
-                265,
-                48,
-                270
+                {
+                    "id": 265,
+                    "name": "Synchro",
+                    "description": "Toute alt\u00e9ration d'\u00e9tat subie est transmise au Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 48,
+                    "name": "Calque",
+                    "description": "Copie le talent du Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 270,
+                    "name": "T\u00e9l\u00e9pathe",
+                    "description": "Anticipe et \u00e9vite les attaques des alli\u00e9s en Combat Double ou triple.",
+                    "isHidden": true
+                }
             ],
             "height": 16,
             "weight": 484

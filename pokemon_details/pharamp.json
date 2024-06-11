@@ -19,8 +19,18 @@
             },
             "description": "PHARAMP est si lumineux qu'on peut le voir de l'espace. Jadis, les gens utilisaient la lumi\u00e8re de ce POK\u00e9MON pour communiquer et s'envoyer des signaux \u00e0 grande distance.",
             "abilities": [
-                260,
-                214
+                {
+                    "id": 260,
+                    "name": "Statik",
+                    "description": "30% de chance de provoquer la paralysie du Pok\u00e9mon adverse ayant lanc\u00e9 une attaque de contact.",
+                    "isHidden": false
+                },
+                {
+                    "id": 214,
+                    "name": "Plus",
+                    "description": "Augmente l'attaque sp\u00e9ciale de 50% en Match Double, si le partenaire \u00e0 le talent Minus (ou le m\u00eame talent, depuis Pok\u00e9mon Noir et Blanc).",
+                    "isHidden": true
+                }
             ],
             "height": 14,
             "weight": 615

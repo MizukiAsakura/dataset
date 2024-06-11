@@ -19,9 +19,24 @@
             },
             "description": "On l\u2019a d\u00e9couvert dans une mine il y a 400 ans. Son corps est presque enti\u00e8rement compos\u00e9 d\u2019une substance identique au charbon.",
             "abilities": [
-                285,
-                146,
-                281
+                {
+                    "id": 285,
+                    "name": "Turbine",
+                    "description": "La Vitesse du Pok\u00e9mon augmente de 6 niveaux s'il est touch\u00e9 par une capacit\u00e9 de type Feu ou Eau en combat.",
+                    "isHidden": false
+                },
+                {
+                    "id": 146,
+                    "name": "Ignifug\u00e9",
+                    "description": "Divise par 2 les d\u00e9g\u00e2ts des attaques de type Feu et les effets de br\u00fblure subis par le Pok\u00e9mon.",
+                    "isHidden": false
+                },
+                {
+                    "id": 281,
+                    "name": "Torche",
+                    "description": "Annule les d\u00e9g\u00e2ts des attaques de type Feu subies et augmente de 50% la puissance des attaques de type Feu lanc\u00e9es.",
+                    "isHidden": true
+                }
             ],
             "height": 3,
             "weight": 120

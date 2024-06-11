@@ -19,8 +19,18 @@
             },
             "description": "Sa bou\u00e9e est pareille \u00e0 un collier gonflable. Quand il flotte, il garde la t\u00eate \u00e0 l'air libre. Il nage en faisant tournoyer ses deux queues comme une h\u00e9lice. Sa bou\u00e9e s'affaisse quand il plonge.",
             "abilities": [
-                134,
-                147
+                {
+                    "id": 134,
+                    "name": "Glissade",
+                    "description": "Double la vitesse par temps de pluie.",
+                    "isHidden": false
+                },
+                {
+                    "id": 147,
+                    "name": "Ignifu-Voile",
+                    "description": "Immunise contre la br\u00fblure.",
+                    "isHidden": true
+                }
             ],
             "height": 7,
             "weight": 295

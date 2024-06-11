@@ -19,8 +19,18 @@
             },
             "description": "Lorsqu'une temp\u00eate approche, des groupes entiers de ce Pok\u00e9mon se battent pour grimper sur les hauteurs, o\u00f9 la foudre a le plus de chance de tomber. Certaines villes se servent d'\u00c9lektek en guise de paratonnerres.",
             "abilities": [
-                260,
-                110
+                {
+                    "id": 260,
+                    "name": "Statik",
+                    "description": "30% de chance de provoquer la paralysie du Pok\u00e9mon adverse ayant lanc\u00e9 une attaque de contact.",
+                    "isHidden": false
+                },
+                {
+                    "id": 110,
+                    "name": "Esprit Vital",
+                    "description": "Emp\u00eache le Pok\u00e9mon d'\u00eatre endormi.",
+                    "isHidden": true
+                }
             ],
             "height": 11,
             "weight": 300

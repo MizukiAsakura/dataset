@@ -19,8 +19,18 @@
             },
             "description": "Le corps de Sablaireau est recouvert de pointes tr\u00e8s dures, qui sont des extensions de sa peau. Une fois par an, ce Pok\u00e9mon mue et les vieilles pointes tombent, remplac\u00e9es par de nouvelles.",
             "abilities": [
-                294,
-                30
+                {
+                    "id": 294,
+                    "name": "Voile Sable",
+                    "description": "Augmente l'esquive de 20% lors d'une temp\u00eate de sable et immunise contre ses d\u00e9g\u00e2ts.",
+                    "isHidden": false
+                },
+                {
+                    "id": 30,
+                    "name": "Baigne Sable",
+                    "description": "Double la Vitesse du Pok\u00e9mon lors d'une temp\u00eate de sable. Immunise contre les d\u00e9g\u00e2ts de la temp\u00eate.",
+                    "isHidden": true
+                }
             ],
             "height": 10,
             "weight": 295
@@ -42,8 +52,18 @@
             },
             "description": "Le corps de Sablaireau est recouvert de pointes tr\u00e8s dures, qui sont des extensions de sa peau. Une fois par an, ce Pok\u00e9mon mue et les vieilles pointes tombent, remplac\u00e9es par de nouvelles.",
             "abilities": [
-                243,
-                53
+                {
+                    "id": 243,
+                    "name": "Rideau Neige",
+                    "description": "Augmente l'esquive de 20% par temps de gr\u00eale. Immunise les Pok\u00e9mon n'ayant pas le type Glace contre la gr\u00eale.",
+                    "isHidden": false
+                },
+                {
+                    "id": 53,
+                    "name": "Chasse-Neige",
+                    "description": "Double la Vitesse sous la Gr\u00eale.",
+                    "isHidden": true
+                }
             ],
             "height": 12,
             "weight": 550

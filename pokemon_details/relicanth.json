@@ -20,9 +20,24 @@
             },
             "description": "Les RELICANTH sont une esp\u00e8ce de POK\u00e9MON qui a exist\u00e9 pendant cent millions d'ann\u00e9es sans jamais changer de forme. Ce POK\u00e9MON antique se nourrit d'organismes microscopiques avec sa bouche \u00e9dent\u00e9e.",
             "abilities": [
-                134,
-                276,
-                117
+                {
+                    "id": 134,
+                    "name": "Glissade",
+                    "description": "Double la vitesse par temps de pluie.",
+                    "isHidden": false
+                },
+                {
+                    "id": 276,
+                    "name": "T\u00eate de Roc",
+                    "description": "Le Pok\u00e9mon ne subit pas de d\u00e9g\u00e2ts de contrecoup.",
+                    "isHidden": false
+                },
+                {
+                    "id": 117,
+                    "name": "Fermet\u00e9",
+                    "description": "Immunise contre les attaques OHKO. \u00c0 partir de la 5e g\u00e9n\u00e9ration, ce talent fait aussi conserver 1 PV au Pok\u00e9mon m\u00eame apr\u00e8s une attaque qui aurait d\u00fb le terrasser, s'il a tous ses PV.",
+                    "isHidden": true
+                }
             ],
             "height": 10,
             "weight": 234

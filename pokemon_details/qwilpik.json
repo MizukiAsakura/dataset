@@ -20,9 +20,24 @@
             },
             "description": "Ses \u00e9pines semblables \u00e0 des lances et sa nature violente lui valent le sobriquet \u00ab\u00a0d'ogre des oc\u00e9ans\u00a0\u00bb. Il se repa\u00eet du poison qu'il aspire.",
             "abilities": [
-                217,
-                134,
-                156
+                {
+                    "id": 217,
+                    "name": "Point Poison",
+                    "description": "30% de chance de provoquer l'empoisonnement du Pok\u00e9mon adverse ayant lanc\u00e9 une attaque de contact.",
+                    "isHidden": false
+                },
+                {
+                    "id": 134,
+                    "name": "Glissade",
+                    "description": "Double la vitesse par temps de pluie.",
+                    "isHidden": false
+                },
+                {
+                    "id": 156,
+                    "name": "Intimidation",
+                    "description": "Diminue d'un niveau l'attaque du Pok\u00e9mon adverse.",
+                    "isHidden": true
+                }
             ],
             "height": 25,
             "weight": 605

@@ -19,8 +19,18 @@
             },
             "description": "A l'aide des pointes derri\u00e8re sa t\u00eate, CHENIPOTTE d\u00e9chire l'\u00e9corce des arbres et mange la s\u00e8ve qui coule dessus. Les pattes de ce POK\u00e9MON sont dot\u00e9es de coussinets \u00e0 ventouses pour adh\u00e9rer aux parois en verre sans en glisser.",
             "abilities": [
-                100,
-                128
+                {
+                    "id": 100,
+                    "name": "\u00c9cran Poudre",
+                    "description": "Emp\u00eache les effets secondaires des attaques subies.",
+                    "isHidden": false
+                },
+                {
+                    "id": 128,
+                    "name": "Fuite",
+                    "description": "Assure la fuite contre les Pok\u00e9mon sauvages.",
+                    "isHidden": true
+                }
             ],
             "height": 3,
             "weight": 36

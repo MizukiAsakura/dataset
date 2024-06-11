@@ -20,9 +20,24 @@
             },
             "description": "Ses racines sont un v\u00e9ritable syst\u00e8me nerveux qui lui permet de contr\u00f4ler les arbres de la for\u00eat. Il se montre tr\u00e8s gentil envers les Pok\u00e9mon vivant dans son \u00e9corce.",
             "abilities": [
-                174,
-                126,
-                239
+                {
+                    "id": 174,
+                    "name": "M\u00e9dic Nature",
+                    "description": "Le Pok\u00e9mon est soign\u00e9 de toute alt\u00e9ration d'\u00e9tat lorsqu'il est chang\u00e9 ou en fin de combat.",
+                    "isHidden": false
+                },
+                {
+                    "id": 126,
+                    "name": "Fouille",
+                    "description": "Permet de connaitre l'objet tenu d'un Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 239,
+                    "name": "R\u00e9colte",
+                    "description": "Une baie consomm\u00e9e par le Pok\u00e9mon a 50% de chances d'\u00eatre r\u00e9cup\u00e9r\u00e9e \u00e0 la fin de chaque tour.",
+                    "isHidden": true
+                }
             ],
             "height": 15,
             "weight": 710

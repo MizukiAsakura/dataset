@@ -20,9 +20,24 @@
             },
             "description": "Il emmagasine l'\u00e9lectricit\u00e9 produite par ses ailes dans son sac gulaire. Il ne nage pas tr\u00e8s bien, car ses plumes sont peu huil\u00e9es.",
             "abilities": [
-                3,
-                286,
-                33
+                {
+                    "id": 3,
+                    "name": "Absorb Volt",
+                    "description": "Les attaques de type \u00c9lectrik re\u00e7ues par le Pok\u00e9mon r\u00e9g\u00e9n\u00e8rent 1/4 de ses PV.",
+                    "isHidden": false
+                },
+                {
+                    "id": 286,
+                    "name": "Turbine \u00c9olienne",
+                    "description": "Si le Pok\u00e9mon est touch\u00e9 par une capacit\u00e9 faisant appel au vent, il se charge en \u00e9lectricit\u00e9.",
+                    "isHidden": false
+                },
+                {
+                    "id": 33,
+                    "name": "Battant",
+                    "description": "Augmente l'Attaque Sp\u00e9ciale par deux niveaux lorsque n'importe quelle stat est baiss\u00e9e par un Pok\u00e9mon adverse.",
+                    "isHidden": true
+                }
             ],
             "height": 14,
             "weight": 386

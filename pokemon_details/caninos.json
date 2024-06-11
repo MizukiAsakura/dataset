@@ -19,9 +19,24 @@
             },
             "description": "Caninos a un odorat tr\u00e8s d\u00e9velopp\u00e9. Ce Pok\u00e9mon n'oublie jamais un parfum, quel qu'il soit. Il utilise son puissant sens olfactif pour deviner les \u00e9motions des autres cr\u00e9atures vivantes.",
             "abilities": [
-                156,
-                281,
-                59
+                {
+                    "id": 156,
+                    "name": "Intimidation",
+                    "description": "Diminue d'un niveau l'attaque du Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 281,
+                    "name": "Torche",
+                    "description": "Annule les d\u00e9g\u00e2ts des attaques de type Feu subies et augmente de 50% la puissance des attaques de type Feu lanc\u00e9es.",
+                    "isHidden": true
+                },
+                {
+                    "id": 59,
+                    "name": "C\u0153ur Noble",
+                    "description": "Si le Pok\u00e9mon est touch\u00e9 par une attaque de type T\u00e9n\u00e8bres, son attaque augmente d'un niveau.",
+                    "isHidden": true
+                }
             ],
             "height": 7,
             "weight": 190
@@ -43,9 +58,24 @@
             },
             "description": "Caninos a un odorat tr\u00e8s d\u00e9velopp\u00e9. Ce Pok\u00e9mon n'oublie jamais un parfum, quel qu'il soit. Il utilise son puissant sens olfactif pour deviner les \u00e9motions des autres cr\u00e9atures vivantes.",
             "abilities": [
-                156,
-                276,
-                281
+                {
+                    "id": 156,
+                    "name": "Intimidation",
+                    "description": "Diminue d'un niveau l'attaque du Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 276,
+                    "name": "T\u00eate de Roc",
+                    "description": "Le Pok\u00e9mon ne subit pas de d\u00e9g\u00e2ts de contrecoup.",
+                    "isHidden": false
+                },
+                {
+                    "id": 281,
+                    "name": "Torche",
+                    "description": "Annule les d\u00e9g\u00e2ts des attaques de type Feu subies et augmente de 50% la puissance des attaques de type Feu lanc\u00e9es.",
+                    "isHidden": true
+                }
             ],
             "height": 8,
             "weight": 227

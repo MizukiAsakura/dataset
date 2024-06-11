@@ -20,9 +20,24 @@
             },
             "description": "Les deux t\u00eates de Doduo ne dorment jamais en m\u00eame temps. Elles se reposent \u00e0 tour de r\u00f4le pour que l'une puisse monter la garde pendant que l'autre dort.",
             "abilities": [
-                128,
-                171,
-                211
+                {
+                    "id": 128,
+                    "name": "Fuite",
+                    "description": "Assure la fuite contre les Pok\u00e9mon sauvages.",
+                    "isHidden": false
+                },
+                {
+                    "id": 171,
+                    "name": "Matinal",
+                    "description": "R\u00e9duit le nombre de tours de sommeil du Pok\u00e9mon.",
+                    "isHidden": false
+                },
+                {
+                    "id": 211,
+                    "name": "Pied Confus",
+                    "description": "Augmente l'esquive de 20% lorsque le Pok\u00e9mon est confus.",
+                    "isHidden": true
+                }
             ],
             "height": 14,
             "weight": 392

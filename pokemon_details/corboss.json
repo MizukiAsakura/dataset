@@ -20,9 +20,24 @@
             },
             "description": "Ce Pok\u00e9mon nocturne \u00e9volue en grandes vol\u00e9es escort\u00e9es par des CORNEBRE. Il demande \u00e0 ses amis CORNEBRE de lui apporter \u00e0 manger. Il passe son temps \u00e0 se pomponner dans son nid.",
             "abilities": [
-                155,
-                51,
-                151
+                {
+                    "id": 155,
+                    "name": "Insomnia",
+                    "description": "Emp\u00eache le Pok\u00e9mon d'\u00eatre endormi.",
+                    "isHidden": false
+                },
+                {
+                    "id": 51,
+                    "name": "Chanceux",
+                    "description": "Double les chances de porter un coup critique.",
+                    "isHidden": false
+                },
+                {
+                    "id": 151,
+                    "name": "Impudence",
+                    "description": "Monte l'attaque du Pok\u00e9mon d'un niveau lorsqu'il met un adversaire K.O.",
+                    "isHidden": true
+                }
             ],
             "height": 9,
             "weight": 273

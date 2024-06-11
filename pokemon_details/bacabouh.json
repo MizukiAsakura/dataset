@@ -20,8 +20,18 @@
             },
             "description": "Ceux qui ont le malheur de mettre la main dans sa gueule deviennent ses pantins. Il est pr\u00eat \u00e0 tout pour agrandir son corps en forme de dune.",
             "abilities": [
-                246,
-                294
+                {
+                    "id": 246,
+                    "name": "Sable Humide",
+                    "description": "Augmente la d\u00e9fense du Pok\u00e9mon de deux crans s'il est touch\u00e9 par une attaque de type Eau.",
+                    "isHidden": false
+                },
+                {
+                    "id": 294,
+                    "name": "Voile Sable",
+                    "description": "Augmente l'esquive de 20% lors d'une temp\u00eate de sable et immunise contre ses d\u00e9g\u00e2ts.",
+                    "isHidden": true
+                }
             ],
             "height": 5,
             "weight": 700

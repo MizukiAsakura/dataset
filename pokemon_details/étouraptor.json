@@ -20,8 +20,18 @@
             },
             "description": "Un Pok\u00e9mon sauvage qui a le courage de d\u00e9fier des ennemis beaucoup plus grands que lui. Ses ailes et ses pattes ont des muscles d\u00e9velopp\u00e9s. Il peut voler en agrippant un petit Pok\u00e9mon.",
             "abilities": [
-                156,
-                271
+                {
+                    "id": 156,
+                    "name": "Intimidation",
+                    "description": "Diminue d'un niveau l'attaque du Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 271,
+                    "name": "T\u00e9m\u00e9raire",
+                    "description": "Augmente de 20% la puissance des attaques infligeant un contrecoup.",
+                    "isHidden": true
+                }
             ],
             "height": 12,
             "weight": 249

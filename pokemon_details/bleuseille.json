@@ -19,9 +19,24 @@
             },
             "description": "Il est capable d\u2019utiliser des objets avec ses serres : il peut par exemple saisir et lancer des pierres ou m\u00eame enrouler une corde autour d\u2019un ennemi.",
             "abilities": [
-                240,
-                273,
-                58
+                {
+                    "id": 240,
+                    "name": "Regard Vif",
+                    "description": "Emp\u00eache la perte de pr\u00e9cision.",
+                    "isHidden": false
+                },
+                {
+                    "id": 273,
+                    "name": "Tension",
+                    "description": "Emp\u00eache l'adversaire de consommer sa baie.",
+                    "isHidden": false
+                },
+                {
+                    "id": 58,
+                    "name": "C\u0153ur de Coq",
+                    "description": "Emp\u00eache la d\u00e9fense du Pok\u00e9mon d'\u00eatre baiss\u00e9e par les attaques adverses.",
+                    "isHidden": true
+                }
             ],
             "height": 8,
             "weight": 160

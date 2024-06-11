@@ -20,9 +20,24 @@
             },
             "description": "C\u2019est un guerrier endurci d\u00e8s sa naissance. Il commence d\u2019ailleurs par d\u00e9fier ses parents au combat pour leur prouver sa valeur.",
             "abilities": [
-                240,
-                248,
-                8
+                {
+                    "id": 240,
+                    "name": "Regard Vif",
+                    "description": "Emp\u00eache la perte de pr\u00e9cision.",
+                    "isHidden": false
+                },
+                {
+                    "id": 248,
+                    "name": "Sans Limite",
+                    "description": "Augmente de 30% la puissance des attaques pouvant avoir un effet secondaire. L'effet secondaire est annul\u00e9.",
+                    "isHidden": false
+                },
+                {
+                    "id": 8,
+                    "name": "Agitation",
+                    "description": "Augmente l'attaque de 50% mais baisse la pr\u00e9cision de 20%.",
+                    "isHidden": true
+                }
             ],
             "height": 5,
             "weight": 105

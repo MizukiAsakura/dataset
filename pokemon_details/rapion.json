@@ -20,9 +20,24 @@
             },
             "description": "Il saisit sa proie avec les pinces de sa queue, lui injecte un poison et la retient jusqu'\u00e0 ce qu'il agisse. Il vit sur les terres arides. Il s'enfouit dans le sable dans l'attente d'une proie imprudente.",
             "abilities": [
-                21,
-                254,
-                240
+                {
+                    "id": 21,
+                    "name": "Armurbaston",
+                    "description": "Annule les chances de coups critiques du Pok\u00e9mon ennemi.",
+                    "isHidden": false
+                },
+                {
+                    "id": 254,
+                    "name": "Sniper",
+                    "description": "Triple la puissance des coups critiques.",
+                    "isHidden": false
+                },
+                {
+                    "id": 240,
+                    "name": "Regard Vif",
+                    "description": "Emp\u00eache la perte de pr\u00e9cision.",
+                    "isHidden": true
+                }
             ],
             "height": 8,
             "weight": 120

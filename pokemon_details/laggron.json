@@ -20,8 +20,18 @@
             },
             "description": "LAGGRON est tr\u00e8s fort. Tellement fort qu'il peut ais\u00e9ment tracter un rocher pesant plus d'une tonne. Ce POK\u00e9MON est \u00e9galement dot\u00e9 d'une vision si efficace qu'il peut m\u00eame voir \u00e0 travers l'eau trouble.",
             "abilities": [
-                282,
-                182
+                {
+                    "id": 282,
+                    "name": "Torrent",
+                    "description": "Augmente la puissance des attaques de type Eau de 50% lorsque le Pok\u00e9mon a moins d'1/3 de ses PV totaux.",
+                    "isHidden": false
+                },
+                {
+                    "id": 182,
+                    "name": "Moiteur",
+                    "description": "\u00c9mp\u00eache l'utilisation d'attaques auto-destructrices par le Pok\u00e9mon adverse.",
+                    "isHidden": true
+                }
             ],
             "height": 15,
             "weight": 819

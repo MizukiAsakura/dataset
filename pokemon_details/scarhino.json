@@ -20,9 +20,24 @@
             },
             "description": "SCARHINO charge ses ennemis en ligne droite, se glisse dessous, les attrape et les projette violemment d'un coup de sa puissante corne. Ce POK\u00e9MON est tellement fort qu'il pourrait d\u00e9raciner un arbre.",
             "abilities": [
-                77,
-                111,
-                151
+                {
+                    "id": 77,
+                    "name": "Cran",
+                    "description": "Augmente de 50% l'attaque du Pok\u00e9mon s'il subit un changement de statut.",
+                    "isHidden": false
+                },
+                {
+                    "id": 111,
+                    "name": "Essaim",
+                    "description": "Augmente la puissance des attaques de type Insecte de 50% lorsque le Pok\u00e9mon a moins d'1/3 de ses PV totaux.",
+                    "isHidden": false
+                },
+                {
+                    "id": 151,
+                    "name": "Impudence",
+                    "description": "Monte l'attaque du Pok\u00e9mon d'un niveau lorsqu'il met un adversaire K.O.",
+                    "isHidden": true
+                }
             ],
             "height": 15,
             "weight": 540

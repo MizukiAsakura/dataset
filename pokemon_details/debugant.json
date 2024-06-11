@@ -19,9 +19,24 @@
             },
             "description": "DEBUGANT devient nerveux s'il ne s'entra\u00eene pas tous les jours. Lorsqu'un DRESSEUR \u00e9l\u00e8ve ce POK\u00e9MON, il doit \u00e9tablir et appliquer un programme d'entra\u00eenement tr\u00e8s complet.",
             "abilities": [
-                77,
-                149,
-                110
+                {
+                    "id": 77,
+                    "name": "Cran",
+                    "description": "Augmente de 50% l'attaque du Pok\u00e9mon s'il subit un changement de statut.",
+                    "isHidden": false
+                },
+                {
+                    "id": 149,
+                    "name": "Impassible",
+                    "description": "Augmente d'un niveau la vitesse du Pok\u00e9mon lorsqu'il est apeur\u00e9.",
+                    "isHidden": false
+                },
+                {
+                    "id": 110,
+                    "name": "Esprit Vital",
+                    "description": "Emp\u00eache le Pok\u00e9mon d'\u00eatre endormi.",
+                    "isHidden": true
+                }
             ],
             "height": 7,
             "weight": 210

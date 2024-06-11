@@ -20,7 +20,12 @@
             },
             "description": "Le corps robuste de MUNJA ne bouge pas d'un pouce. En fait, son corps semble \u00eatre une coquille vide. Certains croient que ce POK\u00e9MON peut voler l'\u00e2me de quiconque regarderait \u00e0 l'int\u00e9rieur de son corps creux.",
             "abilities": [
-                131
+                {
+                    "id": 131,
+                    "name": "Garde Mystik",
+                    "description": "Ne subit que les d\u00e9g\u00e2ts d'attaques super efficaces.",
+                    "isHidden": false
+                }
             ],
             "height": 8,
             "weight": 12

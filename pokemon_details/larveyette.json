@@ -20,9 +20,24 @@
             },
             "description": "Il fait des v\u00eatements en d\u00e9coupant des feuilles et en les cousant avec le fil adh\u00e9sif qu\u2019il s\u00e9cr\u00e8te par la bouche.",
             "abilities": [
-                111,
-                56,
-                106
+                {
+                    "id": 111,
+                    "name": "Essaim",
+                    "description": "Augmente la puissance des attaques de type Insecte de 50% lorsque le Pok\u00e9mon a moins d'1/3 de ses PV totaux.",
+                    "isHidden": false
+                },
+                {
+                    "id": 56,
+                    "name": "Chlorophylle",
+                    "description": "Augmente la vitesse au soleil.",
+                    "isHidden": false
+                },
+                {
+                    "id": 106,
+                    "name": "Envelocape",
+                    "description": "Immunise contre les d\u00e9g\u00e2ts caus\u00e9s par la gr\u00eale et les temp\u00eates de sable.",
+                    "isHidden": true
+                }
             ],
             "height": 3,
             "weight": 25

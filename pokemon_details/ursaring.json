@@ -19,9 +19,24 @@
             },
             "description": "On dit que les URSARING trouvent leur nourriture dans les cours d'eau et les grands arbres des for\u00eats o\u00f9 ils habitent. Ce POK\u00e9MON erre dans la for\u00eat toute la journ\u00e9e pour chercher de la nourriture.",
             "abilities": [
-                77,
-                212,
-                273
+                {
+                    "id": 77,
+                    "name": "Cran",
+                    "description": "Augmente de 50% l'attaque du Pok\u00e9mon s'il subit un changement de statut.",
+                    "isHidden": false
+                },
+                {
+                    "id": 212,
+                    "name": "Pied V\u00e9loce",
+                    "description": "Augmente la vitesse de 50% lorsque le Pok\u00e9mon subit une alt\u00e9ration d'\u00e9tat.",
+                    "isHidden": false
+                },
+                {
+                    "id": 273,
+                    "name": "Tension",
+                    "description": "Emp\u00eache l'adversaire de consommer sa baie.",
+                    "isHidden": true
+                }
             ],
             "height": 18,
             "weight": 1258

@@ -19,8 +19,18 @@
             },
             "description": "Les OKEOKE se rassemblent quand la nuit est claire pour jouer \u00e0 se presser les uns contre les autres. En se poussant, ce POK\u00e9MON am\u00e9liore son endurance et s'entra\u00eene \u00e0 renvoyer de puissantes contre-attaques.",
             "abilities": [
-                170,
-                270
+                {
+                    "id": 170,
+                    "name": "Marque Ombre",
+                    "description": "Emp\u00eache la fuite des Pok\u00e9mon sauvage et le changement du Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 270,
+                    "name": "T\u00e9l\u00e9pathe",
+                    "description": "Anticipe et \u00e9vite les attaques des alli\u00e9s en Combat Double ou triple.",
+                    "isHidden": true
+                }
             ],
             "height": 6,
             "weight": 140

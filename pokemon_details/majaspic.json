@@ -19,8 +19,18 @@
             },
             "description": "Il ne donnera tout son potentiel que contre un ennemi puissant indiff\u00e9rent \u00e0 son regard \u00e9crasant de noblesse.",
             "abilities": [
-                104,
-                65
+                {
+                    "id": 104,
+                    "name": "Engrais",
+                    "description": "Augmente la puissance des attaques de type Plante de 50% lorsque le Pok\u00e9mon a moins d'1/3 de ses PV totaux.",
+                    "isHidden": false
+                },
+                {
+                    "id": 65,
+                    "name": "Contestation",
+                    "description": "Inverse les effets des attaques modifiant les statistiques.",
+                    "isHidden": true
+                }
             ],
             "height": 33,
             "weight": 630

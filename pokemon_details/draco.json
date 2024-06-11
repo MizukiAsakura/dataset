@@ -19,8 +19,18 @@
             },
             "description": "Draco stocke une quantit\u00e9 d'\u00e9nergie consid\u00e9rable dans son corps. On raconte qu'il peut modifier les conditions climatiques autour de lui en d\u00e9chargeant l'\u00e9nergie contenue dans les cristaux de son cou et de sa queue.",
             "abilities": [
-                186,
-                96
+                {
+                    "id": 186,
+                    "name": "Mue",
+                    "description": "\u00c0 chaque tour, le Pok\u00e9mon a 33% de chance d'\u00eatre soign\u00e9 d'une alt\u00e9ration d'\u00e9tat.",
+                    "isHidden": false
+                },
+                {
+                    "id": 96,
+                    "name": "\u00c9caille Sp\u00e9ciale",
+                    "description": "Augmente la d\u00e9fense de 50% lorsque le Pok\u00e9mon subit un changement de statut.",
+                    "isHidden": true
+                }
             ],
             "height": 40,
             "weight": 165

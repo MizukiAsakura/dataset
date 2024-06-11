@@ -20,9 +20,24 @@
             },
             "description": "Il ressent les auras de tout. Il comprend le langage humain. Il peut deviner les pens\u00e9es et les mouvements des autres en analysant leur aura.",
             "abilities": [
-                26,
-                149,
-                59
+                {
+                    "id": 26,
+                    "name": "Attention",
+                    "description": "Immunise contre la peur.",
+                    "isHidden": false
+                },
+                {
+                    "id": 149,
+                    "name": "Impassible",
+                    "description": "Augmente d'un niveau la vitesse du Pok\u00e9mon lorsqu'il est apeur\u00e9.",
+                    "isHidden": false
+                },
+                {
+                    "id": 59,
+                    "name": "C\u0153ur Noble",
+                    "description": "Si le Pok\u00e9mon est touch\u00e9 par une attaque de type T\u00e9n\u00e8bres, son attaque augmente d'un niveau.",
+                    "isHidden": true
+                }
             ],
             "height": 12,
             "weight": 540

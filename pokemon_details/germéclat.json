@@ -20,8 +20,18 @@
             },
             "description": "Ses cristaux nocifs ressemblent en tout point \u00e0 des p\u00e9tales. Il r\u00e9pand une poudre toxique semblable \u00e0 du pollen pour se d\u00e9fendre.",
             "abilities": [
-                93,
-                74
+                {
+                    "id": 93,
+                    "name": "D\u00e9p\u00f4t Toxique",
+                    "description": "Quand le Pok\u00e9mon est touch\u00e9 par une capacit\u00e9 physique, il r\u00e9pand des pics toxiques dans le camp adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 74,
+                    "name": "Corrosion",
+                    "description": "Permet d'empoisonner n'importe quel Pok\u00e9mon quel que soit son type.",
+                    "isHidden": true
+                }
             ],
             "height": 7,
             "weight": 80

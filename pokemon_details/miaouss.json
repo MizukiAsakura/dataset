@@ -19,9 +19,24 @@
             },
             "description": "Miaouss peut rentrer ses griffes dans ses pattes pour r\u00f4der gracieusement sans laisser de traces. \u00c9trangement, ce Pok\u00e9mon raffole des pi\u00e8ces d'or qui brillent \u00e0 la lumi\u00e8re.",
             "abilities": [
-                235,
-                268,
-                273
+                {
+                    "id": 235,
+                    "name": "Ramassage",
+                    "description": "Donne une chance au Pok\u00e9mon de ramasser un objet apr\u00e8s un combat.",
+                    "isHidden": false
+                },
+                {
+                    "id": 268,
+                    "name": "Technicien",
+                    "description": "Augmente de 50% la puissance des attaques dont la puissance est inf\u00e9rieure ou \u00e9gale \u00e0 60.",
+                    "isHidden": false
+                },
+                {
+                    "id": 273,
+                    "name": "Tension",
+                    "description": "Emp\u00eache l'adversaire de consommer sa baie.",
+                    "isHidden": true
+                }
             ],
             "height": 4,
             "weight": 42
@@ -42,9 +57,24 @@
             },
             "description": "Miaouss peut rentrer ses griffes dans ses pattes pour r\u00f4der gracieusement sans laisser de traces. \u00c9trangement, ce Pok\u00e9mon raffole des pi\u00e8ces d'or qui brillent \u00e0 la lumi\u00e8re.",
             "abilities": [
-                235,
-                268,
-                209
+                {
+                    "id": 235,
+                    "name": "Ramassage",
+                    "description": "Donne une chance au Pok\u00e9mon de ramasser un objet apr\u00e8s un combat.",
+                    "isHidden": false
+                },
+                {
+                    "id": 268,
+                    "name": "Technicien",
+                    "description": "Augmente de 50% la puissance des attaques dont la puissance est inf\u00e9rieure ou \u00e9gale \u00e0 60.",
+                    "isHidden": false
+                },
+                {
+                    "id": 209,
+                    "name": "Phobique",
+                    "description": "Si le Pok\u00e9mon est touch\u00e9 par une attaque de type Insecte, Spectre ou T\u00e9n\u00e8bres, sa vitesse augmente d'un niveau.",
+                    "isHidden": true
+                }
             ],
             "height": 4,
             "weight": 42
@@ -65,9 +95,24 @@
             },
             "description": "Miaouss peut rentrer ses griffes dans ses pattes pour r\u00f4der gracieusement sans laisser de traces. \u00c9trangement, ce Pok\u00e9mon raffole des pi\u00e8ces d'or qui brillent \u00e0 la lumi\u00e8re.",
             "abilities": [
-                235,
-                139,
-                273
+                {
+                    "id": 235,
+                    "name": "Ramassage",
+                    "description": "Donne une chance au Pok\u00e9mon de ramasser un objet apr\u00e8s un combat.",
+                    "isHidden": false
+                },
+                {
+                    "id": 139,
+                    "name": "Griffe Dure",
+                    "description": "Augmente d'un tiers la puissance des attaques directes.",
+                    "isHidden": false
+                },
+                {
+                    "id": 273,
+                    "name": "Tension",
+                    "description": "Emp\u00eache l'adversaire de consommer sa baie.",
+                    "isHidden": true
+                }
             ],
             "height": 4,
             "weight": 75

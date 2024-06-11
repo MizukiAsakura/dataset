@@ -19,9 +19,24 @@
             },
             "description": "Kadabra \u00e9met une onde alpha si particuli\u00e8re qu'elle vous donne mal \u00e0 la t\u00eate. Seuls les gens avec un psychisme puissant peuvent esp\u00e9rer devenir Dresseur de ce Pok\u00e9mon.",
             "abilities": [
-                265,
-                26,
-                130
+                {
+                    "id": 265,
+                    "name": "Synchro",
+                    "description": "Toute alt\u00e9ration d'\u00e9tat subie est transmise au Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 26,
+                    "name": "Attention",
+                    "description": "Immunise contre la peur.",
+                    "isHidden": false
+                },
+                {
+                    "id": 130,
+                    "name": "Garde Magik",
+                    "description": "Le Pok\u00e9mon ne subit de d\u00e9g\u00e2ts que lors d'attaques directes.",
+                    "isHidden": true
+                }
             ],
             "height": 13,
             "weight": 565

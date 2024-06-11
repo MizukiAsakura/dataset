@@ -19,8 +19,18 @@
             },
             "description": "Il vit dans des endroits arides. Il exsude du sable granuleux au lieu de transpirer. Il se recouvre de sable pour se prot\u00e9ger des microbes. Il n'aime pas l'eau.",
             "abilities": [
-                294,
-                124
+                {
+                    "id": 294,
+                    "name": "Voile Sable",
+                    "description": "Augmente l'esquive de 20% lors d'une temp\u00eate de sable et immunise contre ses d\u00e9g\u00e2ts.",
+                    "isHidden": false
+                },
+                {
+                    "id": 124,
+                    "name": "Force Sable",
+                    "description": "Lors d'une temp\u00eate de sable, la puissance des attaques de type Acier, Roche et Sol augmente de 30 %.",
+                    "isHidden": true
+                }
             ],
             "height": 8,
             "weight": 495

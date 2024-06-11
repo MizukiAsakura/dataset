@@ -19,8 +19,18 @@
             },
             "description": "Les p\u00e9tales sur ses deux bras sont fins, mais tr\u00e8s tranchants. Ils peuvent \u00e9galement absorber la lumi\u00e8re pour la renvoyer sous forme de laser.",
             "abilities": [
-                118,
-                65
+                {
+                    "id": 118,
+                    "name": "Feuille Garde",
+                    "description": "Soigne les alt\u00e9rations d'\u00e9tat par temps ensoleill\u00e9.",
+                    "isHidden": false
+                },
+                {
+                    "id": 65,
+                    "name": "Contestation",
+                    "description": "Inverse les effets des attaques modifiant les statistiques.",
+                    "isHidden": true
+                }
             ],
             "height": 9,
             "weight": 185

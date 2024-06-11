@@ -20,8 +20,18 @@
             },
             "description": "Un Pok\u00e9mon qui en regroupe trois autres. Il est toujours occup\u00e9 \u00e0 apporter du nectar \u00e0 APIREINE. Il r\u00e9colte le nectar et l'am\u00e8ne \u00e0 la colonie. La nuit, ils s'assemblent pour b\u00e2tir une ruche et s'endormir.",
             "abilities": [
-                54,
-                8
+                {
+                    "id": 54,
+                    "name": "Cherche Miel",
+                    "description": "le Pok\u00e9mon peut parfois trouver du Miel apr\u00e8s un combat",
+                    "isHidden": false
+                },
+                {
+                    "id": 8,
+                    "name": "Agitation",
+                    "description": "Augmente l'attaque de 50% mais baisse la pr\u00e9cision de 20%.",
+                    "isHidden": true
+                }
             ],
             "height": 3,
             "weight": 55

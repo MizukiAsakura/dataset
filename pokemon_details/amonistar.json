@@ -20,9 +20,24 @@
             },
             "description": "Amonistar utilise ses tentacules pour capturer ses proies. On pense que l'esp\u00e8ce s'est \u00e9teinte parce que sa coquille \u00e9tait devenue trop grande et trop lourde, ce qui rendait ses mouvements lents et pesants.",
             "abilities": [
-                134,
-                66,
-                24
+                {
+                    "id": 134,
+                    "name": "Glissade",
+                    "description": "Double la vitesse par temps de pluie.",
+                    "isHidden": false
+                },
+                {
+                    "id": 66,
+                    "name": "Coque Armure",
+                    "description": "Annule les chances de coups critiques du Pok\u00e9mon ennemi.",
+                    "isHidden": false
+                },
+                {
+                    "id": 24,
+                    "name": "Armurouill\u00e9e",
+                    "description": "Le Pok\u00e9mon touch\u00e9 par une attaque physique voit sa d\u00e9fense diminu\u00e9e d'un niveau et sa vitesse augment\u00e9e de deux.",
+                    "isHidden": true
+                }
             ],
             "height": 10,
             "weight": 350

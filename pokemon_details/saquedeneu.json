@@ -19,9 +19,24 @@
             },
             "description": "Les lianes de Saquedeneu se brisent facilement lorsqu'on les attrape. Cela ne lui fait pas mal et lui permet simplement de s'\u00e9chapper rapidement. Les lianes cass\u00e9es repoussent le lendemain.",
             "abilities": [
-                56,
-                118,
-                241
+                {
+                    "id": 56,
+                    "name": "Chlorophylle",
+                    "description": "Augmente la vitesse au soleil.",
+                    "isHidden": false
+                },
+                {
+                    "id": 118,
+                    "name": "Feuille Garde",
+                    "description": "Soigne les alt\u00e9rations d'\u00e9tat par temps ensoleill\u00e9.",
+                    "isHidden": false
+                },
+                {
+                    "id": 241,
+                    "name": "R\u00e9g\u00e9-Force",
+                    "description": "Restaure 1/3 des PV totaux si le Pok\u00e9mon est retir\u00e9 du combat.",
+                    "isHidden": true
+                }
             ],
             "height": 10,
             "weight": 350

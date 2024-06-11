@@ -19,9 +19,24 @@
             },
             "description": "Avec sa double nageoire caudale, il peut bondir hors de l\u2019eau. C\u2019est souvent \u00e0 ce moment que les Go\u00e9lise de passage l\u2019attrapent et le gobent.",
             "abilities": [
-                160,
-                134,
-                147
+                {
+                    "id": 160,
+                    "name": "Lavabo",
+                    "description": "Attire toutes les attaques de type Eau. \u00c0 partir de la 5e g\u00e9n\u00e9ration, ce talent augmente aussi l'Attaque Sp\u00e9ciale du Pok\u00e9mon recevant l'attaque.",
+                    "isHidden": false
+                },
+                {
+                    "id": 134,
+                    "name": "Glissade",
+                    "description": "Double la vitesse par temps de pluie.",
+                    "isHidden": false
+                },
+                {
+                    "id": 147,
+                    "name": "Ignifu-Voile",
+                    "description": "Immunise contre la br\u00fblure.",
+                    "isHidden": true
+                }
             ],
             "height": 4,
             "weight": 70

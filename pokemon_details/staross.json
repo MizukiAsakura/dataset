@@ -20,9 +20,24 @@
             },
             "description": "Le centre de Staross, son c\u0153ur, resplendit de sept diff\u00e9rentes couleurs. Du fait de sa brillance naturelle, on appelle ce Pok\u00e9mon le \u00abjoyau des mers\u00bb.",
             "abilities": [
-                174,
-                165,
-                14
+                {
+                    "id": 174,
+                    "name": "M\u00e9dic Nature",
+                    "description": "Le Pok\u00e9mon est soign\u00e9 de toute alt\u00e9ration d'\u00e9tat lorsqu'il est chang\u00e9 ou en fin de combat.",
+                    "isHidden": false
+                },
+                {
+                    "id": 165,
+                    "name": "Lumiattirance",
+                    "description": "Aucun effet en combat",
+                    "isHidden": false
+                },
+                {
+                    "id": 14,
+                    "name": "Analyste",
+                    "description": "Si le Pok\u00e9mon frappe en dernier durant le tour, la puissance de son attaque est augment\u00e9e de 30%.",
+                    "isHidden": true
+                }
             ],
             "height": 11,
             "weight": 800

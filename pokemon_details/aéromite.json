@@ -20,9 +20,24 @@
             },
             "description": "A\u00e9romite est un Pok\u00e9mon nocturne, il ne sort donc que la nuit. Ses proies pr\u00e9f\u00e9r\u00e9es sont les petits insectes qui se rassemblent autour des r\u00e9verb\u00e8res, attir\u00e9s par la lumi\u00e8re.",
             "abilities": [
-                100,
-                161,
-                206
+                {
+                    "id": 100,
+                    "name": "\u00c9cran Poudre",
+                    "description": "Emp\u00eache les effets secondaires des attaques subies.",
+                    "isHidden": false
+                },
+                {
+                    "id": 161,
+                    "name": "Lentiteint\u00e9e",
+                    "description": "Double les d\u00e9g\u00e2ts des attaques peu efficaces port\u00e9es au Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 206,
+                    "name": "Peau Miracle",
+                    "description": "50% de chance de faire \u00e9chouer les attaques de statut port\u00e9es par l'adversaire.",
+                    "isHidden": true
+                }
             ],
             "height": 15,
             "weight": 125

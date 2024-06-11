@@ -19,7 +19,12 @@
             },
             "description": "Son corps est un v\u00e9ritable concentr\u00e9 d\u2019\u00e9nergie \u00e9lectrique. On raconte que si on lui retire ses anneaux, sa puissance cach\u00e9e se lib\u00e8re.",
             "abilities": [
-                284
+                {
+                    "id": 284,
+                    "name": "Transistor",
+                    "description": "Augmente de 50% la puissance des attaques de type \u00c9lectrik du Pok\u00e9mon.",
+                    "isHidden": false
+                }
             ],
             "height": 12,
             "weight": 1450

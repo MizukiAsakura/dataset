@@ -19,9 +19,24 @@
             },
             "description": "Il ne mange que des mets raffin\u00e9s. Son corps d\u00e9gage une odeur d'herbes que les Pok\u00e9mon Insecte ex\u00e8crent.",
             "abilities": [
-                25,
-                135,
-                157
+                {
+                    "id": 25,
+                    "name": "Aroma-Voile",
+                    "description": "Prot\u00e8ge les Pok\u00e9mon alli\u00e9s des capacit\u00e9s ayant un effet sur l'\u00e9tat mental tels que Attraction ou Tourmente.",
+                    "isHidden": false
+                },
+                {
+                    "id": 135,
+                    "name": "Gloutonnerie",
+                    "description": "Le Pok\u00e9mon utilise la baie port\u00e9e lorsque les PV descendent en dessous de 50%.",
+                    "isHidden": false
+                },
+                {
+                    "id": 157,
+                    "name": "Isograisse",
+                    "description": "Les d\u00e9g\u00e2ts provoqu\u00e9s par les attaques des types Feu ou Glace sont divis\u00e9s par 2.",
+                    "isHidden": true
+                }
             ],
             "height": 5,
             "weight": 102

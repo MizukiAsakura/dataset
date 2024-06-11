@@ -19,9 +19,24 @@
             },
             "description": "Il peut modifier les souvenirs avec ses pouvoirs psychiques. Vous ne le savez pas encore, mais vous avez peut-\u00eatre d\u00e9j\u00e0 tout oubli\u00e9...",
             "abilities": [
-                270,
-                265,
-                14
+                {
+                    "id": 270,
+                    "name": "T\u00e9l\u00e9pathe",
+                    "description": "Anticipe et \u00e9vite les attaques des alli\u00e9s en Combat Double ou triple.",
+                    "isHidden": false
+                },
+                {
+                    "id": 265,
+                    "name": "Synchro",
+                    "description": "Toute alt\u00e9ration d'\u00e9tat subie est transmise au Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 14,
+                    "name": "Analyste",
+                    "description": "Si le Pok\u00e9mon frappe en dernier durant le tour, la puissance de son attaque est augment\u00e9e de 30%.",
+                    "isHidden": true
+                }
             ],
             "height": 10,
             "weight": 345

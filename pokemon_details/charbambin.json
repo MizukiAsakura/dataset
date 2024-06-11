@@ -19,8 +19,18 @@
             },
             "description": "Ce Pok\u00e9mon est un charbon de bois consum\u00e9 qui a pris vie. Il est anim\u00e9 par un d\u00e9sir de combattre qui le pousse \u00e0 d\u00e9fier des adversaires puissants.",
             "abilities": [
-                281,
-                67
+                {
+                    "id": 281,
+                    "name": "Torche",
+                    "description": "Annule les d\u00e9g\u00e2ts des attaques de type Feu subies et augmente de 50% la puissance des attaques de type Feu lanc\u00e9es.",
+                    "isHidden": false
+                },
+                {
+                    "id": 67,
+                    "name": "Corps Ardent",
+                    "description": "30% de chance de provoquer une br\u00fblure sur le Pok\u00e9mon adverse ayant attaqu\u00e9.",
+                    "isHidden": true
+                }
             ],
             "height": 6,
             "weight": 105

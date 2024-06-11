@@ -19,8 +19,18 @@
             },
             "description": "Si ses joues contiennent trop d'\u00e9lectricit\u00e9, Raichu plante sa queue dans le sol pour se d\u00e9charger. On trouve des parcelles de terre br\u00fbl\u00e9e \u00e0 proximit\u00e9 du nid de ce Pok\u00e9mon.",
             "abilities": [
-                260,
-                199
+                {
+                    "id": 260,
+                    "name": "Statik",
+                    "description": "30% de chance de provoquer la paralysie du Pok\u00e9mon adverse ayant lanc\u00e9 une attaque de contact.",
+                    "isHidden": false
+                },
+                {
+                    "id": 199,
+                    "name": "Paratonnerre",
+                    "description": "Attire toutes les attaques de type \u00c9lectrik. \u00c0 partir de la 5e g\u00e9n\u00e9ration, ce talent augmente aussi l'Attaque Sp\u00e9ciale du Pok\u00e9mon recevant l'attaque.",
+                    "isHidden": true
+                }
             ],
             "height": 8,
             "weight": 300
@@ -42,7 +52,12 @@
             },
             "description": "Si ses joues contiennent trop d'\u00e9lectricit\u00e9, Raichu plante sa queue dans le sol pour se d\u00e9charger. On trouve des parcelles de terre br\u00fbl\u00e9e \u00e0 proximit\u00e9 du nid de ce Pok\u00e9mon.",
             "abilities": [
-                263
+                {
+                    "id": 263,
+                    "name": "Surf Caudal",
+                    "description": "Double la vitesse du Pok\u00e9mon lorsqu'il y a un Champ \u00c9lectrifi\u00e9.",
+                    "isHidden": false
+                }
             ],
             "height": 7,
             "weight": 210

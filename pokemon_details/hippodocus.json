@@ -19,8 +19,18 @@
             },
             "description": "Il emmagasine du sable qu'il expulse en tornades par les pores de sa peau pour attaquer. Sa grande gueule fait quasiment 2 m. Il a assez de force pour \u00e9craser une voiture.",
             "abilities": [
-                294,
-                124
+                {
+                    "id": 294,
+                    "name": "Voile Sable",
+                    "description": "Augmente l'esquive de 20% lors d'une temp\u00eate de sable et immunise contre ses d\u00e9g\u00e2ts.",
+                    "isHidden": false
+                },
+                {
+                    "id": 124,
+                    "name": "Force Sable",
+                    "description": "Lors d'une temp\u00eate de sable, la puissance des attaques de type Acier, Roche et Sol augmente de 30 %.",
+                    "isHidden": true
+                }
             ],
             "height": 20,
             "weight": 3000

@@ -19,8 +19,18 @@
             },
             "description": "G\u00e9n\u00e9ralement, la voix de CHUCHMUR est tr\u00e8s douce, \u00e0 peine audible, m\u00eame si on tend l'oreille. Pourtant, lorsque ce POK\u00e9MON sent l'approche du danger, il se met \u00e0 crier si fort qu'il peut d\u00e9chirer des tympans.",
             "abilities": [
-                17,
-                209
+                {
+                    "id": 17,
+                    "name": "Anti-Bruit",
+                    "description": "Annule les effets dus \u00e0 une attaque sonore.",
+                    "isHidden": false
+                },
+                {
+                    "id": 209,
+                    "name": "Phobique",
+                    "description": "Si le Pok\u00e9mon est touch\u00e9 par une attaque de type Insecte, Spectre ou T\u00e9n\u00e8bres, sa vitesse augmente d'un niveau.",
+                    "isHidden": true
+                }
             ],
             "height": 6,
             "weight": 163

@@ -20,9 +20,24 @@
             },
             "description": "Sa recherche des meilleurs endroits o\u00f9 trouver des pierres pour aff\u00fbter ses lames le conduit souvent \u00e0 affronter des Incisache.",
             "abilities": [
-                5,
-                26,
-                223
+                {
+                    "id": 5,
+                    "name": "Acharn\u00e9",
+                    "description": "Monte l'Attaque du Pok\u00e9mon de deux niveaux si l'une de ses statistiques est baiss\u00e9e par l'adversaire.",
+                    "isHidden": false
+                },
+                {
+                    "id": 26,
+                    "name": "Attention",
+                    "description": "Immunise contre la peur.",
+                    "isHidden": false
+                },
+                {
+                    "id": 223,
+                    "name": "Pression",
+                    "description": "Double l'utilisation de PP des attaques offensives du Pok\u00e9mon adverse.",
+                    "isHidden": true
+                }
             ],
             "height": 16,
             "weight": 700

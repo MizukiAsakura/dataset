@@ -19,8 +19,18 @@
             },
             "description": "Tr\u00e8s diligent, il observe les mouvements de Pok\u00e9mon et d'individus d'origines diverses pour s'en inspirer quand il danse.",
             "abilities": [
-                282,
-                151
+                {
+                    "id": 282,
+                    "name": "Torrent",
+                    "description": "Augmente la puissance des attaques de type Eau de 50% lorsque le Pok\u00e9mon a moins d'1/3 de ses PV totaux.",
+                    "isHidden": false
+                },
+                {
+                    "id": 151,
+                    "name": "Impudence",
+                    "description": "Monte l'attaque du Pok\u00e9mon d'un niveau lorsqu'il met un adversaire K.O.",
+                    "isHidden": true
+                }
             ],
             "height": 12,
             "weight": 215

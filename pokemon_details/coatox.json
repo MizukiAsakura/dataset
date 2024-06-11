@@ -20,9 +20,24 @@
             },
             "description": "Les griffes de ses poings s\u00e9cr\u00e8tent une toxine si atroce qu'une simple \u00e9gratignure peut s'av\u00e9rer fatale. La toxine produite par ses glandes de poison passe par les tubes de ses bras pour imbiber ses griffes.",
             "abilities": [
-                18,
-                207,
-                283
+                {
+                    "id": 18,
+                    "name": "Anticipation",
+                    "description": "Alerte et prot\u00e8ge lorsque le Pok\u00e9mon adverse poss\u00e8de certaines attaques.",
+                    "isHidden": false
+                },
+                {
+                    "id": 207,
+                    "name": "Peau S\u00e8che",
+                    "description": "Les attaques de type Eau soignent le Pok\u00e9mon, qui regagne 1/4 de ses PV totaux. Par temps de pluie, il gagne 1/8e de ses PV par tour. Les attaques de type Feu infligent 25% de d\u00e9g\u00e2ts en plus. Par temps ensoleill\u00e9, il perd 1/8e de ses PV par tour.",
+                    "isHidden": false
+                },
+                {
+                    "id": 283,
+                    "name": "Toxitouche",
+                    "description": "Peut empoisonner l'adversaire apr\u00e8s lui avoir port\u00e9 une attaque physique.",
+                    "isHidden": true
+                }
             ],
             "height": 13,
             "weight": 444

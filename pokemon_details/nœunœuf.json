@@ -19,8 +19,18 @@
             },
             "description": "Ce Pok\u00e9mon est constitu\u00e9 de six \u0153ufs formant une grappe serr\u00e9e. Ces six \u0153ufs s'attirent mutuellement et pivotent. Quand des fissures apparaissent sur les coquilles, \u00e7a signifie que Noeunoeuf est sur le point d'\u00e9voluer.",
             "abilities": [
-                56,
-                239
+                {
+                    "id": 56,
+                    "name": "Chlorophylle",
+                    "description": "Augmente la vitesse au soleil.",
+                    "isHidden": false
+                },
+                {
+                    "id": 239,
+                    "name": "R\u00e9colte",
+                    "description": "Une baie consomm\u00e9e par le Pok\u00e9mon a 50% de chances d'\u00eatre r\u00e9cup\u00e9r\u00e9e \u00e0 la fin de chaque tour.",
+                    "isHidden": true
+                }
             ],
             "height": 4,
             "weight": 25

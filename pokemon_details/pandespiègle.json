@@ -19,9 +19,24 @@
             },
             "description": "Il fait son possible pour intimider ses adversaires avec un regard mena\u00e7ant, mais sans succ\u00e8s. Il a l\u2019habitude de constamment m\u00e2cher une feuille.",
             "abilities": [
-                45,
-                215,
-                232
+                {
+                    "id": 45,
+                    "name": "Breuvage Suspect",
+                    "description": "Quand il entre au combat, tous les changements de stats de ses alli\u00e9s sont annul\u00e9s.",
+                    "isHidden": false
+                },
+                {
+                    "id": 215,
+                    "name": "Poing de Fer",
+                    "description": "Augmente de 20% la puissance des attaques de \"Poing\".",
+                    "isHidden": false
+                },
+                {
+                    "id": 232,
+                    "name": "Querelleur",
+                    "description": "Permet de toucher les Pok\u00e9mon de type Spectre avec des attaques de type Normal ou Combat.",
+                    "isHidden": true
+                }
             ],
             "height": 6,
             "weight": 80

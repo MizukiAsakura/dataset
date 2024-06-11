@@ -19,9 +19,24 @@
             },
             "description": "SPOINK rebondit sur sa queue. Le choc du rebond fait battre son c\u0153ur. Du coup, ce POK\u00e9MON ne peut pas s'arr\u00eater de rebondir, sinon, son c\u0153ur s'arr\u00eate.",
             "abilities": [
-                157,
-                272,
-                135
+                {
+                    "id": 157,
+                    "name": "Isograisse",
+                    "description": "Les d\u00e9g\u00e2ts provoqu\u00e9s par les attaques des types Feu ou Glace sont divis\u00e9s par 2.",
+                    "isHidden": false
+                },
+                {
+                    "id": 272,
+                    "name": "Tempo Perso",
+                    "description": "Immunise contre la confusion.",
+                    "isHidden": false
+                },
+                {
+                    "id": 135,
+                    "name": "Gloutonnerie",
+                    "description": "Le Pok\u00e9mon utilise la baie port\u00e9e lorsque les PV descendent en dessous de 50%.",
+                    "isHidden": true
+                }
             ],
             "height": 7,
             "weight": 306

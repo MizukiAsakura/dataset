@@ -20,8 +20,18 @@
             },
             "description": "Ce Pok\u00e9mon capable de distordre l\u2019espace est d\u00e9crit comme une divinit\u00e9 dans les mythes de la r\u00e9gion de Sinnoh.",
             "abilities": [
-                223,
-                270
+                {
+                    "id": 223,
+                    "name": "Pression",
+                    "description": "Double l'utilisation de PP des attaques offensives du Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 270,
+                    "name": "T\u00e9l\u00e9pathe",
+                    "description": "Anticipe et \u00e9vite les attaques des alli\u00e9s en Combat Double ou triple.",
+                    "isHidden": true
+                }
             ],
             "height": 42,
             "weight": 3360
@@ -43,8 +53,18 @@
             },
             "description": "Ce Pok\u00e9mon capable de distordre l\u2019espace est d\u00e9crit comme une divinit\u00e9 dans les mythes de la r\u00e9gion de Sinnoh.",
             "abilities": [
-                223,
-                270
+                {
+                    "id": 223,
+                    "name": "Pression",
+                    "description": "Double l'utilisation de PP des attaques offensives du Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 270,
+                    "name": "T\u00e9l\u00e9pathe",
+                    "description": "Anticipe et \u00e9vite les attaques des alli\u00e9s en Combat Double ou triple.",
+                    "isHidden": true
+                }
             ],
             "height": 63,
             "weight": 6600

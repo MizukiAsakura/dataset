@@ -20,9 +20,24 @@
             },
             "description": "Il fait exploser ses gaz digestifs pour propulser les p\u00e9pins qu\u2019il a dans le bec, avec une force capable de r\u00e9duire en miettes de gros rochers.",
             "abilities": [
-                240,
-                187,
-                248
+                {
+                    "id": 240,
+                    "name": "Regard Vif",
+                    "description": "Emp\u00eache la perte de pr\u00e9cision.",
+                    "isHidden": false
+                },
+                {
+                    "id": 187,
+                    "name": "Multi-Coups",
+                    "description": "Utilise toujours le nombre de coups maximum d'une attaque.",
+                    "isHidden": false
+                },
+                {
+                    "id": 248,
+                    "name": "Sans Limite",
+                    "description": "Augmente de 30% la puissance des attaques pouvant avoir un effet secondaire. L'effet secondaire est annul\u00e9.",
+                    "isHidden": true
+                }
             ],
             "height": 11,
             "weight": 260

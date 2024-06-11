@@ -19,9 +19,24 @@
             },
             "description": "Il est recommand\u00e9 de ne pas l\u2019approcher quand la fum\u00e9e qui sort de son front a une teinte noire, sinon son cauchemar risque de se mat\u00e9rialiser.",
             "abilities": [
-                222,
-                265,
-                270
+                {
+                    "id": 222,
+                    "name": "Pr\u00e9diction",
+                    "description": "Alerte le Pok\u00e9mon de l'attaque la plus puissante du Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 265,
+                    "name": "Synchro",
+                    "description": "Toute alt\u00e9ration d'\u00e9tat subie est transmise au Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 270,
+                    "name": "T\u00e9l\u00e9pathe",
+                    "description": "Anticipe et \u00e9vite les attaques des alli\u00e9s en Combat Double ou triple.",
+                    "isHidden": true
+                }
             ],
             "height": 11,
             "weight": 605

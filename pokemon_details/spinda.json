@@ -19,9 +19,24 @@
             },
             "description": "On raconte que chaque SPINDA dispose d'un agencement de taches tout \u00e0 fait unique. La d\u00e9marche chancelante et titubante de ce POK\u00e9MON donne l'impression qu'il danse.",
             "abilities": [
-                272,
-                211,
-                65
+                {
+                    "id": 272,
+                    "name": "Tempo Perso",
+                    "description": "Immunise contre la confusion.",
+                    "isHidden": false
+                },
+                {
+                    "id": 211,
+                    "name": "Pied Confus",
+                    "description": "Augmente l'esquive de 20% lorsque le Pok\u00e9mon est confus.",
+                    "isHidden": false
+                },
+                {
+                    "id": 65,
+                    "name": "Contestation",
+                    "description": "Inverse les effets des attaques modifiant les statistiques.",
+                    "isHidden": true
+                }
             ],
             "height": 11,
             "weight": 50

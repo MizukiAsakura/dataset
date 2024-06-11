@@ -20,7 +20,12 @@
             },
             "description": "On suppose que c\u2019est l\u2019\u00e9volution de Cosmog lorsqu\u2019il s\u2019agit d\u2019un m\u00e2le. Son troisi\u00e8me \u0153il appara\u00eet quand il s\u2019en va vers un autre monde.",
             "abilities": [
-                176
+                {
+                    "id": 176,
+                    "name": "M\u00e9tallo-Garde",
+                    "description": "Emp\u00eache la r\u00e9duction de statistiques impos\u00e9es par l'adversaire (que ce soit par capacit\u00e9s ou talents).",
+                    "isHidden": false
+                }
             ],
             "height": 34,
             "weight": 2300

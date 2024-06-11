@@ -20,9 +20,24 @@
             },
             "description": "Amonita est l'un des Pok\u00e9mon disparus depuis longtemps et qui furent ressuscit\u00e9s \u00e0 partir de fossiles. Lorsqu'il est attaqu\u00e9 par un ennemi, il se r\u00e9tracte dans sa coquille.",
             "abilities": [
-                134,
-                66,
-                24
+                {
+                    "id": 134,
+                    "name": "Glissade",
+                    "description": "Double la vitesse par temps de pluie.",
+                    "isHidden": false
+                },
+                {
+                    "id": 66,
+                    "name": "Coque Armure",
+                    "description": "Annule les chances de coups critiques du Pok\u00e9mon ennemi.",
+                    "isHidden": false
+                },
+                {
+                    "id": 24,
+                    "name": "Armurouill\u00e9e",
+                    "description": "Le Pok\u00e9mon touch\u00e9 par une attaque physique voit sa d\u00e9fense diminu\u00e9e d'un niveau et sa vitesse augment\u00e9e de deux.",
+                    "isHidden": true
+                }
             ],
             "height": 4,
             "weight": 75

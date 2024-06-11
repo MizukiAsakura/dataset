@@ -20,8 +20,18 @@
             },
             "description": "Ce Pok\u00e9mon ne baisse jamais sa garde. Pendant la journ\u00e9e, il accumule de l\u2019\u00e9nergie par photosynth\u00e8se, pour mieux agir la nuit venue.",
             "abilities": [
-                104,
-                164
+                {
+                    "id": 104,
+                    "name": "Engrais",
+                    "description": "Augmente la puissance des attaques de type Plante de 50% lorsque le Pok\u00e9mon a moins d'1/3 de ses PV totaux.",
+                    "isHidden": false
+                },
+                {
+                    "id": 164,
+                    "name": "Longue Port\u00e9e",
+                    "description": "Toutes les capacit\u00e9s du Pok\u00e9mon sont consid\u00e9r\u00e9es comme sans contact.",
+                    "isHidden": true
+                }
             ],
             "height": 3,
             "weight": 15

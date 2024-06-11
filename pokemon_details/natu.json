@@ -20,9 +20,24 @@
             },
             "description": "NATU ne peut pas voler, car ses ailes n'ont pas encore fini de grandir. Si ses yeux croisent le regard de quelqu'un d'autre, il reste immobile et concentr\u00e9. Mais si la personne en question d\u00e9tourne son regard, il s'enfuit en lieu s\u00fbr.",
             "abilities": [
-                265,
-                171,
-                180
+                {
+                    "id": 265,
+                    "name": "Synchro",
+                    "description": "Toute alt\u00e9ration d'\u00e9tat subie est transmise au Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 171,
+                    "name": "Matinal",
+                    "description": "R\u00e9duit le nombre de tours de sommeil du Pok\u00e9mon.",
+                    "isHidden": false
+                },
+                {
+                    "id": 180,
+                    "name": "Miroir Magik",
+                    "description": "Retourne les attaques de statut contre l'adversaire.",
+                    "isHidden": true
+                }
             ],
             "height": 2,
             "weight": 20

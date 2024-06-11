@@ -19,8 +19,18 @@
             },
             "description": "KECLEON est capable de modifier les couleurs de son corps pour se fondre dans son environnement. Il y a cependant une exception: ce POK\u00e9MON ne peut pas modifier la figure g\u00e9om\u00e9trique en zigzag sur son ventre.",
             "abilities": [
-                296,
-                229
+                {
+                    "id": 296,
+                    "name": "Homochromie",
+                    "description": "Un Pok\u00e9mon dot\u00e9 de ce talent voit son type changer s'il est touch\u00e9 par une capacit\u00e9 infligeant des d\u00e9g\u00e2ts. Ainsi, il prend le type de cette capacit\u00e9.",
+                    "isHidden": false
+                },
+                {
+                    "id": 229,
+                    "name": "Prot\u00e9en",
+                    "description": "Change le type du Pok\u00e9mon en celui de toute capacit\u00e9 qu'il utilise.",
+                    "isHidden": true
+                }
             ],
             "height": 10,
             "weight": 220

@@ -19,9 +19,24 @@
             },
             "description": "Krabby vit sur les plages, enterr\u00e9 dans le sable. Sur les plages o\u00f9 on trouve un peu de nourriture, on peut voir ces Pok\u00e9mon se disputer pour d\u00e9fendre leur territoire.",
             "abilities": [
-                144,
-                66,
-                248
+                {
+                    "id": 144,
+                    "name": "Hyper Cutter",
+                    "description": "Emp\u00eache la diminution d'attaque du Pok\u00e9mon.",
+                    "isHidden": false
+                },
+                {
+                    "id": 66,
+                    "name": "Coque Armure",
+                    "description": "Annule les chances de coups critiques du Pok\u00e9mon ennemi.",
+                    "isHidden": false
+                },
+                {
+                    "id": 248,
+                    "name": "Sans Limite",
+                    "description": "Augmente de 30% la puissance des attaques pouvant avoir un effet secondaire. L'effet secondaire est annul\u00e9.",
+                    "isHidden": true
+                }
             ],
             "height": 4,
             "weight": 65

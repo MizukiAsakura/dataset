@@ -19,8 +19,18 @@
             },
             "description": "Une fois que CROCRODIL a referm\u00e9 sa m\u00e2choire sur son ennemi, il est impossible de le faire l\u00e2cher prise. Ses crocs sont recourb\u00e9s comme des hame\u00e7ons et ne peuvent pas \u00eatre retir\u00e9s une fois enfonc\u00e9s.",
             "abilities": [
-                282,
-                248
+                {
+                    "id": 282,
+                    "name": "Torrent",
+                    "description": "Augmente la puissance des attaques de type Eau de 50% lorsque le Pok\u00e9mon a moins d'1/3 de ses PV totaux.",
+                    "isHidden": false
+                },
+                {
+                    "id": 248,
+                    "name": "Sans Limite",
+                    "description": "Augmente de 30% la puissance des attaques pouvant avoir un effet secondaire. L'effet secondaire est annul\u00e9.",
+                    "isHidden": true
+                }
             ],
             "height": 11,
             "weight": 250

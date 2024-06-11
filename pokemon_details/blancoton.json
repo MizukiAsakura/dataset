@@ -19,9 +19,24 @@
             },
             "description": "Les graines de son duvet sont remplies de nutriments. Elles sont emport\u00e9es par le vent et redonnent vitalit\u00e9 aux plantes et aux Pok\u00e9mon.",
             "abilities": [
-                101,
-                241,
-                220
+                {
+                    "id": 101,
+                    "name": "Effilochage",
+                    "description": "Quand son possesseur est touch\u00e9 par une attaque, il lib\u00e8re des fils de coton qui diminuent la Vitesse du Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 241,
+                    "name": "R\u00e9g\u00e9-Force",
+                    "description": "Restaure 1/3 des PV totaux si le Pok\u00e9mon est retir\u00e9 du combat.",
+                    "isHidden": false
+                },
+                {
+                    "id": 220,
+                    "name": "Pose Spore",
+                    "description": "30% de chance de provoquer l'empoisonnement, le sommeil ou la paralysie du Pok\u00e9mon adverse ayant lanc\u00e9 une attaque de contact.",
+                    "isHidden": true
+                }
             ],
             "height": 5,
             "weight": 25

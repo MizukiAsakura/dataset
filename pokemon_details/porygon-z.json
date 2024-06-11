@@ -19,9 +19,24 @@
             },
             "description": "Un nouveau logiciel \u00e9tait cens\u00e9 lui permettre de voyager entre les dimensions, mais tout ne se passe pas comme pr\u00e9vu et il y a des bugs.",
             "abilities": [
-                6,
-                269,
-                14
+                {
+                    "id": 6,
+                    "name": "Adaptabilit\u00e9",
+                    "description": "Si ce Pok\u00e9mon utilise une attaque de son type, la puissance de l'attaque est multipli\u00e9e par 2 au lieu de 1.5.",
+                    "isHidden": false
+                },
+                {
+                    "id": 269,
+                    "name": "T\u00e9l\u00e9charge",
+                    "description": "Augmente l'attaque ou l'attaque sp\u00e9ciale du Pok\u00e9mon, selon la statistique de d\u00e9fense la plus faible du Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 14,
+                    "name": "Analyste",
+                    "description": "Si le Pok\u00e9mon frappe en dernier durant le tour, la puissance de son attaque est augment\u00e9e de 30%.",
+                    "isHidden": true
+                }
             ],
             "height": 9,
             "weight": 340

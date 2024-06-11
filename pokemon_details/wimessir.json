@@ -20,9 +20,24 @@
             },
             "description": "Il peut sentir les \u00e9motions d\u2019autrui avec ses cornes. Le m\u00e2le reste aux c\u00f4t\u00e9s de son Dresseur pour s\u2019occuper de lui, \u00e0 l\u2019image d\u2019un domestique.",
             "abilities": [
-                26,
-                265,
-                81
+                {
+                    "id": 26,
+                    "name": "Attention",
+                    "description": "Immunise contre la peur.",
+                    "isHidden": false
+                },
+                {
+                    "id": 265,
+                    "name": "Synchro",
+                    "description": "Toute alt\u00e9ration d'\u00e9tat subie est transmise au Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 81,
+                    "name": "Cr\u00e9a-Psy",
+                    "description": "Pose un champ psychique qui bloque toute attaque de priorit\u00e9.",
+                    "isHidden": true
+                }
             ],
             "height": 9,
             "weight": 280
@@ -44,9 +59,24 @@
             },
             "description": "Ils font l\u2019impossible pour s\u2019attirer la gratitude des humains et des Pok\u00e9mon. Les femelles sont d\u2019excellentes gardiennes d\u2019enfants.",
             "abilities": [
-                272,
-                265,
-                81
+                {
+                    "id": 272,
+                    "name": "Tempo Perso",
+                    "description": "Immunise contre la confusion.",
+                    "isHidden": false
+                },
+                {
+                    "id": 265,
+                    "name": "Synchro",
+                    "description": "Toute alt\u00e9ration d'\u00e9tat subie est transmise au Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 81,
+                    "name": "Cr\u00e9a-Psy",
+                    "description": "Pose un champ psychique qui bloque toute attaque de priorit\u00e9.",
+                    "isHidden": true
+                }
             ],
             "height": 9,
             "weight": 280

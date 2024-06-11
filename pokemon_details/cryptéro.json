@@ -20,9 +20,24 @@
             },
             "description": "Il vole gr\u00e2ce \u00e0 ses pouvoirs psychiques. Certains disent qu\u2019il \u00e9tait le dieu protecteur d\u2019une ville antique, d\u2019autres, son messager.",
             "abilities": [
-                206,
-                130,
-                161
+                {
+                    "id": 206,
+                    "name": "Peau Miracle",
+                    "description": "50% de chance de faire \u00e9chouer les attaques de statut port\u00e9es par l'adversaire.",
+                    "isHidden": false
+                },
+                {
+                    "id": 130,
+                    "name": "Garde Magik",
+                    "description": "Le Pok\u00e9mon ne subit de d\u00e9g\u00e2ts que lors d'attaques directes.",
+                    "isHidden": false
+                },
+                {
+                    "id": 161,
+                    "name": "Lentiteint\u00e9e",
+                    "description": "Double les d\u00e9g\u00e2ts des attaques peu efficaces port\u00e9es au Pok\u00e9mon adverse.",
+                    "isHidden": true
+                }
             ],
             "height": 14,
             "weight": 140

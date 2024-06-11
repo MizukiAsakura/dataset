@@ -19,9 +19,24 @@
             },
             "description": "Les ECRAPINCE \u00e9taient au d\u00e9part des POK\u00e9MON \u00e9trangers import\u00e9s comme animaux domestiques. Ils ont fini par retrouver leur \u00e9tat sauvage. Ce POK\u00e9MON est particuli\u00e8rement robuste et sa population augmente sans arr\u00eat.",
             "abilities": [
-                144,
-                66,
-                6
+                {
+                    "id": 144,
+                    "name": "Hyper Cutter",
+                    "description": "Emp\u00eache la diminution d'attaque du Pok\u00e9mon.",
+                    "isHidden": false
+                },
+                {
+                    "id": 66,
+                    "name": "Coque Armure",
+                    "description": "Annule les chances de coups critiques du Pok\u00e9mon ennemi.",
+                    "isHidden": false
+                },
+                {
+                    "id": 6,
+                    "name": "Adaptabilit\u00e9",
+                    "description": "Si ce Pok\u00e9mon utilise une attaque de son type, la puissance de l'attaque est multipli\u00e9e par 2 au lieu de 1.5.",
+                    "isHidden": true
+                }
             ],
             "height": 6,
             "weight": 115

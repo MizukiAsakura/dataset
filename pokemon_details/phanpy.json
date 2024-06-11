@@ -19,8 +19,18 @@
             },
             "description": "PHANPY utilise sa petite trompe pour se doucher. Quand plusieurs d'entre eux se r\u00e9unissent, ils s'arrosent joyeusement. On peut souvent voir ces POK\u00e9MON se s\u00e9cher au bord de l'eau.",
             "abilities": [
-                235,
-                294
+                {
+                    "id": 235,
+                    "name": "Ramassage",
+                    "description": "Donne une chance au Pok\u00e9mon de ramasser un objet apr\u00e8s un combat.",
+                    "isHidden": false
+                },
+                {
+                    "id": 294,
+                    "name": "Voile Sable",
+                    "description": "Augmente l'esquive de 20% lors d'une temp\u00eate de sable et immunise contre ses d\u00e9g\u00e2ts.",
+                    "isHidden": true
+                }
             ],
             "height": 5,
             "weight": 335

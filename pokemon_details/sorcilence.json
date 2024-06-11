@@ -20,9 +20,24 @@
             },
             "description": "On l\u2019appelle aussi la \u00ab sorci\u00e8re de la for\u00eat \u00bb. Ce Pok\u00e9mon lac\u00e8re quiconque fait trop de bruit avec les griffes de son tentacule.",
             "abilities": [
-                60,
-                18,
-                180
+                {
+                    "id": 60,
+                    "name": "C\u0153ur Soin",
+                    "description": "\u00c0 la fin de chaque tour, le Pok\u00e9mon a 30% de chance de gu\u00e9rir ses alli\u00e9s d'une alt\u00e9ration d'\u00e9tat en Combat Double ou triple.",
+                    "isHidden": false
+                },
+                {
+                    "id": 18,
+                    "name": "Anticipation",
+                    "description": "Alerte et prot\u00e8ge lorsque le Pok\u00e9mon adverse poss\u00e8de certaines attaques.",
+                    "isHidden": false
+                },
+                {
+                    "id": 180,
+                    "name": "Miroir Magik",
+                    "description": "Retourne les attaques de statut contre l'adversaire.",
+                    "isHidden": true
+                }
             ],
             "height": 21,
             "weight": 51

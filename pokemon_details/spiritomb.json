@@ -20,8 +20,18 @@
             },
             "description": "Un Pok\u00e9mon compos\u00e9 de 108 esprits. Il provient d'une fissure dans une cl\u00e9 de vo\u00fbte \u00e9trange. Il fut emprisonn\u00e9 dans la fissure d'une cl\u00e9 de vo\u00fbte \u00e9trange en guise de punition il y a 500 ans.",
             "abilities": [
-                223,
-                154
+                {
+                    "id": 223,
+                    "name": "Pression",
+                    "description": "Double l'utilisation de PP des attaques offensives du Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 154,
+                    "name": "Infiltration",
+                    "description": "Emp\u00eache les attaques de protection adverses tels que Protection ou Mur Lumi\u00e8re de fonctionner. N'influe pas sur D\u00e9tection et Abri.",
+                    "isHidden": true
+                }
             ],
             "height": 10,
             "weight": 1080

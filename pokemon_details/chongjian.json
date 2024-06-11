@@ -20,7 +20,12 @@
             },
             "description": "La ranc\u0153ur d'un \u00eatre humain puni pour avoir not\u00e9 les m\u00e9faits d'un roi sur des tablettes en bois s'est m\u00eal\u00e9e \u00e0 des feuilles mortes et a pris vie.",
             "abilities": [
-                38
+                {
+                    "id": 38,
+                    "name": "Bois du Fl\u00e9au",
+                    "description": "Le pouvoir du bois qui appelle le fl\u00e9au affaiblit l\u2019Attaque de tous les autres Pok\u00e9mon.",
+                    "isHidden": false
+                }
             ],
             "height": 15,
             "weight": 742

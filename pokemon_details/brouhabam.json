@@ -19,8 +19,18 @@
             },
             "description": "BROUHABAM peut d\u00e9clencher des tremblements de terre gr\u00e2ce aux vibrations de son hurlement. Lorsque ce POK\u00e9MON inspire fortement, cela signifie qu'il se pr\u00e9pare \u00e0 l\u00e2cher un gigantesque mugissement.",
             "abilities": [
-                17,
-                232
+                {
+                    "id": 17,
+                    "name": "Anti-Bruit",
+                    "description": "Annule les effets dus \u00e0 une attaque sonore.",
+                    "isHidden": false
+                },
+                {
+                    "id": 232,
+                    "name": "Querelleur",
+                    "description": "Permet de toucher les Pok\u00e9mon de type Spectre avec des attaques de type Normal ou Combat.",
+                    "isHidden": true
+                }
             ],
             "height": 15,
             "weight": 840

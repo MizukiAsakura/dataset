@@ -20,9 +20,24 @@
             },
             "description": "Il se prot\u00e8ge du froid en s'emmitouflant dans une feuille. Il se d\u00e9place en for\u00eat et mange les feuilles tomb\u00e9es par terre.",
             "abilities": [
-                118,
-                56,
-                106
+                {
+                    "id": 118,
+                    "name": "Feuille Garde",
+                    "description": "Soigne les alt\u00e9rations d'\u00e9tat par temps ensoleill\u00e9.",
+                    "isHidden": false
+                },
+                {
+                    "id": 56,
+                    "name": "Chlorophylle",
+                    "description": "Augmente la vitesse au soleil.",
+                    "isHidden": false
+                },
+                {
+                    "id": 106,
+                    "name": "Envelocape",
+                    "description": "Immunise contre les d\u00e9g\u00e2ts caus\u00e9s par la gr\u00eale et les temp\u00eates de sable.",
+                    "isHidden": true
+                }
             ],
             "height": 5,
             "weight": 73

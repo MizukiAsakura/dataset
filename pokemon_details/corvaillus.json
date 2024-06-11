@@ -20,9 +20,24 @@
             },
             "description": "Il n\u2019a aucun rival dans le ciel de Galar. L\u2019aspect intimidant de son corps d\u2019acier noir et lustr\u00e9 inspire la crainte chez ses ennemis.",
             "abilities": [
-                223,
-                273,
-                23
+                {
+                    "id": 223,
+                    "name": "Pression",
+                    "description": "Double l'utilisation de PP des attaques offensives du Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 273,
+                    "name": "Tension",
+                    "description": "Emp\u00eache l'adversaire de consommer sa baie.",
+                    "isHidden": false
+                },
+                {
+                    "id": 23,
+                    "name": "Armure Miroir",
+                    "description": "Renvoie tous les effets r\u00e9ducteurs de statistiques.",
+                    "isHidden": true
+                }
             ],
             "height": 22,
             "weight": 750

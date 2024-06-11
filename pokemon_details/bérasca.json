@@ -20,8 +20,18 @@
             },
             "description": "Il fait doucement tourner sa sph\u00e8re avec ses pattes afin d'assurer le confort du nouveau-n\u00e9 qui dort \u00e0 l'int\u00e9rieur.",
             "abilities": [
-                265,
-                270
+                {
+                    "id": 265,
+                    "name": "Synchro",
+                    "description": "Toute alt\u00e9ration d'\u00e9tat subie est transmise au Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 270,
+                    "name": "T\u00e9l\u00e9pathe",
+                    "description": "Anticipe et \u00e9vite les attaques des alli\u00e9s en Combat Double ou triple.",
+                    "isHidden": true
+                }
             ],
             "height": 3,
             "weight": 35

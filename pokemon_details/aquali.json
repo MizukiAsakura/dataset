@@ -19,8 +19,18 @@
             },
             "description": "Aquali a subi une mutation spontan\u00e9e. Des nageoires et des branchies sont apparues sur son corps, ce qui lui permet de vivre dans les fonds marins. Ce Pok\u00e9mon peut contr\u00f4ler l'eau \u00e0 volont\u00e9.",
             "abilities": [
-                2,
-                66
+                {
+                    "id": 2,
+                    "name": "Absorb Eau",
+                    "description": "Les attaques de type Eau re\u00e7ues par le Pok\u00e9mon r\u00e9g\u00e9n\u00e8rent 1/4 de ses PV.",
+                    "isHidden": false
+                },
+                {
+                    "id": 66,
+                    "name": "Coque Armure",
+                    "description": "Annule les chances de coups critiques du Pok\u00e9mon ennemi.",
+                    "isHidden": true
+                }
             ],
             "height": 10,
             "weight": 290

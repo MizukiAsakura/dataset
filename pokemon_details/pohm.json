@@ -19,9 +19,24 @@
             },
             "description": "Ses coussinets servent \u00e0 projeter de l'\u00e9lectricit\u00e9. Quand il parvient \u00e0 se tenir sur ses pattes arri\u00e8re, il envoie des d\u00e9charges avec ses pattes avant.",
             "abilities": [
-                260,
-                174,
-                215
+                {
+                    "id": 260,
+                    "name": "Statik",
+                    "description": "30% de chance de provoquer la paralysie du Pok\u00e9mon adverse ayant lanc\u00e9 une attaque de contact.",
+                    "isHidden": false
+                },
+                {
+                    "id": 174,
+                    "name": "M\u00e9dic Nature",
+                    "description": "Le Pok\u00e9mon est soign\u00e9 de toute alt\u00e9ration d'\u00e9tat lorsqu'il est chang\u00e9 ou en fin de combat.",
+                    "isHidden": false
+                },
+                {
+                    "id": 215,
+                    "name": "Poing de Fer",
+                    "description": "Augmente de 20% la puissance des attaques de \"Poing\".",
+                    "isHidden": true
+                }
             ],
             "height": 3,
             "weight": 25

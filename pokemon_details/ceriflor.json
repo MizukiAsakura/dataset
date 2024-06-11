@@ -19,7 +19,12 @@
             },
             "description": "Il fleurit lorsque le soleil est au beau fixe. Il cherche \u00e0 prendre sa revanche sur une vie de bourgeon. Ce timide bourgeon devient une fleur joyeuse. Il reprend sa forme de bourgeon au coucher du soleil.",
             "abilities": [
-                94
+                {
+                    "id": 94,
+                    "name": "Don Floral",
+                    "description": "Augmente l'attaque et la d\u00e9fense sp\u00e9ciale de 50% par temps ensoleill\u00e9.",
+                    "isHidden": false
+                }
             ],
             "height": 5,
             "weight": 93

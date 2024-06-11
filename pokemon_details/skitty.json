@@ -19,9 +19,24 @@
             },
             "description": "On sait que SKITTY court souvent apr\u00e8s sa queue. A l'\u00e9tat sauvage, ce POK\u00e9MON vit dans les cavit\u00e9s des arbres de la for\u00eat. Il est tellement adorable qu'il a un grand succ\u00e8s comme animal de compagnie.",
             "abilities": [
-                158,
-                192,
-                206
+                {
+                    "id": 158,
+                    "name": "Joli Sourire",
+                    "description": "A 30% de chance de provoquer l'attirance du Pok\u00e9mon adverse ayant attaqu\u00e9.",
+                    "isHidden": false
+                },
+                {
+                    "id": 192,
+                    "name": "Normalise",
+                    "description": "Toutes les attaques du Pok\u00e9mon sont consid\u00e9r\u00e9es comme \u00e9tant de type Normal.",
+                    "isHidden": false
+                },
+                {
+                    "id": 206,
+                    "name": "Peau Miracle",
+                    "description": "50% de chance de faire \u00e9chouer les attaques de statut port\u00e9es par l'adversaire.",
+                    "isHidden": true
+                }
             ],
             "height": 6,
             "weight": 110

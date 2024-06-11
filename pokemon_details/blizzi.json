@@ -20,8 +20,18 @@
             },
             "description": "Il vit sur les monts enneig\u00e9s. Ignorant des coutumes humaines, il lui arrive d'\u00eatre tr\u00e8s indiscret. Au printemps, il fait pousser des Baies pareilles \u00e0 des cr\u00e8mes glac\u00e9es autour de son ventre.",
             "abilities": [
-                11,
-                17
+                {
+                    "id": 11,
+                    "name": "Alerte Neige",
+                    "description": "Le Pok\u00e9mon d\u00e9clenche une gr\u00eale lorsqu'il est envoy\u00e9 au combat.",
+                    "isHidden": false
+                },
+                {
+                    "id": 17,
+                    "name": "Anti-Bruit",
+                    "description": "Annule les effets dus \u00e0 une attaque sonore.",
+                    "isHidden": true
+                }
             ],
             "height": 10,
             "weight": 505

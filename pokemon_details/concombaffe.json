@@ -19,8 +19,18 @@
             },
             "description": "Le fluide visqueux qui le recouvre garde sa peau bien hydrat\u00e9e, ce qui lui permet de vivre plusieurs jours sur la terre ferme sans se dess\u00e9cher.",
             "abilities": [
-                114,
-                153
+                {
+                    "id": 114,
+                    "name": "Expuls'Organes",
+                    "description": "Inflige des d\u00e9g\u00e2ts \u00e9quivalents aux PV restants avant le coup de gr\u00e2ce.",
+                    "isHidden": false
+                },
+                {
+                    "id": 153,
+                    "name": "Inconscient",
+                    "description": "Ignore les am\u00e9liorations de statistiques du Pok\u00e9mon adverse, \u00e0 l'exception de sa Vitesse.",
+                    "isHidden": true
+                }
             ],
             "height": 3,
             "weight": 12

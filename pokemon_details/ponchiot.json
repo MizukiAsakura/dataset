@@ -19,9 +19,24 @@
             },
             "description": "Les poils qui masquent son visage lui servent de radar, et lui permettent ainsi d\u2019\u00e9valuer la position et la puissance de ses ennemis.",
             "abilities": [
-                110,
-                235,
-                128
+                {
+                    "id": 110,
+                    "name": "Esprit Vital",
+                    "description": "Emp\u00eache le Pok\u00e9mon d'\u00eatre endormi.",
+                    "isHidden": false
+                },
+                {
+                    "id": 235,
+                    "name": "Ramassage",
+                    "description": "Donne une chance au Pok\u00e9mon de ramasser un objet apr\u00e8s un combat.",
+                    "isHidden": false
+                },
+                {
+                    "id": 128,
+                    "name": "Fuite",
+                    "description": "Assure la fuite contre les Pok\u00e9mon sauvages.",
+                    "isHidden": true
+                }
             ],
             "height": 4,
             "weight": 41

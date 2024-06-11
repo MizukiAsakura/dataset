@@ -20,9 +20,24 @@
             },
             "description": "SCORPLANE plane dans les airs sans un bruit, comme s'il glissait. Ce POK\u00e9MON s'accroche au visage de son ennemi gr\u00e2ce aux serres de ses pattes arri\u00e8re et aux pinces de ses pattes avant, et pique avec son dard empoisonn\u00e9.",
             "abilities": [
-                294,
-                144,
-                290
+                {
+                    "id": 294,
+                    "name": "Voile Sable",
+                    "description": "Augmente l'esquive de 20% lors d'une temp\u00eate de sable et immunise contre ses d\u00e9g\u00e2ts.",
+                    "isHidden": false
+                },
+                {
+                    "id": 144,
+                    "name": "Hyper Cutter",
+                    "description": "Emp\u00eache la diminution d'attaque du Pok\u00e9mon.",
+                    "isHidden": false
+                },
+                {
+                    "id": 290,
+                    "name": "Vaccin",
+                    "description": "Immunise contre l'empoisonnement.",
+                    "isHidden": true
+                }
             ],
             "height": 11,
             "weight": 648

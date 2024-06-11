@@ -19,9 +19,24 @@
             },
             "description": "Il recouvre ses jambes d\u2019une cro\u00fbte de boue, les rendant ainsi plus dures que la pierre. Il peut alors d\u00e9truire un camion d\u2019un seul coup de jambe.",
             "abilities": [
-                272,
-                103,
-                26
+                {
+                    "id": 272,
+                    "name": "Tempo Perso",
+                    "description": "Immunise contre la confusion.",
+                    "isHidden": false
+                },
+                {
+                    "id": 103,
+                    "name": "Endurance",
+                    "description": "Augmente la D\u00e9fense lorsque le Pok\u00e9mon est touch\u00e9 par une attaque.",
+                    "isHidden": false
+                },
+                {
+                    "id": 26,
+                    "name": "Attention",
+                    "description": "Immunise contre la peur.",
+                    "isHidden": true
+                }
             ],
             "height": 25,
             "weight": 9200

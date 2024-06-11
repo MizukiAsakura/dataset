@@ -19,9 +19,24 @@
             },
             "description": "La cavit\u00e9 hexagonale qu\u2019il arbore est son oreille. Il se pr\u00e9cipite vers tout ce qu\u2019il entend, mais perd l\u2019\u00e9quilibre et chute d\u00e8s que le son s\u2019arr\u00eate.",
             "abilities": [
-                117,
-                24,
-                124
+                {
+                    "id": 117,
+                    "name": "Fermet\u00e9",
+                    "description": "Immunise contre les attaques OHKO. \u00c0 partir de la 5e g\u00e9n\u00e9ration, ce talent fait aussi conserver 1 PV au Pok\u00e9mon m\u00eame apr\u00e8s une attaque qui aurait d\u00fb le terrasser, s'il a tous ses PV.",
+                    "isHidden": false
+                },
+                {
+                    "id": 24,
+                    "name": "Armurouill\u00e9e",
+                    "description": "Le Pok\u00e9mon touch\u00e9 par une attaque physique voit sa d\u00e9fense diminu\u00e9e d'un niveau et sa vitesse augment\u00e9e de deux.",
+                    "isHidden": false
+                },
+                {
+                    "id": 124,
+                    "name": "Force Sable",
+                    "description": "Lors d'une temp\u00eate de sable, la puissance des attaques de type Acier, Roche et Sol augmente de 30 %.",
+                    "isHidden": true
+                }
             ],
             "height": 4,
             "weight": 180

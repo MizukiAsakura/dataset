@@ -19,7 +19,12 @@
             },
             "description": "Ce POK\u00e9MON a la forme d'un caract\u00e8re d'\u00e9criture antique. Personne ne sait si ces \u00e9critures antiques sont apparues avant les ZARBI ou le contraire. Des \u00e9tudes sont en cours, mais aucun r\u00e9sultat n'a \u00e9t\u00e9 annonc\u00e9.",
             "abilities": [
-                162
+                {
+                    "id": 162,
+                    "name": "L\u00e9vitation",
+                    "description": "Immunise contre les attaques de type Sol.",
+                    "isHidden": false
+                }
             ],
             "height": 5,
             "weight": 50

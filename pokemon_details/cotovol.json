@@ -20,9 +20,24 @@
             },
             "description": "COTOVOL traverse la mer, port\u00e9 par les vents, pour d\u00e9couvrir de nouveaux territoires. Ce POK\u00e9MON se rapproche du sol quand le vent est trop froid.",
             "abilities": [
-                56,
-                118,
-                154
+                {
+                    "id": 56,
+                    "name": "Chlorophylle",
+                    "description": "Augmente la vitesse au soleil.",
+                    "isHidden": false
+                },
+                {
+                    "id": 118,
+                    "name": "Feuille Garde",
+                    "description": "Soigne les alt\u00e9rations d'\u00e9tat par temps ensoleill\u00e9.",
+                    "isHidden": false
+                },
+                {
+                    "id": 154,
+                    "name": "Infiltration",
+                    "description": "Emp\u00eache les attaques de protection adverses tels que Protection ou Mur Lumi\u00e8re de fonctionner. N'influe pas sur D\u00e9tection et Abri.",
+                    "isHidden": true
+                }
             ],
             "height": 8,
             "weight": 30

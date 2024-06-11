@@ -19,8 +19,18 @@
             },
             "description": "Le corps de TERACLOPE est totalement creux. Il n'y a rien du tout \u00e0 l'int\u00e9rieur. On raconte que son corps est comme un trou noir. Ce POK\u00e9MON peut absorber n'importe quoi, mais rien n'en ressort jamais.",
             "abilities": [
-                223,
-                126
+                {
+                    "id": 223,
+                    "name": "Pression",
+                    "description": "Double l'utilisation de PP des attaques offensives du Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 126,
+                    "name": "Fouille",
+                    "description": "Permet de connaitre l'objet tenu d'un Pok\u00e9mon adverse.",
+                    "isHidden": true
+                }
             ],
             "height": 16,
             "weight": 306

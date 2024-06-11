@@ -20,8 +20,18 @@
             },
             "description": "Le corps long et flexible de Ch\u00e9tiflor lui permet de se tordre et d'osciller pour \u00e9viter tout type d'attaque, m\u00eames les plus puissantes. Ce Pok\u00e9mon crache un fluide corrosif qui peut m\u00eame dissoudre le fer.",
             "abilities": [
-                56,
-                135
+                {
+                    "id": 56,
+                    "name": "Chlorophylle",
+                    "description": "Augmente la vitesse au soleil.",
+                    "isHidden": false
+                },
+                {
+                    "id": 135,
+                    "name": "Gloutonnerie",
+                    "description": "Le Pok\u00e9mon utilise la baie port\u00e9e lorsque les PV descendent en dessous de 50%.",
+                    "isHidden": true
+                }
             ],
             "height": 7,
             "weight": 40

@@ -19,8 +19,18 @@
             },
             "description": "Les \u00eatres humains prot\u00e8gent ce Pok\u00e9mon depuis longtemps, car la levure que contient son souffle est utile pour cuisiner.",
             "abilities": [
-                272,
-                169
+                {
+                    "id": 272,
+                    "name": "Tempo Perso",
+                    "description": "Immunise contre la confusion.",
+                    "isHidden": false
+                },
+                {
+                    "id": 169,
+                    "name": "Maladresse",
+                    "description": "Emp\u00eache l'utilisation et/ou ignore l'effet des objets tenus en combat.",
+                    "isHidden": true
+                }
             ],
             "height": 3,
             "weight": 109

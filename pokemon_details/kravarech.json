@@ -20,9 +20,24 @@
             },
             "description": "Avec son poison capable de dissoudre le m\u00e9tal, il r\u00e9duit \u00e0 l\u2019\u00e9tat d\u2019\u00e9pave les navires-citernes qui p\u00e9n\u00e8trent sur son territoire.",
             "abilities": [
-                217,
-                283,
-                6
+                {
+                    "id": 217,
+                    "name": "Point Poison",
+                    "description": "30% de chance de provoquer l'empoisonnement du Pok\u00e9mon adverse ayant lanc\u00e9 une attaque de contact.",
+                    "isHidden": false
+                },
+                {
+                    "id": 283,
+                    "name": "Toxitouche",
+                    "description": "Peut empoisonner l'adversaire apr\u00e8s lui avoir port\u00e9 une attaque physique.",
+                    "isHidden": false
+                },
+                {
+                    "id": 6,
+                    "name": "Adaptabilit\u00e9",
+                    "description": "Si ce Pok\u00e9mon utilise une attaque de son type, la puissance de l'attaque est multipli\u00e9e par 2 au lieu de 1.5.",
+                    "isHidden": true
+                }
             ],
             "height": 18,
             "weight": 815

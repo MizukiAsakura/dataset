@@ -20,9 +20,24 @@
             },
             "description": "Ils prennent de l\u2019\u00e9lan avec tout leur corps et soul\u00e8vent ainsi leur pierre pour se d\u00e9placer. Ils mangent les algues \u00e9chou\u00e9es sur le rivage.",
             "abilities": [
-                254,
-                139,
-                210
+                {
+                    "id": 254,
+                    "name": "Sniper",
+                    "description": "Triple la puissance des coups critiques.",
+                    "isHidden": false
+                },
+                {
+                    "id": 139,
+                    "name": "Griffe Dure",
+                    "description": "Augmente d'un tiers la puissance des attaques directes.",
+                    "isHidden": false
+                },
+                {
+                    "id": 210,
+                    "name": "Pickpocket",
+                    "description": "Si le Pok\u00e9mon subit une attaque physique, il r\u00e9cup\u00e8re l'objet tenu par son adversaire.",
+                    "isHidden": true
+                }
             ],
             "height": 5,
             "weight": 310

@@ -20,8 +20,18 @@
             },
             "description": "MASKADRA intimide ses ennemis gr\u00e2ce aux motifs en forme de regard sur ses antennes. En battant des ailes, ce POK\u00e9MON peut voler librement dans toutes les directions, m\u00eame lat\u00e9ralement ou \u00e0 reculons.",
             "abilities": [
-                156,
-                273
+                {
+                    "id": 156,
+                    "name": "Intimidation",
+                    "description": "Diminue d'un niveau l'attaque du Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 273,
+                    "name": "Tension",
+                    "description": "Emp\u00eache l'adversaire de consommer sa baie.",
+                    "isHidden": true
+                }
             ],
             "height": 8,
             "weight": 36

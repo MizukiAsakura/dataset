@@ -19,7 +19,12 @@
             },
             "description": "La mythologie le d\u00e9crit comme le Pok\u00e9mon qui a fa\u00e7onn\u00e9 l\u2019univers avec ses mille bras.",
             "abilities": [
-                189
+                {
+                    "id": 189,
+                    "name": "Multitype",
+                    "description": "Le type et la forme du Pok\u00e9mon changent en fonction de la plaque qu'il porte.",
+                    "isHidden": false
+                }
             ],
             "height": 32,
             "weight": 3200

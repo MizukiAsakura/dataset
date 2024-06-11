@@ -20,9 +20,24 @@
             },
             "description": "FARFURET grimpe aux arbres en enfon\u00e7ant ses griffes crochet\u00e9es dans l'\u00e9corce. Ce POK\u00e9MON cherche les nids qui ne sont pas surveill\u00e9s et vole les \u0153ufs pour les manger pendant que les parents sont partis.",
             "abilities": [
-                26,
-                240,
-                210
+                {
+                    "id": 26,
+                    "name": "Attention",
+                    "description": "Immunise contre la peur.",
+                    "isHidden": false
+                },
+                {
+                    "id": 240,
+                    "name": "Regard Vif",
+                    "description": "Emp\u00eache la perte de pr\u00e9cision.",
+                    "isHidden": false
+                },
+                {
+                    "id": 210,
+                    "name": "Pickpocket",
+                    "description": "Si le Pok\u00e9mon subit une attaque physique, il r\u00e9cup\u00e8re l'objet tenu par son adversaire.",
+                    "isHidden": true
+                }
             ],
             "height": 9,
             "weight": 280
@@ -44,9 +59,24 @@
             },
             "description": "FARFURET grimpe aux arbres en enfon\u00e7ant ses griffes crochet\u00e9es dans l'\u00e9corce. Ce POK\u00e9MON cherche les nids qui ne sont pas surveill\u00e9s et vole les \u0153ufs pour les manger pendant que les parents sont partis.",
             "abilities": [
-                26,
-                240,
-                210
+                {
+                    "id": 26,
+                    "name": "Attention",
+                    "description": "Immunise contre la peur.",
+                    "isHidden": false
+                },
+                {
+                    "id": 240,
+                    "name": "Regard Vif",
+                    "description": "Emp\u00eache la perte de pr\u00e9cision.",
+                    "isHidden": false
+                },
+                {
+                    "id": 210,
+                    "name": "Pickpocket",
+                    "description": "Si le Pok\u00e9mon subit une attaque physique, il r\u00e9cup\u00e8re l'objet tenu par son adversaire.",
+                    "isHidden": true
+                }
             ],
             "height": 9,
             "weight": 270

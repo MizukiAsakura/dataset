@@ -20,8 +20,18 @@
             },
             "description": "NINGALE vit depuis des ann\u00e9es sous terre, dans l'obscurit\u00e9 la plus totale. Ce POK\u00e9MON absorbe les nutriments des racines des arbres. Il reste immobile, attendant patiemment son \u00e9volution.",
             "abilities": [
-                194,
-                128
+                {
+                    "id": 194,
+                    "name": "\u0152il Compos\u00e9",
+                    "description": "Augmente de 30% la pr\u00e9cision du Pok\u00e9mon.",
+                    "isHidden": false
+                },
+                {
+                    "id": 128,
+                    "name": "Fuite",
+                    "description": "Assure la fuite contre les Pok\u00e9mon sauvages.",
+                    "isHidden": true
+                }
             ],
             "height": 5,
             "weight": 55

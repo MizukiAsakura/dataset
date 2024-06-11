@@ -19,9 +19,24 @@
             },
             "description": "Le cerveau d'Alakazam grossit sans arr\u00eat, si bien que sa t\u00eate devient trop lourde pour son cou. Ce Pok\u00e9mon maintient sa t\u00eate relev\u00e9e gr\u00e2ce \u00e0 son pouvoir t\u00e9l\u00e9kin\u00e9tique.",
             "abilities": [
-                265,
-                26,
-                130
+                {
+                    "id": 265,
+                    "name": "Synchro",
+                    "description": "Toute alt\u00e9ration d'\u00e9tat subie est transmise au Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 26,
+                    "name": "Attention",
+                    "description": "Immunise contre la peur.",
+                    "isHidden": false
+                },
+                {
+                    "id": 130,
+                    "name": "Garde Magik",
+                    "description": "Le Pok\u00e9mon ne subit de d\u00e9g\u00e2ts que lors d'attaques directes.",
+                    "isHidden": true
+                }
             ],
             "height": 15,
             "weight": 480

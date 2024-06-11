@@ -20,8 +20,18 @@
             },
             "description": "DRATTAK a ce physique gr\u00e2ce \u00e0 son d\u00e9sir de pouvoir s'envoler. On dit que cette puissante envie a d\u00e9clench\u00e9 une soudaine mutation mol\u00e9culaire de ce POK\u00e9MON, faisant surgir de splendides ailes.",
             "abilities": [
-                156,
-                151
+                {
+                    "id": 156,
+                    "name": "Intimidation",
+                    "description": "Diminue d'un niveau l'attaque du Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 151,
+                    "name": "Impudence",
+                    "description": "Monte l'attaque du Pok\u00e9mon d'un niveau lorsqu'il met un adversaire K.O.",
+                    "isHidden": true
+                }
             ],
             "height": 15,
             "weight": 1026

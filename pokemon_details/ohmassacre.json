@@ -19,7 +19,12 @@
             },
             "description": "Il peut sortir de l'eau \u00e0 la force de ses bras pour attraper des proies sur la rive. Il retourne \u00e0 l'eau en un instant.",
             "abilities": [
-                162
+                {
+                    "id": 162,
+                    "name": "L\u00e9vitation",
+                    "description": "Immunise contre les attaques de type Sol.",
+                    "isHidden": false
+                }
             ],
             "height": 21,
             "weight": 805

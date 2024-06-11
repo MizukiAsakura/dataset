@@ -19,9 +19,24 @@
             },
             "description": "Les motifs en forme d\u2019yeux \u00e0 l\u2019int\u00e9rieur de ses oreilles \u00e9mettent une force psychique tellement puissante qu\u2019il est contraint de les garder couverts",
             "abilities": [
-                154,
-                240,
-                116
+                {
+                    "id": 154,
+                    "name": "Infiltration",
+                    "description": "Emp\u00eache les attaques de protection adverses tels que Protection ou Mur Lumi\u00e8re de fonctionner. N'influe pas sur D\u00e9tection et Abri.",
+                    "isHidden": false
+                },
+                {
+                    "id": 240,
+                    "name": "Regard Vif",
+                    "description": "Emp\u00eache la perte de pr\u00e9cision.",
+                    "isHidden": false
+                },
+                {
+                    "id": 116,
+                    "name": "Farceur",
+                    "description": "Augmente la priorit\u00e9 des attaques de statut d'un niveau.",
+                    "isHidden": true
+                }
             ],
             "height": 6,
             "weight": 85
@@ -42,9 +57,24 @@
             },
             "description": "Les femelles sont un peu plus agressives et \u00e9go\u00efstes que les m\u00e2les. Quand elles sont f\u00e2ch\u00e9es, elles se vengent avec leurs pouvoirs psychiques.",
             "abilities": [
-                154,
-                240,
-                33
+                {
+                    "id": 154,
+                    "name": "Infiltration",
+                    "description": "Emp\u00eache les attaques de protection adverses tels que Protection ou Mur Lumi\u00e8re de fonctionner. N'influe pas sur D\u00e9tection et Abri.",
+                    "isHidden": false
+                },
+                {
+                    "id": 240,
+                    "name": "Regard Vif",
+                    "description": "Emp\u00eache la perte de pr\u00e9cision.",
+                    "isHidden": false
+                },
+                {
+                    "id": 33,
+                    "name": "Battant",
+                    "description": "Augmente l'Attaque Sp\u00e9ciale par deux niveaux lorsque n'importe quelle stat est baiss\u00e9e par un Pok\u00e9mon adverse.",
+                    "isHidden": true
+                }
             ],
             "height": 6,
             "weight": 85

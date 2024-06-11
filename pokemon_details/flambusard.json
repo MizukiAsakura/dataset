@@ -20,8 +20,18 @@
             },
             "description": "Flambusard attaque \u00e0 une vitesse de 500 km/h. Il ach\u00e8ve ses proies d\u2019un puissant coup de patte sans leur laisser la moindre chance de fuir.",
             "abilities": [
-                67,
-                9
+                {
+                    "id": 67,
+                    "name": "Corps Ardent",
+                    "description": "30% de chance de provoquer une br\u00fblure sur le Pok\u00e9mon adverse ayant attaqu\u00e9.",
+                    "isHidden": false
+                },
+                {
+                    "id": 9,
+                    "name": "Ailes Bourrasque",
+                    "description": "Augmente la priorit\u00e9 des capacit\u00e9s de type Vol.",
+                    "isHidden": true
+                }
             ],
             "height": 12,
             "weight": 245

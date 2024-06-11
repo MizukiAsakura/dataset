@@ -19,9 +19,24 @@
             },
             "description": "Smogogo adore les gaz qui se d\u00e9gagent des aliments pourris dans les poubelles. Ce Pok\u00e9mon cherche g\u00e9n\u00e9ralement les maisons sales et mal tenues pour y habiter. La nuit, quand tout le monde est endormi, il fouille les d\u00e9tritus.",
             "abilities": [
-                162,
-                132,
-                230
+                {
+                    "id": 162,
+                    "name": "L\u00e9vitation",
+                    "description": "Immunise contre les attaques de type Sol.",
+                    "isHidden": false
+                },
+                {
+                    "id": 132,
+                    "name": "Gaz Inhibiteur",
+                    "description": "Neutralise les talents des autres Pok\u00e9mon.",
+                    "isHidden": false
+                },
+                {
+                    "id": 230,
+                    "name": "Puanteur",
+                    "description": "Les attaques physiques ont 10% d'apeurer la cible. Uniquement \u00e0 partir de la 5e g\u00e9n\u00e9ration.",
+                    "isHidden": true
+                }
             ],
             "height": 12,
             "weight": 95
@@ -43,9 +58,24 @@
             },
             "description": "Smogogo adore les gaz qui se d\u00e9gagent des aliments pourris dans les poubelles. Ce Pok\u00e9mon cherche g\u00e9n\u00e9ralement les maisons sales et mal tenues pour y habiter. La nuit, quand tout le monde est endormi, il fouille les d\u00e9tritus.",
             "abilities": [
-                162,
-                132,
-                78
+                {
+                    "id": 162,
+                    "name": "L\u00e9vitation",
+                    "description": "Immunise contre les attaques de type Sol.",
+                    "isHidden": false
+                },
+                {
+                    "id": 132,
+                    "name": "Gaz Inhibiteur",
+                    "description": "Neutralise les talents des autres Pok\u00e9mon.",
+                    "isHidden": false
+                },
+                {
+                    "id": 78,
+                    "name": "Cr\u00e9a-Brume",
+                    "description": "Pose un Champ Brumeux qui diminue la puissance des attaques Dragon et emp\u00eache les alt\u00e9rations de statuts.",
+                    "isHidden": true
+                }
             ],
             "height": 30,
             "weight": 160

@@ -19,8 +19,18 @@
             },
             "description": "FEURISSON garde ses ennemis \u00e0 distance gr\u00e2ce \u00e0 l'intensit\u00e9 de ses flammes et \u00e0 des rafales d'air br\u00fblant. Ce POK\u00e9MON utilise son incroyable agilit\u00e9 pour \u00e9viter les attaques, tout en enflammant ses ennemis.",
             "abilities": [
-                44,
-                281
+                {
+                    "id": 44,
+                    "name": "Brasier",
+                    "description": "Augmente la puissance des attaques de type Feu de 50% lorsque le Pok\u00e9mon a moins d'1/3 de ses PV totaux.",
+                    "isHidden": false
+                },
+                {
+                    "id": 281,
+                    "name": "Torche",
+                    "description": "Annule les d\u00e9g\u00e2ts des attaques de type Feu subies et augmente de 50% la puissance des attaques de type Feu lanc\u00e9es.",
+                    "isHidden": true
+                }
             ],
             "height": 9,
             "weight": 190

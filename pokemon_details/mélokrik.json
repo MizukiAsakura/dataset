@@ -19,8 +19,18 @@
             },
             "description": "Il exprime ses \u00e9motions par des m\u00e9lodies. Les scientifiques \u00e9tudient actuellement leur structure. Il croise ses bras aff\u00fbt\u00e9s devant son torse pour crier. Il compose tout un tas de m\u00e9lodies.",
             "abilities": [
-                111,
-                268
+                {
+                    "id": 111,
+                    "name": "Essaim",
+                    "description": "Augmente la puissance des attaques de type Insecte de 50% lorsque le Pok\u00e9mon a moins d'1/3 de ses PV totaux.",
+                    "isHidden": false
+                },
+                {
+                    "id": 268,
+                    "name": "Technicien",
+                    "description": "Augmente de 50% la puissance des attaques dont la puissance est inf\u00e9rieure ou \u00e9gale \u00e0 60.",
+                    "isHidden": true
+                }
             ],
             "height": 10,
             "weight": 255

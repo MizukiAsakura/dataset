@@ -19,8 +19,18 @@
             },
             "description": "Ses cordes vocales et la valve de sa poche \u00e0 flammes sont \u00e9troitement li\u00e9es, ce qui lui permet de pousser des cris gutturaux en crachant du feu.",
             "abilities": [
-                44,
-                153
+                {
+                    "id": 44,
+                    "name": "Brasier",
+                    "description": "Augmente la puissance des attaques de type Feu de 50% lorsque le Pok\u00e9mon a moins d'1/3 de ses PV totaux.",
+                    "isHidden": false
+                },
+                {
+                    "id": 153,
+                    "name": "Inconscient",
+                    "description": "Ignore les am\u00e9liorations de statistiques du Pok\u00e9mon adverse, \u00e0 l'exception de sa Vitesse.",
+                    "isHidden": true
+                }
             ],
             "height": 10,
             "weight": 307

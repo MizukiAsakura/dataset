@@ -19,9 +19,24 @@
             },
             "description": "Ses yeux voient \u00e0 travers tout. Il rep\u00e8re les proies cach\u00e9es derri\u00e8re un objet pour les capturer. Quand ses yeux se dorent, il peut rep\u00e9rer une proie cach\u00e9e, m\u00eame si elle est derri\u00e8re un mur.",
             "abilities": [
-                271,
-                244,
-                77
+                {
+                    "id": 271,
+                    "name": "T\u00e9m\u00e9raire",
+                    "description": "Augmente de 20% la puissance des attaques infligeant un contrecoup.",
+                    "isHidden": false
+                },
+                {
+                    "id": 244,
+                    "name": "Rivalit\u00e9",
+                    "description": "Augmente l'attaque et l'attaque sp\u00e9ciale de 25% si le Pok\u00e9mon adverse est de m\u00eame sexe. Les diminue s'il est de sexe oppos\u00e9.",
+                    "isHidden": false
+                },
+                {
+                    "id": 77,
+                    "name": "Cran",
+                    "description": "Augmente de 50% l'attaque du Pok\u00e9mon s'il subit un changement de statut.",
+                    "isHidden": true
+                }
             ],
             "height": 14,
             "weight": 420

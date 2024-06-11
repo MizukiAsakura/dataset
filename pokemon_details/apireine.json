@@ -20,8 +20,18 @@
             },
             "description": "Son abdomen est un rayon o\u00f9 vivent ses larves, \u00e9lev\u00e9es avec le nectar r\u00e9colt\u00e9 par APITRINI. En cas de danger, les larves de son rayon de 6 alv\u00e9oles ripostent. Il n'y en a qu'un dans chaque colonie.",
             "abilities": [
-                223,
-                273
+                {
+                    "id": 223,
+                    "name": "Pression",
+                    "description": "Double l'utilisation de PP des attaques offensives du Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 273,
+                    "name": "Tension",
+                    "description": "Emp\u00eache l'adversaire de consommer sa baie.",
+                    "isHidden": true
+                }
             ],
             "height": 12,
             "weight": 385

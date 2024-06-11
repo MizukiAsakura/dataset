@@ -19,9 +19,24 @@
             },
             "description": "Virtuellement, le corps de GLOUPTI n'est qu'un estomac. Il est capable d'avaler des objets aussi gros que lui. L'estomac de ce POK\u00e9MON contient un fluide sp\u00e9cial qui lui permet de dig\u00e9rer n'importe quoi.",
             "abilities": [
-                261,
-                137,
-                135
+                {
+                    "id": 261,
+                    "name": "Suintement",
+                    "description": "Les attaques absorbantes du Pok\u00e9mon adverse lui font perdre des PV.",
+                    "isHidden": false
+                },
+                {
+                    "id": 137,
+                    "name": "Glue",
+                    "description": "Emp\u00eache la perte de l'objet tenu.",
+                    "isHidden": false
+                },
+                {
+                    "id": 135,
+                    "name": "Gloutonnerie",
+                    "description": "Le Pok\u00e9mon utilise la baie port\u00e9e lorsque les PV descendent en dessous de 50%.",
+                    "isHidden": true
+                }
             ],
             "height": 4,
             "weight": 103

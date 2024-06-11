@@ -20,7 +20,12 @@
             },
             "description": "Un Pok\u00e9mon qui am\u00e8ne la victoire. On dit que les Dresseurs qui le poss\u00e8dent peuvent gagner n'importe quel combat.",
             "abilities": [
-                292
+                {
+                    "id": 292,
+                    "name": "Victorieux",
+                    "description": "Monte de 10% la pr\u00e9cision des alli\u00e9s en Combat Double ou triple.",
+                    "isHidden": false
+                }
             ],
             "height": 4,
             "weight": 40

@@ -19,9 +19,24 @@
             },
             "description": "Hypotrempe mange des petits insectes et de la mousse trouv\u00e9e sur les cailloux. Lorsque les courants oc\u00e9aniques sont trop forts, ce Pok\u00e9mon peut s'ancrer en accrochant sa queue aux rochers ou aux coraux.",
             "abilities": [
-                134,
-                254,
-                182
+                {
+                    "id": 134,
+                    "name": "Glissade",
+                    "description": "Double la vitesse par temps de pluie.",
+                    "isHidden": false
+                },
+                {
+                    "id": 254,
+                    "name": "Sniper",
+                    "description": "Triple la puissance des coups critiques.",
+                    "isHidden": false
+                },
+                {
+                    "id": 182,
+                    "name": "Moiteur",
+                    "description": "\u00c9mp\u00eache l'utilisation d'attaques auto-destructrices par le Pok\u00e9mon adverse.",
+                    "isHidden": true
+                }
             ],
             "height": 4,
             "weight": 80

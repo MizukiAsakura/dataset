@@ -20,9 +20,24 @@
             },
             "description": "La force de ses pattes et de ses m\u00e2choires le rendait presque invincible, mais \u00e0 trop chasser ses proies, celles-ci ont disparu, et lui avec.",
             "abilities": [
-                2,
-                227,
-                30
+                {
+                    "id": 2,
+                    "name": "Absorb Eau",
+                    "description": "Les attaques de type Eau re\u00e7ues par le Pok\u00e9mon r\u00e9g\u00e9n\u00e8rent 1/4 de ses PV.",
+                    "isHidden": false
+                },
+                {
+                    "id": 227,
+                    "name": "Prognathe",
+                    "description": "Augmente la puissance des attaques \u00e0 base de morsures.",
+                    "isHidden": false
+                },
+                {
+                    "id": 30,
+                    "name": "Baigne Sable",
+                    "description": "Double la Vitesse du Pok\u00e9mon lors d'une temp\u00eate de sable. Immunise contre les d\u00e9g\u00e2ts de la temp\u00eate.",
+                    "isHidden": true
+                }
             ],
             "height": 23,
             "weight": 2150

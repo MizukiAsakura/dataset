@@ -20,8 +20,18 @@
             },
             "description": "Ce Pok\u00e9mon porte une armure renforc\u00e9e par de l'\u00e9nergie de type Psy et de type Feu. Il lance des boules de feu \u00e0 tr\u00e8s haute temp\u00e9rature. Il a \u00e9volu\u00e9 gr\u00e2ce \u00e0 l'armure d'une illustre \u00e2me guerri\u00e8re. Ce Pok\u00e9mon est extr\u00eamement loyal.",
             "abilities": [
-                281,
-                24
+                {
+                    "id": 281,
+                    "name": "Torche",
+                    "description": "Annule les d\u00e9g\u00e2ts des attaques de type Feu subies et augmente de 50% la puissance des attaques de type Feu lanc\u00e9es.",
+                    "isHidden": false
+                },
+                {
+                    "id": 24,
+                    "name": "Armurouill\u00e9e",
+                    "description": "Le Pok\u00e9mon touch\u00e9 par une attaque physique voit sa d\u00e9fense diminu\u00e9e d'un niveau et sa vitesse augment\u00e9e de deux.",
+                    "isHidden": true
+                }
             ],
             "height": 15,
             "weight": 850

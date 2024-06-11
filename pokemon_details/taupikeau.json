@@ -19,9 +19,24 @@
             },
             "description": "Sa ressemblance fortuite avec Taupiqueur serait le fruit d'une adaptation \u00e0 son milieu. Malgr\u00e9 leur similarit\u00e9, ils ne sont pas de la m\u00eame esp\u00e8ce.",
             "abilities": [
-                218,
-                209,
-                294
+                {
+                    "id": 218,
+                    "name": "Poisseux",
+                    "description": "Baisse la Vitesse des Pok\u00e9mon qui touchent ce Pok\u00e9mon avec une attaque directe.",
+                    "isHidden": false
+                },
+                {
+                    "id": 209,
+                    "name": "Phobique",
+                    "description": "Si le Pok\u00e9mon est touch\u00e9 par une attaque de type Insecte, Spectre ou T\u00e9n\u00e8bres, sa vitesse augmente d'un niveau.",
+                    "isHidden": false
+                },
+                {
+                    "id": 294,
+                    "name": "Voile Sable",
+                    "description": "Augmente l'esquive de 20% lors d'une temp\u00eate de sable et immunise contre ses d\u00e9g\u00e2ts.",
+                    "isHidden": true
+                }
             ],
             "height": 12,
             "weight": 18

@@ -20,8 +20,18 @@
             },
             "description": "Artikodin est un Pok\u00e9mon Oiseau l\u00e9gendaire qui peut contr\u00f4ler la glace. Le battement de ses ailes g\u00e8le l'air tout autour de lui. C'est pourquoi on dit que lorsque ce Pok\u00e9mon vole, il va neiger.",
             "abilities": [
-                223,
-                243
+                {
+                    "id": 223,
+                    "name": "Pression",
+                    "description": "Double l'utilisation de PP des attaques offensives du Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 243,
+                    "name": "Rideau Neige",
+                    "description": "Augmente l'esquive de 20% par temps de gr\u00eale. Immunise les Pok\u00e9mon n'ayant pas le type Glace contre la gr\u00eale.",
+                    "isHidden": true
+                }
             ],
             "height": 17,
             "weight": 554
@@ -43,7 +53,12 @@
             },
             "description": "Artikodin est un Pok\u00e9mon Oiseau l\u00e9gendaire qui peut contr\u00f4ler la glace. Le battement de ses ailes g\u00e8le l'air tout autour de lui. C'est pourquoi on dit que lorsque ce Pok\u00e9mon vole, il va neiger.",
             "abilities": [
-                33
+                {
+                    "id": 33,
+                    "name": "Battant",
+                    "description": "Augmente l'Attaque Sp\u00e9ciale par deux niveaux lorsque n'importe quelle stat est baiss\u00e9e par un Pok\u00e9mon adverse.",
+                    "isHidden": false
+                }
             ],
             "height": 17,
             "weight": 509

@@ -19,8 +19,18 @@
             },
             "description": "NOCTALI a \u00e9volu\u00e9 suite \u00e0 une longue exposition aux rayons lunaires. Il se cache dans les recoins sombres et attend patiemment le passage de ses ennemis. Les anneaux sur son corps s'illuminent au moment o\u00f9 il bondit.",
             "abilities": [
-                265,
-                26
+                {
+                    "id": 265,
+                    "name": "Synchro",
+                    "description": "Toute alt\u00e9ration d'\u00e9tat subie est transmise au Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 26,
+                    "name": "Attention",
+                    "description": "Immunise contre la peur.",
+                    "isHidden": true
+                }
             ],
             "height": 10,
             "weight": 270

@@ -19,8 +19,18 @@
             },
             "description": "Ce Pok\u00e9mon fabrique des ballons remplis d\u2019eau pour se battre. Il ne peut produire un gros ballon qu\u2019au prix d\u2019un entra\u00eenement rigoureux.",
             "abilities": [
-                282,
-                142
+                {
+                    "id": 282,
+                    "name": "Torrent",
+                    "description": "Augmente la puissance des attaques de type Eau de 50% lorsque le Pok\u00e9mon a moins d'1/3 de ses PV totaux.",
+                    "isHidden": false
+                },
+                {
+                    "id": 142,
+                    "name": "Hydrata-Son",
+                    "description": "Toutes les attaques sonores du Pok\u00e9mon prennent le type Eau.",
+                    "isHidden": true
+                }
             ],
             "height": 4,
             "weight": 75

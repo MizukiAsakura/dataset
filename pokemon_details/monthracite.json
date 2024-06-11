@@ -20,9 +20,24 @@
             },
             "description": "Lorsqu\u2019il s\u2019engage dans un combat, son tas de charbon br\u00fble et vire au rouge, ce qui r\u00e9pand de petites \u00e9tincelles qui calcinent ce qui l\u2019entoure.",
             "abilities": [
-                285,
-                67,
-                281
+                {
+                    "id": 285,
+                    "name": "Turbine",
+                    "description": "La Vitesse du Pok\u00e9mon augmente de 6 niveaux s'il est touch\u00e9 par une capacit\u00e9 de type Feu ou Eau en combat.",
+                    "isHidden": false
+                },
+                {
+                    "id": 67,
+                    "name": "Corps Ardent",
+                    "description": "30% de chance de provoquer une br\u00fblure sur le Pok\u00e9mon adverse ayant attaqu\u00e9.",
+                    "isHidden": false
+                },
+                {
+                    "id": 281,
+                    "name": "Torche",
+                    "description": "Annule les d\u00e9g\u00e2ts des attaques de type Feu subies et augmente de 50% la puissance des attaques de type Feu lanc\u00e9es.",
+                    "isHidden": true
+                }
             ],
             "height": 28,
             "weight": 3105

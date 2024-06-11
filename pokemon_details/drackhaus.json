@@ -19,8 +19,18 @@
             },
             "description": "A l'int\u00e9rieur de la carapace blind\u00e9e de DRACKHAUS, ses cellules sont en pleine transformation pour cr\u00e9er un nouveau corps. La carapace de ce POK\u00e9MON est tr\u00e8s lourde, ce qui rend ses mouvements tr\u00e8s lents.",
             "abilities": [
-                276,
-                106
+                {
+                    "id": 276,
+                    "name": "T\u00eate de Roc",
+                    "description": "Le Pok\u00e9mon ne subit pas de d\u00e9g\u00e2ts de contrecoup.",
+                    "isHidden": false
+                },
+                {
+                    "id": 106,
+                    "name": "Envelocape",
+                    "description": "Immunise contre les d\u00e9g\u00e2ts caus\u00e9s par la gr\u00eale et les temp\u00eates de sable.",
+                    "isHidden": true
+                }
             ],
             "height": 11,
             "weight": 1105

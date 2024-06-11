@@ -20,8 +20,18 @@
             },
             "description": "Comme il ne se s\u00e9pare jamais d\u2019une cl\u00e9 qu\u2019il trouve \u00e0 son go\u00fbt, les gens lui confient celle de leurs coffres, afin d\u2019\u00e9viter de se faire voler.",
             "abilities": [
-                116,
-                167
+                {
+                    "id": 116,
+                    "name": "Farceur",
+                    "description": "Augmente la priorit\u00e9 des attaques de statut d'un niveau.",
+                    "isHidden": false
+                },
+                {
+                    "id": 167,
+                    "name": "Magicien",
+                    "description": "Vole l'objet d'une cible apr\u00e8s l'avoir touch\u00e9 avec une attaque directe.",
+                    "isHidden": true
+                }
             ],
             "height": 2,
             "weight": 30

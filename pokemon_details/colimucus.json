@@ -19,9 +19,24 @@
             },
             "description": "Il repousse ses ennemis en s\u00e9cr\u00e9tant un fluide qui dissout tout ce qu\u2019il touche. Suite \u00e0 une d\u00e9g\u00e9n\u00e9rescence de ses yeux, il est aveugle.",
             "abilities": [
-                143,
-                141,
-                218
+                {
+                    "id": 143,
+                    "name": "Hydratation",
+                    "description": "Soigne les alt\u00e9rations d'\u00e9tat par temps de pluie.",
+                    "isHidden": false
+                },
+                {
+                    "id": 141,
+                    "name": "Herbivore",
+                    "description": "Si le Pok\u00e9mon est touch\u00e9 par une attaque de type Plante, son attaque augmente d'un niveau.",
+                    "isHidden": false
+                },
+                {
+                    "id": 218,
+                    "name": "Poisseux",
+                    "description": "Baisse la Vitesse des Pok\u00e9mon qui touchent ce Pok\u00e9mon avec une attaque directe.",
+                    "isHidden": true
+                }
             ],
             "height": 8,
             "weight": 175
@@ -43,9 +58,24 @@
             },
             "description": "Il repousse ses ennemis en s\u00e9cr\u00e9tant un fluide qui dissout tout ce qu\u2019il touche. Suite \u00e0 une d\u00e9g\u00e9n\u00e9rescence de ses yeux, il est aveugle.",
             "abilities": [
-                143,
-                66,
-                218
+                {
+                    "id": 143,
+                    "name": "Hydratation",
+                    "description": "Soigne les alt\u00e9rations d'\u00e9tat par temps de pluie.",
+                    "isHidden": false
+                },
+                {
+                    "id": 66,
+                    "name": "Coque Armure",
+                    "description": "Annule les chances de coups critiques du Pok\u00e9mon ennemi.",
+                    "isHidden": false
+                },
+                {
+                    "id": 218,
+                    "name": "Poisseux",
+                    "description": "Baisse la Vitesse des Pok\u00e9mon qui touchent ce Pok\u00e9mon avec une attaque directe.",
+                    "isHidden": true
+                }
             ],
             "height": 7,
             "weight": 685

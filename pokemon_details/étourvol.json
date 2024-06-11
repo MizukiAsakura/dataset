@@ -20,8 +20,18 @@
             },
             "description": "Il survole les for\u00eats et les champs en qu\u00eate de Pok\u00e9mon Insecte. Ils forment de grandes vol\u00e9es. \nIl peuple les champs et les for\u00eats. Lorsque deux vol\u00e9es se croisent, elles luttent pour le territoire.",
             "abilities": [
-                156,
-                271
+                {
+                    "id": 156,
+                    "name": "Intimidation",
+                    "description": "Diminue d'un niveau l'attaque du Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 271,
+                    "name": "T\u00e9m\u00e9raire",
+                    "description": "Augmente de 20% la puissance des attaques infligeant un contrecoup.",
+                    "isHidden": true
+                }
             ],
             "height": 6,
             "weight": 155

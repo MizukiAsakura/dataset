@@ -20,8 +20,18 @@
             },
             "description": "Empiflor est dot\u00e9 d'une longue liane qui part de sa t\u00eate. Cette liane se balance et remue comme un animal pour attirer ses proies. Lorsque l'une d'elles s'approche un peu trop pr\u00e8s, ce Pok\u00e9mon l'avale enti\u00e8rement.",
             "abilities": [
-                56,
-                135
+                {
+                    "id": 56,
+                    "name": "Chlorophylle",
+                    "description": "Augmente la vitesse au soleil.",
+                    "isHidden": false
+                },
+                {
+                    "id": 135,
+                    "name": "Gloutonnerie",
+                    "description": "Le Pok\u00e9mon utilise la baie port\u00e9e lorsque les PV descendent en dessous de 50%.",
+                    "isHidden": true
+                }
             ],
             "height": 17,
             "weight": 155

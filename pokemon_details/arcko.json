@@ -19,8 +19,18 @@
             },
             "description": "ARCKO est cool, calme et serein. Il ne panique jamais, quelle que soit la situation. Quand un ennemi plus gros que lui lui lance un regard de d\u00e9fi, ce POK\u00e9MON reste sto\u00efque et ne c\u00e8de pas un centim\u00e8tre de terrain.",
             "abilities": [
-                104,
-                91
+                {
+                    "id": 104,
+                    "name": "Engrais",
+                    "description": "Augmente la puissance des attaques de type Plante de 50% lorsque le Pok\u00e9mon a moins d'1/3 de ses PV totaux.",
+                    "isHidden": false
+                },
+                {
+                    "id": 91,
+                    "name": "D\u00e9lestage",
+                    "description": "Augmente la vitesse lorsqu'un objet tenu est utilis\u00e9, lanc\u00e9 ou perdu.",
+                    "isHidden": true
+                }
             ],
             "height": 5,
             "weight": 50

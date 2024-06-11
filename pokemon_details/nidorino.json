@@ -19,9 +19,24 @@
             },
             "description": "Nidorino dispose d'une corne plus dure que du diamant. S'il sent une pr\u00e9sence hostile, toutes les pointes de son dos se h\u00e9rissent d'un coup, puis il d\u00e9fie son ennemi.",
             "abilities": [
-                217,
-                244,
-                8
+                {
+                    "id": 217,
+                    "name": "Point Poison",
+                    "description": "30% de chance de provoquer l'empoisonnement du Pok\u00e9mon adverse ayant lanc\u00e9 une attaque de contact.",
+                    "isHidden": false
+                },
+                {
+                    "id": 244,
+                    "name": "Rivalit\u00e9",
+                    "description": "Augmente l'attaque et l'attaque sp\u00e9ciale de 25% si le Pok\u00e9mon adverse est de m\u00eame sexe. Les diminue s'il est de sexe oppos\u00e9.",
+                    "isHidden": false
+                },
+                {
+                    "id": 8,
+                    "name": "Agitation",
+                    "description": "Augmente l'attaque de 50% mais baisse la pr\u00e9cision de 20%.",
+                    "isHidden": true
+                }
             ],
             "height": 9,
             "weight": 195

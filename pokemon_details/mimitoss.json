@@ -20,9 +20,24 @@
             },
             "description": "On raconte que Mimitoss a \u00e9volu\u00e9 avec une fourrure de poils fins et drus qui prot\u00e8ge son corps tout entier. Il est dot\u00e9 de grands yeux capables de rep\u00e9rer ses proies, m\u00eame minuscules.",
             "abilities": [
-                194,
-                161,
-                128
+                {
+                    "id": 194,
+                    "name": "\u0152il Compos\u00e9",
+                    "description": "Augmente de 30% la pr\u00e9cision du Pok\u00e9mon.",
+                    "isHidden": false
+                },
+                {
+                    "id": 161,
+                    "name": "Lentiteint\u00e9e",
+                    "description": "Double les d\u00e9g\u00e2ts des attaques peu efficaces port\u00e9es au Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 128,
+                    "name": "Fuite",
+                    "description": "Assure la fuite contre les Pok\u00e9mon sauvages.",
+                    "isHidden": true
+                }
             ],
             "height": 10,
             "weight": 300

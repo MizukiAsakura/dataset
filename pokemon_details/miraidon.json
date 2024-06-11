@@ -20,7 +20,12 @@
             },
             "description": "Il semble \u00eatre le \u00ab\u00a0Serpent-de-Fer\u00a0\u00bb mentionn\u00e9 dans un livre ancien. Il aurait r\u00e9duit la terre en cendres en la foudroyant.",
             "abilities": [
-                184
+                {
+                    "id": 184,
+                    "name": "Moteur \u00e0 Hadrons",
+                    "description": "Le Pok\u00e9mon cr\u00e9e un Champ \u00c9lectrifi\u00e9 quand il rejoint le combat. Une machine du futur fait monter son Attaque Sp\u00e9ciale si un Champ \u00c9lectrifi\u00e9 est actif.",
+                    "isHidden": false
+                }
             ],
             "height": 35,
             "weight": 2400

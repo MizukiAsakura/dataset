@@ -19,9 +19,24 @@
             },
             "description": "REMORAID aspire de l'eau, puis la recrache \u00e0 forte pression gr\u00e2ce \u00e0 ses muscles abdominaux pour attaquer les proies volantes. Quand son \u00e9volution approche, ce POK\u00e9MON descend le courant des rivi\u00e8res.",
             "abilities": [
-                8,
-                254,
-                166
+                {
+                    "id": 8,
+                    "name": "Agitation",
+                    "description": "Augmente l'attaque de 50% mais baisse la pr\u00e9cision de 20%.",
+                    "isHidden": false
+                },
+                {
+                    "id": 254,
+                    "name": "Sniper",
+                    "description": "Triple la puissance des coups critiques.",
+                    "isHidden": false
+                },
+                {
+                    "id": 166,
+                    "name": "Lunatique",
+                    "description": "Al\u00e9atoirement, \u00e0 la fin de chaque tour, une statistique du Pok\u00e9mon augmente de deux niveaux, et une autre baisse d'un niveau (pr\u00e9cision et esquive comprises).",
+                    "isHidden": true
+                }
             ],
             "height": 6,
             "weight": 120

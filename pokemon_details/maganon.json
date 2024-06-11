@@ -19,8 +19,18 @@
             },
             "description": "Son bras peut expulser des boules enflamm\u00e9es d\u2019une temp\u00e9rature de 2 000 \u00b0C. S\u2019il en tire trop d\u2019un coup, son bras commence \u00e0 fondre.",
             "abilities": [
-                67,
-                110
+                {
+                    "id": 67,
+                    "name": "Corps Ardent",
+                    "description": "30% de chance de provoquer une br\u00fblure sur le Pok\u00e9mon adverse ayant attaqu\u00e9.",
+                    "isHidden": false
+                },
+                {
+                    "id": 110,
+                    "name": "Esprit Vital",
+                    "description": "Emp\u00eache le Pok\u00e9mon d'\u00eatre endormi.",
+                    "isHidden": true
+                }
             ],
             "height": 16,
             "weight": 680

@@ -19,8 +19,18 @@
             },
             "description": "Tant qu\u2019il a de l\u2019eau et du soleil en abondance, ce Pok\u00e9mon n\u2019a pas besoin de nourriture. Les feuilles sur son dos produisent son \u00e9nergie par photosynth\u00e8se.",
             "abilities": [
-                141,
-                280
+                {
+                    "id": 141,
+                    "name": "Herbivore",
+                    "description": "Si le Pok\u00e9mon est touch\u00e9 par une attaque de type Plante, son attaque augmente d'un niveau.",
+                    "isHidden": false
+                },
+                {
+                    "id": 280,
+                    "name": "Toison Herbue",
+                    "description": "Augmente la D\u00e9fense lorsque Champ Herbu est en vigueur.",
+                    "isHidden": true
+                }
             ],
             "height": 9,
             "weight": 310

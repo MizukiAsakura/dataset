@@ -20,9 +20,24 @@
             },
             "description": "Il peut litt\u00e9ralement pulv\u00e9riser de gros rochers gr\u00e2ce aux ultrasons \u00e9mis par ses oreilles. Il surgit des t\u00e9n\u00e8bres pour attaquer par surprise.",
             "abilities": [
-                126,
-                154,
-                270
+                {
+                    "id": 126,
+                    "name": "Fouille",
+                    "description": "Permet de connaitre l'objet tenu d'un Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 154,
+                    "name": "Infiltration",
+                    "description": "Emp\u00eache les attaques de protection adverses tels que Protection ou Mur Lumi\u00e8re de fonctionner. N'influe pas sur D\u00e9tection et Abri.",
+                    "isHidden": false
+                },
+                {
+                    "id": 270,
+                    "name": "T\u00e9l\u00e9pathe",
+                    "description": "Anticipe et \u00e9vite les attaques des alli\u00e9s en Combat Double ou triple.",
+                    "isHidden": true
+                }
             ],
             "height": 15,
             "weight": 850

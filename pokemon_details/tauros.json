@@ -19,9 +19,24 @@
             },
             "description": "Ce Pok\u00e9mon n'est pas satisfait s'il ne d\u00e9truit pas tout sur son passage. Lorsque Tauros ne trouve pas d'adversaire, il se rue sur de gros arbres et les d\u00e9racine pour passer ses nerfs.",
             "abilities": [
-                156,
-                61,
-                248
+                {
+                    "id": 156,
+                    "name": "Intimidation",
+                    "description": "Diminue d'un niveau l'attaque du Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 61,
+                    "name": "Col\u00e9rique",
+                    "description": "L'attaque du Pok\u00e9mon est fortement augment\u00e9e lorsqu'il subit un coup critique.",
+                    "isHidden": false
+                },
+                {
+                    "id": 248,
+                    "name": "Sans Limite",
+                    "description": "Augmente de 30% la puissance des attaques pouvant avoir un effet secondaire. L'effet secondaire est annul\u00e9.",
+                    "isHidden": true
+                }
             ],
             "height": 14,
             "weight": 1150
@@ -42,9 +57,24 @@
             },
             "description": "Le Tauros de la Race Combative se caract\u00e9rise par son temp\u00e9rament agressif et par ses muscles aussi puissants que d\u00e9velopp\u00e9s.",
             "abilities": [
-                156,
-                61,
-                245
+                {
+                    "id": 156,
+                    "name": "Intimidation",
+                    "description": "Diminue d'un niveau l'attaque du Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 61,
+                    "name": "Col\u00e9rique",
+                    "description": "L'attaque du Pok\u00e9mon est fortement augment\u00e9e lorsqu'il subit un coup critique.",
+                    "isHidden": false
+                },
+                {
+                    "id": 245,
+                    "name": "Ruminant",
+                    "description": "Quand le Pok\u00e9mon mange une Baie, il la r\u00e9gurgite \u00e0 la fin du tour suivant et la mange une nouvelle fois.",
+                    "isHidden": true
+                }
             ],
             "height": 14,
             "weight": 885
@@ -66,9 +96,24 @@
             },
             "description": "Le Tauros de la Race Flamboyante doit son nom au fait qu'il expire de l'air br\u00fblant par les naseaux. Il poss\u00e8de trois queues tress\u00e9es.",
             "abilities": [
-                156,
-                61,
-                245
+                {
+                    "id": 156,
+                    "name": "Intimidation",
+                    "description": "Diminue d'un niveau l'attaque du Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 61,
+                    "name": "Col\u00e9rique",
+                    "description": "L'attaque du Pok\u00e9mon est fortement augment\u00e9e lorsqu'il subit un coup critique.",
+                    "isHidden": false
+                },
+                {
+                    "id": 245,
+                    "name": "Ruminant",
+                    "description": "Quand le Pok\u00e9mon mange une Baie, il la r\u00e9gurgite \u00e0 la fin du tour suivant et la mange une nouvelle fois.",
+                    "isHidden": true
+                }
             ],
             "height": 14,
             "weight": 1100
@@ -90,9 +135,24 @@
             },
             "description": "Le Tauros de la Race Aquatique expulse de l'eau par les cornes pour nager. Il se caract\u00e9rise par sa graisse abondante, qui lui permet de flotter.",
             "abilities": [
-                156,
-                61,
-                245
+                {
+                    "id": 156,
+                    "name": "Intimidation",
+                    "description": "Diminue d'un niveau l'attaque du Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 61,
+                    "name": "Col\u00e9rique",
+                    "description": "L'attaque du Pok\u00e9mon est fortement augment\u00e9e lorsqu'il subit un coup critique.",
+                    "isHidden": false
+                },
+                {
+                    "id": 245,
+                    "name": "Ruminant",
+                    "description": "Quand le Pok\u00e9mon mange une Baie, il la r\u00e9gurgite \u00e0 la fin du tour suivant et la mange une nouvelle fois.",
+                    "isHidden": true
+                }
             ],
             "height": 14,
             "weight": 884

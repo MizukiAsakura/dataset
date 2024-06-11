@@ -20,9 +20,24 @@
             },
             "description": "Ses \u00e9cailles arrach\u00e9es et son corps couvert de cicatrices sont la preuve de sa puissance. Il les montre \u00e0 son adversaire vaincu en se pavanant.",
             "abilities": [
-                200,
-                17,
-                106
+                {
+                    "id": 200,
+                    "name": "Pare-Balles",
+                    "description": "Prot\u00e8ge contre les capacit\u00e9s balles et bombes, par exemple Balle Graine ou Canon Graine.",
+                    "isHidden": false
+                },
+                {
+                    "id": 17,
+                    "name": "Anti-Bruit",
+                    "description": "Annule les effets dus \u00e0 une attaque sonore.",
+                    "isHidden": false
+                },
+                {
+                    "id": 106,
+                    "name": "Envelocape",
+                    "description": "Immunise contre les d\u00e9g\u00e2ts caus\u00e9s par la gr\u00eale et les temp\u00eates de sable.",
+                    "isHidden": true
+                }
             ],
             "height": 12,
             "weight": 470

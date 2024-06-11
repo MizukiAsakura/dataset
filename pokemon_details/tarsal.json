@@ -20,9 +20,24 @@
             },
             "description": "TARSAL ressent les \u00e9motions des gens gr\u00e2ce \u00e0 ses cornes. Ce POK\u00e9MON se montre rarement, mais il arrive qu'il s'approche d'une personne s'il la sent dans un \u00e9tat d'esprit positif.",
             "abilities": [
-                265,
-                48,
-                270
+                {
+                    "id": 265,
+                    "name": "Synchro",
+                    "description": "Toute alt\u00e9ration d'\u00e9tat subie est transmise au Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 48,
+                    "name": "Calque",
+                    "description": "Copie le talent du Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 270,
+                    "name": "T\u00e9l\u00e9pathe",
+                    "description": "Anticipe et \u00e9vite les attaques des alli\u00e9s en Combat Double ou triple.",
+                    "isHidden": true
+                }
             ],
             "height": 4,
             "weight": 66

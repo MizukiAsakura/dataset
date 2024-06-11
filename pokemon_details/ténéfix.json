@@ -20,9 +20,24 @@
             },
             "description": "Les TENEFIX m\u00e8nent une vie tranquille dans les cavernes. Pourtant, ils sont craints, car on raconte que ces POK\u00e9MON volent l'esprit des gens quand leurs yeux brillent dans l'obscurit\u00e9.",
             "abilities": [
-                240,
-                127,
-                116
+                {
+                    "id": 240,
+                    "name": "Regard Vif",
+                    "description": "Emp\u00eache la perte de pr\u00e9cision.",
+                    "isHidden": false
+                },
+                {
+                    "id": 127,
+                    "name": "Frein",
+                    "description": "Le Pok\u00e9mon attaque toujours en second pour deux attaques de m\u00eame priorit\u00e9.",
+                    "isHidden": false
+                },
+                {
+                    "id": 116,
+                    "name": "Farceur",
+                    "description": "Augmente la priorit\u00e9 des attaques de statut d'un niveau.",
+                    "isHidden": true
+                }
             ],
             "height": 5,
             "weight": 110

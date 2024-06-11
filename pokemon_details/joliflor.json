@@ -19,8 +19,18 @@
             },
             "description": "Lorsque JOLIFLOR reste expos\u00e9 \u00e0 la lumi\u00e8re du soleil, les feuilles autour de son corps se mettent \u00e0 tournoyer. La danse de ce POK\u00e9MON est tr\u00e8s c\u00e9l\u00e8bre dans les r\u00e9gions du sud.",
             "abilities": [
-                56,
-                60
+                {
+                    "id": 56,
+                    "name": "Chlorophylle",
+                    "description": "Augmente la vitesse au soleil.",
+                    "isHidden": false
+                },
+                {
+                    "id": 60,
+                    "name": "C\u0153ur Soin",
+                    "description": "\u00c0 la fin de chaque tour, le Pok\u00e9mon a 30% de chance de gu\u00e9rir ses alli\u00e9s d'une alt\u00e9ration d'\u00e9tat en Combat Double ou triple.",
+                    "isHidden": true
+                }
             ],
             "height": 4,
             "weight": 58

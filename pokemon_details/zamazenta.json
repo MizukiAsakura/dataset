@@ -19,7 +19,12 @@
             },
             "description": "Ce Pok\u00e9mon sauva autrefois Galar en joignant ses forces \u00e0 celles du roi des Hommes. Il absorbe du m\u00e9tal quand il passe au combat.",
             "abilities": [
-                102
+                {
+                    "id": 102,
+                    "name": "\u00c9gide Inflexible",
+                    "description": "Augmente la D\u00e9fense d'un cran lorsque le Pok\u00e9mon entre sur le terrain.",
+                    "isHidden": false
+                }
             ],
             "height": 29,
             "weight": 2100
@@ -41,7 +46,12 @@
             },
             "description": "Il est \u00e9quip\u00e9 d\u2019une protection parfaite pouvant ais\u00e9ment contrer toutes les attaques, m\u00eame si son ennemi b\u00e9n\u00e9ficie de la force du Dynamax.",
             "abilities": [
-                102
+                {
+                    "id": 102,
+                    "name": "\u00c9gide Inflexible",
+                    "description": "Augmente la D\u00e9fense d'un cran lorsque le Pok\u00e9mon entre sur le terrain.",
+                    "isHidden": false
+                }
             ],
             "height": 29,
             "weight": 7850

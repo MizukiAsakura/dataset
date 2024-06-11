@@ -20,8 +20,18 @@
             },
             "description": "On reconna\u00eet un Rapasdepic \u00e0 son long cou et \u00e0 son bec allong\u00e9. Ces attributs lui permettent d'attraper facilement ses proies dans la terre ou dans l'eau. Il bouge son bec long et fin avec une grande agilit\u00e9.",
             "abilities": [
-                240,
-                254
+                {
+                    "id": 240,
+                    "name": "Regard Vif",
+                    "description": "Emp\u00eache la perte de pr\u00e9cision.",
+                    "isHidden": false
+                },
+                {
+                    "id": 254,
+                    "name": "Sniper",
+                    "description": "Triple la puissance des coups critiques.",
+                    "isHidden": true
+                }
             ],
             "height": 12,
             "weight": 380

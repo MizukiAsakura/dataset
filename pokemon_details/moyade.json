@@ -20,9 +20,24 @@
             },
             "description": "Son corps est compos\u00e9 presque enti\u00e8rement d\u2019une substance identique \u00e0 l\u2019eau de mer. Les \u00e9paves de navires sont ses bastions.",
             "abilities": [
-                2,
-                72,
-                182
+                {
+                    "id": 2,
+                    "name": "Absorb Eau",
+                    "description": "Les attaques de type Eau re\u00e7ues par le Pok\u00e9mon r\u00e9g\u00e9n\u00e8rent 1/4 de ses PV.",
+                    "isHidden": false
+                },
+                {
+                    "id": 72,
+                    "name": "Corps Maudit",
+                    "description": "Toute attaque port\u00e9e par l'adversaire a 30% de chance de s'entraver.",
+                    "isHidden": false
+                },
+                {
+                    "id": 182,
+                    "name": "Moiteur",
+                    "description": "\u00c9mp\u00eache l'utilisation d'attaques auto-destructrices par le Pok\u00e9mon adverse.",
+                    "isHidden": true
+                }
             ],
             "height": 22,
             "weight": 1350

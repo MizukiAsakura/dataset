@@ -20,8 +20,18 @@
             },
             "description": "Le pollen toxique de Rafflesia d\u00e9clenche d'affreuses r\u00e9actions allergiques. C'est pourquoi il est conseill\u00e9 de ne jamais s'approcher des jolies fleurs trouv\u00e9es dans la jungle, m\u00eame lorsqu'elles sont magnifiques.",
             "abilities": [
-                56,
-                220
+                {
+                    "id": 56,
+                    "name": "Chlorophylle",
+                    "description": "Augmente la vitesse au soleil.",
+                    "isHidden": false
+                },
+                {
+                    "id": 220,
+                    "name": "Pose Spore",
+                    "description": "30% de chance de provoquer l'empoisonnement, le sommeil ou la paralysie du Pok\u00e9mon adverse ayant lanc\u00e9 une attaque de contact.",
+                    "isHidden": true
+                }
             ],
             "height": 12,
             "weight": 186

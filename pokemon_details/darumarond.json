@@ -19,8 +19,18 @@
             },
             "description": "On a beau le pousser ou le tirer, quand il dort, rien ne le fait vaciller. Cette qualit\u00e9 lui a valu de devenir un embl\u00e8me pour les porte-bonheurs.",
             "abilities": [
-                8,
-                26
+                {
+                    "id": 8,
+                    "name": "Agitation",
+                    "description": "Augmente l'attaque de 50% mais baisse la pr\u00e9cision de 20%.",
+                    "isHidden": false
+                },
+                {
+                    "id": 26,
+                    "name": "Attention",
+                    "description": "Immunise contre la peur.",
+                    "isHidden": true
+                }
             ],
             "height": 6,
             "weight": 375
@@ -41,8 +51,18 @@
             },
             "description": "En vivant sur des terres enneig\u00e9es, sa poche \u00e0 flammes s\u2019est atrophi\u00e9e \u00e0 cause du froid, mais il a d\u00e9velopp\u00e9 un organe qui produit un air glac\u00e9",
             "abilities": [
-                8,
-                26
+                {
+                    "id": 8,
+                    "name": "Agitation",
+                    "description": "Augmente l'attaque de 50% mais baisse la pr\u00e9cision de 20%.",
+                    "isHidden": false
+                },
+                {
+                    "id": 26,
+                    "name": "Attention",
+                    "description": "Immunise contre la peur.",
+                    "isHidden": true
+                }
             ],
             "height": 7,
             "weight": 400

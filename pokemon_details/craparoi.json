@@ -19,9 +19,24 @@
             },
             "description": "Il vit sur les falaises escarp\u00e9es et esquive les attaques en se d\u00e9pla\u00e7ant sur le c\u00f4t\u00e9. Il vise les points faibles de ses adversaires avec ses pinces.",
             "abilities": [
-                75,
-                66,
-                241
+                {
+                    "id": 75,
+                    "name": "Courroupace",
+                    "description": "Le Pok\u00e9mon enrage s\u2019il a moins de la moiti\u00e9 de ses PV apr\u00e8s avoir subi une attaque. Sa D\u00e9fense et sa D\u00e9fense Sp\u00e9ciale baissent, et son Attaque, son Attaque Sp\u00e9ciale et sa Vitesse augmentent.",
+                    "isHidden": false
+                },
+                {
+                    "id": 66,
+                    "name": "Coque Armure",
+                    "description": "Annule les chances de coups critiques du Pok\u00e9mon ennemi.",
+                    "isHidden": false
+                },
+                {
+                    "id": 241,
+                    "name": "R\u00e9g\u00e9-Force",
+                    "description": "Restaure 1/3 des PV totaux si le Pok\u00e9mon est retir\u00e9 du combat.",
+                    "isHidden": true
+                }
             ],
             "height": 13,
             "weight": 790

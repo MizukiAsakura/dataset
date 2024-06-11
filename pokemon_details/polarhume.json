@@ -19,9 +19,24 @@
             },
             "description": "Quand il est en forme, sa goutte au nez devient encore plus visqueuse. Il n\u2019h\u00e9site pas \u00e0 s\u2019essuyer le nez sur un adversaire qui lui d\u00e9pla\u00eet.",
             "abilities": [
-                243,
-                53,
-                209
+                {
+                    "id": 243,
+                    "name": "Rideau Neige",
+                    "description": "Augmente l'esquive de 20% par temps de gr\u00eale. Immunise les Pok\u00e9mon n'ayant pas le type Glace contre la gr\u00eale.",
+                    "isHidden": false
+                },
+                {
+                    "id": 53,
+                    "name": "Chasse-Neige",
+                    "description": "Double la Vitesse sous la Gr\u00eale.",
+                    "isHidden": false
+                },
+                {
+                    "id": 209,
+                    "name": "Phobique",
+                    "description": "Si le Pok\u00e9mon est touch\u00e9 par une attaque de type Insecte, Spectre ou T\u00e9n\u00e8bres, sa vitesse augmente d'un niveau.",
+                    "isHidden": true
+                }
             ],
             "height": 5,
             "weight": 85

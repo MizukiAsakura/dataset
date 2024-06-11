@@ -20,9 +20,24 @@
             },
             "description": "Roucoups utilise une vaste surface pour son territoire. Ce Pok\u00e9mon surveille r\u00e9guli\u00e8rement son espace a\u00e9rien. Si quelqu'un p\u00e9n\u00e8tre sur son territoire, il corrige l'ennemi sans piti\u00e9 d'un coup de ses terribles serres.",
             "abilities": [
-                240,
-                211,
-                58
+                {
+                    "id": 240,
+                    "name": "Regard Vif",
+                    "description": "Emp\u00eache la perte de pr\u00e9cision.",
+                    "isHidden": false
+                },
+                {
+                    "id": 211,
+                    "name": "Pied Confus",
+                    "description": "Augmente l'esquive de 20% lorsque le Pok\u00e9mon est confus.",
+                    "isHidden": false
+                },
+                {
+                    "id": 58,
+                    "name": "C\u0153ur de Coq",
+                    "description": "Emp\u00eache la d\u00e9fense du Pok\u00e9mon d'\u00eatre baiss\u00e9e par les attaques adverses.",
+                    "isHidden": true
+                }
             ],
             "height": 11,
             "weight": 300

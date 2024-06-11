@@ -19,9 +19,24 @@
             },
             "description": "Ce Pok\u00e9mon m\u00e9ticuleux aime la propret\u00e9. Il est envelopp\u00e9 d'un parfum floral qui rass\u00e9r\u00e8ne les Pok\u00e9mon alentour.",
             "abilities": [
-                193,
-                135,
-                157
+                {
+                    "id": 193,
+                    "name": "Odeur Tenace",
+                    "description": "Lorsque le Pok\u00e9mon subit une attaque directe, le talent de l\u2019attaquant est remplac\u00e9 par Odeur Tenace.",
+                    "isHidden": false
+                },
+                {
+                    "id": 135,
+                    "name": "Gloutonnerie",
+                    "description": "Le Pok\u00e9mon utilise la baie port\u00e9e lorsque les PV descendent en dessous de 50%.",
+                    "isHidden": false
+                },
+                {
+                    "id": 157,
+                    "name": "Isograisse",
+                    "description": "Les d\u00e9g\u00e2ts provoqu\u00e9s par les attaques des types Feu ou Glace sont divis\u00e9s par 2.",
+                    "isHidden": true
+                }
             ],
             "height": 10,
             "weight": 1200
@@ -42,9 +57,24 @@
             },
             "description": "Ce Pok\u00e9mon m\u00e9ticuleux aime la propret\u00e9. Il est envelopp\u00e9 d'un parfum floral qui rass\u00e9r\u00e8ne les Pok\u00e9mon alentour.",
             "abilities": [
-                25,
-                135,
-                157
+                {
+                    "id": 25,
+                    "name": "Aroma-Voile",
+                    "description": "Prot\u00e8ge les Pok\u00e9mon alli\u00e9s des capacit\u00e9s ayant un effet sur l'\u00e9tat mental tels que Attraction ou Tourmente.",
+                    "isHidden": false
+                },
+                {
+                    "id": 135,
+                    "name": "Gloutonnerie",
+                    "description": "Le Pok\u00e9mon utilise la baie port\u00e9e lorsque les PV descendent en dessous de 50%.",
+                    "isHidden": false
+                },
+                {
+                    "id": 157,
+                    "name": "Isograisse",
+                    "description": "Les d\u00e9g\u00e2ts provoqu\u00e9s par les attaques des types Feu ou Glace sont divis\u00e9s par 2.",
+                    "isHidden": true
+                }
             ],
             "height": 10,
             "weight": 1200

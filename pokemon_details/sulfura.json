@@ -20,8 +20,18 @@
             },
             "description": "Sulfura est un Pok\u00e9mon Oiseau l\u00e9gendaire capable de contr\u00f4ler le feu. On raconte que lorsque ce Pok\u00e9mon est bless\u00e9, il se baigne dans le magma en \u00e9bullition d'un volcan pour se soigner.",
             "abilities": [
-                223,
-                67
+                {
+                    "id": 223,
+                    "name": "Pression",
+                    "description": "Double l'utilisation de PP des attaques offensives du Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 67,
+                    "name": "Corps Ardent",
+                    "description": "30% de chance de provoquer une br\u00fblure sur le Pok\u00e9mon adverse ayant attaqu\u00e9.",
+                    "isHidden": true
+                }
             ],
             "height": 20,
             "weight": 600
@@ -43,7 +53,12 @@
             },
             "description": "Sulfura est un Pok\u00e9mon Oiseau l\u00e9gendaire capable de contr\u00f4ler le feu. On raconte que lorsque ce Pok\u00e9mon est bless\u00e9, il se baigne dans le magma en \u00e9bullition d'un volcan pour se soigner.",
             "abilities": [
-                95
+                {
+                    "id": 95,
+                    "name": "Dracol\u00e8re",
+                    "description": "Augmente l'Attaque Sp\u00e9ciale du Pok\u00e9mon lorsqu'il perd plus de la moiti\u00e9 de ses PV.",
+                    "isHidden": false
+                }
             ],
             "height": 20,
             "weight": 660

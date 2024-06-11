@@ -19,9 +19,24 @@
             },
             "description": "S\u2019il se tient pr\u00e8s d\u2019une t\u00e9l\u00e9, d\u2019\u00e9tranges panoramas apparaissent \u00e0 l\u2019\u00e9cran. On raconte qu\u2019il s\u2019agirait de paysages venus des terres natales de Lewsor.",
             "abilities": [
-                270,
-                265,
-                14
+                {
+                    "id": 270,
+                    "name": "T\u00e9l\u00e9pathe",
+                    "description": "Anticipe et \u00e9vite les attaques des alli\u00e9s en Combat Double ou triple.",
+                    "isHidden": false
+                },
+                {
+                    "id": 265,
+                    "name": "Synchro",
+                    "description": "Toute alt\u00e9ration d'\u00e9tat subie est transmise au Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 14,
+                    "name": "Analyste",
+                    "description": "Si le Pok\u00e9mon frappe en dernier durant le tour, la puissance de son attaque est augment\u00e9e de 30%.",
+                    "isHidden": true
+                }
             ],
             "height": 5,
             "weight": 90

@@ -19,7 +19,12 @@
             },
             "description": "Il est capable de transformer son corps en canon \u00e0 eau, gr\u00e2ce \u00e0 la combustion d\u2019un gaz interne. \u00c0 bout portant, il peut r\u00e9duire un rocher en miettes.",
             "abilities": [
-                175
+                {
+                    "id": 175,
+                    "name": "M\u00e9ga Blaster",
+                    "description": "Un Pok\u00e9mon dot\u00e9 de ce talent verra la puissance de ses capacit\u00e9s d'aura augment\u00e9e.",
+                    "isHidden": false
+                }
             ],
             "height": 5,
             "weight": 83

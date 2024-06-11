@@ -20,8 +20,18 @@
             },
             "description": "Il vit sur les c\u00f4tes des r\u00e9gions nordiques. C\u2019est un nageur dou\u00e9 capable de plonger plus de dix minutes pour trouver \u00e0 manger.",
             "abilities": [
-                44,
-                215
+                {
+                    "id": 44,
+                    "name": "Brasier",
+                    "description": "Augmente la puissance des attaques de type Feu de 50% lorsque le Pok\u00e9mon a moins d'1/3 de ses PV totaux.",
+                    "isHidden": false
+                },
+                {
+                    "id": 215,
+                    "name": "Poing de Fer",
+                    "description": "Augmente de 20% la puissance des attaques de \"Poing\".",
+                    "isHidden": true
+                }
             ],
             "height": 12,
             "weight": 550

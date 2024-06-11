@@ -20,8 +20,18 @@
             },
             "description": "Ils volent en nombre. Bien que minuscule, il bat des ailes avec une vigueur impressionnante. Il est difficile \u00e0 rep\u00e9rer lorsqu'il n'\u00e9volue pas au sein d'une grande vol\u00e9e. Ses cris sont stridents.",
             "abilities": [
-                240,
-                271
+                {
+                    "id": 240,
+                    "name": "Regard Vif",
+                    "description": "Emp\u00eache la perte de pr\u00e9cision.",
+                    "isHidden": false
+                },
+                {
+                    "id": 271,
+                    "name": "T\u00e9m\u00e9raire",
+                    "description": "Augmente de 20% la puissance des attaques infligeant un contrecoup.",
+                    "isHidden": true
+                }
             ],
             "height": 3,
             "weight": 20

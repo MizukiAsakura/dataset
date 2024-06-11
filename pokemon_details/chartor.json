@@ -19,9 +19,24 @@
             },
             "description": "CHARTOR fore les montagnes \u00e0 la recherche de charbon. Lorsqu'il en trouve, il le met dans les emplacements creux de sa carapace pour le br\u00fbler. Quand il est attaqu\u00e9, ce POK\u00e9MON crache une \u00e9paisse fum\u00e9e noire pour s'enfuir.",
             "abilities": [
-                99,
-                249,
-                66
+                {
+                    "id": 99,
+                    "name": "\u00c9cran Fum\u00e9e",
+                    "description": "Emp\u00eache la diminution de statistiques par le Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 249,
+                    "name": "S\u00e9cheresse",
+                    "description": "Cr\u00e9e un temps ensoleill\u00e9 tant que le Pok\u00e9mon est en jeu.",
+                    "isHidden": false
+                },
+                {
+                    "id": 66,
+                    "name": "Coque Armure",
+                    "description": "Annule les chances de coups critiques du Pok\u00e9mon ennemi.",
+                    "isHidden": true
+                }
             ],
             "height": 5,
             "weight": 804

@@ -19,8 +19,18 @@
             },
             "description": "Comme il mange tout le temps des Baies, il est plus costaud qu\u2019il n\u2019en a l\u2019air. Il parcourt les champs \u00e0 la recherche de sa pr\u00e9cieuse denr\u00e9e.",
             "abilities": [
-                31,
-                135
+                {
+                    "id": 31,
+                    "name": "Bajoues",
+                    "description": "Lorsque le Pok\u00e9mon mange une Baie, il obtient ses effets et regagne des PV en plus.",
+                    "isHidden": false
+                },
+                {
+                    "id": 135,
+                    "name": "Gloutonnerie",
+                    "description": "Le Pok\u00e9mon utilise la baie port\u00e9e lorsque les PV descendent en dessous de 50%.",
+                    "isHidden": true
+                }
             ],
             "height": 3,
             "weight": 25

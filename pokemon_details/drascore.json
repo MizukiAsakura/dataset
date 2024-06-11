@@ -20,9 +20,24 @@
             },
             "description": "Il peut r\u00e9duire une voiture en pi\u00e8ces avec ses pinces. Le bout de ses pinces contient du poison. Il porte une coquille robuste. Sa t\u00eate peut pivoter \u00e0 180 degr\u00e9s pour couvrir les angles morts.",
             "abilities": [
-                21,
-                254,
-                240
+                {
+                    "id": 21,
+                    "name": "Armurbaston",
+                    "description": "Annule les chances de coups critiques du Pok\u00e9mon ennemi.",
+                    "isHidden": false
+                },
+                {
+                    "id": 254,
+                    "name": "Sniper",
+                    "description": "Triple la puissance des coups critiques.",
+                    "isHidden": false
+                },
+                {
+                    "id": 240,
+                    "name": "Regard Vif",
+                    "description": "Emp\u00eache la perte de pr\u00e9cision.",
+                    "isHidden": true
+                }
             ],
             "height": 13,
             "weight": 615

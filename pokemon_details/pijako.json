@@ -20,9 +20,24 @@
             },
             "description": "Il m\u00e9morise et r\u00e9p\u00e8te les mots des \u00eatres humains. Si plusieurs de ces Pok\u00e9mon sont r\u00e9unis au m\u00eame endroit, ils apprennent tous les m\u00eames mots.",
             "abilities": [
-                240,
-                211,
-                58
+                {
+                    "id": 240,
+                    "name": "Regard Vif",
+                    "description": "Emp\u00eache la perte de pr\u00e9cision.",
+                    "isHidden": false
+                },
+                {
+                    "id": 211,
+                    "name": "Pied Confus",
+                    "description": "Augmente l'esquive de 20% lorsque le Pok\u00e9mon est confus.",
+                    "isHidden": false
+                },
+                {
+                    "id": 58,
+                    "name": "C\u0153ur de Coq",
+                    "description": "Emp\u00eache la d\u00e9fense du Pok\u00e9mon d'\u00eatre baiss\u00e9e par les attaques adverses.",
+                    "isHidden": true
+                }
             ],
             "height": 5,
             "weight": 19

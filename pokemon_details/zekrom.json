@@ -20,7 +20,12 @@
             },
             "description": "Selon la l\u00e9gende, lorsque les gens perdent tout sens de ce qui est juste, Zekrom r\u00e9duit le pays entier en cendres avec de terribles \u00e9clairs.",
             "abilities": [
-                274
+                {
+                    "id": 274,
+                    "name": "T\u00e9ra-Voltage",
+                    "description": "Peut toucher un Pok\u00e9mon adverse malgr\u00e9 son talent.",
+                    "isHidden": false
+                }
             ],
             "height": 29,
             "weight": 3450

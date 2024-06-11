@@ -20,7 +20,12 @@
             },
             "description": "Il poss\u00e8de une puissance consid\u00e9rable sous son apparence v\u00e9ritable. Une l\u00e9gende raconte qu\u2019il d\u00e9sirait si fort un tr\u00e9sor cach\u00e9 dans un ch\u00e2teau qu\u2019il d\u00e9roba l\u2019\u00e9difice tout entier.",
             "abilities": [
-                167
+                {
+                    "id": 167,
+                    "name": "Magicien",
+                    "description": "Vole l'objet d'une cible apr\u00e8s l'avoir touch\u00e9 avec une attaque directe.",
+                    "isHidden": false
+                }
             ],
             "height": 5,
             "weight": 90
@@ -42,7 +47,12 @@
             },
             "description": "Il poss\u00e8de une puissance consid\u00e9rable sous son apparence v\u00e9ritable. Une l\u00e9gende raconte qu\u2019il d\u00e9sirait si fort un tr\u00e9sor cach\u00e9 dans un ch\u00e2teau qu\u2019il d\u00e9roba l\u2019\u00e9difice tout entier.",
             "abilities": [
-                167
+                {
+                    "id": 167,
+                    "name": "Magicien",
+                    "description": "Vole l'objet d'une cible apr\u00e8s l'avoir touch\u00e9 avec une attaque directe.",
+                    "isHidden": false
+                }
             ],
             "height": 5,
             "weight": 90

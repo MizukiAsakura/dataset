@@ -20,7 +20,12 @@
             },
             "description": "On suppose que c\u2019est l\u2019\u00e9volution de Cosmog lorsqu\u2019il s\u2019agit d\u2019une femelle. Son troisi\u00e8me \u0153il appara\u00eet quand il s\u2019envole vers un autre monde.",
             "abilities": [
-                259
+                {
+                    "id": 259,
+                    "name": "Spectro-Bouclier",
+                    "description": "R\u00e9duit les d\u00e9g\u00e2ts inflig\u00e9s par une capacit\u00e9 si les PV sont au maximum.",
+                    "isHidden": false
+                }
             ],
             "height": 40,
             "weight": 1200

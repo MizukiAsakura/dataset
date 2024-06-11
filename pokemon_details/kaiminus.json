@@ -19,8 +19,18 @@
             },
             "description": "Malgr\u00e9 son tout petit corps, la m\u00e2choire de KAIMINUS est tr\u00e8s puissante. Parfois, ce POK\u00e9MON mordille les gens pour jouer, sans se rendre compte que sa morsure peut gravement blesser quelqu'un.",
             "abilities": [
-                282,
-                248
+                {
+                    "id": 282,
+                    "name": "Torrent",
+                    "description": "Augmente la puissance des attaques de type Eau de 50% lorsque le Pok\u00e9mon a moins d'1/3 de ses PV totaux.",
+                    "isHidden": false
+                },
+                {
+                    "id": 248,
+                    "name": "Sans Limite",
+                    "description": "Augmente de 30% la puissance des attaques pouvant avoir un effet secondaire. L'effet secondaire est annul\u00e9.",
+                    "isHidden": true
+                }
             ],
             "height": 6,
             "weight": 95

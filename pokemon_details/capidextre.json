@@ -19,9 +19,24 @@
             },
             "description": "Il se nourrit de noix qu'il \u00e9pluche avec ses deux queues habiles. Il utilise de moins en moins ses bras. Ils travaillent en grandes colonies et relient leurs queues pour former un anneau en signe d'amiti\u00e9.",
             "abilities": [
-                268,
-                235,
-                187
+                {
+                    "id": 268,
+                    "name": "Technicien",
+                    "description": "Augmente de 50% la puissance des attaques dont la puissance est inf\u00e9rieure ou \u00e9gale \u00e0 60.",
+                    "isHidden": false
+                },
+                {
+                    "id": 235,
+                    "name": "Ramassage",
+                    "description": "Donne une chance au Pok\u00e9mon de ramasser un objet apr\u00e8s un combat.",
+                    "isHidden": false
+                },
+                {
+                    "id": 187,
+                    "name": "Multi-Coups",
+                    "description": "Utilise toujours le nombre de coups maximum d'une attaque.",
+                    "isHidden": true
+                }
             ],
             "height": 12,
             "weight": 203

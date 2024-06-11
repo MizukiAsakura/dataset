@@ -19,9 +19,24 @@
             },
             "description": "Il aime donner un coup de main sur les chantiers. Lorsque le travail cesse \u00e0 cause de la pluie, il brandit sa poutre de col\u00e8re.",
             "abilities": [
-                77,
-                248,
-                215
+                {
+                    "id": 77,
+                    "name": "Cran",
+                    "description": "Augmente de 50% l'attaque du Pok\u00e9mon s'il subit un changement de statut.",
+                    "isHidden": false
+                },
+                {
+                    "id": 248,
+                    "name": "Sans Limite",
+                    "description": "Augmente de 30% la puissance des attaques pouvant avoir un effet secondaire. L'effet secondaire est annul\u00e9.",
+                    "isHidden": false
+                },
+                {
+                    "id": 215,
+                    "name": "Poing de Fer",
+                    "description": "Augmente de 20% la puissance des attaques de \"Poing\".",
+                    "isHidden": true
+                }
             ],
             "height": 6,
             "weight": 125

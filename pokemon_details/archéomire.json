@@ -20,9 +20,24 @@
             },
             "description": "Il rappelle des objets trouv\u00e9s dans des s\u00e9pultures anciennes. Nul ne sait s'ils sont li\u00e9s. On a voulu \u00e9tudier sa structure aux rayons X, mais les radios ne montraient absolument rien.",
             "abilities": [
-                162,
-                146,
-                140
+                {
+                    "id": 162,
+                    "name": "L\u00e9vitation",
+                    "description": "Immunise contre les attaques de type Sol.",
+                    "isHidden": false
+                },
+                {
+                    "id": 146,
+                    "name": "Ignifug\u00e9",
+                    "description": "Divise par 2 les d\u00e9g\u00e2ts des attaques de type Feu et les effets de br\u00fblure subis par le Pok\u00e9mon.",
+                    "isHidden": false
+                },
+                {
+                    "id": 140,
+                    "name": "Heavy Metal",
+                    "description": "Double la masse du Pok\u00e9mon.",
+                    "isHidden": true
+                }
             ],
             "height": 5,
             "weight": 605

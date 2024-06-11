@@ -20,9 +20,24 @@
             },
             "description": "Les ailes des Prismillon arborent diff\u00e9rents motifs en fonction de leur aire d\u2019origine. Il est possible que le climat y soit pour quelque chose.",
             "abilities": [
-                194,
-                100,
-                129
+                {
+                    "id": 194,
+                    "name": "\u0152il Compos\u00e9",
+                    "description": "Augmente de 30% la pr\u00e9cision du Pok\u00e9mon.",
+                    "isHidden": false
+                },
+                {
+                    "id": 100,
+                    "name": "\u00c9cran Poudre",
+                    "description": "Emp\u00eache les effets secondaires des attaques subies.",
+                    "isHidden": false
+                },
+                {
+                    "id": 129,
+                    "name": "Garde Amie",
+                    "description": "R\u00e9duire de 25% les d\u00e9g\u00e2ts inflig\u00e9s aux alli\u00e9s en Combat Double ou triple.",
+                    "isHidden": true
+                }
             ],
             "height": 12,
             "weight": 170

@@ -20,8 +20,18 @@
             },
             "description": "Quand le feu dans son corps s\u2019embrase, sa vitesse et son agilit\u00e9 augmentent. En cas d\u2019urgence, il crache de la fum\u00e9e.",
             "abilities": [
-                44,
-                157
+                {
+                    "id": 44,
+                    "name": "Brasier",
+                    "description": "Augmente la puissance des attaques de type Feu de 50% lorsque le Pok\u00e9mon a moins d'1/3 de ses PV totaux.",
+                    "isHidden": false
+                },
+                {
+                    "id": 157,
+                    "name": "Isograisse",
+                    "description": "Les d\u00e9g\u00e2ts provoqu\u00e9s par les attaques des types Feu ou Glace sont divis\u00e9s par 2.",
+                    "isHidden": true
+                }
             ],
             "height": 10,
             "weight": 555

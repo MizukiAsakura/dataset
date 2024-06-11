@@ -20,9 +20,24 @@
             },
             "description": "ROSELIA utilise ses \u00e9pines pointues comme projectiles si on tente de cueillir les fleurs sur ses bras. Le parfum de ce POK\u00e9MON apporte s\u00e9r\u00e9nit\u00e9 et pl\u00e9nitude \u00e0 ceux qui le sentent.",
             "abilities": [
-                174,
-                217,
-                118
+                {
+                    "id": 174,
+                    "name": "M\u00e9dic Nature",
+                    "description": "Le Pok\u00e9mon est soign\u00e9 de toute alt\u00e9ration d'\u00e9tat lorsqu'il est chang\u00e9 ou en fin de combat.",
+                    "isHidden": false
+                },
+                {
+                    "id": 217,
+                    "name": "Point Poison",
+                    "description": "30% de chance de provoquer l'empoisonnement du Pok\u00e9mon adverse ayant lanc\u00e9 une attaque de contact.",
+                    "isHidden": false
+                },
+                {
+                    "id": 118,
+                    "name": "Feuille Garde",
+                    "description": "Soigne les alt\u00e9rations d'\u00e9tat par temps ensoleill\u00e9.",
+                    "isHidden": true
+                }
             ],
             "height": 3,
             "weight": 20

@@ -19,9 +19,24 @@
             },
             "description": "Utilis\u00e9es en bain, les fleurs qui se collent sur sa liane poss\u00e8dent des vertus relaxantes. Elles ont d\u00e9j\u00e0 s\u00e9duit les gens du monde entier.",
             "abilities": [
-                121,
-                225,
-                174
+                {
+                    "id": 121,
+                    "name": "Flora-Voile",
+                    "description": "Emp\u00eache la diminution des statistiques des alli\u00e9s de type Plante par les Pok\u00e9mon adverses.",
+                    "isHidden": false
+                },
+                {
+                    "id": 225,
+                    "name": "Priogu\u00e9rison",
+                    "description": "Donne la priorit\u00e9 aux capacit\u00e9s de soin.",
+                    "isHidden": false
+                },
+                {
+                    "id": 174,
+                    "name": "M\u00e9dic Nature",
+                    "description": "Le Pok\u00e9mon est soign\u00e9 de toute alt\u00e9ration d'\u00e9tat lorsqu'il est chang\u00e9 ou en fin de combat.",
+                    "isHidden": true
+                }
             ],
             "height": 1,
             "weight": 3

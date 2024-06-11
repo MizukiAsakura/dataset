@@ -19,9 +19,24 @@
             },
             "description": "Persian a six grosses vibrisses qui lui donnent un air costaud et lui permettent de sentir les mouvements de l'air pour savoir ce qui se trouve \u00e0 proximit\u00e9. Il devient docile lorsqu'on l'attrape par les moustaches.",
             "abilities": [
-                235,
-                268,
-                273
+                {
+                    "id": 235,
+                    "name": "Ramassage",
+                    "description": "Donne une chance au Pok\u00e9mon de ramasser un objet apr\u00e8s un combat.",
+                    "isHidden": false
+                },
+                {
+                    "id": 268,
+                    "name": "Technicien",
+                    "description": "Augmente de 50% la puissance des attaques dont la puissance est inf\u00e9rieure ou \u00e9gale \u00e0 60.",
+                    "isHidden": false
+                },
+                {
+                    "id": 273,
+                    "name": "Tension",
+                    "description": "Emp\u00eache l'adversaire de consommer sa baie.",
+                    "isHidden": true
+                }
             ],
             "height": 10,
             "weight": 320
@@ -42,9 +57,24 @@
             },
             "description": "Persian a six grosses vibrisses qui lui donnent un air costaud et lui permettent de sentir les mouvements de l'air pour savoir ce qui se trouve \u00e0 proximit\u00e9. Il devient docile lorsqu'on l'attrape par les moustaches.",
             "abilities": [
-                279,
-                268,
-                209
+                {
+                    "id": 279,
+                    "name": "Toison \u00c9paisse",
+                    "description": "Divise par deux les d\u00e9g\u00e2ts re\u00e7us lors d'une attaque physique.",
+                    "isHidden": false
+                },
+                {
+                    "id": 268,
+                    "name": "Technicien",
+                    "description": "Augmente de 50% la puissance des attaques dont la puissance est inf\u00e9rieure ou \u00e9gale \u00e0 60.",
+                    "isHidden": false
+                },
+                {
+                    "id": 209,
+                    "name": "Phobique",
+                    "description": "Si le Pok\u00e9mon est touch\u00e9 par une attaque de type Insecte, Spectre ou T\u00e9n\u00e8bres, sa vitesse augmente d'un niveau.",
+                    "isHidden": true
+                }
             ],
             "height": 10,
             "weight": 330

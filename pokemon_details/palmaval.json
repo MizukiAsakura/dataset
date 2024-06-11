@@ -20,8 +20,18 @@
             },
             "description": "Sa danse insolite est captivante. Il met ses adversaires en pi\u00e8ces \u00e0 l'aide de ses plumes ornementales compos\u00e9es d'eau.",
             "abilities": [
-                282,
-                151
+                {
+                    "id": 282,
+                    "name": "Torrent",
+                    "description": "Augmente la puissance des attaques de type Eau de 50% lorsque le Pok\u00e9mon a moins d'1/3 de ses PV totaux.",
+                    "isHidden": false
+                },
+                {
+                    "id": 151,
+                    "name": "Impudence",
+                    "description": "Monte l'attaque du Pok\u00e9mon d'un niveau lorsqu'il met un adversaire K.O.",
+                    "isHidden": true
+                }
             ],
             "height": 18,
             "weight": 619

@@ -19,9 +19,24 @@
             },
             "description": "Ce Pok\u00e9mon passe ses journ\u00e9es \u00e0 courir dans les terres en friche. Il poursuivra quiconque lui vole ses Baies ador\u00e9es pour se venger.",
             "abilities": [
-                126,
-                18,
-                287
+                {
+                    "id": 126,
+                    "name": "Fouille",
+                    "description": "Permet de connaitre l'objet tenu d'un Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 18,
+                    "name": "Anticipation",
+                    "description": "Alerte et prot\u00e8ge lorsque le Pok\u00e9mon adverse poss\u00e8de certaines attaques.",
+                    "isHidden": false
+                },
+                {
+                    "id": 287,
+                    "name": "Turbo",
+                    "description": "La vitesse du Pok\u00e9mon augmente \u00e0 chaque tour.",
+                    "isHidden": true
+                }
             ],
             "height": 2,
             "weight": 15

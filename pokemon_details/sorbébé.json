@@ -19,9 +19,24 @@
             },
             "description": "Serrer Sorb\u00e9b\u00e9 contre soi procure une d\u00e9licieuse sensation de fra\u00eecheur. Dans les r\u00e9gions chaudes, c\u2019est le Pok\u00e9mon \u00e0 avoir \u00e0 la maison.",
             "abilities": [
-                71,
-                243,
-                24
+                {
+                    "id": 71,
+                    "name": "Corps Gel",
+                    "description": "R\u00e9g\u00e9n\u00e8re 1/16e des PV par temps de gr\u00eale. Immunise les Pok\u00e9mon n'ayant pas le type Glace contre la gr\u00eale.",
+                    "isHidden": false
+                },
+                {
+                    "id": 243,
+                    "name": "Rideau Neige",
+                    "description": "Augmente l'esquive de 20% par temps de gr\u00eale. Immunise les Pok\u00e9mon n'ayant pas le type Glace contre la gr\u00eale.",
+                    "isHidden": false
+                },
+                {
+                    "id": 24,
+                    "name": "Armurouill\u00e9e",
+                    "description": "Le Pok\u00e9mon touch\u00e9 par une attaque physique voit sa d\u00e9fense diminu\u00e9e d'un niveau et sa vitesse augment\u00e9e de deux.",
+                    "isHidden": true
+                }
             ],
             "height": 4,
             "weight": 57

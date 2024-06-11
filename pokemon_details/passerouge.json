@@ -20,8 +20,18 @@
             },
             "description": "Une agr\u00e9able chaleur \u00e9mane toujours de son petit corps. Dans les r\u00e9gions froides, il n\u2019est pas rare qu\u2019il dorme dans le lit de son Dresseur.",
             "abilities": [
-                58,
-                9
+                {
+                    "id": 58,
+                    "name": "C\u0153ur de Coq",
+                    "description": "Emp\u00eache la d\u00e9fense du Pok\u00e9mon d'\u00eatre baiss\u00e9e par les attaques adverses.",
+                    "isHidden": false
+                },
+                {
+                    "id": 9,
+                    "name": "Ailes Bourrasque",
+                    "description": "Augmente la priorit\u00e9 des capacit\u00e9s de type Vol.",
+                    "isHidden": true
+                }
             ],
             "height": 3,
             "weight": 17

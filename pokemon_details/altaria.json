@@ -20,8 +20,18 @@
             },
             "description": "ALTARIA danse et tournoie dans les cieux, au milieu des nuages gonfl\u00e9s et cotonneux. Ce POK\u00e9MON chante des m\u00e9lodies de sa voix cristalline pour offrir aux auditeurs une exp\u00e9rience merveilleuse et inoubliable.",
             "abilities": [
-                174,
-                57
+                {
+                    "id": 174,
+                    "name": "M\u00e9dic Nature",
+                    "description": "Le Pok\u00e9mon est soign\u00e9 de toute alt\u00e9ration d'\u00e9tat lorsqu'il est chang\u00e9 ou en fin de combat.",
+                    "isHidden": false
+                },
+                {
+                    "id": 57,
+                    "name": "Ciel Gris",
+                    "description": "Annule les effets du climat.",
+                    "isHidden": true
+                }
             ],
             "height": 11,
             "weight": 206

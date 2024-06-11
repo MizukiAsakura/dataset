@@ -20,8 +20,18 @@
             },
             "description": "Son corps correspond \u00e0 la partie en acier. Il s'accroche \u00e0 des roches et convertit les min\u00e9raux qu'elles contiennent en \u00e9nergie.",
             "abilities": [
-                106,
-                85
+                {
+                    "id": 106,
+                    "name": "Envelocape",
+                    "description": "Immunise contre les d\u00e9g\u00e2ts caus\u00e9s par la gr\u00eale et les temp\u00eates de sable.",
+                    "isHidden": false
+                },
+                {
+                    "id": 85,
+                    "name": "D\u00e9but Calme",
+                    "description": "Divise par deux l'attaque et la vitesse du Pok\u00e9mon pendant 5 tours.",
+                    "isHidden": true
+                }
             ],
             "height": 10,
             "weight": 350

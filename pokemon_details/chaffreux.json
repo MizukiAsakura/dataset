@@ -19,9 +19,24 @@
             },
             "description": "Cette brute arrogante n'h\u00e9site pas \u00e0 voler le nid d'autres Pok\u00e9mon pour s'y installer. Il ceinture sa taille de ses queues jumelles pour para\u00eetre plus imposant.",
             "abilities": [
-                157,
-                272,
-                5
+                {
+                    "id": 157,
+                    "name": "Isograisse",
+                    "description": "Les d\u00e9g\u00e2ts provoqu\u00e9s par les attaques des types Feu ou Glace sont divis\u00e9s par 2.",
+                    "isHidden": false
+                },
+                {
+                    "id": 272,
+                    "name": "Tempo Perso",
+                    "description": "Immunise contre la confusion.",
+                    "isHidden": false
+                },
+                {
+                    "id": 5,
+                    "name": "Acharn\u00e9",
+                    "description": "Monte l'Attaque du Pok\u00e9mon de deux niveaux si l'une de ses statistiques est baiss\u00e9e par l'adversaire.",
+                    "isHidden": true
+                }
             ],
             "height": 10,
             "weight": 438

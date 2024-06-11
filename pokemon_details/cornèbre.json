@@ -20,9 +20,24 @@
             },
             "description": "Jadis, CORNEBRE \u00e9tait craint et d\u00e9test\u00e9, car on disait qu'il portait malheur. Ce POK\u00e9MON est attir\u00e9 par tout ce qui brille. Parfois, il essaye de voler les bagues des filles.",
             "abilities": [
-                155,
-                51,
-                116
+                {
+                    "id": 155,
+                    "name": "Insomnia",
+                    "description": "Emp\u00eache le Pok\u00e9mon d'\u00eatre endormi.",
+                    "isHidden": false
+                },
+                {
+                    "id": 51,
+                    "name": "Chanceux",
+                    "description": "Double les chances de porter un coup critique.",
+                    "isHidden": false
+                },
+                {
+                    "id": 116,
+                    "name": "Farceur",
+                    "description": "Augmente la priorit\u00e9 des attaques de statut d'un niveau.",
+                    "isHidden": true
+                }
             ],
             "height": 5,
             "weight": 21

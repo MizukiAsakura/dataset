@@ -20,9 +20,24 @@
             },
             "description": "En hiver, son bourgeon se referme pour r\u00e9sister au froid. Il s'ouvre au printemps et lib\u00e8re du pollen. Il vit pr\u00e8s des mares d'eau claire. Son pollen provoque des rhumes et fait couler le nez.",
             "abilities": [
-                174,
-                217,
-                118
+                {
+                    "id": 174,
+                    "name": "M\u00e9dic Nature",
+                    "description": "Le Pok\u00e9mon est soign\u00e9 de toute alt\u00e9ration d'\u00e9tat lorsqu'il est chang\u00e9 ou en fin de combat.",
+                    "isHidden": false
+                },
+                {
+                    "id": 217,
+                    "name": "Point Poison",
+                    "description": "30% de chance de provoquer l'empoisonnement du Pok\u00e9mon adverse ayant lanc\u00e9 une attaque de contact.",
+                    "isHidden": false
+                },
+                {
+                    "id": 118,
+                    "name": "Feuille Garde",
+                    "description": "Soigne les alt\u00e9rations d'\u00e9tat par temps ensoleill\u00e9.",
+                    "isHidden": true
+                }
             ],
             "height": 2,
             "weight": 12

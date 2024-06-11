@@ -20,9 +20,24 @@
             },
             "description": "Le corps de Nidoqueen est prot\u00e9g\u00e9 par des \u00e9cailles extr\u00eamement dures. Il aime envoyer ses ennemis voler en leur fon\u00e7ant dessus. Ce Pok\u00e9mon utilise toute sa puissance lorsqu'il prot\u00e8ge ses petits.",
             "abilities": [
-                217,
-                244,
-                248
+                {
+                    "id": 217,
+                    "name": "Point Poison",
+                    "description": "30% de chance de provoquer l'empoisonnement du Pok\u00e9mon adverse ayant lanc\u00e9 une attaque de contact.",
+                    "isHidden": false
+                },
+                {
+                    "id": 244,
+                    "name": "Rivalit\u00e9",
+                    "description": "Augmente l'attaque et l'attaque sp\u00e9ciale de 25% si le Pok\u00e9mon adverse est de m\u00eame sexe. Les diminue s'il est de sexe oppos\u00e9.",
+                    "isHidden": false
+                },
+                {
+                    "id": 248,
+                    "name": "Sans Limite",
+                    "description": "Augmente de 30% la puissance des attaques pouvant avoir un effet secondaire. L'effet secondaire est annul\u00e9.",
+                    "isHidden": true
+                }
             ],
             "height": 13,
             "weight": 600

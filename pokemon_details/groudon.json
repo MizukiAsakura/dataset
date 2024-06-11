@@ -19,7 +19,12 @@
             },
             "description": "GROUDON est depuis longtemps d\u00e9crit dans la mythologie comme le POK\u00e9MON qui a cr\u00e9\u00e9 les terres et agrandi les continents. Ce POK\u00e9MON s'est endormi apr\u00e8s un combat cataclysmique contre KYOGRE.",
             "abilities": [
-                249
+                {
+                    "id": 249,
+                    "name": "S\u00e9cheresse",
+                    "description": "Cr\u00e9e un temps ensoleill\u00e9 tant que le Pok\u00e9mon est en jeu.",
+                    "isHidden": false
+                }
             ],
             "height": 35,
             "weight": 9500

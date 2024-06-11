@@ -19,8 +19,18 @@
             },
             "description": "La surface de sa peau durcit lorsqu'elle est expos\u00e9e \u00e0 une forte chaleur. Son corps exhale un d\u00e9licieux parfum.",
             "abilities": [
-                36,
-                25
+                {
+                    "id": 36,
+                    "name": "Bien Cuit",
+                    "description": "Si le Pok\u00e9mon est touch\u00e9 par une capacit\u00e9 de type Feu, il ne subit aucun d\u00e9g\u00e2t et sa D\u00e9fense augmente beaucoup.",
+                    "isHidden": false
+                },
+                {
+                    "id": 25,
+                    "name": "Aroma-Voile",
+                    "description": "Prot\u00e8ge les Pok\u00e9mon alli\u00e9s des capacit\u00e9s ayant un effet sur l'\u00e9tat mental tels que Attraction ou Tourmente.",
+                    "isHidden": true
+                }
             ],
             "height": 5,
             "weight": 149

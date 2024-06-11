@@ -19,8 +19,18 @@
             },
             "description": "Le cou de MACRONIUM est entour\u00e9 de nombreuses feuilles. Dans chacune d'elles se trouve une pousse d'arbre. Le parfum de cette pousse donne la p\u00eache aux personnes qui le sentent.",
             "abilities": [
-                104,
-                118
+                {
+                    "id": 104,
+                    "name": "Engrais",
+                    "description": "Augmente la puissance des attaques de type Plante de 50% lorsque le Pok\u00e9mon a moins d'1/3 de ses PV totaux.",
+                    "isHidden": false
+                },
+                {
+                    "id": 118,
+                    "name": "Feuille Garde",
+                    "description": "Soigne les alt\u00e9rations d'\u00e9tat par temps ensoleill\u00e9.",
+                    "isHidden": true
+                }
             ],
             "height": 12,
             "weight": 158

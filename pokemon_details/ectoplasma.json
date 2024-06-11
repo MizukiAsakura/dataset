@@ -20,7 +20,12 @@
             },
             "description": "Parfois, pendant les nuits noires, une ombre projet\u00e9e par une r\u00e9verb\u00e8re peut tout \u00e0 coup vous d\u00e9passer. Il s'agit d'un Ectoplasma qui court, en se faisait passer pour l'ombre de quelqu'un d'autre.",
             "abilities": [
-                72
+                {
+                    "id": 72,
+                    "name": "Corps Maudit",
+                    "description": "Toute attaque port\u00e9e par l'adversaire a 30% de chance de s'entraver.",
+                    "isHidden": false
+                }
             ],
             "height": 15,
             "weight": 405

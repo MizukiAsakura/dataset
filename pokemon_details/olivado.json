@@ -20,8 +20,18 @@
             },
             "description": "Il s'expose au soleil jusqu'\u00e0 ce que les fruits sur sa t\u00eate soient m\u00fbrs, puis il quitte les zones habit\u00e9es pour partir \u00e0 l'aventure.",
             "abilities": [
-                171,
-                239
+                {
+                    "id": 171,
+                    "name": "Matinal",
+                    "description": "R\u00e9duit le nombre de tours de sommeil du Pok\u00e9mon.",
+                    "isHidden": false
+                },
+                {
+                    "id": 239,
+                    "name": "R\u00e9colte",
+                    "description": "Une baie consomm\u00e9e par le Pok\u00e9mon a 50% de chances d'\u00eatre r\u00e9cup\u00e9r\u00e9e \u00e0 la fin de chaque tour.",
+                    "isHidden": true
+                }
             ],
             "height": 6,
             "weight": 119

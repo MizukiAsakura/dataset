@@ -20,9 +20,24 @@
             },
             "description": "Il s\u2019introduit chez les gens \u00e0 la faveur d\u2019un courant d\u2019air, r\u00e9pand du coton aux quatre coins de la pi\u00e8ce puis repart comme si de rien n\u2019\u00e9tait.",
             "abilities": [
-                116,
-                154,
-                56
+                {
+                    "id": 116,
+                    "name": "Farceur",
+                    "description": "Augmente la priorit\u00e9 des attaques de statut d'un niveau.",
+                    "isHidden": false
+                },
+                {
+                    "id": 154,
+                    "name": "Infiltration",
+                    "description": "Emp\u00eache les attaques de protection adverses tels que Protection ou Mur Lumi\u00e8re de fonctionner. N'influe pas sur D\u00e9tection et Abri.",
+                    "isHidden": false
+                },
+                {
+                    "id": 56,
+                    "name": "Chlorophylle",
+                    "description": "Augmente la vitesse au soleil.",
+                    "isHidden": true
+                }
             ],
             "height": 7,
             "weight": 66

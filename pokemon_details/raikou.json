@@ -19,8 +19,18 @@
             },
             "description": "RAIKOU incarne la vitesse de l'\u00e9clair. Les rugissements de ce POK\u00e9MON lib\u00e8rent des ondes de choc provenant du ciel et frappant le sol avec la puissance de la foudre.",
             "abilities": [
-                223,
-                26
+                {
+                    "id": 223,
+                    "name": "Pression",
+                    "description": "Double l'utilisation de PP des attaques offensives du Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 26,
+                    "name": "Attention",
+                    "description": "Immunise contre la peur.",
+                    "isHidden": true
+                }
             ],
             "height": 19,
             "weight": 1780

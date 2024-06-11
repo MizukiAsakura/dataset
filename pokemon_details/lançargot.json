@@ -20,9 +20,24 @@
             },
             "description": "Il charge ses ennemis en brandissant ses lances. Il existe un c\u00e9l\u00e8bre tableau repr\u00e9sentant la joute entre un Lan\u00e7argot et un Palarticho.",
             "abilities": [
-                11,
-                66,
-                106
+                {
+                    "id": 11,
+                    "name": "Alerte Neige",
+                    "description": "Le Pok\u00e9mon d\u00e9clenche une gr\u00eale lorsqu'il est envoy\u00e9 au combat.",
+                    "isHidden": false
+                },
+                {
+                    "id": 66,
+                    "name": "Coque Armure",
+                    "description": "Annule les chances de coups critiques du Pok\u00e9mon ennemi.",
+                    "isHidden": false
+                },
+                {
+                    "id": 106,
+                    "name": "Envelocape",
+                    "description": "Immunise contre les d\u00e9g\u00e2ts caus\u00e9s par la gr\u00eale et les temp\u00eates de sable.",
+                    "isHidden": true
+                }
             ],
             "height": 10,
             "weight": 330

@@ -20,9 +20,24 @@
             },
             "description": "Ce Pok\u00e9mon s'empare de tout ce qu'il convoite en maniant sans effort son marteau de plus de 100 kg et ram\u00e8ne son butin chez lui.",
             "abilities": [
-                46,
-                272,
-                210
+                {
+                    "id": 46,
+                    "name": "Brise Moule",
+                    "description": "Peut toucher un Pok\u00e9mon adverse malgr\u00e9 son talent.",
+                    "isHidden": false
+                },
+                {
+                    "id": 272,
+                    "name": "Tempo Perso",
+                    "description": "Immunise contre la confusion.",
+                    "isHidden": false
+                },
+                {
+                    "id": 210,
+                    "name": "Pickpocket",
+                    "description": "Si le Pok\u00e9mon subit une attaque physique, il r\u00e9cup\u00e8re l'objet tenu par son adversaire.",
+                    "isHidden": true
+                }
             ],
             "height": 7,
             "weight": 1128

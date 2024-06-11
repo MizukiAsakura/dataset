@@ -20,9 +20,24 @@
             },
             "description": "Il guette sa proie, pendu \u00e0 une branche la t\u00eate en bas, et s'en saisit \u00e0 la premi\u00e8re occasion.",
             "abilities": [
-                144,
-                294,
-                255
+                {
+                    "id": 144,
+                    "name": "Hyper Cutter",
+                    "description": "Emp\u00eache la diminution d'attaque du Pok\u00e9mon.",
+                    "isHidden": false
+                },
+                {
+                    "id": 294,
+                    "name": "Voile Sable",
+                    "description": "Augmente l'esquive de 20% lors d'une temp\u00eate de sable et immunise contre ses d\u00e9g\u00e2ts.",
+                    "isHidden": false
+                },
+                {
+                    "id": 255,
+                    "name": "Soin Poison",
+                    "description": "Le Pok\u00e9mon r\u00e9cup\u00e8re 1/8\u00e8 de ses PV par tour lors d'un empoisonnement.",
+                    "isHidden": true
+                }
             ],
             "height": 20,
             "weight": 425

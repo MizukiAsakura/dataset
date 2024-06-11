@@ -20,9 +20,24 @@
             },
             "description": "Il augmente sa puissance motrice en stimulant les muscles de ses pattes avec des d\u00e9charges \u00e9lectriques. Il peut ainsi parcourir 100 m en 5 s.",
             "abilities": [
-                207,
-                294,
-                124
+                {
+                    "id": 207,
+                    "name": "Peau S\u00e8che",
+                    "description": "Les attaques de type Eau soignent le Pok\u00e9mon, qui regagne 1/4 de ses PV totaux. Par temps de pluie, il gagne 1/8e de ses PV par tour. Les attaques de type Feu infligent 25% de d\u00e9g\u00e2ts en plus. Par temps ensoleill\u00e9, il perd 1/8e de ses PV par tour.",
+                    "isHidden": false
+                },
+                {
+                    "id": 294,
+                    "name": "Voile Sable",
+                    "description": "Augmente l'esquive de 20% lors d'une temp\u00eate de sable et immunise contre ses d\u00e9g\u00e2ts.",
+                    "isHidden": false
+                },
+                {
+                    "id": 124,
+                    "name": "Force Sable",
+                    "description": "Lors d'une temp\u00eate de sable, la puissance des attaques de type Acier, Roche et Sol augmente de 30 %.",
+                    "isHidden": true
+                }
             ],
             "height": 10,
             "weight": 210

@@ -19,9 +19,24 @@
             },
             "description": "GRORET utilise les perles noires situ\u00e9es sur son corps pour amplifier la puissance de ses ondes psychiques et prendre le contr\u00f4le de son ennemi. Quand il utilise son pouvoir sp\u00e9cial, ce POK\u00e9MON a du mal \u00e0 respirer.",
             "abilities": [
-                157,
-                272,
-                135
+                {
+                    "id": 157,
+                    "name": "Isograisse",
+                    "description": "Les d\u00e9g\u00e2ts provoqu\u00e9s par les attaques des types Feu ou Glace sont divis\u00e9s par 2.",
+                    "isHidden": false
+                },
+                {
+                    "id": 272,
+                    "name": "Tempo Perso",
+                    "description": "Immunise contre la confusion.",
+                    "isHidden": false
+                },
+                {
+                    "id": 135,
+                    "name": "Gloutonnerie",
+                    "description": "Le Pok\u00e9mon utilise la baie port\u00e9e lorsque les PV descendent en dessous de 50%.",
+                    "isHidden": true
+                }
             ],
             "height": 9,
             "weight": 715

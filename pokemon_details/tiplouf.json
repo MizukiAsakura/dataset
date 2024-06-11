@@ -19,8 +19,18 @@
             },
             "description": "Il vit seul, \u00e0 l'\u00e9cart de ses pairs. Chaque individu est convaincu d'\u00eatre meilleur que les autres. Les coups violents de ses ailes tranchent le bois le plus dur. Il chasse dans les eaux glac\u00e9es.",
             "abilities": [
-                282,
-                5
+                {
+                    "id": 282,
+                    "name": "Torrent",
+                    "description": "Augmente la puissance des attaques de type Eau de 50% lorsque le Pok\u00e9mon a moins d'1/3 de ses PV totaux.",
+                    "isHidden": false
+                },
+                {
+                    "id": 5,
+                    "name": "Acharn\u00e9",
+                    "description": "Monte l'Attaque du Pok\u00e9mon de deux niveaux si l'une de ses statistiques est baiss\u00e9e par l'adversaire.",
+                    "isHidden": true
+                }
             ],
             "height": 4,
             "weight": 52

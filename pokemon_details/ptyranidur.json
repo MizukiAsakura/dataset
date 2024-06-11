@@ -20,8 +20,18 @@
             },
             "description": "Ses \u00e9normes m\u00e2choires ont tant de puissance qu\u2019elles peuvent compresser une voiture sans probl\u00e8me. Ce Pok\u00e9mon vivait il y a 100 millions d\u2019ann\u00e9es.",
             "abilities": [
-                227,
-                117
+                {
+                    "id": 227,
+                    "name": "Prognathe",
+                    "description": "Augmente la puissance des attaques \u00e0 base de morsures.",
+                    "isHidden": false
+                },
+                {
+                    "id": 117,
+                    "name": "Fermet\u00e9",
+                    "description": "Immunise contre les attaques OHKO. \u00c0 partir de la 5e g\u00e9n\u00e9ration, ce talent fait aussi conserver 1 PV au Pok\u00e9mon m\u00eame apr\u00e8s une attaque qui aurait d\u00fb le terrasser, s'il a tous ses PV.",
+                    "isHidden": true
+                }
             ],
             "height": 8,
             "weight": 260

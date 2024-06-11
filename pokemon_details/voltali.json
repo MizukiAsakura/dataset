@@ -19,8 +19,18 @@
             },
             "description": "Les cellules de Voltali g\u00e9n\u00e8rent un courant de faible intensit\u00e9. Ce pouvoir est amplifi\u00e9 par l'\u00e9lectricit\u00e9 statique de ses poils, ce qui lui permet d'envoyer des \u00e9clairs. Sa fourrure h\u00e9riss\u00e9e est faite d'aiguilles charg\u00e9es d'\u00e9lectricit\u00e9.",
             "abilities": [
-                3,
-                212
+                {
+                    "id": 3,
+                    "name": "Absorb Volt",
+                    "description": "Les attaques de type \u00c9lectrik re\u00e7ues par le Pok\u00e9mon r\u00e9g\u00e9n\u00e8rent 1/4 de ses PV.",
+                    "isHidden": false
+                },
+                {
+                    "id": 212,
+                    "name": "Pied V\u00e9loce",
+                    "description": "Augmente la vitesse de 50% lorsque le Pok\u00e9mon subit une alt\u00e9ration d'\u00e9tat.",
+                    "isHidden": true
+                }
             ],
             "height": 8,
             "weight": 245

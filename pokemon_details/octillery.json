@@ -19,9 +19,24 @@
             },
             "description": "OCTILLERY attrape son ennemi avec ses tentacules. Ce POK\u00e9MON essaye de l'immobiliser avant de lui ass\u00e9ner le coup final. Si l'ennemi s'av\u00e8re trop fort, OCTILLERY lui crache de l'encre \u00e0 la figure et s'\u00e9chappe.",
             "abilities": [
-                8,
-                254,
-                166
+                {
+                    "id": 8,
+                    "name": "Agitation",
+                    "description": "Augmente l'attaque de 50% mais baisse la pr\u00e9cision de 20%.",
+                    "isHidden": false
+                },
+                {
+                    "id": 254,
+                    "name": "Sniper",
+                    "description": "Triple la puissance des coups critiques.",
+                    "isHidden": false
+                },
+                {
+                    "id": 166,
+                    "name": "Lunatique",
+                    "description": "Al\u00e9atoirement, \u00e0 la fin de chaque tour, une statistique du Pok\u00e9mon augmente de deux niveaux, et une autre baisse d'un niveau (pr\u00e9cision et esquive comprises).",
+                    "isHidden": true
+                }
             ],
             "height": 9,
             "weight": 285

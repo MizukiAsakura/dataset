@@ -20,8 +20,18 @@
             },
             "description": "En mode assaut, il se tient sur sa troisi\u00e8me paire de pattes habituellement repli\u00e9e, mais il s'\u00e9puise relativement rapidement.",
             "abilities": [
-                111,
-                161
+                {
+                    "id": 111,
+                    "name": "Essaim",
+                    "description": "Augmente la puissance des attaques de type Insecte de 50% lorsque le Pok\u00e9mon a moins d'1/3 de ses PV totaux.",
+                    "isHidden": false
+                },
+                {
+                    "id": 161,
+                    "name": "Lentiteint\u00e9e",
+                    "description": "Double les d\u00e9g\u00e2ts des attaques peu efficaces port\u00e9es au Pok\u00e9mon adverse.",
+                    "isHidden": true
+                }
             ],
             "height": 10,
             "weight": 175

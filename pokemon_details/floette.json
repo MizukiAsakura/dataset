@@ -19,8 +19,18 @@
             },
             "description": "Quand les fleurs d\u2019une plate-bande bien soign\u00e9e \u00e9closent, il appara\u00eet et c\u00e9l\u00e8bre la floraison en dansant avec une tr\u00e8s grande \u00e9l\u00e9gance.",
             "abilities": [
-                121,
-                264
+                {
+                    "id": 121,
+                    "name": "Flora-Voile",
+                    "description": "Emp\u00eache la diminution des statistiques des alli\u00e9s de type Plante par les Pok\u00e9mon adverses.",
+                    "isHidden": false
+                },
+                {
+                    "id": 264,
+                    "name": "Symbiose",
+                    "description": "Passe un objet tenu \u00e0 un Pok\u00e9mon alli\u00e9 lorsque l'alli\u00e9 utilise son objet.",
+                    "isHidden": true
+                }
             ],
             "height": 2,
             "weight": 9

@@ -20,9 +20,24 @@
             },
             "description": "Son corps pliable est d\u00e9pourvu d'os. Lorsqu'on tranche un de ses membres, il repousse imm\u00e9diatement. Jadis, il semble qu'il portait une grande carapace pour se prot\u00e9ger. Il hante les eaux peu profondes.",
             "abilities": [
-                137,
-                160,
-                124
+                {
+                    "id": 137,
+                    "name": "Glue",
+                    "description": "Emp\u00eache la perte de l'objet tenu.",
+                    "isHidden": false
+                },
+                {
+                    "id": 160,
+                    "name": "Lavabo",
+                    "description": "Attire toutes les attaques de type Eau. \u00c0 partir de la 5e g\u00e9n\u00e9ration, ce talent augmente aussi l'Attaque Sp\u00e9ciale du Pok\u00e9mon recevant l'attaque.",
+                    "isHidden": false
+                },
+                {
+                    "id": 124,
+                    "name": "Force Sable",
+                    "description": "Lors d'une temp\u00eate de sable, la puissance des attaques de type Acier, Roche et Sol augmente de 30 %.",
+                    "isHidden": true
+                }
             ],
             "height": 9,
             "weight": 299

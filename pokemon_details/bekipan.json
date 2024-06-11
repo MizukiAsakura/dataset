@@ -20,9 +20,24 @@
             },
             "description": "BEKIPAN est un transporteur volant chargeant des petits POK\u00e9MON et des \u0153ufs dans son \u00e9norme bec. Ce POK\u00e9MON construit son nid sur les falaises, face \u00e0 la mer.",
             "abilities": [
-                240,
-                143,
-                83
+                {
+                    "id": 240,
+                    "name": "Regard Vif",
+                    "description": "Emp\u00eache la perte de pr\u00e9cision.",
+                    "isHidden": false
+                },
+                {
+                    "id": 143,
+                    "name": "Hydratation",
+                    "description": "Soigne les alt\u00e9rations d'\u00e9tat par temps de pluie.",
+                    "isHidden": false
+                },
+                {
+                    "id": 83,
+                    "name": "Cuvette",
+                    "description": "R\u00e9g\u00e9n\u00e8re 1/16e des PV par temps de pluie.",
+                    "isHidden": true
+                }
             ],
             "height": 12,
             "weight": 280

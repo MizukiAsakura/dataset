@@ -20,8 +20,18 @@
             },
             "description": "Du bout de ses pattes, ARAKDO s\u00e9cr\u00e8te une huile lui permettant de marcher sur l'eau, comme s'il glissait. Ce POK\u00e9MON se nourrit des organismes microscopiques pr\u00e9sents dans les lacs et les \u00e9tangs.",
             "abilities": [
-                134,
-                83
+                {
+                    "id": 134,
+                    "name": "Glissade",
+                    "description": "Double la vitesse par temps de pluie.",
+                    "isHidden": false
+                },
+                {
+                    "id": 83,
+                    "name": "Cuvette",
+                    "description": "R\u00e9g\u00e9n\u00e8re 1/16e des PV par temps de pluie.",
+                    "isHidden": true
+                }
             ],
             "height": 5,
             "weight": 17

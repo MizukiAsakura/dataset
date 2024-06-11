@@ -19,7 +19,12 @@
             },
             "description": "Une cr\u00e9ature endormie sous terre. On suppose qu\u2019il s\u2019agit d\u2019une Ultra-Chim\u00e8re et qu\u2019elle serait venue d\u2019un autre monde, il y a bien longtemps.",
             "abilities": [
-                226
+                {
+                    "id": 226,
+                    "name": "Prisme-Armure",
+                    "description": "R\u00e9duit de 1/4 les d\u00e9g\u00e2ts subis lorsque le Pok\u00e9mon est touch\u00e9 par une capacit\u00e9 super efficace.",
+                    "isHidden": false
+                }
             ],
             "height": 24,
             "weight": 2300
@@ -41,7 +46,12 @@
             },
             "description": "La forme que Necrozma prend lorsqu'il absorbe la lumi\u00e8re de Solgaleo. Il bondit sur ses ennemis et leur ass\u00e8ne des coups de griffes.",
             "abilities": [
-                226
+                {
+                    "id": 226,
+                    "name": "Prisme-Armure",
+                    "description": "R\u00e9duit de 1/4 les d\u00e9g\u00e2ts subis lorsque le Pok\u00e9mon est touch\u00e9 par une capacit\u00e9 super efficace.",
+                    "isHidden": false
+                }
             ],
             "height": 38,
             "weight": 4600
@@ -63,7 +73,12 @@
             },
             "description": "La forme que Necrozma prend lorsqu'il absorbe la lumi\u00e8re de Lunala. Il attrape et d\u00e9chiquette ses adversaires \u00e0 l'aide de ses longues griffes.",
             "abilities": [
-                226
+                {
+                    "id": 226,
+                    "name": "Prisme-Armure",
+                    "description": "R\u00e9duit de 1/4 les d\u00e9g\u00e2ts subis lorsque le Pok\u00e9mon est touch\u00e9 par une capacit\u00e9 super efficace.",
+                    "isHidden": false
+                }
             ],
             "height": 42,
             "weight": 3500
@@ -85,7 +100,12 @@
             },
             "description": "Necrozma prend cette forme quand il a absorb\u00e9 une quantit\u00e9 ph\u00e9nom\u00e9nale d'\u00e9nergie lumineuse. Des rayons laser \u00e9manent de tout son corps.",
             "abilities": [
-                50
+                {
+                    "id": 50,
+                    "name": "C\u00e9r\u00e9bro-Force",
+                    "description": "Augmente la puissance des capacit\u00e9s super efficaces.",
+                    "isHidden": false
+                }
             ],
             "height": 75,
             "weight": 2300

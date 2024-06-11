@@ -19,9 +19,24 @@
             },
             "description": "Les superbes bois de CERFROUSSE \u00e9taient vendus tr\u00e8s cher comme \u0153uvres d'art. Ce POK\u00e9MON fut chass\u00e9 et l'esp\u00e8ce proche de l'extinction \u00e0 cause des gens qui recherchaient leurs pr\u00e9cieux bois.",
             "abilities": [
-                156,
-                126,
-                141
+                {
+                    "id": 156,
+                    "name": "Intimidation",
+                    "description": "Diminue d'un niveau l'attaque du Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 126,
+                    "name": "Fouille",
+                    "description": "Permet de connaitre l'objet tenu d'un Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 141,
+                    "name": "Herbivore",
+                    "description": "Si le Pok\u00e9mon est touch\u00e9 par une attaque de type Plante, son attaque augmente d'un niveau.",
+                    "isHidden": true
+                }
             ],
             "height": 14,
             "weight": 712

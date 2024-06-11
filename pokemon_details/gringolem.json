@@ -20,9 +20,24 @@
             },
             "description": "Ce Pok\u00e9mon tr\u00e8s ancien a \u00e9t\u00e9 fa\u00e7onn\u00e9 avec de l\u2019argile. On ne sait pourquoi certains sp\u00e9cimens n\u2019ont de cesse d\u2019aligner de grosses pierres.",
             "abilities": [
-                215,
-                169,
-                16
+                {
+                    "id": 215,
+                    "name": "Poing de Fer",
+                    "description": "Augmente de 20% la puissance des attaques de \"Poing\".",
+                    "isHidden": false
+                },
+                {
+                    "id": 169,
+                    "name": "Maladresse",
+                    "description": "Emp\u00eache l'utilisation et/ou ignore l'effet des objets tenus en combat.",
+                    "isHidden": false
+                },
+                {
+                    "id": 16,
+                    "name": "Annule Garde",
+                    "description": "Toutes les attaques du Pok\u00e9mon et de son adversaire ont une pr\u00e9cision de 100%.",
+                    "isHidden": true
+                }
             ],
             "height": 10,
             "weight": 920

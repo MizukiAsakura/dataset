@@ -19,8 +19,18 @@
             },
             "description": "Il \u00e9lit domicile dans des th\u00e9i\u00e8res antiques. La plupart sont des contrefa\u00e7ons, mais il lui arrive dans de tr\u00e8s rares cas de trouver des originaux.",
             "abilities": [
-                72,
-                24
+                {
+                    "id": 72,
+                    "name": "Corps Maudit",
+                    "description": "Toute attaque port\u00e9e par l'adversaire a 30% de chance de s'entraver.",
+                    "isHidden": false
+                },
+                {
+                    "id": 24,
+                    "name": "Armurouill\u00e9e",
+                    "description": "Le Pok\u00e9mon touch\u00e9 par une attaque physique voit sa d\u00e9fense diminu\u00e9e d'un niveau et sa vitesse augment\u00e9e de deux.",
+                    "isHidden": true
+                }
             ],
             "height": 2,
             "weight": 4

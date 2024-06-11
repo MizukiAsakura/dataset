@@ -20,9 +20,24 @@
             },
             "description": "Quand on l\u2019attaque, il s\u2019\u00e9broue et fait jaillir de la vapeur d\u2019eau de tout son corps. Il se cache dedans pour s\u2019enfuir.",
             "abilities": [
-                240,
-                58,
-                143
+                {
+                    "id": 240,
+                    "name": "Regard Vif",
+                    "description": "Emp\u00eache la perte de pr\u00e9cision.",
+                    "isHidden": false
+                },
+                {
+                    "id": 58,
+                    "name": "C\u0153ur de Coq",
+                    "description": "Emp\u00eache la d\u00e9fense du Pok\u00e9mon d'\u00eatre baiss\u00e9e par les attaques adverses.",
+                    "isHidden": false
+                },
+                {
+                    "id": 143,
+                    "name": "Hydratation",
+                    "description": "Soigne les alt\u00e9rations d'\u00e9tat par temps de pluie.",
+                    "isHidden": true
+                }
             ],
             "height": 5,
             "weight": 55

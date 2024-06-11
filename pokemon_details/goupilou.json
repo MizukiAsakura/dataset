@@ -19,9 +19,24 @@
             },
             "description": "Rus\u00e9 et vigilant, il prend la poudre d\u2019escampette apr\u00e8s avoir vol\u00e9 de la nourriture en prenant soin d\u2019effacer ses traces de pas avec sa queue.",
             "abilities": [
-                128,
-                91,
-                119
+                {
+                    "id": 128,
+                    "name": "Fuite",
+                    "description": "Assure la fuite contre les Pok\u00e9mon sauvages.",
+                    "isHidden": false
+                },
+                {
+                    "id": 91,
+                    "name": "D\u00e9lestage",
+                    "description": "Augmente la vitesse lorsqu'un objet tenu est utilis\u00e9, lanc\u00e9 ou perdu.",
+                    "isHidden": false
+                },
+                {
+                    "id": 119,
+                    "name": "Filature",
+                    "description": "Inflige le double de d\u00e9g\u00e2ts aux Pok\u00e9mon arrivant au milieu d'un combat.",
+                    "isHidden": true
+                }
             ],
             "height": 6,
             "weight": 89

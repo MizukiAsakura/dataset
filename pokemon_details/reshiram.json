@@ -20,7 +20,12 @@
             },
             "description": "Selon un mythe, lorsque les gens ne font aucun cas de la R\u00e9alit\u00e9 et s\u2019abandonnent \u00e0 la cupidit\u00e9, Reshiram rase le pays entier avec ses flammes.",
             "abilities": [
-                288
+                {
+                    "id": 288,
+                    "name": "Turbo Brasier",
+                    "description": "Peut toucher un Pok\u00e9mon adverse malgr\u00e9 son talent.",
+                    "isHidden": false
+                }
             ],
             "height": 32,
             "weight": 3300

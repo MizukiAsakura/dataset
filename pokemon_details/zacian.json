@@ -19,7 +19,12 @@
             },
             "description": "\u00c9galement surnomm\u00e9 \u00ab h\u00e9ros l\u00e9gendaire \u00bb, ce Pok\u00e9mon absorbe du m\u00e9tal et se change en arme pour se battre.",
             "abilities": [
-                159
+                {
+                    "id": 159,
+                    "name": "Lame Indomptable",
+                    "description": "Augmente l'Attaque d'un cran lorsque le Pok\u00e9mon entre sur le terrain.",
+                    "isHidden": false
+                }
             ],
             "height": 28,
             "weight": 1100
@@ -41,7 +46,12 @@
             },
             "description": "Il est \u00e9quip\u00e9 d\u2019une arme antique avec laquelle il tranche d\u2019un seul coup les Pok\u00e9mon, m\u00eame ceux qui disposent du pouvoir du Gigamax.",
             "abilities": [
-                159
+                {
+                    "id": 159,
+                    "name": "Lame Indomptable",
+                    "description": "Augmente l'Attaque d'un cran lorsque le Pok\u00e9mon entre sur le terrain.",
+                    "isHidden": false
+                }
             ],
             "height": 28,
             "weight": 3550

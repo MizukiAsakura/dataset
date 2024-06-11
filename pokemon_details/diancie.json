@@ -20,7 +20,12 @@
             },
             "description": "Il peut cr\u00e9er une multitude de diamants en un instant en serrant ses mains, simplement en compressant les mol\u00e9cules de carbone contenues dans l\u2019air.",
             "abilities": [
-                73
+                {
+                    "id": 73,
+                    "name": "Corps Sain",
+                    "description": "Emp\u00eache la diminution de statistiques par le Pok\u00e9mon adverse.",
+                    "isHidden": false
+                }
             ],
             "height": 7,
             "weight": 88

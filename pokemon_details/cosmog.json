@@ -19,7 +19,12 @@
             },
             "description": "Son corps est compos\u00e9 d\u2019un gaz tr\u00e8s volatile. Il cro\u00eet lentement, en accumulant les poussi\u00e8res atmosph\u00e9riques au gr\u00e9 de ses d\u00e9placements.",
             "abilities": [
-                153
+                {
+                    "id": 153,
+                    "name": "Inconscient",
+                    "description": "Ignore les am\u00e9liorations de statistiques du Pok\u00e9mon adverse, \u00e0 l'exception de sa Vitesse.",
+                    "isHidden": false
+                }
             ],
             "height": 2,
             "weight": 1

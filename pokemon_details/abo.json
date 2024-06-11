@@ -19,9 +19,24 @@
             },
             "description": "Abo s'enroule en spirale pour dormir. Sa t\u00eate reste relev\u00e9e de telle sorte que cette position lui permette de r\u00e9agir rapidement si une menace survenait.",
             "abilities": [
-                156,
-                186,
-                273
+                {
+                    "id": 156,
+                    "name": "Intimidation",
+                    "description": "Diminue d'un niveau l'attaque du Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 186,
+                    "name": "Mue",
+                    "description": "\u00c0 chaque tour, le Pok\u00e9mon a 33% de chance d'\u00eatre soign\u00e9 d'une alt\u00e9ration d'\u00e9tat.",
+                    "isHidden": false
+                },
+                {
+                    "id": 273,
+                    "name": "Tension",
+                    "description": "Emp\u00eache l'adversaire de consommer sa baie.",
+                    "isHidden": true
+                }
             ],
             "height": 20,
             "weight": 69

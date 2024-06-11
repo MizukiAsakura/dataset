@@ -20,7 +20,12 @@
             },
             "description": "Il ressemble \u00e0 un Tentacool, mais il n'en est pas un. Malgr\u00e9 leur finesse, ses pattes lui permettent de courir \u00e0 une vitesse de 50 km/h.",
             "abilities": [
-                122
+                {
+                    "id": 122,
+                    "name": "Force Fongique",
+                    "description": "Le Pok\u00e9mon agit toujours plus lentement quand il utilise une capacit\u00e9 de statut, mais il ignore les talents adverses.",
+                    "isHidden": false
+                }
             ],
             "height": 9,
             "weight": 330

@@ -20,8 +20,18 @@
             },
             "description": "Dardargnan est extr\u00eamement possessif. Il vaut mieux ne pas toucher \u00e0 son nid si on veut \u00e9viter d'avoir des ennuis. Lorsqu'ils sont en col\u00e8re, ces Pok\u00e9mon attaquent en masse.",
             "abilities": [
-                111,
-                254
+                {
+                    "id": 111,
+                    "name": "Essaim",
+                    "description": "Augmente la puissance des attaques de type Insecte de 50% lorsque le Pok\u00e9mon a moins d'1/3 de ses PV totaux.",
+                    "isHidden": false
+                },
+                {
+                    "id": 254,
+                    "name": "Sniper",
+                    "description": "Triple la puissance des coups critiques.",
+                    "isHidden": true
+                }
             ],
             "height": 10,
             "weight": 295

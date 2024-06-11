@@ -19,9 +19,24 @@
             },
             "description": "Du magma en fusion coule dans les veines de LIMAGMA. Si ce POK\u00e9MON est refroidi, le magma se solidifie. Son corps devient alors cassant et des morceaux s'en d\u00e9tachent, diminuant ainsi sa taille.",
             "abilities": [
-                20,
-                67,
-                24
+                {
+                    "id": 20,
+                    "name": "Armumagma",
+                    "description": "Immunise contre le gel.",
+                    "isHidden": false
+                },
+                {
+                    "id": 67,
+                    "name": "Corps Ardent",
+                    "description": "30% de chance de provoquer une br\u00fblure sur le Pok\u00e9mon adverse ayant attaqu\u00e9.",
+                    "isHidden": false
+                },
+                {
+                    "id": 24,
+                    "name": "Armurouill\u00e9e",
+                    "description": "Le Pok\u00e9mon touch\u00e9 par une attaque physique voit sa d\u00e9fense diminu\u00e9e d'un niveau et sa vitesse augment\u00e9e de deux.",
+                    "isHidden": true
+                }
             ],
             "height": 7,
             "weight": 350

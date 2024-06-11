@@ -20,8 +20,18 @@
             },
             "description": "Il fait fructifier les cultures partout o\u00f9 il passe, c'est pourquoi on l'appelle \"le dieu des moissons\".",
             "abilities": [
-                124,
-                248
+                {
+                    "id": 124,
+                    "name": "Force Sable",
+                    "description": "Lors d'une temp\u00eate de sable, la puissance des attaques de type Acier, Roche et Sol augmente de 30 %.",
+                    "isHidden": false
+                },
+                {
+                    "id": 248,
+                    "name": "Sans Limite",
+                    "description": "Augmente de 30% la puissance des attaques pouvant avoir un effet secondaire. L'effet secondaire est annul\u00e9.",
+                    "isHidden": true
+                }
             ],
             "height": 15,
             "weight": 680
@@ -43,7 +53,12 @@
             },
             "description": "Il fait fructifier les cultures partout o\u00f9 il passe, c'est pourquoi on l'appelle \"le dieu des moissons\".",
             "abilities": [
-                156
+                {
+                    "id": 156,
+                    "name": "Intimidation",
+                    "description": "Diminue d'un niveau l'attaque du Pok\u00e9mon adverse.",
+                    "isHidden": false
+                }
             ],
             "height": 13,
             "weight": 680

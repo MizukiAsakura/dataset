@@ -19,9 +19,24 @@
             },
             "description": "Ce Pok\u00e9mon dot\u00e9 d'une force extraordinaire peut \u00e9trangler ses proies avec son corps. Il peut m\u00eame \u00e9craser des tonneaux m\u00e9talliques. Une fois sous l'\u00e9treinte d'Arbok, il est impossible de lui \u00e9chapper.",
             "abilities": [
-                156,
-                186,
-                273
+                {
+                    "id": 156,
+                    "name": "Intimidation",
+                    "description": "Diminue d'un niveau l'attaque du Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 186,
+                    "name": "Mue",
+                    "description": "\u00c0 chaque tour, le Pok\u00e9mon a 33% de chance d'\u00eatre soign\u00e9 d'une alt\u00e9ration d'\u00e9tat.",
+                    "isHidden": false
+                },
+                {
+                    "id": 273,
+                    "name": "Tension",
+                    "description": "Emp\u00eache l'adversaire de consommer sa baie.",
+                    "isHidden": true
+                }
             ],
             "height": 35,
             "weight": 650

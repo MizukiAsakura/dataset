@@ -19,9 +19,24 @@
             },
             "description": "es muscles de Machoc sont sp\u00e9ciaux. Quels que soient les efforts qu'il produit, il n'a jamais de courbature. Ce Pok\u00e9mon est assez puissant pour lancer une centaine d'hommes adultes.",
             "abilities": [
-                77,
-                16,
-                149
+                {
+                    "id": 77,
+                    "name": "Cran",
+                    "description": "Augmente de 50% l'attaque du Pok\u00e9mon s'il subit un changement de statut.",
+                    "isHidden": false
+                },
+                {
+                    "id": 16,
+                    "name": "Annule Garde",
+                    "description": "Toutes les attaques du Pok\u00e9mon et de son adversaire ont une pr\u00e9cision de 100%.",
+                    "isHidden": false
+                },
+                {
+                    "id": 149,
+                    "name": "Impassible",
+                    "description": "Augmente d'un niveau la vitesse du Pok\u00e9mon lorsqu'il est apeur\u00e9.",
+                    "isHidden": true
+                }
             ],
             "height": 8,
             "weight": 195

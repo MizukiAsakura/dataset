@@ -19,7 +19,12 @@
             },
             "description": "La petite boule renferme les d\u00e9licieux nutriments sucr\u00e9s dont il a besoin pour \u00e9voluer. Il rougit au soleil. Quand la petite boule est \u00e0 court de nutriments, elle fane en signe d'\u00e9volution.",
             "abilities": [
-                56
+                {
+                    "id": 56,
+                    "name": "Chlorophylle",
+                    "description": "Augmente la vitesse au soleil.",
+                    "isHidden": false
+                }
             ],
             "height": 4,
             "weight": 33

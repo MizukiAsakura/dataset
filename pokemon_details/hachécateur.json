@@ -20,9 +20,24 @@
             },
             "description": "Il se prot\u00e8ge \u00e0 l'aide de roches dures et abat des arbres avec ses haches frustes. Comme il poss\u00e8de un temp\u00e9rament violent, il est pr\u00e9f\u00e9rable de fuir quand on le croise dans la nature.",
             "abilities": [
-                111,
-                248,
-                153
+                {
+                    "id": 111,
+                    "name": "Essaim",
+                    "description": "Augmente la puissance des attaques de type Insecte de 50% lorsque le Pok\u00e9mon a moins d'1/3 de ses PV totaux.",
+                    "isHidden": false
+                },
+                {
+                    "id": 248,
+                    "name": "Sans Limite",
+                    "description": "Augmente de 30% la puissance des attaques pouvant avoir un effet secondaire. L'effet secondaire est annul\u00e9.",
+                    "isHidden": false
+                },
+                {
+                    "id": 153,
+                    "name": "Inconscient",
+                    "description": "Ignore les am\u00e9liorations de statistiques du Pok\u00e9mon adverse, \u00e0 l'exception de sa Vitesse.",
+                    "isHidden": true
+                }
             ],
             "height": 18,
             "weight": 890

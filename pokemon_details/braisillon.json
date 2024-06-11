@@ -20,8 +20,18 @@
             },
             "description": "Il poss\u00e8de une poche remplie de feu sur son ventre. Plus elle \u00e9met de chaleur, plus il vole vite. Cependant, elle met quelque temps \u00e0 chauffer.",
             "abilities": [
-                67,
-                9
+                {
+                    "id": 67,
+                    "name": "Corps Ardent",
+                    "description": "30% de chance de provoquer une br\u00fblure sur le Pok\u00e9mon adverse ayant attaqu\u00e9.",
+                    "isHidden": false
+                },
+                {
+                    "id": 9,
+                    "name": "Ailes Bourrasque",
+                    "description": "Augmente la priorit\u00e9 des capacit\u00e9s de type Vol.",
+                    "isHidden": true
+                }
             ],
             "height": 7,
             "weight": 160

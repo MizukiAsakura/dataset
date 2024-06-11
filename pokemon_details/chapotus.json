@@ -19,9 +19,24 @@
             },
             "description": "Il frappe ses ennemis avec ses tresses pour les faire taire. Sa puissance est telle qu\u2019il peut mettre K.O. un boxeur professionnel d\u2019un seul coup.",
             "abilities": [
-                60,
-                18,
-                180
+                {
+                    "id": 60,
+                    "name": "C\u0153ur Soin",
+                    "description": "\u00c0 la fin de chaque tour, le Pok\u00e9mon a 30% de chance de gu\u00e9rir ses alli\u00e9s d'une alt\u00e9ration d'\u00e9tat en Combat Double ou triple.",
+                    "isHidden": false
+                },
+                {
+                    "id": 18,
+                    "name": "Anticipation",
+                    "description": "Alerte et prot\u00e8ge lorsque le Pok\u00e9mon adverse poss\u00e8de certaines attaques.",
+                    "isHidden": false
+                },
+                {
+                    "id": 180,
+                    "name": "Miroir Magik",
+                    "description": "Retourne les attaques de statut contre l'adversaire.",
+                    "isHidden": true
+                }
             ],
             "height": 6,
             "weight": 48

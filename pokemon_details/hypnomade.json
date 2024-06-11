@@ -19,9 +19,24 @@
             },
             "description": "Hypnomade tient un pendule dans sa main. Le mouvement de balancier et les reflets brillants du pendule hypnotisent profond\u00e9ment son ennemi. Lorsque ce Pok\u00e9mon cherche ses proies, il nettoie son pendule.",
             "abilities": [
-                155,
-                222,
-                26
+                {
+                    "id": 155,
+                    "name": "Insomnia",
+                    "description": "Emp\u00eache le Pok\u00e9mon d'\u00eatre endormi.",
+                    "isHidden": false
+                },
+                {
+                    "id": 222,
+                    "name": "Pr\u00e9diction",
+                    "description": "Alerte le Pok\u00e9mon de l'attaque la plus puissante du Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 26,
+                    "name": "Attention",
+                    "description": "Immunise contre la peur.",
+                    "isHidden": true
+                }
             ],
             "height": 16,
             "weight": 756

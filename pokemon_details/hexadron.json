@@ -19,8 +19,18 @@
             },
             "description": "C\u2019est une entit\u00e9 unique compos\u00e9e d\u2019un chef et de cinq cadets. Ces derniers ob\u00e9issent sans sourciller \u00e0 leur sup\u00e9rieur hi\u00e9rarchique.",
             "abilities": [
-                21,
-                5
+                {
+                    "id": 21,
+                    "name": "Armurbaston",
+                    "description": "Annule les chances de coups critiques du Pok\u00e9mon ennemi.",
+                    "isHidden": false
+                },
+                {
+                    "id": 5,
+                    "name": "Acharn\u00e9",
+                    "description": "Monte l'Attaque du Pok\u00e9mon de deux niveaux si l'une de ses statistiques est baiss\u00e9e par l'adversaire.",
+                    "isHidden": true
+                }
             ],
             "height": 30,
             "weight": 620

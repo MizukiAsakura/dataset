@@ -20,9 +20,24 @@
             },
             "description": "V\u00e9ritable virtuose des claquettes, il se donne en spectacle en dansant d\u2019un pas l\u00e9ger tout en jonglant avec sa canne de glace.",
             "abilities": [
-                211,
-                47,
-                71
+                {
+                    "id": 211,
+                    "name": "Pied Confus",
+                    "description": "Augmente l'esquive de 20% lorsque le Pok\u00e9mon est confus.",
+                    "isHidden": false
+                },
+                {
+                    "id": 47,
+                    "name": "Brise-Barri\u00e8re",
+                    "description": "Quand le Pok\u00e9mon entre au combat, les effets de Mur Lumi\u00e8re, Protection et Voile Aurore disparaissent pour les alli\u00e9s comme pour les ennemis.",
+                    "isHidden": false
+                },
+                {
+                    "id": 71,
+                    "name": "Corps Gel",
+                    "description": "R\u00e9g\u00e9n\u00e8re 1/16e des PV par temps de gr\u00eale. Immunise les Pok\u00e9mon n'ayant pas le type Glace contre la gr\u00eale.",
+                    "isHidden": true
+                }
             ],
             "height": 15,
             "weight": 582

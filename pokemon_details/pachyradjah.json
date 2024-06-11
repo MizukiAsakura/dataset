@@ -19,8 +19,18 @@
             },
             "description": "Sa peau verte r\u00e9siste bien \u00e0 l\u2019eau. Il s\u2019est install\u00e9 dans la r\u00e9gion il y a longtemps et a travaill\u00e9 en coop\u00e9ration avec les Hommes.",
             "abilities": [
-                248,
-                140
+                {
+                    "id": 248,
+                    "name": "Sans Limite",
+                    "description": "Augmente de 30% la puissance des attaques pouvant avoir un effet secondaire. L'effet secondaire est annul\u00e9.",
+                    "isHidden": false
+                },
+                {
+                    "id": 140,
+                    "name": "Heavy Metal",
+                    "description": "Double la masse du Pok\u00e9mon.",
+                    "isHidden": true
+                }
             ],
             "height": 30,
             "weight": 6500

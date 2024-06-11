@@ -20,8 +20,18 @@
             },
             "description": "La nourriture pr\u00e9f\u00e9r\u00e9e de CHARMILLON est le pollen sucr\u00e9 des fleurs. Si on veut voir ce POK\u00e9MON, il suffit de laisser une fleur en pot sur un rebord de fen\u00eatre. CHARMILLON viendra s\u00fbrement voir s'il y a du pollen.",
             "abilities": [
-                111,
-                244
+                {
+                    "id": 111,
+                    "name": "Essaim",
+                    "description": "Augmente la puissance des attaques de type Insecte de 50% lorsque le Pok\u00e9mon a moins d'1/3 de ses PV totaux.",
+                    "isHidden": false
+                },
+                {
+                    "id": 244,
+                    "name": "Rivalit\u00e9",
+                    "description": "Augmente l'attaque et l'attaque sp\u00e9ciale de 25% si le Pok\u00e9mon adverse est de m\u00eame sexe. Les diminue s'il est de sexe oppos\u00e9.",
+                    "isHidden": true
+                }
             ],
             "height": 10,
             "weight": 284

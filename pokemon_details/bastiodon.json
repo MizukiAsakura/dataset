@@ -20,8 +20,18 @@
             },
             "description": "Il r\u00e9siste \u00e0 toute attaque frontale. C'est un Pok\u00e9mon docile qui se nourrit d'herbe et de Baies. En cas d'attaque, ils forment un mur avec leur visage en forme de bouclier pour prot\u00e9ger les petits.",
             "abilities": [
-                117,
-                17
+                {
+                    "id": 117,
+                    "name": "Fermet\u00e9",
+                    "description": "Immunise contre les attaques OHKO. \u00c0 partir de la 5e g\u00e9n\u00e9ration, ce talent fait aussi conserver 1 PV au Pok\u00e9mon m\u00eame apr\u00e8s une attaque qui aurait d\u00fb le terrasser, s'il a tous ses PV.",
+                    "isHidden": false
+                },
+                {
+                    "id": 17,
+                    "name": "Anti-Bruit",
+                    "description": "Annule les effets dus \u00e0 une attaque sonore.",
+                    "isHidden": true
+                }
             ],
             "height": 13,
             "weight": 1495

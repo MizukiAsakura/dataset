@@ -20,9 +20,24 @@
             },
             "description": "M. Mime est un pantomime hors pair. Ses gestes et ses mouvements parviennent \u00e0 faire croire que quelque chose d'invisible existe r\u00e9ellement. Lorsqu'on y croit, ces choses deviennent palpables.",
             "abilities": [
-                17,
-                120,
-                268
+                {
+                    "id": 17,
+                    "name": "Anti-Bruit",
+                    "description": "Annule les effets dus \u00e0 une attaque sonore.",
+                    "isHidden": false
+                },
+                {
+                    "id": 120,
+                    "name": "Filtre",
+                    "description": "Retire 1/4 des d\u00e9g\u00e2ts subits lors d'une attaque super efficace.",
+                    "isHidden": false
+                },
+                {
+                    "id": 268,
+                    "name": "Technicien",
+                    "description": "Augmente de 50% la puissance des attaques dont la puissance est inf\u00e9rieure ou \u00e9gale \u00e0 60.",
+                    "isHidden": true
+                }
             ],
             "height": 13,
             "weight": 545
@@ -44,9 +59,24 @@
             },
             "description": "M. Mime est un pantomime hors pair. Ses gestes et ses mouvements parviennent \u00e0 faire croire que quelque chose d'invisible existe r\u00e9ellement. Lorsqu'on y croit, ces choses deviennent palpables.",
             "abilities": [
-                110,
-                47,
-                71
+                {
+                    "id": 110,
+                    "name": "Esprit Vital",
+                    "description": "Emp\u00eache le Pok\u00e9mon d'\u00eatre endormi.",
+                    "isHidden": false
+                },
+                {
+                    "id": 47,
+                    "name": "Brise-Barri\u00e8re",
+                    "description": "Quand le Pok\u00e9mon entre au combat, les effets de Mur Lumi\u00e8re, Protection et Voile Aurore disparaissent pour les alli\u00e9s comme pour les ennemis.",
+                    "isHidden": false
+                },
+                {
+                    "id": 71,
+                    "name": "Corps Gel",
+                    "description": "R\u00e9g\u00e9n\u00e8re 1/16e des PV par temps de gr\u00eale. Immunise les Pok\u00e9mon n'ayant pas le type Glace contre la gr\u00eale.",
+                    "isHidden": true
+                }
             ],
             "height": 14,
             "weight": 568

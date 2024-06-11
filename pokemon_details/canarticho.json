@@ -20,9 +20,24 @@
             },
             "description": "On voit souvent des Canarticho avec une tige, r\u00e9cup\u00e9r\u00e9e sur une plante quelconque. Apparemment, ils peuvent distinguer les bonnes des mauvaises. On a vu ces Pok\u00e9mon se battre pour des histoires de tiges.",
             "abilities": [
-                26,
-                240,
-                5
+                {
+                    "id": 26,
+                    "name": "Attention",
+                    "description": "Immunise contre la peur.",
+                    "isHidden": false
+                },
+                {
+                    "id": 240,
+                    "name": "Regard Vif",
+                    "description": "Emp\u00eache la perte de pr\u00e9cision.",
+                    "isHidden": false
+                },
+                {
+                    "id": 5,
+                    "name": "Acharn\u00e9",
+                    "description": "Monte l'Attaque du Pok\u00e9mon de deux niveaux si l'une de ses statistiques est baiss\u00e9e par l'adversaire.",
+                    "isHidden": true
+                }
             ],
             "height": 8,
             "weight": 150
@@ -43,8 +58,18 @@
             },
             "description": "On voit souvent des Canarticho avec une tige, r\u00e9cup\u00e9r\u00e9e sur une plante quelconque. Apparemment, ils peuvent distinguer les bonnes des mauvaises. On a vu ces Pok\u00e9mon se battre pour des histoires de tiges.",
             "abilities": [
-                149,
-                232
+                {
+                    "id": 149,
+                    "name": "Impassible",
+                    "description": "Augmente d'un niveau la vitesse du Pok\u00e9mon lorsqu'il est apeur\u00e9.",
+                    "isHidden": false
+                },
+                {
+                    "id": 232,
+                    "name": "Querelleur",
+                    "description": "Permet de toucher les Pok\u00e9mon de type Spectre avec des attaques de type Normal ou Combat.",
+                    "isHidden": true
+                }
             ],
             "height": 8,
             "weight": 420

@@ -20,9 +20,24 @@
             },
             "description": "Le corps de CIZAYOX est dur comme de l'acier. Les attaques ordinaires ne le d\u00e9stabilisent pas. Ce POK\u00e9MON bat des ailes pour r\u00e9guler sa temp\u00e9rature interne.",
             "abilities": [
-                111,
-                268,
-                163
+                {
+                    "id": 111,
+                    "name": "Essaim",
+                    "description": "Augmente la puissance des attaques de type Insecte de 50% lorsque le Pok\u00e9mon a moins d'1/3 de ses PV totaux.",
+                    "isHidden": false
+                },
+                {
+                    "id": 268,
+                    "name": "Technicien",
+                    "description": "Augmente de 50% la puissance des attaques dont la puissance est inf\u00e9rieure ou \u00e9gale \u00e0 60.",
+                    "isHidden": false
+                },
+                {
+                    "id": 163,
+                    "name": "Light Metal",
+                    "description": "Divise par deux la masse du Pok\u00e9mon.",
+                    "isHidden": true
+                }
             ],
             "height": 18,
             "weight": 1180

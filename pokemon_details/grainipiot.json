@@ -19,9 +19,24 @@
             },
             "description": "GRAINIPIOT s'accroche par la t\u00eate aux branches d'arbre. Il en profite alors pour absorber l'humidit\u00e9 de l'arbre. Plus ce POK\u00e9MON boit d'eau, plus son corps devient brillant.",
             "abilities": [
-                56,
-                171,
-                210
+                {
+                    "id": 56,
+                    "name": "Chlorophylle",
+                    "description": "Augmente la vitesse au soleil.",
+                    "isHidden": false
+                },
+                {
+                    "id": 171,
+                    "name": "Matinal",
+                    "description": "R\u00e9duit le nombre de tours de sommeil du Pok\u00e9mon.",
+                    "isHidden": false
+                },
+                {
+                    "id": 210,
+                    "name": "Pickpocket",
+                    "description": "Si le Pok\u00e9mon subit une attaque physique, il r\u00e9cup\u00e8re l'objet tenu par son adversaire.",
+                    "isHidden": true
+                }
             ],
             "height": 5,
             "weight": 40

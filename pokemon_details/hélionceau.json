@@ -20,9 +20,24 @@
             },
             "description": "Plus l\u2019adversaire auquel il est confront\u00e9 est fort, plus la temp\u00e9rature de sa crini\u00e8re augmente, l\u2019\u00e9nergie g\u00e9n\u00e9r\u00e9e se diffusant alors dans tout son corps.",
             "abilities": [
-                244,
-                273,
-                151
+                {
+                    "id": 244,
+                    "name": "Rivalit\u00e9",
+                    "description": "Augmente l'attaque et l'attaque sp\u00e9ciale de 25% si le Pok\u00e9mon adverse est de m\u00eame sexe. Les diminue s'il est de sexe oppos\u00e9.",
+                    "isHidden": false
+                },
+                {
+                    "id": 273,
+                    "name": "Tension",
+                    "description": "Emp\u00eache l'adversaire de consommer sa baie.",
+                    "isHidden": false
+                },
+                {
+                    "id": 151,
+                    "name": "Impudence",
+                    "description": "Monte l'attaque du Pok\u00e9mon d'un niveau lorsqu'il met un adversaire K.O.",
+                    "isHidden": true
+                }
             ],
             "height": 6,
             "weight": 135

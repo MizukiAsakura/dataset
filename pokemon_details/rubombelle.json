@@ -20,9 +20,24 @@
             },
             "description": "Certaines boules de pollen de Rubombelle sont tr\u00e8s utiles d\u2019un point de vue nutritif. Vendues en compl\u00e9ment alimentaire, elles font un carton.",
             "abilities": [
-                54,
-                100,
-                136
+                {
+                    "id": 54,
+                    "name": "Cherche Miel",
+                    "description": "le Pok\u00e9mon peut parfois trouver du Miel apr\u00e8s un combat",
+                    "isHidden": false
+                },
+                {
+                    "id": 100,
+                    "name": "\u00c9cran Poudre",
+                    "description": "Emp\u00eache les effets secondaires des attaques subies.",
+                    "isHidden": false
+                },
+                {
+                    "id": 136,
+                    "name": "Gluco-Voile",
+                    "description": "Emp\u00eache les Pok\u00e9mon alli\u00e9s de s'endormir.",
+                    "isHidden": true
+                }
             ],
             "height": 2,
             "weight": 5

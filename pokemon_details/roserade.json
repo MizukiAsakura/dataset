@@ -20,9 +20,24 @@
             },
             "description": "Il attire ses proies avec son doux parfum et les ach\u00e8ve gr\u00e2ce aux fouets d'\u00e9pines de ses bras. Gracieux comme un danseur, il abat ses fouets orn\u00e9s d'\u00e9pines empoisonn\u00e9es.",
             "abilities": [
-                174,
-                217,
-                268
+                {
+                    "id": 174,
+                    "name": "M\u00e9dic Nature",
+                    "description": "Le Pok\u00e9mon est soign\u00e9 de toute alt\u00e9ration d'\u00e9tat lorsqu'il est chang\u00e9 ou en fin de combat.",
+                    "isHidden": false
+                },
+                {
+                    "id": 217,
+                    "name": "Point Poison",
+                    "description": "30% de chance de provoquer l'empoisonnement du Pok\u00e9mon adverse ayant lanc\u00e9 une attaque de contact.",
+                    "isHidden": false
+                },
+                {
+                    "id": 268,
+                    "name": "Technicien",
+                    "description": "Augmente de 50% la puissance des attaques dont la puissance est inf\u00e9rieure ou \u00e9gale \u00e0 60.",
+                    "isHidden": true
+                }
             ],
             "height": 9,
             "weight": 145

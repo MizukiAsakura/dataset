@@ -19,9 +19,24 @@
             },
             "description": "Les pattes avant et arri\u00e8re palm\u00e9es et le corps a\u00e9rodynamique d'Akwakwak lui donnent une vitesse effrayante. Ce Pok\u00e9mon est bien plus rapide que les plus grands champions de natation.",
             "abilities": [
-                182,
-                57,
-                134
+                {
+                    "id": 182,
+                    "name": "Moiteur",
+                    "description": "\u00c9mp\u00eache l'utilisation d'attaques auto-destructrices par le Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 57,
+                    "name": "Ciel Gris",
+                    "description": "Annule les effets du climat.",
+                    "isHidden": false
+                },
+                {
+                    "id": 134,
+                    "name": "Glissade",
+                    "description": "Double la vitesse par temps de pluie.",
+                    "isHidden": true
+                }
             ],
             "height": 17,
             "weight": 766

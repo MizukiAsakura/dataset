@@ -20,9 +20,24 @@
             },
             "description": "LOUPIO rel\u00e2che des charges \u00e9lectriques positives et n\u00e9gatives de ses deux antennes pour mettre sa proie K.O. Ce POK\u00e9MON illumine ses ampoules \u00e9lectriques pour communiquer avec ses cong\u00e9n\u00e8res.",
             "abilities": [
-                2,
-                165,
-                3
+                {
+                    "id": 2,
+                    "name": "Absorb Eau",
+                    "description": "Les attaques de type Eau re\u00e7ues par le Pok\u00e9mon r\u00e9g\u00e9n\u00e8rent 1/4 de ses PV.",
+                    "isHidden": false
+                },
+                {
+                    "id": 165,
+                    "name": "Lumiattirance",
+                    "description": "Aucun effet en combat",
+                    "isHidden": false
+                },
+                {
+                    "id": 3,
+                    "name": "Absorb Volt",
+                    "description": "Les attaques de type \u00c9lectrik re\u00e7ues par le Pok\u00e9mon r\u00e9g\u00e9n\u00e8rent 1/4 de ses PV.",
+                    "isHidden": true
+                }
             ],
             "height": 5,
             "weight": 120

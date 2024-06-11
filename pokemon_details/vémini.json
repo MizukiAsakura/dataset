@@ -20,7 +20,12 @@
             },
             "description": "Dans son monde, cette Ultra-Chim\u00e8re est fort appr\u00e9ci\u00e9e pour son naturel conciliant, qui fait d\u2019elle un compagnon de voyage id\u00e9al.",
             "abilities": [
-                41
+                {
+                    "id": 41,
+                    "name": "Boost Chim\u00e8re",
+                    "description": "Augmente la stat la plus \u00e9lev\u00e9e du Pok\u00e9mon quand il met K.O. un autre Pok\u00e9mon.",
+                    "isHidden": false
+                }
             ],
             "height": 6,
             "weight": 18

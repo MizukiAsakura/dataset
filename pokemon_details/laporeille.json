@@ -19,9 +19,24 @@
             },
             "description": "Il frappe l'ennemi en d\u00e9roulant violemment ses oreilles. Cela peut faire pleurer un adulte. Il dresse les oreilles quand il sent un danger. Il dort la t\u00eate dans sa fourrure pendant les nuits froides.",
             "abilities": [
-                128,
-                169,
-                98
+                {
+                    "id": 128,
+                    "name": "Fuite",
+                    "description": "Assure la fuite contre les Pok\u00e9mon sauvages.",
+                    "isHidden": false
+                },
+                {
+                    "id": 169,
+                    "name": "Maladresse",
+                    "description": "Emp\u00eache l'utilisation et/ou ignore l'effet des objets tenus en combat.",
+                    "isHidden": false
+                },
+                {
+                    "id": 98,
+                    "name": "\u00c9chauffement",
+                    "description": "Immunise contre la paralysie.",
+                    "isHidden": true
+                }
             ],
             "height": 4,
             "weight": 55

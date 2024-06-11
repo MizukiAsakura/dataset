@@ -19,7 +19,12 @@
             },
             "description": "Il rejoint et quitte ce monde en dormant. Son existence se d\u00e9roule comme un r\u00eave paisible. Il dort du sommeil du juste toute sa vie durant.",
             "abilities": [
-                145
+                {
+                    "id": 145,
+                    "name": "Hypersommeil",
+                    "description": "Emp\u00eache de subir toute alt\u00e9ration de statut autres que le sommeil.",
+                    "isHidden": false
+                }
             ],
             "height": 4,
             "weight": 199

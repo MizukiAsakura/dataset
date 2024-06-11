@@ -19,8 +19,18 @@
             },
             "description": "Totalement subjugu\u00e9es par la beaut\u00e9 des cristaux de glace qu\u2019il fait tomber, ses proies ne r\u00e9alisent que trop tard qu\u2019elles sont en train de geler.",
             "abilities": [
-                243,
-                71
+                {
+                    "id": 243,
+                    "name": "Rideau Neige",
+                    "description": "Augmente l'esquive de 20% par temps de gr\u00eale. Immunise les Pok\u00e9mon n'ayant pas le type Glace contre la gr\u00eale.",
+                    "isHidden": false
+                },
+                {
+                    "id": 71,
+                    "name": "Corps Gel",
+                    "description": "R\u00e9g\u00e9n\u00e8re 1/16e des PV par temps de gr\u00eale. Immunise les Pok\u00e9mon n'ayant pas le type Glace contre la gr\u00eale.",
+                    "isHidden": true
+                }
             ],
             "height": 8,
             "weight": 259

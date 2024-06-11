@@ -20,8 +20,18 @@
             },
             "description": "Les ailes de LUGIA renferment une puissance d\u00e9vastatrice. Un simple battement de ses ailes peut d\u00e9truire des petites maisons. Du coup, ce POK\u00e9MON a choisi de vivre loin de tout, dans les profondeurs oc\u00e9aniques.",
             "abilities": [
-                223,
-                188
+                {
+                    "id": 223,
+                    "name": "Pression",
+                    "description": "Double l'utilisation de PP des attaques offensives du Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 188,
+                    "name": "Multi\u00e9caille",
+                    "description": "Si le Pok\u00e9mon poss\u00e8de 100% de ses PV, alors les d\u00e9g\u00e2ts inflig\u00e9s par l'adversaire sont divis\u00e9s par deux.",
+                    "isHidden": true
+                }
             ],
             "height": 52,
             "weight": 2160

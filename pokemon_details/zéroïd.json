@@ -20,7 +20,12 @@
             },
             "description": "Nul ne sait si cette Ultra-Chim\u00e8re poss\u00e8de une conscience propre, mais on l\u2019aurait aper\u00e7ue en train d\u2019imiter les gestes d\u2019une jeune fille.",
             "abilities": [
-                41
+                {
+                    "id": 41,
+                    "name": "Boost Chim\u00e8re",
+                    "description": "Augmente la stat la plus \u00e9lev\u00e9e du Pok\u00e9mon quand il met K.O. un autre Pok\u00e9mon.",
+                    "isHidden": false
+                }
             ],
             "height": 12,
             "weight": 555

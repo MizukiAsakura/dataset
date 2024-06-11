@@ -20,8 +20,18 @@
             },
             "description": "Ses pattes et son dos muscl\u00e9s lui permettent de faire des sauts p\u00e9rilleux puis d'attaquer ses adversaires avec les lames glac\u00e9es de sa cr\u00eate.",
             "abilities": [
-                277,
-                71
+                {
+                    "id": 277,
+                    "name": "Thermodynamique",
+                    "description": "Lorsque le Pok\u00e9mon est touch\u00e9 par une capacit\u00e9 de type Feu, il ne subit aucun d\u00e9g\u00e2t et son Attaque augmente.",
+                    "isHidden": false
+                },
+                {
+                    "id": 71,
+                    "name": "Corps Gel",
+                    "description": "R\u00e9g\u00e9n\u00e8re 1/16e des PV par temps de gr\u00eale. Immunise les Pok\u00e9mon n'ayant pas le type Glace contre la gr\u00eale.",
+                    "isHidden": true
+                }
             ],
             "height": 8,
             "weight": 300

@@ -19,8 +19,18 @@
             },
             "description": "Son violent coup de t\u00eate est assez puissant pour pulv\u00e9riser les mat\u00e9riaux les plus r\u00e9sistants. Son cr\u00e2ne est dur comme du fer. Cette brute abat des arbres quand elle chasse sa proie dans la jungle.",
             "abilities": [
-                46,
-                248
+                {
+                    "id": 46,
+                    "name": "Brise Moule",
+                    "description": "Peut toucher un Pok\u00e9mon adverse malgr\u00e9 son talent.",
+                    "isHidden": false
+                },
+                {
+                    "id": 248,
+                    "name": "Sans Limite",
+                    "description": "Augmente de 30% la puissance des attaques pouvant avoir un effet secondaire. L'effet secondaire est annul\u00e9.",
+                    "isHidden": true
+                }
             ],
             "height": 16,
             "weight": 1025

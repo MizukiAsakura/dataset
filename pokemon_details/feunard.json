@@ -19,8 +19,18 @@
             },
             "description": "Feunard peut envoyer un inqui\u00e9tant rayon avec ses yeux rouge vif pour prendre le contr\u00f4le de l'esprit de son ennemi. On raconte que ce Pok\u00e9mon peut vivre 1 000 ans.",
             "abilities": [
-                281,
-                249
+                {
+                    "id": 281,
+                    "name": "Torche",
+                    "description": "Annule les d\u00e9g\u00e2ts des attaques de type Feu subies et augmente de 50% la puissance des attaques de type Feu lanc\u00e9es.",
+                    "isHidden": false
+                },
+                {
+                    "id": 249,
+                    "name": "S\u00e9cheresse",
+                    "description": "Cr\u00e9e un temps ensoleill\u00e9 tant que le Pok\u00e9mon est en jeu.",
+                    "isHidden": true
+                }
             ],
             "height": 11,
             "weight": 199
@@ -42,8 +52,18 @@
             },
             "description": "Feunard peut envoyer un inqui\u00e9tant rayon avec ses yeux rouge vif pour prendre le contr\u00f4le de l'esprit de son ennemi. On raconte que ce Pok\u00e9mon peut vivre 1 000 ans.",
             "abilities": [
-                243,
-                11
+                {
+                    "id": 243,
+                    "name": "Rideau Neige",
+                    "description": "Augmente l'esquive de 20% par temps de gr\u00eale. Immunise les Pok\u00e9mon n'ayant pas le type Glace contre la gr\u00eale.",
+                    "isHidden": false
+                },
+                {
+                    "id": 11,
+                    "name": "Alerte Neige",
+                    "description": "Le Pok\u00e9mon d\u00e9clenche une gr\u00eale lorsqu'il est envoy\u00e9 au combat.",
+                    "isHidden": true
+                }
             ],
             "height": 11,
             "weight": 199

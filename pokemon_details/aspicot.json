@@ -19,8 +19,18 @@
             },
             "description": "L'odorat d'Aspicot est extr\u00eamement d\u00e9velopp\u00e9. Il lui suffit de renifler ses feuilles pr\u00e9f\u00e9r\u00e9es avec son gros appendice nasal pour les reconna\u00eetre entre mille.",
             "abilities": [
-                100,
-                128
+                {
+                    "id": 100,
+                    "name": "\u00c9cran Poudre",
+                    "description": "Emp\u00eache les effets secondaires des attaques subies.",
+                    "isHidden": false
+                },
+                {
+                    "id": 128,
+                    "name": "Fuite",
+                    "description": "Assure la fuite contre les Pok\u00e9mon sauvages.",
+                    "isHidden": true
+                }
             ],
             "height": 3,
             "weight": 32

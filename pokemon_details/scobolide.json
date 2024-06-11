@@ -20,9 +20,24 @@
             },
             "description": "Il se propulse sur ses ennemis en tournant tr\u00e8s vite sur lui-m\u00eame. Il peut ainsi atteindre une vitesse d\u2019environ 100 km/h.",
             "abilities": [
-                217,
-                111,
-                287
+                {
+                    "id": 217,
+                    "name": "Point Poison",
+                    "description": "30% de chance de provoquer l'empoisonnement du Pok\u00e9mon adverse ayant lanc\u00e9 une attaque de contact.",
+                    "isHidden": false
+                },
+                {
+                    "id": 111,
+                    "name": "Essaim",
+                    "description": "Augmente la puissance des attaques de type Insecte de 50% lorsque le Pok\u00e9mon a moins d'1/3 de ses PV totaux.",
+                    "isHidden": false
+                },
+                {
+                    "id": 287,
+                    "name": "Turbo",
+                    "description": "La vitesse du Pok\u00e9mon augmente \u00e0 chaque tour.",
+                    "isHidden": true
+                }
             ],
             "height": 12,
             "weight": 585

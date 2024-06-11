@@ -19,9 +19,24 @@
             },
             "description": "Il est dot\u00e9 d\u2019oreilles ressemblant \u00e0 des pelles. \u00c0 force de creuser des galeries, leur puissance est telle qu\u2019elles peuvent trancher de grosses racines.",
             "abilities": [
-                235,
-                31,
-                63
+                {
+                    "id": 235,
+                    "name": "Ramassage",
+                    "description": "Donne une chance au Pok\u00e9mon de ramasser un objet apr\u00e8s un combat.",
+                    "isHidden": false
+                },
+                {
+                    "id": 31,
+                    "name": "Bajoues",
+                    "description": "Lorsque le Pok\u00e9mon mange une Baie, il obtient ses effets et regagne des PV en plus.",
+                    "isHidden": false
+                },
+                {
+                    "id": 63,
+                    "name": "Coloforce",
+                    "description": "Double l'attaque du Pok\u00e9mon.",
+                    "isHidden": true
+                }
             ],
             "height": 4,
             "weight": 50

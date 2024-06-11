@@ -20,8 +20,18 @@
             },
             "description": "On dit que gr\u00e2ce \u00e0 la m\u00e9ditation, CHARMINA stocke de l'\u00e9nergie dans son corps et affine son sixi\u00e8me sens. Ce POK\u00e9MON se cache des autres en se fondant dans les champs et les montagnes.",
             "abilities": [
-                123,
-                270
+                {
+                    "id": 123,
+                    "name": "Force Pure",
+                    "description": "Double l'attaque du Pok\u00e9mon.",
+                    "isHidden": false
+                },
+                {
+                    "id": 270,
+                    "name": "T\u00e9l\u00e9pathe",
+                    "description": "Anticipe et \u00e9vite les attaques des alli\u00e9s en Combat Double ou triple.",
+                    "isHidden": true
+                }
             ],
             "height": 13,
             "weight": 315

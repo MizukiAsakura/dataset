@@ -20,9 +20,24 @@
             },
             "description": "Son corps, compos\u00e9 d\u2019un m\u00e9tal sp\u00e9cial, est l\u00e9ger et lui offre une excellente mobilit\u00e9. Il est toutefois sensible \u00e0 la pluie et vit donc dans les grottes.",
             "abilities": [
-                163,
-                140,
-                191
+                {
+                    "id": 163,
+                    "name": "Light Metal",
+                    "description": "Divise par deux la masse du Pok\u00e9mon.",
+                    "isHidden": false
+                },
+                {
+                    "id": 140,
+                    "name": "Heavy Metal",
+                    "description": "Double la masse du Pok\u00e9mon.",
+                    "isHidden": false
+                },
+                {
+                    "id": 191,
+                    "name": "Nerfs d'Acier",
+                    "description": "Permet d'ignorer l'effet des capacit\u00e9s ou des talents qui attirent les capacit\u00e9s.",
+                    "isHidden": true
+                }
             ],
             "height": 18,
             "weight": 400

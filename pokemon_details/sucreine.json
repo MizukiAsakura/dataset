@@ -19,9 +19,24 @@
             },
             "description": "Ce Pok\u00e9mon est connu pour la forme parfaite de ses jambes. Les instituts de beaut\u00e9 n\u2019h\u00e9sitent pas \u00e0 l\u2019utiliser comme mascotte dans leurs pubs.",
             "abilities": [
-                118,
-                224,
-                136
+                {
+                    "id": 118,
+                    "name": "Feuille Garde",
+                    "description": "Soigne les alt\u00e9rations d'\u00e9tat par temps ensoleill\u00e9.",
+                    "isHidden": false
+                },
+                {
+                    "id": 224,
+                    "name": "Prestance Royale",
+                    "description": "Emp\u00eache l'adversaire d'utiliser des attaques de priorit\u00e9.",
+                    "isHidden": false
+                },
+                {
+                    "id": 136,
+                    "name": "Gluco-Voile",
+                    "description": "Emp\u00eache les Pok\u00e9mon alli\u00e9s de s'endormir.",
+                    "isHidden": true
+                }
             ],
             "height": 12,
             "weight": 214

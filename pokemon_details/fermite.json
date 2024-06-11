@@ -20,9 +20,24 @@
             },
             "description": "Sa grande m\u00e2choire r\u00e9duit m\u00eame les rochers en miettes. Il se bat avec sa colonie pour prot\u00e9ger ses \u0152ufs des attaques des Dunaconda.",
             "abilities": [
-                111,
-                8,
-                1
+                {
+                    "id": 111,
+                    "name": "Essaim",
+                    "description": "Augmente la puissance des attaques de type Insecte de 50% lorsque le Pok\u00e9mon a moins d'1/3 de ses PV totaux.",
+                    "isHidden": false
+                },
+                {
+                    "id": 8,
+                    "name": "Agitation",
+                    "description": "Augmente l'attaque de 50% mais baisse la pr\u00e9cision de 20%.",
+                    "isHidden": false
+                },
+                {
+                    "id": 1,
+                    "name": "Absent\u00e9isme",
+                    "description": "Le Pok\u00e9mon n'attaque qu'un tour sur deux.",
+                    "isHidden": true
+                }
             ],
             "height": 3,
             "weight": 330

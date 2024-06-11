@@ -19,8 +19,18 @@
             },
             "description": "DRABY r\u00eave de pouvoir un jour s'\u00e9lancer dans les cieux. Bien que vou\u00e9 \u00e0 l'\u00e9chec, ce POK\u00e9MON se jette des falaises pour essayer de voler. A force, sa t\u00eate est devenue aussi dure que de l'acier.",
             "abilities": [
-                276,
-                248
+                {
+                    "id": 276,
+                    "name": "T\u00eate de Roc",
+                    "description": "Le Pok\u00e9mon ne subit pas de d\u00e9g\u00e2ts de contrecoup.",
+                    "isHidden": false
+                },
+                {
+                    "id": 248,
+                    "name": "Sans Limite",
+                    "description": "Augmente de 30% la puissance des attaques pouvant avoir un effet secondaire. L'effet secondaire est annul\u00e9.",
+                    "isHidden": true
+                }
             ],
             "height": 6,
             "weight": 421

@@ -20,9 +20,24 @@
             },
             "description": "Lorsqu\u2019il utilise l\u2019appendice sur sa t\u00eate pour projeter ses pouvoirs psychiques, il \u00e9met un bruit aussi irritant qu\u2019un grincement de dents.",
             "abilities": [
-                68,
-                227,
-                206
+                {
+                    "id": 68,
+                    "name": "Corps Color\u00e9",
+                    "description": "Emp\u00eache l'adversaire d'utiliser des attaques de priorit\u00e9.",
+                    "isHidden": false
+                },
+                {
+                    "id": 227,
+                    "name": "Prognathe",
+                    "description": "Augmente la puissance des attaques \u00e0 base de morsures.",
+                    "isHidden": false
+                },
+                {
+                    "id": 206,
+                    "name": "Peau Miracle",
+                    "description": "50% de chance de faire \u00e9chouer les attaques de statut port\u00e9es par l'adversaire.",
+                    "isHidden": true
+                }
             ],
             "height": 9,
             "weight": 190

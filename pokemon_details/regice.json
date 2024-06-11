@@ -19,8 +19,18 @@
             },
             "description": "Le corps de REGICE fut cr\u00e9\u00e9 pendant l'\u00e8re glaciaire. Son corps est tellement gel\u00e9 qu'il ne peut pas fondre, m\u00eame en le br\u00fblant. Ce POK\u00e9MON peut contr\u00f4ler l'air glac\u00e9 jusqu'\u00e0 une temp\u00e9rature de 200 degr\u00e9s.",
             "abilities": [
-                73,
-                71
+                {
+                    "id": 73,
+                    "name": "Corps Sain",
+                    "description": "Emp\u00eache la diminution de statistiques par le Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 71,
+                    "name": "Corps Gel",
+                    "description": "R\u00e9g\u00e9n\u00e8re 1/16e des PV par temps de gr\u00eale. Immunise les Pok\u00e9mon n'ayant pas le type Glace contre la gr\u00eale.",
+                    "isHidden": true
+                }
             ],
             "height": 18,
             "weight": 1750

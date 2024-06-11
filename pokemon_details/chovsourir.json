@@ -20,9 +20,24 @@
             },
             "description": "Il s'accroche aux murs des cavernes en se servant de son nez comme ventouse. Il y laisse une trace en forme de c\u0153ur.",
             "abilities": [
-                153,
-                169,
-                253
+                {
+                    "id": 153,
+                    "name": "Inconscient",
+                    "description": "Ignore les am\u00e9liorations de statistiques du Pok\u00e9mon adverse, \u00e0 l'exception de sa Vitesse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 169,
+                    "name": "Maladresse",
+                    "description": "Emp\u00eache l'utilisation et/ou ignore l'effet des objets tenus en combat.",
+                    "isHidden": false
+                },
+                {
+                    "id": 253,
+                    "name": "Simple",
+                    "description": "Double les effets des modifications de statistiques, positives ou n\u00e9gatives.",
+                    "isHidden": true
+                }
             ],
             "height": 4,
             "weight": 21

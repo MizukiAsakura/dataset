@@ -20,9 +20,24 @@
             },
             "description": "Il construit des barrages de boue et d'\u00e9corce le long des fleuves. C'est un ouvrier de renom. M\u00eame s'il est plut\u00f4t pataud sur la terre ferme, ce Pok\u00e9mon nage aussi vite que BARPAU.",
             "abilities": [
-                253,
-                153,
-                162
+                {
+                    "id": 253,
+                    "name": "Simple",
+                    "description": "Double les effets des modifications de statistiques, positives ou n\u00e9gatives.",
+                    "isHidden": false
+                },
+                {
+                    "id": 153,
+                    "name": "Inconscient",
+                    "description": "Ignore les am\u00e9liorations de statistiques du Pok\u00e9mon adverse, \u00e0 l'exception de sa Vitesse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 162,
+                    "name": "L\u00e9vitation",
+                    "description": "Immunise contre les attaques de type Sol.",
+                    "isHidden": true
+                }
             ],
             "height": 10,
             "weight": 315

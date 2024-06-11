@@ -20,9 +20,24 @@
             },
             "description": "Rhinocorne charge droit devant lui, d\u00e9truisant tout sur son passage. Il ne s'arr\u00eate jamais, m\u00eame lorsqu'il charge un bloc d'acier. Malgr\u00e9 tout, il sent la douleur le lendemain.",
             "abilities": [
-                199,
-                276,
-                271
+                {
+                    "id": 199,
+                    "name": "Paratonnerre",
+                    "description": "Attire toutes les attaques de type \u00c9lectrik. \u00c0 partir de la 5e g\u00e9n\u00e9ration, ce talent augmente aussi l'Attaque Sp\u00e9ciale du Pok\u00e9mon recevant l'attaque.",
+                    "isHidden": false
+                },
+                {
+                    "id": 276,
+                    "name": "T\u00eate de Roc",
+                    "description": "Le Pok\u00e9mon ne subit pas de d\u00e9g\u00e2ts de contrecoup.",
+                    "isHidden": false
+                },
+                {
+                    "id": 271,
+                    "name": "T\u00e9m\u00e9raire",
+                    "description": "Augmente de 20% la puissance des attaques infligeant un contrecoup.",
+                    "isHidden": true
+                }
             ],
             "height": 10,
             "weight": 1150

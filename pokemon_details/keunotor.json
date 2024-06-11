@@ -19,9 +19,24 @@
             },
             "description": "Rien ne peut perturber ses nerfs d'acier. Il est plus agile et \u00e9nergique qu'il n'y para\u00eet. Il ronge constamment des troncs et des pierres pour se faire les incisives. Il niche le long de l'eau.",
             "abilities": [
-                253,
-                153,
-                162
+                {
+                    "id": 253,
+                    "name": "Simple",
+                    "description": "Double les effets des modifications de statistiques, positives ou n\u00e9gatives.",
+                    "isHidden": false
+                },
+                {
+                    "id": 153,
+                    "name": "Inconscient",
+                    "description": "Ignore les am\u00e9liorations de statistiques du Pok\u00e9mon adverse, \u00e0 l'exception de sa Vitesse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 162,
+                    "name": "L\u00e9vitation",
+                    "description": "Immunise contre les attaques de type Sol.",
+                    "isHidden": true
+                }
             ],
             "height": 5,
             "weight": 200

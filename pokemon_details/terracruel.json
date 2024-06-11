@@ -20,7 +20,12 @@
             },
             "description": "Il enserre sa proie de ses dix tentacules et lui vole ses nutriments, ce qui est douloureux. Les plis au-dessus de ses yeux sont appr\u00e9ci\u00e9s pour leur go\u00fbt.",
             "abilities": [
-                122
+                {
+                    "id": 122,
+                    "name": "Force Fongique",
+                    "description": "Le Pok\u00e9mon agit toujours plus lentement quand il utilise une capacit\u00e9 de statut, mais il ignore les talents adverses.",
+                    "isHidden": false
+                }
             ],
             "height": 19,
             "weight": 580

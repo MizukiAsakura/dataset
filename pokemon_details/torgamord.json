@@ -20,9 +20,24 @@
             },
             "description": "Son cou extensible lui permet d\u2019atteindre des ennemis \u00e9loign\u00e9s en un instant pour leur porter un coup d\u00e9cisif avec ses crocs aiguis\u00e9s.",
             "abilities": [
-                227,
-                66,
-                134
+                {
+                    "id": 227,
+                    "name": "Prognathe",
+                    "description": "Augmente la puissance des attaques \u00e0 base de morsures.",
+                    "isHidden": false
+                },
+                {
+                    "id": 66,
+                    "name": "Coque Armure",
+                    "description": "Annule les chances de coups critiques du Pok\u00e9mon ennemi.",
+                    "isHidden": false
+                },
+                {
+                    "id": 134,
+                    "name": "Glissade",
+                    "description": "Double la vitesse par temps de pluie.",
+                    "isHidden": true
+                }
             ],
             "height": 10,
             "weight": 1155

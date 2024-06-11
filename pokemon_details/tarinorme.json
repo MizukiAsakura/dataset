@@ -20,9 +20,24 @@
             },
             "description": "Il utilise ses trois petites unit\u00e9s pour combattre ses ennemis et capturer ses proies. Le reste de son corps se contente de donner des ordres.",
             "abilities": [
-                117,
-                168,
-                294
+                {
+                    "id": 117,
+                    "name": "Fermet\u00e9",
+                    "description": "Immunise contre les attaques OHKO. \u00c0 partir de la 5e g\u00e9n\u00e9ration, ce talent fait aussi conserver 1 PV au Pok\u00e9mon m\u00eame apr\u00e8s une attaque qui aurait d\u00fb le terrasser, s'il a tous ses PV.",
+                    "isHidden": false
+                },
+                {
+                    "id": 168,
+                    "name": "Magn\u00e9pi\u00e8ge",
+                    "description": "Emp\u00eache la fuite et le changement des Pok\u00e9mon de type Acier.",
+                    "isHidden": false
+                },
+                {
+                    "id": 294,
+                    "name": "Voile Sable",
+                    "description": "Augmente l'esquive de 20% lors d'une temp\u00eate de sable et immunise contre ses d\u00e9g\u00e2ts.",
+                    "isHidden": true
+                }
             ],
             "height": 14,
             "weight": 3400

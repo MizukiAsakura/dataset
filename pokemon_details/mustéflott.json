@@ -19,8 +19,18 @@
             },
             "description": "Il flotte gr\u00e2ce \u00e0 sa bou\u00e9e tr\u00e8s d\u00e9velopp\u00e9e. Il vole au secours des gens sur le point de se noyer. Il a d\u00e9velopp\u00e9 une bou\u00e9e pour poursuivre ses proies aquatiques. Elle fait office de canot gonflable.",
             "abilities": [
-                134,
-                147
+                {
+                    "id": 134,
+                    "name": "Glissade",
+                    "description": "Double la vitesse par temps de pluie.",
+                    "isHidden": false
+                },
+                {
+                    "id": 147,
+                    "name": "Ignifu-Voile",
+                    "description": "Immunise contre la br\u00fblure.",
+                    "isHidden": true
+                }
             ],
             "height": 11,
             "weight": 335

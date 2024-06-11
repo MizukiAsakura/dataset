@@ -20,9 +20,24 @@
             },
             "description": "Gravalanch grandit en se nourrissant de cailloux. Apparemment, il a une pr\u00e9f\u00e9rence pour les cailloux recouverts de mousse. En moyenne, il mange une tonne de rochers par jour.",
             "abilities": [
-                276,
-                117,
-                294
+                {
+                    "id": 276,
+                    "name": "T\u00eate de Roc",
+                    "description": "Le Pok\u00e9mon ne subit pas de d\u00e9g\u00e2ts de contrecoup.",
+                    "isHidden": false
+                },
+                {
+                    "id": 117,
+                    "name": "Fermet\u00e9",
+                    "description": "Immunise contre les attaques OHKO. \u00c0 partir de la 5e g\u00e9n\u00e9ration, ce talent fait aussi conserver 1 PV au Pok\u00e9mon m\u00eame apr\u00e8s une attaque qui aurait d\u00fb le terrasser, s'il a tous ses PV.",
+                    "isHidden": false
+                },
+                {
+                    "id": 294,
+                    "name": "Voile Sable",
+                    "description": "Augmente l'esquive de 20% lors d'une temp\u00eate de sable et immunise contre ses d\u00e9g\u00e2ts.",
+                    "isHidden": true
+                }
             ],
             "height": 10,
             "weight": 1050
@@ -44,9 +59,24 @@
             },
             "description": "Gravalanch grandit en se nourrissant de cailloux. Apparemment, il a une pr\u00e9f\u00e9rence pour les cailloux recouverts de mousse. En moyenne, il mange une tonne de rochers par jour.",
             "abilities": [
-                168,
-                117,
-                203
+                {
+                    "id": 168,
+                    "name": "Magn\u00e9pi\u00e8ge",
+                    "description": "Emp\u00eache la fuite et le changement des Pok\u00e9mon de type Acier.",
+                    "isHidden": false
+                },
+                {
+                    "id": 117,
+                    "name": "Fermet\u00e9",
+                    "description": "Immunise contre les attaques OHKO. \u00c0 partir de la 5e g\u00e9n\u00e9ration, ce talent fait aussi conserver 1 PV au Pok\u00e9mon m\u00eame apr\u00e8s une attaque qui aurait d\u00fb le terrasser, s'il a tous ses PV.",
+                    "isHidden": false
+                },
+                {
+                    "id": 203,
+                    "name": "Peau \u00c9lectrique",
+                    "description": "Transforme les capacit\u00e9s de type Normal en type \u00c9lectrik et augmente leur puissance de 20%.",
+                    "isHidden": true
+                }
             ],
             "height": 10,
             "weight": 1100

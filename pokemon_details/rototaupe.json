@@ -19,9 +19,24 @@
             },
             "description": "Il peut creuser \u00e0 plus de 50 km/h et faire la course avec une voiture roulant sur le terrain qu'il creuse.",
             "abilities": [
-                30,
-                124,
-                46
+                {
+                    "id": 30,
+                    "name": "Baigne Sable",
+                    "description": "Double la Vitesse du Pok\u00e9mon lors d'une temp\u00eate de sable. Immunise contre les d\u00e9g\u00e2ts de la temp\u00eate.",
+                    "isHidden": false
+                },
+                {
+                    "id": 124,
+                    "name": "Force Sable",
+                    "description": "Lors d'une temp\u00eate de sable, la puissance des attaques de type Acier, Roche et Sol augmente de 30 %.",
+                    "isHidden": false
+                },
+                {
+                    "id": 46,
+                    "name": "Brise Moule",
+                    "description": "Peut toucher un Pok\u00e9mon adverse malgr\u00e9 son talent.",
+                    "isHidden": true
+                }
             ],
             "height": 3,
             "weight": 85

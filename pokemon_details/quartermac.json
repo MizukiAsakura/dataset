@@ -19,8 +19,18 @@
             },
             "description": "Il choisit les Baies les plus dures pour s\u2019en servir au combat : un stratag\u00e8me bien rod\u00e9 que les chefs de groupe enseignent \u00e0 leurs alli\u00e9s.",
             "abilities": [
-                238,
-                5
+                {
+                    "id": 238,
+                    "name": "Receveur",
+                    "description": "Obtient le Talent du Pok\u00e9mon alli\u00e9 tomb\u00e9 K.O.",
+                    "isHidden": false
+                },
+                {
+                    "id": 5,
+                    "name": "Acharn\u00e9",
+                    "description": "Monte l'Attaque du Pok\u00e9mon de deux niveaux si l'une de ses statistiques est baiss\u00e9e par l'adversaire.",
+                    "isHidden": true
+                }
             ],
             "height": 20,
             "weight": 828

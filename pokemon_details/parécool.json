@@ -19,7 +19,12 @@
             },
             "description": "PARECOOL se pr\u00e9lasse pendant plus de vingt heures par jour. Il bouge tellement peu qu'il n'a presque pas besoin de manger. Le repas quotidien de ce POK\u00e9MON n'est constitu\u00e9 que de trois feuilles.",
             "abilities": [
-                1
+                {
+                    "id": 1,
+                    "name": "Absent\u00e9isme",
+                    "description": "Le Pok\u00e9mon n'attaque qu'un tour sur deux.",
+                    "isHidden": false
+                }
             ],
             "height": 8,
             "weight": 240

@@ -20,8 +20,18 @@
             },
             "description": "NOSTENFER s'approche discr\u00e8tement de sa proie gr\u00e2ce \u00e0 ses ailes silencieuses. Ce POK\u00e9MON se repose en s'accrochant \u00e0 une branche avec ses pattes arri\u00e8re, qui peuvent aussi lui servir d'ailes.",
             "abilities": [
-                26,
-                154
+                {
+                    "id": 26,
+                    "name": "Attention",
+                    "description": "Immunise contre la peur.",
+                    "isHidden": false
+                },
+                {
+                    "id": 154,
+                    "name": "Infiltration",
+                    "description": "Emp\u00eache les attaques de protection adverses tels que Protection ou Mur Lumi\u00e8re de fonctionner. N'influe pas sur D\u00e9tection et Abri.",
+                    "isHidden": true
+                }
             ],
             "height": 18,
             "weight": 750

@@ -20,9 +20,24 @@
             },
             "description": "Les balafres ne font qu\u2019ajouter \u00e0 sa renomm\u00e9e, mais les blessures dans le dos, synonymes de fuite en combat, sont mal vues par la vol\u00e9e.",
             "abilities": [
-                240,
-                248,
-                5
+                {
+                    "id": 240,
+                    "name": "Regard Vif",
+                    "description": "Emp\u00eache la perte de pr\u00e9cision.",
+                    "isHidden": false
+                },
+                {
+                    "id": 248,
+                    "name": "Sans Limite",
+                    "description": "Augmente de 30% la puissance des attaques pouvant avoir un effet secondaire. L'effet secondaire est annul\u00e9.",
+                    "isHidden": false
+                },
+                {
+                    "id": 5,
+                    "name": "Acharn\u00e9",
+                    "description": "Monte l'Attaque du Pok\u00e9mon de deux niveaux si l'une de ses statistiques est baiss\u00e9e par l'adversaire.",
+                    "isHidden": true
+                }
             ],
             "height": 15,
             "weight": 410
@@ -44,9 +59,24 @@
             },
             "description": "Les balafres ne font qu\u2019ajouter \u00e0 sa renomm\u00e9e, mais les blessures dans le dos, synonymes de fuite en combat, sont mal vues par la vol\u00e9e.",
             "abilities": [
-                240,
-                248,
-                161
+                {
+                    "id": 240,
+                    "name": "Regard Vif",
+                    "description": "Emp\u00eache la perte de pr\u00e9cision.",
+                    "isHidden": false
+                },
+                {
+                    "id": 248,
+                    "name": "Sans Limite",
+                    "description": "Augmente de 30% la puissance des attaques pouvant avoir un effet secondaire. L'effet secondaire est annul\u00e9.",
+                    "isHidden": false
+                },
+                {
+                    "id": 161,
+                    "name": "Lentiteint\u00e9e",
+                    "description": "Double les d\u00e9g\u00e2ts des attaques peu efficaces port\u00e9es au Pok\u00e9mon adverse.",
+                    "isHidden": true
+                }
             ],
             "height": 17,
             "weight": 434

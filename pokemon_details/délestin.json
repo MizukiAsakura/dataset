@@ -20,8 +20,18 @@
             },
             "description": "Pass\u00e9 ma\u00eetre dans l'art de la r\u00e9g\u00e9n\u00e9ration, ce Pok\u00e9mon se d\u00e9barrasse de sa chair en trop pour gagner en agilit\u00e9, puis il fond sur ses proies.",
             "abilities": [
-                46,
-                152
+                {
+                    "id": 46,
+                    "name": "Brise Moule",
+                    "description": "Peut toucher un Pok\u00e9mon adverse malgr\u00e9 son talent.",
+                    "isHidden": false
+                },
+                {
+                    "id": 152,
+                    "name": "Incisif",
+                    "description": "Augmente la puissance des capacit\u00e9s tranchantes.",
+                    "isHidden": true
+                }
             ],
             "height": 25,
             "weight": 900

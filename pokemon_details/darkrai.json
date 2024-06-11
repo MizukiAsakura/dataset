@@ -19,7 +19,12 @@
             },
             "description": "Ce Pok\u00e9mon a le pouvoir de plonger les gens dans un profond sommeil pour les forcer \u00e0 r\u00eaver. Il est actif les nuits de nouvelle lune.",
             "abilities": [
-                172
+                {
+                    "id": 172,
+                    "name": "Mauvais R\u00eave",
+                    "description": "Fait perdre 1/8e de ses PV au Pok\u00e9mon adverse s'il est endormi.",
+                    "isHidden": false
+                }
             ],
             "height": 15,
             "weight": 505

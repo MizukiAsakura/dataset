@@ -19,8 +19,18 @@
             },
             "description": "Il lib\u00e8re de l\u2019\u00e9lectricit\u00e9 depuis la pointe de ses \u00e9pines, et se nourrit des algues accroch\u00e9es aux rochers en les arrachant avec ses dents aiguis\u00e9es.",
             "abilities": [
-                199,
-                79
+                {
+                    "id": 199,
+                    "name": "Paratonnerre",
+                    "description": "Attire toutes les attaques de type \u00c9lectrik. \u00c0 partir de la 5e g\u00e9n\u00e9ration, ce talent augmente aussi l'Attaque Sp\u00e9ciale du Pok\u00e9mon recevant l'attaque.",
+                    "isHidden": false
+                },
+                {
+                    "id": 79,
+                    "name": "Cr\u00e9a-\u00c9lec",
+                    "description": "Pose un Champ \u00c9lectrifi\u00e9 qui augmente la puissance des attaques \u00c9lectrik et emp\u00eache le sommeil.",
+                    "isHidden": true
+                }
             ],
             "height": 3,
             "weight": 10

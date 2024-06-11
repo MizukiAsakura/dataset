@@ -20,7 +20,12 @@
             },
             "description": "Personne ne sait si cette Ultra-Chim\u00e8re venue d\u2019un autre monde montre ses muscles pour \u00eatre admir\u00e9e ou pour intimider ceux qu\u2019elle rencontre.",
             "abilities": [
-                41
+                {
+                    "id": 41,
+                    "name": "Boost Chim\u00e8re",
+                    "description": "Augmente la stat la plus \u00e9lev\u00e9e du Pok\u00e9mon quand il met K.O. un autre Pok\u00e9mon.",
+                    "isHidden": false
+                }
             ],
             "height": 24,
             "weight": 3336

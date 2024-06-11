@@ -19,9 +19,24 @@
             },
             "description": "Il est enti\u00e8rement d\u00e9vou\u00e9 aux ordres de son ma\u00eetre. En revanche, il n\u2019ob\u00e9ira jamais \u00e0 quelqu\u2019un qu\u2019il consid\u00e8re comme inf\u00e9rieur \u00e0 lui.",
             "abilities": [
-                156,
-                30,
-                232
+                {
+                    "id": 156,
+                    "name": "Intimidation",
+                    "description": "Diminue d'un niveau l'attaque du Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 30,
+                    "name": "Baigne Sable",
+                    "description": "Double la Vitesse du Pok\u00e9mon lors d'une temp\u00eate de sable. Immunise contre les d\u00e9g\u00e2ts de la temp\u00eate.",
+                    "isHidden": false
+                },
+                {
+                    "id": 232,
+                    "name": "Querelleur",
+                    "description": "Permet de toucher les Pok\u00e9mon de type Spectre avec des attaques de type Normal ou Combat.",
+                    "isHidden": true
+                }
             ],
             "height": 9,
             "weight": 147

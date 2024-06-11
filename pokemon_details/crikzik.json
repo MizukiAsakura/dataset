@@ -19,8 +19,18 @@
             },
             "description": "Quand il bascule sa t\u00eate d'avant en arri\u00e8re, ses antennes se heurtent dans un son de xylophone. Il communique au son de ses antennes qui s'entrechoquent. Ce son marque l'arriv\u00e9e de l'automne.",
             "abilities": [
-                186,
-                128
+                {
+                    "id": 186,
+                    "name": "Mue",
+                    "description": "\u00c0 chaque tour, le Pok\u00e9mon a 33% de chance d'\u00eatre soign\u00e9 d'une alt\u00e9ration d'\u00e9tat.",
+                    "isHidden": false
+                },
+                {
+                    "id": 128,
+                    "name": "Fuite",
+                    "description": "Assure la fuite contre les Pok\u00e9mon sauvages.",
+                    "isHidden": true
+                }
             ],
             "height": 3,
             "weight": 22

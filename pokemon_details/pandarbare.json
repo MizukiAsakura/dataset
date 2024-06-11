@@ -20,9 +20,24 @@
             },
             "description": "Il encaisse les attaques de plein fouet sans m\u00eame tiquer et il poursuit sa route. Il \u00e9tale ses ennemis d\u2019un coup de patte capable de briser un poteau \u00e9lectrique.",
             "abilities": [
-                45,
-                215,
-                232
+                {
+                    "id": 45,
+                    "name": "Breuvage Suspect",
+                    "description": "Quand il entre au combat, tous les changements de stats de ses alli\u00e9s sont annul\u00e9s.",
+                    "isHidden": false
+                },
+                {
+                    "id": 215,
+                    "name": "Poing de Fer",
+                    "description": "Augmente de 20% la puissance des attaques de \"Poing\".",
+                    "isHidden": false
+                },
+                {
+                    "id": 232,
+                    "name": "Querelleur",
+                    "description": "Permet de toucher les Pok\u00e9mon de type Spectre avec des attaques de type Normal ou Combat.",
+                    "isHidden": true
+                }
             ],
             "height": 21,
             "weight": 1360

@@ -19,8 +19,18 @@
             },
             "description": "MENTALI est extr\u00eamement loyal envers les DRESSEURS qu'il respecte. On raconte que ce POK\u00e9MON a d\u00e9velopp\u00e9 des talents divinatoires pour prot\u00e9ger son DRESSEUR.",
             "abilities": [
-                265,
-                180
+                {
+                    "id": 265,
+                    "name": "Synchro",
+                    "description": "Toute alt\u00e9ration d'\u00e9tat subie est transmise au Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 180,
+                    "name": "Miroir Magik",
+                    "description": "Retourne les attaques de statut contre l'adversaire.",
+                    "isHidden": true
+                }
             ],
             "height": 9,
             "weight": 265

@@ -19,8 +19,18 @@
             },
             "description": "POUSSIFEU ne l\u00e2che pas son DRESSEUR d'une semelle, marchant maladroitement derri\u00e8re lui. Ce POK\u00e9MON crache des flammes pouvant atteindre 1 000 degr\u00e9s et des boules de feu qui carbonisent l'ennemi.",
             "abilities": [
-                44,
-                287
+                {
+                    "id": 44,
+                    "name": "Brasier",
+                    "description": "Augmente la puissance des attaques de type Feu de 50% lorsque le Pok\u00e9mon a moins d'1/3 de ses PV totaux.",
+                    "isHidden": false
+                },
+                {
+                    "id": 287,
+                    "name": "Turbo",
+                    "description": "La vitesse du Pok\u00e9mon augmente \u00e0 chaque tour.",
+                    "isHidden": true
+                }
             ],
             "height": 4,
             "weight": 25

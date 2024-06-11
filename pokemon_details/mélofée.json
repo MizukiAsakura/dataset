@@ -19,9 +19,24 @@
             },
             "description": "Les nuits de pleine lune, des groupes de ces Pok\u00e9mon sortent jouer. Lorsque l'aube commence \u00e0 poindre, les M\u00e9lof\u00e9e fatigu\u00e9s rentrent dans leur retraite montagneuse et vont dormir, blottis les uns contre les autres.",
             "abilities": [
-                158,
-                130,
-                129
+                {
+                    "id": 158,
+                    "name": "Joli Sourire",
+                    "description": "A 30% de chance de provoquer l'attirance du Pok\u00e9mon adverse ayant attaqu\u00e9.",
+                    "isHidden": false
+                },
+                {
+                    "id": 130,
+                    "name": "Garde Magik",
+                    "description": "Le Pok\u00e9mon ne subit de d\u00e9g\u00e2ts que lors d'attaques directes.",
+                    "isHidden": false
+                },
+                {
+                    "id": 129,
+                    "name": "Garde Amie",
+                    "description": "R\u00e9duire de 25% les d\u00e9g\u00e2ts inflig\u00e9s aux alli\u00e9s en Combat Double ou triple.",
+                    "isHidden": true
+                }
             ],
             "height": 6,
             "weight": 75

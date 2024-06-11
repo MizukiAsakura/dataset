@@ -20,9 +20,24 @@
             },
             "description": "Pour se prot\u00e9ger, il remonte sa peau pliss\u00e9e jusqu\u2019\u00e0 son cou. Plus la peau est longue, plus Baggiguane inspirera de respect.",
             "abilities": [
-                186,
-                151,
-                156
+                {
+                    "id": 186,
+                    "name": "Mue",
+                    "description": "\u00c0 chaque tour, le Pok\u00e9mon a 33% de chance d'\u00eatre soign\u00e9 d'une alt\u00e9ration d'\u00e9tat.",
+                    "isHidden": false
+                },
+                {
+                    "id": 151,
+                    "name": "Impudence",
+                    "description": "Monte l'attaque du Pok\u00e9mon d'un niveau lorsqu'il met un adversaire K.O.",
+                    "isHidden": false
+                },
+                {
+                    "id": 156,
+                    "name": "Intimidation",
+                    "description": "Diminue d'un niveau l'attaque du Pok\u00e9mon adverse.",
+                    "isHidden": true
+                }
             ],
             "height": 6,
             "weight": 118

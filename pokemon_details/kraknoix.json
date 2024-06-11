@@ -19,9 +19,24 @@
             },
             "description": "Le nid de KRAKNOIX consiste en un trou en pente creus\u00e9 dans le sable, comme une cuvette. Ce POK\u00e9MON attend patiemment que sa proie tombe dedans. Ses gigantesques m\u00e2choires sont assez puissantes pour croquer des rochers.",
             "abilities": [
-                144,
-                295,
-                248
+                {
+                    "id": 144,
+                    "name": "Hyper Cutter",
+                    "description": "Emp\u00eache la diminution d'attaque du Pok\u00e9mon.",
+                    "isHidden": false
+                },
+                {
+                    "id": 295,
+                    "name": "Pi\u00e8ge Sable",
+                    "description": "Emp\u00eache la fuite des Pok\u00e9mon sauvage et le changement du Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 248,
+                    "name": "Sans Limite",
+                    "description": "Augmente de 30% la puissance des attaques pouvant avoir un effet secondaire. L'effet secondaire est annul\u00e9.",
+                    "isHidden": true
+                }
             ],
             "height": 7,
             "weight": 150

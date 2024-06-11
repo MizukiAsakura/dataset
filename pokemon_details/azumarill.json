@@ -20,9 +20,24 @@
             },
             "description": "Les longues oreilles d'AZUMARILL sont des capteurs indispensables. Lorsqu'il se concentre pour \u00e9couter, ce POK\u00e9MON peut identifier les proies aux alentours, m\u00eame dans les cours d'eau \u00e0 fort courant ou les rapides.",
             "abilities": [
-                157,
-                63,
-                141
+                {
+                    "id": 157,
+                    "name": "Isograisse",
+                    "description": "Les d\u00e9g\u00e2ts provoqu\u00e9s par les attaques des types Feu ou Glace sont divis\u00e9s par 2.",
+                    "isHidden": false
+                },
+                {
+                    "id": 63,
+                    "name": "Coloforce",
+                    "description": "Double l'attaque du Pok\u00e9mon.",
+                    "isHidden": false
+                },
+                {
+                    "id": 141,
+                    "name": "Herbivore",
+                    "description": "Si le Pok\u00e9mon est touch\u00e9 par une attaque de type Plante, son attaque augmente d'un niveau.",
+                    "isHidden": true
+                }
             ],
             "height": 8,
             "weight": 285

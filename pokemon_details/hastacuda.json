@@ -19,8 +19,18 @@
             },
             "description": "Il charge d\u2019un coup en faisant tourner sa nageoire caudale. Il peut transpercer ses proies \u00e0 une vitesse d\u00e9passant les 100 n\u0153uds.",
             "abilities": [
-                134,
-                228
+                {
+                    "id": 134,
+                    "name": "Glissade",
+                    "description": "Double la vitesse par temps de pluie.",
+                    "isHidden": false
+                },
+                {
+                    "id": 228,
+                    "name": "Propulseur",
+                    "description": "Permet d'ignorer l'effet des capacit\u00e9s ou des talents qui attirent les capacit\u00e9s.",
+                    "isHidden": true
+                }
             ],
             "height": 13,
             "weight": 300

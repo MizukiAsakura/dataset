@@ -19,8 +19,18 @@
             },
             "description": "L\u2019antenne sur sa t\u00eate capte les ondes \u00e9mises par les esprits. Ceux-ci lui ordonnent d\u2019emmener les \u00eatres humains dans l\u2019au-del\u00e0, et il s\u2019ex\u00e9cute.",
             "abilities": [
-                223,
-                126
+                {
+                    "id": 223,
+                    "name": "Pression",
+                    "description": "Double l'utilisation de PP des attaques offensives du Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 126,
+                    "name": "Fouille",
+                    "description": "Permet de connaitre l'objet tenu d'un Pok\u00e9mon adverse.",
+                    "isHidden": true
+                }
             ],
             "height": 22,
             "weight": 1066

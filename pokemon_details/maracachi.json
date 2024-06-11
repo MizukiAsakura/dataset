@@ -20,9 +20,24 @@
             },
             "description": "Il produit un bruit de maracas. Quand il danse \u00e0 un rythme enjou\u00e9, il surprend les Pok\u00e9mon oiseaux, qui s\u2019enfuient alors \u00e0 tire-d\u2019aile.",
             "abilities": [
-                2,
-                56,
-                160
+                {
+                    "id": 2,
+                    "name": "Absorb Eau",
+                    "description": "Les attaques de type Eau re\u00e7ues par le Pok\u00e9mon r\u00e9g\u00e9n\u00e8rent 1/4 de ses PV.",
+                    "isHidden": false
+                },
+                {
+                    "id": 56,
+                    "name": "Chlorophylle",
+                    "description": "Augmente la vitesse au soleil.",
+                    "isHidden": false
+                },
+                {
+                    "id": 160,
+                    "name": "Lavabo",
+                    "description": "Attire toutes les attaques de type Eau. \u00c0 partir de la 5e g\u00e9n\u00e9ration, ce talent augmente aussi l'Attaque Sp\u00e9ciale du Pok\u00e9mon recevant l'attaque.",
+                    "isHidden": true
+                }
             ],
             "height": 10,
             "weight": 280

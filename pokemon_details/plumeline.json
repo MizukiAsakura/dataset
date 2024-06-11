@@ -20,7 +20,12 @@
             },
             "description": "Il envo\u00fbte ses ennemis avec une danse fougueuse, et profite de leur inattention pour les noyer sous un torrent de flammes.",
             "abilities": [
-                84
+                {
+                    "id": 84,
+                    "name": "Danseuse",
+                    "description": "Le Pok\u00e9mon reproduit les capacit\u00e9s de danse de l'adversaire.",
+                    "isHidden": false
+                }
             ],
             "height": 6,
             "weight": 34
@@ -42,7 +47,12 @@
             },
             "description": "Il envo\u00fbte ses ennemis avec une danse fougueuse, et profite de leur inattention pour les noyer sous un torrent de flammes.",
             "abilities": [
-                84
+                {
+                    "id": 84,
+                    "name": "Danseuse",
+                    "description": "Le Pok\u00e9mon reproduit les capacit\u00e9s de danse de l'adversaire.",
+                    "isHidden": false
+                }
             ],
             "height": 6,
             "weight": 34
@@ -64,7 +74,12 @@
             },
             "description": "Il envo\u00fbte ses ennemis avec une danse fougueuse, et profite de leur inattention pour les noyer sous un torrent de flammes.",
             "abilities": [
-                84
+                {
+                    "id": 84,
+                    "name": "Danseuse",
+                    "description": "Le Pok\u00e9mon reproduit les capacit\u00e9s de danse de l'adversaire.",
+                    "isHidden": false
+                }
             ],
             "height": 6,
             "weight": 34
@@ -86,7 +101,12 @@
             },
             "description": "Il envo\u00fbte ses ennemis avec une danse fougueuse, et profite de leur inattention pour les noyer sous un torrent de flammes.",
             "abilities": [
-                84
+                {
+                    "id": 84,
+                    "name": "Danseuse",
+                    "description": "Le Pok\u00e9mon reproduit les capacit\u00e9s de danse de l'adversaire.",
+                    "isHidden": false
+                }
             ],
             "height": 6,
             "weight": 34

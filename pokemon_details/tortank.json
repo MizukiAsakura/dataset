@@ -19,8 +19,18 @@
             },
             "description": "Tortank dispose de canons \u00e0 eau \u00e9mergeant de sa carapace. Ils sont tr\u00e8s pr\u00e9cis et peuvent envoyer des balles d'eau capables de faire mouche sur une cible situ\u00e9e \u00e0 plus de 50 m.",
             "abilities": [
-                282,
-                83
+                {
+                    "id": 282,
+                    "name": "Torrent",
+                    "description": "Augmente la puissance des attaques de type Eau de 50% lorsque le Pok\u00e9mon a moins d'1/3 de ses PV totaux.",
+                    "isHidden": false
+                },
+                {
+                    "id": 83,
+                    "name": "Cuvette",
+                    "description": "R\u00e9g\u00e9n\u00e8re 1/16e des PV par temps de pluie.",
+                    "isHidden": true
+                }
             ],
             "height": 16,
             "weight": 855

@@ -20,9 +20,24 @@
             },
             "description": "Il vit en compagnie de Fantyrm qui logent dans les trous de ses cornes. Quand il passe \u00e0 l\u2019attaque, il les propulse \u00e0 la vitesse du son.",
             "abilities": [
-                73,
-                154,
-                72
+                {
+                    "id": 73,
+                    "name": "Corps Sain",
+                    "description": "Emp\u00eache la diminution de statistiques par le Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 154,
+                    "name": "Infiltration",
+                    "description": "Emp\u00eache les attaques de protection adverses tels que Protection ou Mur Lumi\u00e8re de fonctionner. N'influe pas sur D\u00e9tection et Abri.",
+                    "isHidden": false
+                },
+                {
+                    "id": 72,
+                    "name": "Corps Maudit",
+                    "description": "Toute attaque port\u00e9e par l'adversaire a 30% de chance de s'entraver.",
+                    "isHidden": true
+                }
             ],
             "height": 30,
             "weight": 500

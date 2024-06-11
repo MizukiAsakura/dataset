@@ -20,7 +20,12 @@
             },
             "description": "Il ne recule devant rien pour gagner. Il profite de l\u2019inattention de son adversaire pour lui administrer un coup d\u00e9cisif de ses petites griffes ant\u00e9rieures.",
             "abilities": [
-                242
+                {
+                    "id": 242,
+                    "name": "Repli Tactique",
+                    "description": "Fuit le combat ou \u00e9change sa place avec un autre Pok\u00e9mon de l'\u00e9quipe si le Pok\u00e9mon perd plus de la moiti\u00e9 de ses PV.",
+                    "isHidden": false
+                }
             ],
             "height": 20,
             "weight": 1080

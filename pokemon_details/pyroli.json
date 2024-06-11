@@ -19,8 +19,18 @@
             },
             "description": "La fourrure soyeuse de Pyroli a une fonction anatomique. Elle rejette la chaleur dans l'air pour que son corps ne surchauffe pas. La temp\u00e9rature du corps de ce Pok\u00e9mon peut atteindre 900\u00b0C.",
             "abilities": [
-                281,
-                77
+                {
+                    "id": 281,
+                    "name": "Torche",
+                    "description": "Annule les d\u00e9g\u00e2ts des attaques de type Feu subies et augmente de 50% la puissance des attaques de type Feu lanc\u00e9es.",
+                    "isHidden": false
+                },
+                {
+                    "id": 77,
+                    "name": "Cran",
+                    "description": "Augmente de 50% l'attaque du Pok\u00e9mon s'il subit un changement de statut.",
+                    "isHidden": true
+                }
             ],
             "height": 9,
             "weight": 250

@@ -20,8 +20,18 @@
             },
             "description": "Le puissant blindage d'ARMALDO peut repousser toute attaque. Les \u00e9normes pinces de ce POK\u00e9MON peuvent s'allonger ou se r\u00e9tracter. Elles peuvent transpercer une plaque d'acier.",
             "abilities": [
-                21,
-                134
+                {
+                    "id": 21,
+                    "name": "Armurbaston",
+                    "description": "Annule les chances de coups critiques du Pok\u00e9mon ennemi.",
+                    "isHidden": false
+                },
+                {
+                    "id": 134,
+                    "name": "Glissade",
+                    "description": "Double la vitesse par temps de pluie.",
+                    "isHidden": true
+                }
             ],
             "height": 15,
             "weight": 682

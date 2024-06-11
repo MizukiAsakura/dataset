@@ -20,7 +20,12 @@
             },
             "description": "Il ressemble \u00e0 l'athl\u00e8te transform\u00e9 en cyborg dont l'histoire avait \u00e9t\u00e9 r\u00e9v\u00e9l\u00e9e en exclusivit\u00e9 dans une revue sur les ph\u00e9nom\u00e8nes paranormaux.",
             "abilities": [
-                52
+                {
+                    "id": 52,
+                    "name": "Charge Quantique",
+                    "description": "Quand un Champ \u00c9lectrifi\u00e9 est actif ou que le Pok\u00e9mon tient une capsule d\u2019\u00c9nergie Booster, sa statistique la plus \u00e9lev\u00e9e augmente.",
+                    "isHidden": false
+                }
             ],
             "height": 18,
             "weight": 3807

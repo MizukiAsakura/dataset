@@ -20,7 +20,12 @@
             },
             "description": "Il ressemble vaguement \u00e0 un Pok\u00e9mon mi-dinosaure mi-champignon \u00e9voqu\u00e9 dans une revue douteuse.",
             "abilities": [
-                198
+                {
+                    "id": 198,
+                    "name": "Pal\u00e9osynth\u00e8se",
+                    "description": "Quand le soleil brille ou que le Pok\u00e9mon tient une capsule d\u2019\u00c9nergie Booster, sa statistique la plus \u00e9lev\u00e9e augmente.",
+                    "isHidden": false
+                }
             ],
             "height": 12,
             "weight": 210

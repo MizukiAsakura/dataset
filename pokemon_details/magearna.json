@@ -20,7 +20,12 @@
             },
             "description": "Ce Pok\u00e9mon a \u00e9t\u00e9 cr\u00e9\u00e9 de toutes pi\u00e8ces il y a 500 ans. Il comprend ce qu\u2019on lui dit, mais il n\u2019est pas dou\u00e9 de parole.",
             "abilities": [
-                15
+                {
+                    "id": 15,
+                    "name": "Animac\u0153ur",
+                    "description": "Augmente l'Attaque Sp\u00e9ciale lorsqu'un Pok\u00e9mon est mis hors combat.",
+                    "isHidden": false
+                }
             ],
             "height": 10,
             "weight": 805

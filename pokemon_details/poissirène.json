@@ -19,9 +19,24 @@
             },
             "description": "Poissir\u00e8ne est un Pok\u00e9mon magnifique dot\u00e9 de nageoires qui ondulent \u00e9l\u00e9gamment dans les profondeurs. Il ne faut pourtant pas baisser sa garde face \u00e0 ce Pok\u00e9mon, car il peut charger avec sa puissante corne.",
             "abilities": [
-                134,
-                147,
-                199
+                {
+                    "id": 134,
+                    "name": "Glissade",
+                    "description": "Double la vitesse par temps de pluie.",
+                    "isHidden": false
+                },
+                {
+                    "id": 147,
+                    "name": "Ignifu-Voile",
+                    "description": "Immunise contre la br\u00fblure.",
+                    "isHidden": false
+                },
+                {
+                    "id": 199,
+                    "name": "Paratonnerre",
+                    "description": "Attire toutes les attaques de type \u00c9lectrik. \u00c0 partir de la 5e g\u00e9n\u00e9ration, ce talent augmente aussi l'Attaque Sp\u00e9ciale du Pok\u00e9mon recevant l'attaque.",
+                    "isHidden": true
+                }
             ],
             "height": 6,
             "weight": 150

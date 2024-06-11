@@ -20,9 +20,24 @@
             },
             "description": "Gare au sceau de sa poitrine ! S\u2019il est bris\u00e9, Golemastoc perd le contr\u00f4le et charge avec fureur. Il peut alors raser une ville enti\u00e8re.",
             "abilities": [
-                215,
-                169,
-                16
+                {
+                    "id": 215,
+                    "name": "Poing de Fer",
+                    "description": "Augmente de 20% la puissance des attaques de \"Poing\".",
+                    "isHidden": false
+                },
+                {
+                    "id": 169,
+                    "name": "Maladresse",
+                    "description": "Emp\u00eache l'utilisation et/ou ignore l'effet des objets tenus en combat.",
+                    "isHidden": false
+                },
+                {
+                    "id": 16,
+                    "name": "Annule Garde",
+                    "description": "Toutes les attaques du Pok\u00e9mon et de son adversaire ont une pr\u00e9cision de 100%.",
+                    "isHidden": true
+                }
             ],
             "height": 28,
             "weight": 3300

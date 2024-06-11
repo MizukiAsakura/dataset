@@ -20,9 +20,24 @@
             },
             "description": "Il r\u00e9pand des spores luminescentes autour de lui. Malgr\u00e9 le danger qu\u2019il repr\u00e9sente, les balades nocturnes dans les bois o\u00f9 il vit sont populaires.",
             "abilities": [
-                165,
-                220,
-                83
+                {
+                    "id": 165,
+                    "name": "Lumiattirance",
+                    "description": "Aucun effet en combat",
+                    "isHidden": false
+                },
+                {
+                    "id": 220,
+                    "name": "Pose Spore",
+                    "description": "30% de chance de provoquer l'empoisonnement, le sommeil ou la paralysie du Pok\u00e9mon adverse ayant lanc\u00e9 une attaque de contact.",
+                    "isHidden": false
+                },
+                {
+                    "id": 83,
+                    "name": "Cuvette",
+                    "description": "R\u00e9g\u00e9n\u00e8re 1/16e des PV par temps de pluie.",
+                    "isHidden": true
+                }
             ],
             "height": 2,
             "weight": 15

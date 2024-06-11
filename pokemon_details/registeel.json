@@ -19,8 +19,18 @@
             },
             "description": "Le corps de REGISTEEL est plus dur que n'importe quel m\u00e9tal existant. Il est apparemment creux. Personne ne sait ce que ce POK\u00e9MON mange.",
             "abilities": [
-                73,
-                163
+                {
+                    "id": 73,
+                    "name": "Corps Sain",
+                    "description": "Emp\u00eache la diminution de statistiques par le Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 163,
+                    "name": "Light Metal",
+                    "description": "Divise par deux la masse du Pok\u00e9mon.",
+                    "isHidden": true
+                }
             ],
             "height": 19,
             "weight": 2050

@@ -20,9 +20,24 @@
             },
             "description": "Il affaiblit ses proies en \u00e9mettant des ondes si fortes qu\u2019elles leur donnent la migraine. Ensuite, il les saisit avec sa langue gluante.",
             "abilities": [
-                134,
-                143,
-                2
+                {
+                    "id": 134,
+                    "name": "Glissade",
+                    "description": "Double la vitesse par temps de pluie.",
+                    "isHidden": false
+                },
+                {
+                    "id": 143,
+                    "name": "Hydratation",
+                    "description": "Soigne les alt\u00e9rations d'\u00e9tat par temps de pluie.",
+                    "isHidden": false
+                },
+                {
+                    "id": 2,
+                    "name": "Absorb Eau",
+                    "description": "Les attaques de type Eau re\u00e7ues par le Pok\u00e9mon r\u00e9g\u00e9n\u00e8rent 1/4 de ses PV.",
+                    "isHidden": true
+                }
             ],
             "height": 8,
             "weight": 170

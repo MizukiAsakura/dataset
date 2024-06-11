@@ -20,9 +20,24 @@
             },
             "description": "Il produit du charbon dans son corps. Jadis, les habitants de Galar ramassaient ce charbon au sol et s\u2019en servaient pour leurs besoins quotidiens.",
             "abilities": [
-                285,
-                67,
-                281
+                {
+                    "id": 285,
+                    "name": "Turbine",
+                    "description": "La Vitesse du Pok\u00e9mon augmente de 6 niveaux s'il est touch\u00e9 par une capacit\u00e9 de type Feu ou Eau en combat.",
+                    "isHidden": false
+                },
+                {
+                    "id": 67,
+                    "name": "Corps Ardent",
+                    "description": "30% de chance de provoquer une br\u00fblure sur le Pok\u00e9mon adverse ayant attaqu\u00e9.",
+                    "isHidden": false
+                },
+                {
+                    "id": 281,
+                    "name": "Torche",
+                    "description": "Annule les d\u00e9g\u00e2ts des attaques de type Feu subies et augmente de 50% la puissance des attaques de type Feu lanc\u00e9es.",
+                    "isHidden": true
+                }
             ],
             "height": 11,
             "weight": 780

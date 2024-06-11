@@ -20,8 +20,18 @@
             },
             "description": "Curieusement, cette esp\u00e8ce ne compte que des femelles. Ces derni\u00e8res aiment s\u2019entourer de nombreux admirateurs Tritox m\u00e2les.",
             "abilities": [
-                74,
-                35
+                {
+                    "id": 74,
+                    "name": "Corrosion",
+                    "description": "Permet d'empoisonner n'importe quel Pok\u00e9mon quel que soit son type.",
+                    "isHidden": false
+                },
+                {
+                    "id": 35,
+                    "name": "Ben\u00eat",
+                    "description": "Immunise contre l'attraction. \u00c0 partir de la 6e g\u00e9n\u00e9ration, ce talent immunise aussi contre la provocation.",
+                    "isHidden": true
+                }
             ],
             "height": 12,
             "weight": 222

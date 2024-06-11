@@ -19,9 +19,24 @@
             },
             "description": "L'extr\u00e9mit\u00e9 de la queue de CAPUMAIN ressemble \u00e0 une main et peut \u00eatre utilis\u00e9e de fa\u00e7on ing\u00e9nieuse. Malheureusement, ce POK\u00e9MON utilise tellement sa queue que ses v\u00e9ritables mains sont devenues tr\u00e8s maladroites.",
             "abilities": [
-                128,
-                235,
-                187
+                {
+                    "id": 128,
+                    "name": "Fuite",
+                    "description": "Assure la fuite contre les Pok\u00e9mon sauvages.",
+                    "isHidden": false
+                },
+                {
+                    "id": 235,
+                    "name": "Ramassage",
+                    "description": "Donne une chance au Pok\u00e9mon de ramasser un objet apr\u00e8s un combat.",
+                    "isHidden": false
+                },
+                {
+                    "id": 187,
+                    "name": "Multi-Coups",
+                    "description": "Utilise toujours le nombre de coups maximum d'une attaque.",
+                    "isHidden": true
+                }
             ],
             "height": 8,
             "weight": 115

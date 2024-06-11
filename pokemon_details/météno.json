@@ -20,7 +20,12 @@
             },
             "description": "Il vit dans la couche d\u2019ozone, o\u00f9 des Pok\u00e9mon plus forts que lui cherchent \u00e0 le manger. Il tombe \u00e0 terre lorsqu\u2019il tente de s\u2019enfuir.",
             "abilities": [
-                42
+                {
+                    "id": 42,
+                    "name": "Bouclier-Carcan",
+                    "description": "Conf\u00e8re une bonne d\u00e9fense et prot\u00e8ge des alt\u00e9rations de statuts tant que les PV sont au-dessus de la moiti\u00e9.",
+                    "isHidden": false
+                }
             ],
             "height": 3,
             "weight": 400
@@ -42,7 +47,12 @@
             },
             "description": "Il vit dans la couche d\u2019ozone, o\u00f9 des Pok\u00e9mon plus forts que lui cherchent \u00e0 le manger. Il tombe \u00e0 terre lorsqu\u2019il tente de s\u2019enfuir.",
             "abilities": [
-                42
+                {
+                    "id": 42,
+                    "name": "Bouclier-Carcan",
+                    "description": "Conf\u00e8re une bonne d\u00e9fense et prot\u00e8ge des alt\u00e9rations de statuts tant que les PV sont au-dessus de la moiti\u00e9.",
+                    "isHidden": false
+                }
             ],
             "height": 3,
             "weight": 3

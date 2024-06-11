@@ -20,9 +20,24 @@
             },
             "description": "N\u2019\u00e9tant pas tr\u00e8s bon chasseur, il se nourrit de la charogne qu\u2019il trouve dans les dunes, ce qui lui vaut son surnom de \u00ab nettoyeur du d\u00e9sert \u00bb.",
             "abilities": [
-                156,
-                151,
-                61
+                {
+                    "id": 156,
+                    "name": "Intimidation",
+                    "description": "Diminue d'un niveau l'attaque du Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 151,
+                    "name": "Impudence",
+                    "description": "Monte l'attaque du Pok\u00e9mon d'un niveau lorsqu'il met un adversaire K.O.",
+                    "isHidden": false
+                },
+                {
+                    "id": 61,
+                    "name": "Col\u00e9rique",
+                    "description": "L'attaque du Pok\u00e9mon est fortement augment\u00e9e lorsqu'il subit un coup critique.",
+                    "isHidden": true
+                }
             ],
             "height": 7,
             "weight": 152

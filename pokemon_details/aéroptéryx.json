@@ -20,7 +20,12 @@
             },
             "description": "Bien qu\u2019ayant enfin acquis la capacit\u00e9 de voler, ce Pok\u00e9mon pr\u00e9f\u00e9rait bien souvent courir sur le sol, \u00e0 une vitesse moyenne de 40 km/h.",
             "abilities": [
-                88
+                {
+                    "id": 88,
+                    "name": "D\u00e9faitiste",
+                    "description": "Divise par deux l'attaque et l'attaque sp\u00e9ciale du Pok\u00e9mon s'il a moins de la moiti\u00e9 de ses PV totaux.",
+                    "isHidden": false
+                }
             ],
             "height": 14,
             "weight": 320

@@ -20,7 +20,12 @@
             },
             "description": "Il s'agirait d'\u00ab\u00a0Ailes-Royales\u00a0\u00bb, une cr\u00e9ature qui, d'apr\u00e8s un vieux r\u00e9cit d'exploration, aurait fendu la terre par la force de ses poings.",
             "abilities": [
-                221
+                {
+                    "id": 221,
+                    "name": "Pouls Orichalque",
+                    "description": "Le Pok\u00e9mon invoque le soleil quand il rejoint le combat. Quand les rayons du soleil sont intenses, une pulsation primitive augmente son Attaque.",
+                    "isHidden": false
+                }
             ],
             "height": 25,
             "weight": 3030

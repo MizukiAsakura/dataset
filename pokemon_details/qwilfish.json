@@ -20,9 +20,24 @@
             },
             "description": "QWILFISH se gonfle en aspirant de l'eau. Ce POK\u00e9MON utilise la pression de l'eau aval\u00e9e pour envoyer d'un coup les pointes toxiques de son corps. Nager lui demande un gros effort.",
             "abilities": [
-                134,
-                217,
-                156
+                {
+                    "id": 134,
+                    "name": "Glissade",
+                    "description": "Double la vitesse par temps de pluie.",
+                    "isHidden": false
+                },
+                {
+                    "id": 217,
+                    "name": "Point Poison",
+                    "description": "30% de chance de provoquer l'empoisonnement du Pok\u00e9mon adverse ayant lanc\u00e9 une attaque de contact.",
+                    "isHidden": false
+                },
+                {
+                    "id": 156,
+                    "name": "Intimidation",
+                    "description": "Diminue d'un niveau l'attaque du Pok\u00e9mon adverse.",
+                    "isHidden": true
+                }
             ],
             "height": 5,
             "weight": 39
@@ -44,9 +59,24 @@
             },
             "description": "QWILFISH se gonfle en aspirant de l'eau. Ce POK\u00e9MON utilise la pression de l'eau aval\u00e9e pour envoyer d'un coup les pointes toxiques de son corps. Nager lui demande un gros effort.",
             "abilities": [
-                217,
-                134,
-                156
+                {
+                    "id": 217,
+                    "name": "Point Poison",
+                    "description": "30% de chance de provoquer l'empoisonnement du Pok\u00e9mon adverse ayant lanc\u00e9 une attaque de contact.",
+                    "isHidden": false
+                },
+                {
+                    "id": 134,
+                    "name": "Glissade",
+                    "description": "Double la vitesse par temps de pluie.",
+                    "isHidden": false
+                },
+                {
+                    "id": 156,
+                    "name": "Intimidation",
+                    "description": "Diminue d'un niveau l'attaque du Pok\u00e9mon adverse.",
+                    "isHidden": true
+                }
             ],
             "height": 5,
             "weight": 39

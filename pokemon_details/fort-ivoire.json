@@ -20,7 +20,12 @@
             },
             "description": "Il ressemble \u00e0 un Pok\u00e9mon myst\u00e9rieux qui, selon une revue consacr\u00e9e aux ph\u00e9nom\u00e8nes paranormaux, existerait depuis la nuit des temps.",
             "abilities": [
-                198
+                {
+                    "id": 198,
+                    "name": "Pal\u00e9osynth\u00e8se",
+                    "description": "Quand le soleil brille ou que le Pok\u00e9mon tient une capsule d\u2019\u00c9nergie Booster, sa statistique la plus \u00e9lev\u00e9e augmente.",
+                    "isHidden": false
+                }
             ],
             "height": 22,
             "weight": 3200

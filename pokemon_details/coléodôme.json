@@ -20,9 +20,24 @@
             },
             "description": "Il ne bouge presque pas, mais il est bien vivant. On dit qu\u2019il aurait d\u00e9couvert ses pouvoirs psychiques \u00e0 force de je\u00fbner dans sa coquille.",
             "abilities": [
-                111,
-                194,
-                270
+                {
+                    "id": 111,
+                    "name": "Essaim",
+                    "description": "Augmente la puissance des attaques de type Insecte de 50% lorsque le Pok\u00e9mon a moins d'1/3 de ses PV totaux.",
+                    "isHidden": false
+                },
+                {
+                    "id": 194,
+                    "name": "\u0152il Compos\u00e9",
+                    "description": "Augmente de 30% la pr\u00e9cision du Pok\u00e9mon.",
+                    "isHidden": false
+                },
+                {
+                    "id": 270,
+                    "name": "T\u00e9l\u00e9pathe",
+                    "description": "Anticipe et \u00e9vite les attaques des alli\u00e9s en Combat Double ou triple.",
+                    "isHidden": true
+                }
             ],
             "height": 4,
             "weight": 195

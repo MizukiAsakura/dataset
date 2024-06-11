@@ -19,7 +19,12 @@
             },
             "description": "ARMULYS s'accroche \u00e0 une branche d'arbre avec de la soie pour \u00e9viter de tomber. Ce POK\u00e9MON y reste tranquillement en attendant son \u00e9volution. Il regarde l'ext\u00e9rieur \u00e0 travers un petit trou dans son cocon de soie.",
             "abilities": [
-                186
+                {
+                    "id": 186,
+                    "name": "Mue",
+                    "description": "\u00c0 chaque tour, le Pok\u00e9mon a 33% de chance d'\u00eatre soign\u00e9 d'une alt\u00e9ration d'\u00e9tat.",
+                    "isHidden": false
+                }
             ],
             "height": 6,
             "weight": 100

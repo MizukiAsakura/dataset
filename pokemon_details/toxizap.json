@@ -20,9 +20,24 @@
             },
             "description": "Par un proc\u00e9d\u00e9 chimique, il change son poison en \u00e9lectricit\u00e9. L\u2019intensit\u00e9 du courant est faible, mais peut engourdir un ennemi.",
             "abilities": [
-                209,
-                260,
-                169
+                {
+                    "id": 209,
+                    "name": "Phobique",
+                    "description": "Si le Pok\u00e9mon est touch\u00e9 par une attaque de type Insecte, Spectre ou T\u00e9n\u00e8bres, sa vitesse augmente d'un niveau.",
+                    "isHidden": false
+                },
+                {
+                    "id": 260,
+                    "name": "Statik",
+                    "description": "30% de chance de provoquer la paralysie du Pok\u00e9mon adverse ayant lanc\u00e9 une attaque de contact.",
+                    "isHidden": false
+                },
+                {
+                    "id": 169,
+                    "name": "Maladresse",
+                    "description": "Emp\u00eache l'utilisation et/ou ignore l'effet des objets tenus en combat.",
+                    "isHidden": true
+                }
             ],
             "height": 4,
             "weight": 110

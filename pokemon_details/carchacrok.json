@@ -20,8 +20,18 @@
             },
             "description": "Quand il se recroqueville et \u00e9tend ses ailes, on dirait un chasseur. Sa vitesse est supersonique. Il vole \u00e0 la vitesse d'un avion \u00e0 r\u00e9action et ne l\u00e2che jamais sa proie.",
             "abilities": [
-                294,
-                202
+                {
+                    "id": 294,
+                    "name": "Voile Sable",
+                    "description": "Augmente l'esquive de 20% lors d'une temp\u00eate de sable et immunise contre ses d\u00e9g\u00e2ts.",
+                    "isHidden": false
+                },
+                {
+                    "id": 202,
+                    "name": "Peau Dure",
+                    "description": "Fait perdre 1/8 des PV du Pok\u00e9mon adverse ayant lanc\u00e9 une attaque de contact",
+                    "isHidden": true
+                }
             ],
             "height": 19,
             "weight": 950

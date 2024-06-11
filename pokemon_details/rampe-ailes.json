@@ -20,7 +20,12 @@
             },
             "description": "Il ressemble vaguement \u00e0 une forme de Pyrax tr\u00e8s ancienne \u00e9voqu\u00e9e dans une revue douteuse.",
             "abilities": [
-                198
+                {
+                    "id": 198,
+                    "name": "Pal\u00e9osynth\u00e8se",
+                    "description": "Quand le soleil brille ou que le Pok\u00e9mon tient une capsule d\u2019\u00c9nergie Booster, sa statistique la plus \u00e9lev\u00e9e augmente.",
+                    "isHidden": false
+                }
             ],
             "height": 32,
             "weight": 920

@@ -20,9 +20,24 @@
             },
             "description": "GALEKING marque son territoire autour d'une montagne enti\u00e8re. Il combat sans merci quiconque p\u00e9n\u00e8tre dans son environnement. Ce POK\u00e9MON patrouille sans arr\u00eat son territoire.",
             "abilities": [
-                117,
-                276,
-                140
+                {
+                    "id": 117,
+                    "name": "Fermet\u00e9",
+                    "description": "Immunise contre les attaques OHKO. \u00c0 partir de la 5e g\u00e9n\u00e9ration, ce talent fait aussi conserver 1 PV au Pok\u00e9mon m\u00eame apr\u00e8s une attaque qui aurait d\u00fb le terrasser, s'il a tous ses PV.",
+                    "isHidden": false
+                },
+                {
+                    "id": 276,
+                    "name": "T\u00eate de Roc",
+                    "description": "Le Pok\u00e9mon ne subit pas de d\u00e9g\u00e2ts de contrecoup.",
+                    "isHidden": false
+                },
+                {
+                    "id": 140,
+                    "name": "Heavy Metal",
+                    "description": "Double la masse du Pok\u00e9mon.",
+                    "isHidden": true
+                }
             ],
             "height": 21,
             "weight": 3600

@@ -19,9 +19,24 @@
             },
             "description": "Les deux grands se battent et prot\u00e8gent les petits. Face \u00e0 des adversaires puissants, ils prennent tous part au combat.",
             "abilities": [
-                129,
-                31,
-                268
+                {
+                    "id": 129,
+                    "name": "Garde Amie",
+                    "description": "R\u00e9duire de 25% les d\u00e9g\u00e2ts inflig\u00e9s aux alli\u00e9s en Combat Double ou triple.",
+                    "isHidden": false
+                },
+                {
+                    "id": 31,
+                    "name": "Bajoues",
+                    "description": "Lorsque le Pok\u00e9mon mange une Baie, il obtient ses effets et regagne des PV en plus.",
+                    "isHidden": false
+                },
+                {
+                    "id": 268,
+                    "name": "Technicien",
+                    "description": "Augmente de 50% la puissance des attaques dont la puissance est inf\u00e9rieure ou \u00e9gale \u00e0 60.",
+                    "isHidden": true
+                }
             ],
             "height": 3,
             "weight": 23
@@ -42,9 +57,24 @@
             },
             "description": "Les deux grands se battent et prot\u00e8gent les petits. Face \u00e0 des adversaires puissants, ils prennent tous part au combat.",
             "abilities": [
-                129,
-                31,
-                268
+                {
+                    "id": 129,
+                    "name": "Garde Amie",
+                    "description": "R\u00e9duire de 25% les d\u00e9g\u00e2ts inflig\u00e9s aux alli\u00e9s en Combat Double ou triple.",
+                    "isHidden": false
+                },
+                {
+                    "id": 31,
+                    "name": "Bajoues",
+                    "description": "Lorsque le Pok\u00e9mon mange une Baie, il obtient ses effets et regagne des PV en plus.",
+                    "isHidden": false
+                },
+                {
+                    "id": 268,
+                    "name": "Technicien",
+                    "description": "Augmente de 50% la puissance des attaques dont la puissance est inf\u00e9rieure ou \u00e9gale \u00e0 60.",
+                    "isHidden": true
+                }
             ],
             "height": 3,
             "weight": 28

@@ -19,9 +19,24 @@
             },
             "description": "Il est agressif et projette des charges \u00e9lectriques dans toutes les directions quand il est en col\u00e8re. Faites attention !",
             "abilities": [
-                199,
-                185,
-                141
+                {
+                    "id": 199,
+                    "name": "Paratonnerre",
+                    "description": "Attire toutes les attaques de type \u00c9lectrik. \u00c0 partir de la 5e g\u00e9n\u00e9ration, ce talent augmente aussi l'Attaque Sp\u00e9ciale du Pok\u00e9mon recevant l'attaque.",
+                    "isHidden": false
+                },
+                {
+                    "id": 185,
+                    "name": "Motoris\u00e9",
+                    "description": "Immunise le Pok\u00e9mon contre les attaques de type \u00c9lectrik et augmente la vitesse du Pok\u00e9mon d'un niveau par attaque \u00c9lectrik subie.",
+                    "isHidden": false
+                },
+                {
+                    "id": 141,
+                    "name": "Herbivore",
+                    "description": "Si le Pok\u00e9mon est touch\u00e9 par une attaque de type Plante, son attaque augmente d'un niveau.",
+                    "isHidden": true
+                }
             ],
             "height": 16,
             "weight": 795

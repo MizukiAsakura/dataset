@@ -20,8 +20,18 @@
             },
             "description": "Avec ses ailes d\u00e9licates, il r\u00e9pand une poudre myst\u00e9rieuse et lumineuse quand il vole. Il suffit de le toucher pour retrouver aussit\u00f4t le sourire.",
             "abilities": [
-                81,
-                270
+                {
+                    "id": 81,
+                    "name": "Cr\u00e9a-Psy",
+                    "description": "Pose un champ psychique qui bloque toute attaque de priorit\u00e9.",
+                    "isHidden": false
+                },
+                {
+                    "id": 270,
+                    "name": "T\u00e9l\u00e9pathe",
+                    "description": "Anticipe et \u00e9vite les attaques des alli\u00e9s en Combat Double ou triple.",
+                    "isHidden": true
+                }
             ],
             "height": 12,
             "weight": 186

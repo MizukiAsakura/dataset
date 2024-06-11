@@ -19,7 +19,12 @@
             },
             "description": "L'apparence de MORPHEO change en fonction du temps. Ce POK\u00e9MON a appris \u00e0 utiliser l'immense pouvoir de la nature pour prot\u00e9ger son corps minuscule.",
             "abilities": [
-                177
+                {
+                    "id": 177,
+                    "name": "M\u00e9t\u00e9o",
+                    "description": "Change le type et la forme du Pok\u00e9mon selon le climat.",
+                    "isHidden": false
+                }
             ],
             "height": 3,
             "weight": 8

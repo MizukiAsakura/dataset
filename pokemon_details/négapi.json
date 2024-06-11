@@ -19,8 +19,18 @@
             },
             "description": "NEGAPI n'h\u00e9site pas \u00e0 se mettre en danger pour soutenir ses partenaires. Il court-circuite son corps pour faire jaillir des gerbes d'\u00e9tincelles et donner du c\u0153ur \u00e0 l'ouvrage \u00e0 ses \u00e9quipiers.",
             "abilities": [
-                179,
-                3
+                {
+                    "id": 179,
+                    "name": "Moins",
+                    "description": "Augmente l'attaque sp\u00e9ciale de 50% si le partenaire \u00e0 le talent Plus.",
+                    "isHidden": false
+                },
+                {
+                    "id": 3,
+                    "name": "Absorb Volt",
+                    "description": "Les attaques de type \u00c9lectrik re\u00e7ues par le Pok\u00e9mon r\u00e9g\u00e9n\u00e8rent 1/4 de ses PV.",
+                    "isHidden": true
+                }
             ],
             "height": 4,
             "weight": 42

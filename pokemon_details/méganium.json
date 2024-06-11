@@ -19,8 +19,18 @@
             },
             "description": "Le parfum de la fleur de MEGANIUM apaise et calme les esprits. Pendant les combats, ce POK\u00e9MON \u00e9met son parfum relaxant pour att\u00e9nuer l'agressivit\u00e9 de l'ennemi.",
             "abilities": [
-                104,
-                118
+                {
+                    "id": 104,
+                    "name": "Engrais",
+                    "description": "Augmente la puissance des attaques de type Plante de 50% lorsque le Pok\u00e9mon a moins d'1/3 de ses PV totaux.",
+                    "isHidden": false
+                },
+                {
+                    "id": 118,
+                    "name": "Feuille Garde",
+                    "description": "Soigne les alt\u00e9rations d'\u00e9tat par temps ensoleill\u00e9.",
+                    "isHidden": true
+                }
             ],
             "height": 18,
             "weight": 1005

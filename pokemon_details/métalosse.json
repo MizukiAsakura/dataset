@@ -20,8 +20,18 @@
             },
             "description": "METALOSSE dispose de quatre cerveaux. Combin\u00e9s, ces cerveaux peuvent effectuer des calculs tr\u00e8s complexes plus vite qu'un ordinateur. Ce POK\u00e9MON peut flotter dans l'air en repliant ses jambes.",
             "abilities": [
-                73,
-                163
+                {
+                    "id": 73,
+                    "name": "Corps Sain",
+                    "description": "Emp\u00eache la diminution de statistiques par le Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 163,
+                    "name": "Light Metal",
+                    "description": "Divise par deux la masse du Pok\u00e9mon.",
+                    "isHidden": true
+                }
             ],
             "height": 16,
             "weight": 5500

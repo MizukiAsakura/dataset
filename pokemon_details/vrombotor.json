@@ -20,8 +20,18 @@
             },
             "description": "Ce Pok\u00e9mon intimide ses adversaires gr\u00e2ce au bruit de ses pots d'\u00e9chappement et r\u00e9pand du liquide empoisonn\u00e9 \u00e0 l'aide de sa langue.",
             "abilities": [
-                106,
-                120
+                {
+                    "id": 106,
+                    "name": "Envelocape",
+                    "description": "Immunise contre les d\u00e9g\u00e2ts caus\u00e9s par la gr\u00eale et les temp\u00eates de sable.",
+                    "isHidden": false
+                },
+                {
+                    "id": 120,
+                    "name": "Filtre",
+                    "description": "Retire 1/4 des d\u00e9g\u00e2ts subits lors d'une attaque super efficace.",
+                    "isHidden": true
+                }
             ],
             "height": 18,
             "weight": 1200

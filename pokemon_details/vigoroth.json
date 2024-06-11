@@ -19,7 +19,12 @@
             },
             "description": "VIGOROTH est toujours impatient de se d\u00e9fouler. Il ne supporte pas l'id\u00e9e de rester sans rien faire, m\u00eame une minute. Le niveau de stress de ce POK\u00e9MON augmente \u00e9norm\u00e9ment s'il ne peut pas bouger.",
             "abilities": [
-                110
+                {
+                    "id": 110,
+                    "name": "Esprit Vital",
+                    "description": "Emp\u00eache le Pok\u00e9mon d'\u00eatre endormi.",
+                    "isHidden": false
+                }
             ],
             "height": 14,
             "weight": 465

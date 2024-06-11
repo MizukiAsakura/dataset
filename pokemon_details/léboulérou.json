@@ -19,8 +19,18 @@
             },
             "description": "Il fait rouler sa boule de boue jusqu'\u00e0 ce qu'il ait accumul\u00e9 l'\u00e9nergie n\u00e9cessaire \u00e0 son \u00e9volution.",
             "abilities": [
-                194,
-                186
+                {
+                    "id": 194,
+                    "name": "\u0152il Compos\u00e9",
+                    "description": "Augmente de 30% la pr\u00e9cision du Pok\u00e9mon.",
+                    "isHidden": false
+                },
+                {
+                    "id": 186,
+                    "name": "Mue",
+                    "description": "\u00c0 chaque tour, le Pok\u00e9mon a 33% de chance d'\u00eatre soign\u00e9 d'une alt\u00e9ration d'\u00e9tat.",
+                    "isHidden": true
+                }
             ],
             "height": 2,
             "weight": 10

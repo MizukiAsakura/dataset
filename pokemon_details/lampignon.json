@@ -20,9 +20,24 @@
             },
             "description": "Il endort ses victimes puis aspire leur \u00e9nergie vitale avec ses doigts. Il aide ses cong\u00e9n\u00e8res affaiblis en partageant cette \u00e9nergie avec eux.",
             "abilities": [
-                165,
-                220,
-                83
+                {
+                    "id": 165,
+                    "name": "Lumiattirance",
+                    "description": "Aucun effet en combat",
+                    "isHidden": false
+                },
+                {
+                    "id": 220,
+                    "name": "Pose Spore",
+                    "description": "30% de chance de provoquer l'empoisonnement, le sommeil ou la paralysie du Pok\u00e9mon adverse ayant lanc\u00e9 une attaque de contact.",
+                    "isHidden": false
+                },
+                {
+                    "id": 83,
+                    "name": "Cuvette",
+                    "description": "R\u00e9g\u00e9n\u00e8re 1/16e des PV par temps de pluie.",
+                    "isHidden": true
+                }
             ],
             "height": 10,
             "weight": 115

@@ -19,8 +19,18 @@
             },
             "description": "L'existence de SERPANG fut longtemps ignor\u00e9e, car il vit dans les profondeurs abyssales des oc\u00e9ans. Les yeux de ce POK\u00e9MON sont excellents et peuvent m\u00eame voir \u00e0 travers les eaux troubles des grandes profondeurs.",
             "abilities": [
-                134,
-                147
+                {
+                    "id": 134,
+                    "name": "Glissade",
+                    "description": "Double la vitesse par temps de pluie.",
+                    "isHidden": false
+                },
+                {
+                    "id": 147,
+                    "name": "Ignifu-Voile",
+                    "description": "Immunise contre la br\u00fblure.",
+                    "isHidden": true
+                }
             ],
             "height": 17,
             "weight": 270

@@ -19,9 +19,24 @@
             },
             "description": "Le capturer est un d\u00e9fi que les P\u00eacheurs aiment relever. Ils vont jusqu\u2019\u00e0 en lib\u00e9rer ill\u00e9galement dans les lacs, ce qui conduit \u00e0 leur prolif\u00e9ration.",
             "abilities": [
-                6,
-                271,
-                46
+                {
+                    "id": 6,
+                    "name": "Adaptabilit\u00e9",
+                    "description": "Si ce Pok\u00e9mon utilise une attaque de son type, la puissance de l'attaque est multipli\u00e9e par 2 au lieu de 1.5.",
+                    "isHidden": false
+                },
+                {
+                    "id": 271,
+                    "name": "T\u00e9m\u00e9raire",
+                    "description": "Augmente de 20% la puissance des attaques infligeant un contrecoup.",
+                    "isHidden": false
+                },
+                {
+                    "id": 46,
+                    "name": "Brise Moule",
+                    "description": "Peut toucher un Pok\u00e9mon adverse malgr\u00e9 son talent.",
+                    "isHidden": true
+                }
             ],
             "height": 10,
             "weight": 180

@@ -19,8 +19,18 @@
             },
             "description": "L\u2019apprentissage de sa technique de combat, qui utilise \u00e9l\u00e9gamment ses deux coupillages, est extr\u00eamement rigoureux.",
             "abilities": [
-                282,
-                66
+                {
+                    "id": 282,
+                    "name": "Torrent",
+                    "description": "Augmente la puissance des attaques de type Eau de 50% lorsque le Pok\u00e9mon a moins d'1/3 de ses PV totaux.",
+                    "isHidden": false
+                },
+                {
+                    "id": 66,
+                    "name": "Coque Armure",
+                    "description": "Annule les chances de coups critiques du Pok\u00e9mon ennemi.",
+                    "isHidden": true
+                }
             ],
             "height": 8,
             "weight": 245

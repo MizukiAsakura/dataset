@@ -19,9 +19,24 @@
             },
             "description": "Les poils sur le dos de ZIGZATON sont durs. Il frotte son dos contre les arbres pour marquer son territoire. Ce POK\u00e9MON fait parfois le mort pour tromper ses ennemis au combat.",
             "abilities": [
-                235,
-                135,
-                212
+                {
+                    "id": 235,
+                    "name": "Ramassage",
+                    "description": "Donne une chance au Pok\u00e9mon de ramasser un objet apr\u00e8s un combat.",
+                    "isHidden": false
+                },
+                {
+                    "id": 135,
+                    "name": "Gloutonnerie",
+                    "description": "Le Pok\u00e9mon utilise la baie port\u00e9e lorsque les PV descendent en dessous de 50%.",
+                    "isHidden": false
+                },
+                {
+                    "id": 212,
+                    "name": "Pied V\u00e9loce",
+                    "description": "Augmente la vitesse de 50% lorsque le Pok\u00e9mon subit une alt\u00e9ration d'\u00e9tat.",
+                    "isHidden": true
+                }
             ],
             "height": 4,
             "weight": 175
@@ -43,9 +58,24 @@
             },
             "description": "Les poils sur le dos de ZIGZATON sont durs. Il frotte son dos contre les arbres pour marquer son territoire. Ce POK\u00e9MON fait parfois le mort pour tromper ses ennemis au combat.",
             "abilities": [
-                235,
-                135,
-                212
+                {
+                    "id": 235,
+                    "name": "Ramassage",
+                    "description": "Donne une chance au Pok\u00e9mon de ramasser un objet apr\u00e8s un combat.",
+                    "isHidden": false
+                },
+                {
+                    "id": 135,
+                    "name": "Gloutonnerie",
+                    "description": "Le Pok\u00e9mon utilise la baie port\u00e9e lorsque les PV descendent en dessous de 50%.",
+                    "isHidden": false
+                },
+                {
+                    "id": 212,
+                    "name": "Pied V\u00e9loce",
+                    "description": "Augmente la vitesse de 50% lorsque le Pok\u00e9mon subit une alt\u00e9ration d'\u00e9tat.",
+                    "isHidden": true
+                }
             ],
             "height": 4,
             "weight": 175

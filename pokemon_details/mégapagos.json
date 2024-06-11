@@ -20,9 +20,24 @@
             },
             "description": "Pour se constituer une carapace solide, il devait r\u00e9duire en miettes les os et coquilles riches en min\u00e9raux de ses proies avant de les avaler.",
             "abilities": [
-                256,
-                117,
-                134
+                {
+                    "id": 256,
+                    "name": "Solide Roc",
+                    "description": "Retire 1/4 des d\u00e9g\u00e2ts subits si le Pok\u00e9mon re\u00e7oit une attaque super efficace.",
+                    "isHidden": false
+                },
+                {
+                    "id": 117,
+                    "name": "Fermet\u00e9",
+                    "description": "Immunise contre les attaques OHKO. \u00c0 partir de la 5e g\u00e9n\u00e9ration, ce talent fait aussi conserver 1 PV au Pok\u00e9mon m\u00eame apr\u00e8s une attaque qui aurait d\u00fb le terrasser, s'il a tous ses PV.",
+                    "isHidden": false
+                },
+                {
+                    "id": 134,
+                    "name": "Glissade",
+                    "description": "Double la vitesse par temps de pluie.",
+                    "isHidden": true
+                }
             ],
             "height": 12,
             "weight": 810

@@ -19,8 +19,18 @@
             },
             "description": "Il vivait dans la jungle il y a environ 100 millions d'ann\u00e9es. Son cr\u00e2ne est dur comme du fer. On l'a ressuscit\u00e9 \u00e0 partir d'un fossile de fer en forme de balle. Il abat ses proies \u00e0 coups de t\u00eate.",
             "abilities": [
-                46,
-                248
+                {
+                    "id": 46,
+                    "name": "Brise Moule",
+                    "description": "Peut toucher un Pok\u00e9mon adverse malgr\u00e9 son talent.",
+                    "isHidden": false
+                },
+                {
+                    "id": 248,
+                    "name": "Sans Limite",
+                    "description": "Augmente de 30% la puissance des attaques pouvant avoir un effet secondaire. L'effet secondaire est annul\u00e9.",
+                    "isHidden": true
+                }
             ],
             "height": 9,
             "weight": 315

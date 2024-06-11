@@ -20,9 +20,24 @@
             },
             "description": "COLHOMARD a un temp\u00e9rament tr\u00e8s violent, ce qui le pousse \u00e0 d\u00e9fier tout ce qui passe pr\u00e8s de lui. Certaines formes de vie refusent d'habiter dans les \u00e9tangs occup\u00e9s par ce POK\u00e9MON et d\u00e9sertent ces eaux.",
             "abilities": [
-                144,
-                66,
-                6
+                {
+                    "id": 144,
+                    "name": "Hyper Cutter",
+                    "description": "Emp\u00eache la diminution d'attaque du Pok\u00e9mon.",
+                    "isHidden": false
+                },
+                {
+                    "id": 66,
+                    "name": "Coque Armure",
+                    "description": "Annule les chances de coups critiques du Pok\u00e9mon ennemi.",
+                    "isHidden": false
+                },
+                {
+                    "id": 6,
+                    "name": "Adaptabilit\u00e9",
+                    "description": "Si ce Pok\u00e9mon utilise une attaque de son type, la puissance de l'attaque est multipli\u00e9e par 2 au lieu de 1.5.",
+                    "isHidden": true
+                }
             ],
             "height": 11,
             "weight": 328

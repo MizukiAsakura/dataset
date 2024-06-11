@@ -19,9 +19,24 @@
             },
             "description": "L'\u00e9nergie de TOGEPI provient des \u00e9motions positives et du plaisir exprim\u00e9 par les gens et les POK\u00e9MON. Ce POK\u00e9MON accumule les sentiments de bonheur dans sa coquille, puis les partage avec les autres.",
             "abilities": [
-                252,
-                8,
-                51
+                {
+                    "id": 252,
+                    "name": "S\u00e9r\u00e9nit\u00e9",
+                    "description": "Double les chances de r\u00e9ussite des effets secondaires des attaques.",
+                    "isHidden": false
+                },
+                {
+                    "id": 8,
+                    "name": "Agitation",
+                    "description": "Augmente l'attaque de 50% mais baisse la pr\u00e9cision de 20%.",
+                    "isHidden": false
+                },
+                {
+                    "id": 51,
+                    "name": "Chanceux",
+                    "description": "Double les chances de porter un coup critique.",
+                    "isHidden": true
+                }
             ],
             "height": 3,
             "weight": 15

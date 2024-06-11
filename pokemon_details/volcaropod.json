@@ -20,9 +20,24 @@
             },
             "description": "La carapace de VOLCAROPOD est en fait constitu\u00e9e de sa peau, qui s'est durcie apr\u00e8s un refroidissement. Elle est tr\u00e8s cassante et fragile. Il suffit de la toucher pour qu'elle casse. Il reprend sa forme en plongeant dans le magma.",
             "abilities": [
-                20,
-                67,
-                24
+                {
+                    "id": 20,
+                    "name": "Armumagma",
+                    "description": "Immunise contre le gel.",
+                    "isHidden": false
+                },
+                {
+                    "id": 67,
+                    "name": "Corps Ardent",
+                    "description": "30% de chance de provoquer une br\u00fblure sur le Pok\u00e9mon adverse ayant attaqu\u00e9.",
+                    "isHidden": false
+                },
+                {
+                    "id": 24,
+                    "name": "Armurouill\u00e9e",
+                    "description": "Le Pok\u00e9mon touch\u00e9 par une attaque physique voit sa d\u00e9fense diminu\u00e9e d'un niveau et sa vitesse augment\u00e9e de deux.",
+                    "isHidden": true
+                }
             ],
             "height": 8,
             "weight": 550

@@ -19,9 +19,24 @@
             },
             "description": "Ses deux rouages sont plus soud\u00e9s que des jumeaux. Si on essaie de les combiner \u00e0 d\u2019autres rouages, ils ne s\u2019entendent pas tr\u00e8s bien.",
             "abilities": [
-                214,
-                179,
-                73
+                {
+                    "id": 214,
+                    "name": "Plus",
+                    "description": "Augmente l'attaque sp\u00e9ciale de 50% en Match Double, si le partenaire \u00e0 le talent Minus (ou le m\u00eame talent, depuis Pok\u00e9mon Noir et Blanc).",
+                    "isHidden": false
+                },
+                {
+                    "id": 179,
+                    "name": "Moins",
+                    "description": "Augmente l'attaque sp\u00e9ciale de 50% si le partenaire \u00e0 le talent Plus.",
+                    "isHidden": false
+                },
+                {
+                    "id": 73,
+                    "name": "Corps Sain",
+                    "description": "Emp\u00eache la diminution de statistiques par le Pok\u00e9mon adverse.",
+                    "isHidden": true
+                }
             ],
             "height": 3,
             "weight": 210

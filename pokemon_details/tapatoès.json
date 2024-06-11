@@ -20,9 +20,24 @@
             },
             "description": "Ceux qui arborent un plumage vert ont le plus d'influence. Ils font un v\u00e9ritable vacarme le matin et le soir, quand ils cherchent de la nourriture.",
             "abilities": [
-                8,
-                156,
-                77
+                {
+                    "id": 8,
+                    "name": "Agitation",
+                    "description": "Augmente l'attaque de 50% mais baisse la pr\u00e9cision de 20%.",
+                    "isHidden": false
+                },
+                {
+                    "id": 156,
+                    "name": "Intimidation",
+                    "description": "Diminue d'un niveau l'attaque du Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 77,
+                    "name": "Cran",
+                    "description": "Augmente de 50% l'attaque du Pok\u00e9mon s'il subit un changement de statut.",
+                    "isHidden": true
+                }
             ],
             "height": 6,
             "weight": 24
@@ -44,9 +59,24 @@
             },
             "description": "Les Tapato\u00e8s aux plumes bleues consid\u00e8rent les sp\u00e9cimens aux plumes vertes comme leurs rivaux, car ces derniers sont plus nombreux et puissants.",
             "abilities": [
-                8,
-                156,
-                77
+                {
+                    "id": 8,
+                    "name": "Agitation",
+                    "description": "Augmente l'attaque de 50% mais baisse la pr\u00e9cision de 20%.",
+                    "isHidden": false
+                },
+                {
+                    "id": 156,
+                    "name": "Intimidation",
+                    "description": "Diminue d'un niveau l'attaque du Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 77,
+                    "name": "Cran",
+                    "description": "Augmente de 50% l'attaque du Pok\u00e9mon s'il subit un changement de statut.",
+                    "isHidden": true
+                }
             ],
             "height": 6,
             "weight": 24
@@ -68,9 +98,24 @@
             },
             "description": "Les Tapato\u00e8s de couleur jaune sont extr\u00eamement agressifs. Ils vont m\u00eame jusqu'\u00e0 chasser les autres Pok\u00e9mon oiseaux des villes.",
             "abilities": [
-                8,
-                156,
-                248
+                {
+                    "id": 8,
+                    "name": "Agitation",
+                    "description": "Augmente l'attaque de 50% mais baisse la pr\u00e9cision de 20%.",
+                    "isHidden": false
+                },
+                {
+                    "id": 156,
+                    "name": "Intimidation",
+                    "description": "Diminue d'un niveau l'attaque du Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 248,
+                    "name": "Sans Limite",
+                    "description": "Augmente de 30% la puissance des attaques pouvant avoir un effet secondaire. L'effet secondaire est annul\u00e9.",
+                    "isHidden": true
+                }
             ],
             "height": 6,
             "weight": 24
@@ -92,9 +137,24 @@
             },
             "description": "Les sp\u00e9cimens de cette couleur sont moins nombreux, mais comme ils se fondent dans le d\u00e9cor urbain, ils peuvent facilement vivre en ville.",
             "abilities": [
-                8,
-                156,
-                248
+                {
+                    "id": 8,
+                    "name": "Agitation",
+                    "description": "Augmente l'attaque de 50% mais baisse la pr\u00e9cision de 20%.",
+                    "isHidden": false
+                },
+                {
+                    "id": 156,
+                    "name": "Intimidation",
+                    "description": "Diminue d'un niveau l'attaque du Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 248,
+                    "name": "Sans Limite",
+                    "description": "Augmente de 30% la puissance des attaques pouvant avoir un effet secondaire. L'effet secondaire est annul\u00e9.",
+                    "isHidden": true
+                }
             ],
             "height": 6,
             "weight": 24

@@ -19,9 +19,24 @@
             },
             "description": "Les narines de WAILMER sont situ\u00e9es au-dessus de ses yeux. Ce joyeux POK\u00e9MON adore effrayer les gens en expulsant de l'eau de mer par les narines.",
             "abilities": [
-                147,
-                35,
-                223
+                {
+                    "id": 147,
+                    "name": "Ignifu-Voile",
+                    "description": "Immunise contre la br\u00fblure.",
+                    "isHidden": false
+                },
+                {
+                    "id": 35,
+                    "name": "Ben\u00eat",
+                    "description": "Immunise contre l'attraction. \u00c0 partir de la 6e g\u00e9n\u00e9ration, ce talent immunise aussi contre la provocation.",
+                    "isHidden": false
+                },
+                {
+                    "id": 223,
+                    "name": "Pression",
+                    "description": "Double l'utilisation de PP des attaques offensives du Pok\u00e9mon adverse.",
+                    "isHidden": true
+                }
             ],
             "height": 20,
             "weight": 1300

@@ -19,7 +19,12 @@
             },
             "description": "Si son abondante fourrure gagne \u00e0 \u00eatre toilett\u00e9e, ce n\u2019est pas qu\u2019une question de style. En effet, cela lui permet \u00e9galement de se mouvoir plus librement.",
             "abilities": [
-                279
+                {
+                    "id": 279,
+                    "name": "Toison \u00c9paisse",
+                    "description": "Divise par deux les d\u00e9g\u00e2ts re\u00e7us lors d'une attaque physique.",
+                    "isHidden": false
+                }
             ],
             "height": 12,
             "weight": 280

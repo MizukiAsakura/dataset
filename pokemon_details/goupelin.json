@@ -20,8 +20,18 @@
             },
             "description": "Ses pouvoirs psychiques lui permettent de cr\u00e9er des tourbillons de flammes \u00e0 3000 \u00b0C qui enveloppent et consument ses ennemis.",
             "abilities": [
-                44,
-                167
+                {
+                    "id": 44,
+                    "name": "Brasier",
+                    "description": "Augmente la puissance des attaques de type Feu de 50% lorsque le Pok\u00e9mon a moins d'1/3 de ses PV totaux.",
+                    "isHidden": false
+                },
+                {
+                    "id": 167,
+                    "name": "Magicien",
+                    "description": "Vole l'objet d'une cible apr\u00e8s l'avoir touch\u00e9 avec une attaque directe.",
+                    "isHidden": true
+                }
             ],
             "height": 15,
             "weight": 390

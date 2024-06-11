@@ -20,9 +20,24 @@
             },
             "description": "Ses boules noires \u00e9mettent une inqui\u00e9tante lueur lorsqu'il \u00e9rige des barri\u00e8res invisibles. Les poils de barbe qu'il perd servent \u00e0 confectionner des v\u00eatements d'hiver bien chauds.",
             "abilities": [
-                156,
-                126,
-                141
+                {
+                    "id": 156,
+                    "name": "Intimidation",
+                    "description": "Diminue d'un niveau l'attaque du Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 126,
+                    "name": "Fouille",
+                    "description": "Permet de connaitre l'objet tenu d'un Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 141,
+                    "name": "Herbivore",
+                    "description": "Si le Pok\u00e9mon est touch\u00e9 par une attaque de type Plante, son attaque augmente d'un niveau.",
+                    "isHidden": true
+                }
             ],
             "height": 18,
             "weight": 951

@@ -19,8 +19,18 @@
             },
             "description": "Le rythme qu\u2019il cr\u00e9e en tapant avec son b\u00e2ton tr\u00e8s sp\u00e9cial g\u00e9n\u00e8re des ondes sonores qui ont le pouvoir de vivifier les plantes.",
             "abilities": [
-                104,
-                80
+                {
+                    "id": 104,
+                    "name": "Engrais",
+                    "description": "Augmente la puissance des attaques de type Plante de 50% lorsque le Pok\u00e9mon a moins d'1/3 de ses PV totaux.",
+                    "isHidden": false
+                },
+                {
+                    "id": 80,
+                    "name": "Cr\u00e9a-Herbe",
+                    "description": "Pose un Champ Herbu qui restaure 1/16 des PV max.",
+                    "isHidden": true
+                }
             ],
             "height": 3,
             "weight": 50

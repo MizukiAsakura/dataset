@@ -19,8 +19,18 @@
             },
             "description": "Son corps de cr\u00e8me s\u2019est compos\u00e9 \u00e0 partir de particules au parfum sucr\u00e9 flottant dans l\u2019air. Les p\u00e2tissiers connaissent tous ce vieil adage : Quand Cr\u00e8my appara\u00eet, le succ\u00e8s est assur\u00e9.",
             "abilities": [
-                136,
-                25
+                {
+                    "id": 136,
+                    "name": "Gluco-Voile",
+                    "description": "Emp\u00eache les Pok\u00e9mon alli\u00e9s de s'endormir.",
+                    "isHidden": false
+                },
+                {
+                    "id": 25,
+                    "name": "Aroma-Voile",
+                    "description": "Prot\u00e8ge les Pok\u00e9mon alli\u00e9s des capacit\u00e9s ayant un effet sur l'\u00e9tat mental tels que Attraction ou Tourmente.",
+                    "isHidden": true
+                }
             ],
             "height": 2,
             "weight": 3

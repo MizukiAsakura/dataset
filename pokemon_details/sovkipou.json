@@ -20,7 +20,12 @@
             },
             "description": "Il vit aussi bien en bord de mer que dans les fonds marins. V\u00e9ritable aspirateur sur pattes, il avale n\u2019importe quelle nourriture, m\u00eame pourrie.",
             "abilities": [
-                109
+                {
+                    "id": 109,
+                    "name": "Escampette",
+                    "description": "Force la fuite ou le switch si le Pok\u00e9mon perd plus de la moiti\u00e9 de ses PV.",
+                    "isHidden": false
+                }
             ],
             "height": 5,
             "weight": 120

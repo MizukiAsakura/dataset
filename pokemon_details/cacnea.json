@@ -19,8 +19,18 @@
             },
             "description": "CACNEA vit dans les milieux arides, tels les d\u00e9serts. Sa fleur lib\u00e8re un parfum ent\u00eatant pour attirer sa proie. Lorsqu'elle s'approche, ce POK\u00e9MON envoie des \u00e9pines pour la neutraliser.",
             "abilities": [
-                295,
-                2
+                {
+                    "id": 295,
+                    "name": "Pi\u00e8ge Sable",
+                    "description": "Emp\u00eache la fuite des Pok\u00e9mon sauvage et le changement du Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 2,
+                    "name": "Absorb Eau",
+                    "description": "Les attaques de type Eau re\u00e7ues par le Pok\u00e9mon r\u00e9g\u00e9n\u00e8rent 1/4 de ses PV.",
+                    "isHidden": true
+                }
             ],
             "height": 4,
             "weight": 513

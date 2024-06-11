@@ -19,8 +19,18 @@
             },
             "description": "ENTEI incarne la col\u00e8re du magma. On pense que ce POK\u00e9MON est n\u00e9 suite \u00e0 l'\u00e9ruption d'un volcan. Il peut envoyer d'\u00e9normes jets de flammes qui calcinent tout ce qu'ils touchent.",
             "abilities": [
-                223,
-                26
+                {
+                    "id": 223,
+                    "name": "Pression",
+                    "description": "Double l'utilisation de PP des attaques offensives du Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 26,
+                    "name": "Attention",
+                    "description": "Immunise contre la peur.",
+                    "isHidden": true
+                }
             ],
             "height": 21,
             "weight": 1980

@@ -19,9 +19,24 @@
             },
             "description": "Ce POK\u00e9MON aime se l\u00e9cher les paumes quand elles sont encore pleines de miel. TEDDIURSA concocte son propre miel en m\u00e9langeant les fruits et le pollen ramass\u00e9s par DARDARGNAN.",
             "abilities": [
-                235,
-                212,
-                54
+                {
+                    "id": 235,
+                    "name": "Ramassage",
+                    "description": "Donne une chance au Pok\u00e9mon de ramasser un objet apr\u00e8s un combat.",
+                    "isHidden": false
+                },
+                {
+                    "id": 212,
+                    "name": "Pied V\u00e9loce",
+                    "description": "Augmente la vitesse de 50% lorsque le Pok\u00e9mon subit une alt\u00e9ration d'\u00e9tat.",
+                    "isHidden": false
+                },
+                {
+                    "id": 54,
+                    "name": "Cherche Miel",
+                    "description": "le Pok\u00e9mon peut parfois trouver du Miel apr\u00e8s un combat",
+                    "isHidden": true
+                }
             ],
             "height": 6,
             "weight": 88

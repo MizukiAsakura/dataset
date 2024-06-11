@@ -20,9 +20,24 @@
             },
             "description": "Ses vrilles en acier peuvent transpercer des poutres en fer. Il est tr\u00e8s employ\u00e9 dans la construction de tunnels.",
             "abilities": [
-                30,
-                124,
-                46
+                {
+                    "id": 30,
+                    "name": "Baigne Sable",
+                    "description": "Double la Vitesse du Pok\u00e9mon lors d'une temp\u00eate de sable. Immunise contre les d\u00e9g\u00e2ts de la temp\u00eate.",
+                    "isHidden": false
+                },
+                {
+                    "id": 124,
+                    "name": "Force Sable",
+                    "description": "Lors d'une temp\u00eate de sable, la puissance des attaques de type Acier, Roche et Sol augmente de 30 %.",
+                    "isHidden": false
+                },
+                {
+                    "id": 46,
+                    "name": "Brise Moule",
+                    "description": "Peut toucher un Pok\u00e9mon adverse malgr\u00e9 son talent.",
+                    "isHidden": true
+                }
             ],
             "height": 7,
             "weight": 404

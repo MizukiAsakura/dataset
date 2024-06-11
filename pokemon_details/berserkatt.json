@@ -19,8 +19,18 @@
             },
             "description": "Il s\u2019est tant adonn\u00e9 au combat qu\u2019il a \u00e9volu\u00e9 : il est d\u00e9sormais dot\u00e9 de griffes redoutables qui prennent la forme de dagues en s\u2019allongeant.",
             "abilities": [
-                21,
-                40
+                {
+                    "id": 21,
+                    "name": "Armurbaston",
+                    "description": "Annule les chances de coups critiques du Pok\u00e9mon ennemi.",
+                    "isHidden": false
+                },
+                {
+                    "id": 40,
+                    "name": "Boost Acier",
+                    "description": "Augmente de 50% la puissance d'Attaque des capacit\u00e9s de type Acier des Pok\u00e9mon alli\u00e9s.",
+                    "isHidden": true
+                }
             ],
             "height": 8,
             "weight": 280

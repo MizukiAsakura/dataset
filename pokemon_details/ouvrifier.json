@@ -19,9 +19,24 @@
             },
             "description": "Il participe \u00e0 des concours de gonflette avec ses cong\u00e9n\u00e8res et les Machopeur. Le perdant ne se montre plus en public pendant quelque temps.",
             "abilities": [
-                77,
-                248,
-                215
+                {
+                    "id": 77,
+                    "name": "Cran",
+                    "description": "Augmente de 50% l'attaque du Pok\u00e9mon s'il subit un changement de statut.",
+                    "isHidden": false
+                },
+                {
+                    "id": 248,
+                    "name": "Sans Limite",
+                    "description": "Augmente de 30% la puissance des attaques pouvant avoir un effet secondaire. L'effet secondaire est annul\u00e9.",
+                    "isHidden": false
+                },
+                {
+                    "id": 215,
+                    "name": "Poing de Fer",
+                    "description": "Augmente de 20% la puissance des attaques de \"Poing\".",
+                    "isHidden": true
+                }
             ],
             "height": 12,
             "weight": 400

@@ -20,8 +20,18 @@
             },
             "description": "C'est l'un des Pok\u00e9mon Dragon les plus intelligents. Il se camoufle en faisant gonfler son sac gulaire.",
             "abilities": [
-                64,
-                160
+                {
+                    "id": 64,
+                    "name": "Commandant",
+                    "description": "Si un Oyacata alli\u00e9 est sur le terrain quand ce Pok\u00e9mon rejoint le combat, ce dernier entre dans sa bouche et devient son commandant.",
+                    "isHidden": false
+                },
+                {
+                    "id": 160,
+                    "name": "Lavabo",
+                    "description": "Attire toutes les attaques de type Eau. \u00c0 partir de la 5e g\u00e9n\u00e9ration, ce talent augmente aussi l'Attaque Sp\u00e9ciale du Pok\u00e9mon recevant l'attaque.",
+                    "isHidden": true
+                }
             ],
             "height": 3,
             "weight": 80

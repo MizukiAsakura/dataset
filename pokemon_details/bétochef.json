@@ -19,9 +19,24 @@
             },
             "description": "Quand il d\u00e9cide de passer aux choses s\u00e9rieuses, il jette ses piliers de b\u00e9ton et saute sur son adversaire pour le frapper du poing.",
             "abilities": [
-                77,
-                248,
-                215
+                {
+                    "id": 77,
+                    "name": "Cran",
+                    "description": "Augmente de 50% l'attaque du Pok\u00e9mon s'il subit un changement de statut.",
+                    "isHidden": false
+                },
+                {
+                    "id": 248,
+                    "name": "Sans Limite",
+                    "description": "Augmente de 30% la puissance des attaques pouvant avoir un effet secondaire. L'effet secondaire est annul\u00e9.",
+                    "isHidden": false
+                },
+                {
+                    "id": 215,
+                    "name": "Poing de Fer",
+                    "description": "Augmente de 20% la puissance des attaques de \"Poing\".",
+                    "isHidden": true
+                }
             ],
             "height": 14,
             "weight": 870

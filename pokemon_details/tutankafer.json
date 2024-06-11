@@ -19,7 +19,12 @@
             },
             "description": "Anc\u00eatre pr\u00e9sum\u00e9 de nombreuses esp\u00e8ces de Pok\u00e9mon tortues, il peuplait les mers chaudes du monde il y a environ 100 millions d\u2019ann\u00e9es.",
             "abilities": [
-                183
+                {
+                    "id": 183,
+                    "name": "Momie",
+                    "description": "Si le Pok\u00e9mon subit une attaque de contact, le talent de l'adversaire devient Momie. Ce talent est sans effet en lui-m\u00eame.",
+                    "isHidden": false
+                }
             ],
             "height": 17,
             "weight": 765

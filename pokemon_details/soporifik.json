@@ -19,9 +19,24 @@
             },
             "description": "Lorsque les enfants ont le nez qui les d\u00e9mange en dormant, c'est sans doute parce que ce Pok\u00e9mon se tient au dessus de leur oreiller, afin d'essayer de manger leurs r\u00eaves par leurs narines.",
             "abilities": [
-                155,
-                222,
-                26
+                {
+                    "id": 155,
+                    "name": "Insomnia",
+                    "description": "Emp\u00eache le Pok\u00e9mon d'\u00eatre endormi.",
+                    "isHidden": false
+                },
+                {
+                    "id": 222,
+                    "name": "Pr\u00e9diction",
+                    "description": "Alerte le Pok\u00e9mon de l'attaque la plus puissante du Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 26,
+                    "name": "Attention",
+                    "description": "Immunise contre la peur.",
+                    "isHidden": true
+                }
             ],
             "height": 10,
             "weight": 324

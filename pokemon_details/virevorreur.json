@@ -20,8 +20,18 @@
             },
             "description": "Ces Pok\u00e9mon errent \u00e0 travers les r\u00e9gions arides. En de tr\u00e8s rares occasions, ils apparaissent en masse et peuvent engloutir une ville enti\u00e8re.",
             "abilities": [
-                7,
-                154
+                {
+                    "id": 7,
+                    "name": "A\u00e9roport\u00e9",
+                    "description": "L\u2019Attaque du Pok\u00e9mon augmente si un vent arri\u00e8re souffle ou s\u2019il est touch\u00e9 par une capacit\u00e9 faisant appel au vent. Dans ce dernier cas, il ne subit aucun d\u00e9g\u00e2t.",
+                    "isHidden": false
+                },
+                {
+                    "id": 154,
+                    "name": "Infiltration",
+                    "description": "Emp\u00eache les attaques de protection adverses tels que Protection ou Mur Lumi\u00e8re de fonctionner. N'influe pas sur D\u00e9tection et Abri.",
+                    "isHidden": true
+                }
             ],
             "height": 12,
             "weight": 60

@@ -19,9 +19,24 @@
             },
             "description": "Lorsqu'un FOUINETTE dort, un autre monte la garde. La sentinelle r\u00e9veille les autres au moindre signe de danger. Si un de ces POK\u00e9MON est s\u00e9par\u00e9 de sa meute, il arr\u00eate de dormir, car il a peur.",
             "abilities": [
-                128,
-                240,
-                126
+                {
+                    "id": 128,
+                    "name": "Fuite",
+                    "description": "Assure la fuite contre les Pok\u00e9mon sauvages.",
+                    "isHidden": false
+                },
+                {
+                    "id": 240,
+                    "name": "Regard Vif",
+                    "description": "Emp\u00eache la perte de pr\u00e9cision.",
+                    "isHidden": false
+                },
+                {
+                    "id": 126,
+                    "name": "Fouille",
+                    "description": "Permet de connaitre l'objet tenu d'un Pok\u00e9mon adverse.",
+                    "isHidden": true
+                }
             ],
             "height": 8,
             "weight": 60

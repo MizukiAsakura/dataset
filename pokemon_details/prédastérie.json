@@ -20,9 +20,24 @@
             },
             "description": "Pour endurer les temp\u00e9ratures peu cl\u00e9mentes de Galar, il forme un d\u00f4me herm\u00e9tique avec ses pattes pour conserver sa chaleur corporelle.",
             "abilities": [
-                82,
-                98,
-                241
+                {
+                    "id": 82,
+                    "name": "Cruaut\u00e9",
+                    "description": "Inflige toujours des coups critiques \u00e0 un ennemi empoisonn\u00e9.",
+                    "isHidden": false
+                },
+                {
+                    "id": 98,
+                    "name": "\u00c9chauffement",
+                    "description": "Immunise contre la paralysie.",
+                    "isHidden": false
+                },
+                {
+                    "id": 241,
+                    "name": "R\u00e9g\u00e9-Force",
+                    "description": "Restaure 1/3 des PV totaux si le Pok\u00e9mon est retir\u00e9 du combat.",
+                    "isHidden": true
+                }
             ],
             "height": 7,
             "weight": 145

@@ -20,8 +20,18 @@
             },
             "description": "Dans les temps anciens, aucun Pok\u00e9mon ne pouvait rivaliser avec lui. Ses puissantes m\u00e2choires peuvent r\u00e9duire une \u00e9paisse plaque de m\u00e9tal en confettis.",
             "abilities": [
-                227,
-                276
+                {
+                    "id": 227,
+                    "name": "Prognathe",
+                    "description": "Augmente la puissance des attaques \u00e0 base de morsures.",
+                    "isHidden": false
+                },
+                {
+                    "id": 276,
+                    "name": "T\u00eate de Roc",
+                    "description": "Le Pok\u00e9mon ne subit pas de d\u00e9g\u00e2ts de contrecoup.",
+                    "isHidden": true
+                }
             ],
             "height": 25,
             "weight": 2700

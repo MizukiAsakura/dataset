@@ -20,8 +20,18 @@
             },
             "description": "Pendant la journ\u00e9e, Mystherbe s'enterre dans le sol pour absorber avec son corps tout entier les nutriments pr\u00e9sents dans la terre. Plus le sol est fertile, plus ses feuilles sont brillantes.",
             "abilities": [
-                56,
-                128
+                {
+                    "id": 56,
+                    "name": "Chlorophylle",
+                    "description": "Augmente la vitesse au soleil.",
+                    "isHidden": false
+                },
+                {
+                    "id": 128,
+                    "name": "Fuite",
+                    "description": "Assure la fuite contre les Pok\u00e9mon sauvages.",
+                    "isHidden": true
+                }
             ],
             "height": 5,
             "weight": 54

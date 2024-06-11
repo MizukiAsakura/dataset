@@ -19,9 +19,24 @@
             },
             "description": "Les Taupiqueur sont \u00e9lev\u00e9s dans la plupart des fermes. En effet, lorsque ce Pok\u00e9mon creuse quelque part, le sol est comme labour\u00e9, pr\u00eat \u00e0 recevoir les semences. On peut alors y planter de d\u00e9licieux l\u00e9gumes.",
             "abilities": [
-                294,
-                295,
-                124
+                {
+                    "id": 294,
+                    "name": "Voile Sable",
+                    "description": "Augmente l'esquive de 20% lors d'une temp\u00eate de sable et immunise contre ses d\u00e9g\u00e2ts.",
+                    "isHidden": false
+                },
+                {
+                    "id": 295,
+                    "name": "Pi\u00e8ge Sable",
+                    "description": "Emp\u00eache la fuite des Pok\u00e9mon sauvage et le changement du Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 124,
+                    "name": "Force Sable",
+                    "description": "Lors d'une temp\u00eate de sable, la puissance des attaques de type Acier, Roche et Sol augmente de 30 %.",
+                    "isHidden": true
+                }
             ],
             "height": 2,
             "weight": 8
@@ -43,9 +58,24 @@
             },
             "description": "Les Taupiqueur sont \u00e9lev\u00e9s dans la plupart des fermes. En effet, lorsque ce Pok\u00e9mon creuse quelque part, le sol est comme labour\u00e9, pr\u00eat \u00e0 recevoir les semences. On peut alors y planter de d\u00e9licieux l\u00e9gumes.",
             "abilities": [
-                294,
-                173,
-                124
+                {
+                    "id": 294,
+                    "name": "Voile Sable",
+                    "description": "Augmente l'esquive de 20% lors d'une temp\u00eate de sable et immunise contre ses d\u00e9g\u00e2ts.",
+                    "isHidden": false
+                },
+                {
+                    "id": 173,
+                    "name": "M\u00e8che Rebelle",
+                    "description": "Baisse la Vitesse de l'attaquant lorsque le Pok\u00e9mon subit une attaque directe.",
+                    "isHidden": false
+                },
+                {
+                    "id": 124,
+                    "name": "Force Sable",
+                    "description": "Lors d'une temp\u00eate de sable, la puissance des attaques de type Acier, Roche et Sol augmente de 30 %.",
+                    "isHidden": true
+                }
             ],
             "height": 2,
             "weight": 1

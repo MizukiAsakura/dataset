@@ -19,7 +19,12 @@
             },
             "description": "Il se tient immobile au milieu des plaines et passe son temps \u00e0 observer la course du soleil dans le ciel. Son jeu de jambes est ph\u00e9nom\u00e9nal.",
             "abilities": [
-                49
+                {
+                    "id": 49,
+                    "name": "Cercle d'\u00c9nergie",
+                    "description": "Augmente la puissance des capacit\u00e9s des Pok\u00e9mon alli\u00e9s de 30 %.",
+                    "isHidden": false
+                }
             ],
             "height": 25,
             "weight": 5200

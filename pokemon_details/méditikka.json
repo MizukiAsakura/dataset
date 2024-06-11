@@ -20,8 +20,18 @@
             },
             "description": "MEDITIKKA poursuit un difficile entra\u00eenement mental dans les montagnes. Cependant, \u00e0 chaque fois qu'il m\u00e9dite, ce POK\u00e9MON perd sa concentration. Du coup, son entra\u00eenement ne s'arr\u00eate jamais.",
             "abilities": [
-                123,
-                270
+                {
+                    "id": 123,
+                    "name": "Force Pure",
+                    "description": "Double l'attaque du Pok\u00e9mon.",
+                    "isHidden": false
+                },
+                {
+                    "id": 270,
+                    "name": "T\u00e9l\u00e9pathe",
+                    "description": "Anticipe et \u00e9vite les attaques des alli\u00e9s en Combat Double ou triple.",
+                    "isHidden": true
+                }
             ],
             "height": 6,
             "weight": 112

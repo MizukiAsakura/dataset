@@ -19,8 +19,18 @@
             },
             "description": "Lorsque PICHU joue, il lui arrive de faire des courts-circuits avec un autre PICHU, cr\u00e9ant ainsi une gerbe d'\u00e9tincelles. Du coup, ce POK\u00e9MON prend peur et se met \u00e0 pleurer.",
             "abilities": [
-                260,
-                199
+                {
+                    "id": 260,
+                    "name": "Statik",
+                    "description": "30% de chance de provoquer la paralysie du Pok\u00e9mon adverse ayant lanc\u00e9 une attaque de contact.",
+                    "isHidden": false
+                },
+                {
+                    "id": 199,
+                    "name": "Paratonnerre",
+                    "description": "Attire toutes les attaques de type \u00c9lectrik. \u00c0 partir de la 5e g\u00e9n\u00e9ration, ce talent augmente aussi l'Attaque Sp\u00e9ciale du Pok\u00e9mon recevant l'attaque.",
+                    "isHidden": true
+                }
             ],
             "height": 3,
             "weight": 20

@@ -19,8 +19,18 @@
             },
             "description": "Il est tr\u00e8s fier de ses pattes avant muscl\u00e9es, et ne se g\u00eane pas pour le montrer en tordant des barres de fer d\u2019un seul coup de poing.",
             "abilities": [
-                44,
-                156
+                {
+                    "id": 44,
+                    "name": "Brasier",
+                    "description": "Augmente la puissance des attaques de type Feu de 50% lorsque le Pok\u00e9mon a moins d'1/3 de ses PV totaux.",
+                    "isHidden": false
+                },
+                {
+                    "id": 156,
+                    "name": "Intimidation",
+                    "description": "Diminue d'un niveau l'attaque du Pok\u00e9mon adverse.",
+                    "isHidden": true
+                }
             ],
             "height": 7,
             "weight": 250

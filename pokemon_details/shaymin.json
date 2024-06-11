@@ -19,7 +19,12 @@
             },
             "description": "Il peut d\u00e9composer les toxines pr\u00e9sentes dans l\u2019air pour transformer instantan\u00e9ment des terres arides en champs de fleurs.",
             "abilities": [
-                174
+                {
+                    "id": 174,
+                    "name": "M\u00e9dic Nature",
+                    "description": "Le Pok\u00e9mon est soign\u00e9 de toute alt\u00e9ration d'\u00e9tat lorsqu'il est chang\u00e9 ou en fin de combat.",
+                    "isHidden": false
+                }
             ],
             "height": 2,
             "weight": 21
@@ -41,7 +46,12 @@
             },
             "description": "Il peut d\u00e9composer les toxines pr\u00e9sentes dans l\u2019air pour transformer instantan\u00e9ment des terres arides en champs de fleurs.",
             "abilities": [
-                252
+                {
+                    "id": 252,
+                    "name": "S\u00e9r\u00e9nit\u00e9",
+                    "description": "Double les chances de r\u00e9ussite des effets secondaires des attaques.",
+                    "isHidden": false
+                }
             ],
             "height": 4,
             "weight": 52

@@ -20,9 +20,24 @@
             },
             "description": "Les deux \u00e9normes d\u00e9fenses de KAIMORSE peuvent d\u00e9truire en un seul coup des blocs de glace de plus de dix tonnes. L'\u00e9paisse couche de graisse de ce POK\u00e9MON l'isole lorsque la temp\u00e9rature est en dessous de z\u00e9ro.",
             "abilities": [
-                157,
-                71,
-                35
+                {
+                    "id": 157,
+                    "name": "Isograisse",
+                    "description": "Les d\u00e9g\u00e2ts provoqu\u00e9s par les attaques des types Feu ou Glace sont divis\u00e9s par 2.",
+                    "isHidden": false
+                },
+                {
+                    "id": 71,
+                    "name": "Corps Gel",
+                    "description": "R\u00e9g\u00e9n\u00e8re 1/16e des PV par temps de gr\u00eale. Immunise les Pok\u00e9mon n'ayant pas le type Glace contre la gr\u00eale.",
+                    "isHidden": false
+                },
+                {
+                    "id": 35,
+                    "name": "Ben\u00eat",
+                    "description": "Immunise contre l'attraction. \u00c0 partir de la 6e g\u00e9n\u00e9ration, ce talent immunise aussi contre la provocation.",
+                    "isHidden": true
+                }
             ],
             "height": 14,
             "weight": 1506

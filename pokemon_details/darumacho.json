@@ -19,8 +19,18 @@
             },
             "description": "Sa puissance augmente \u00e0 mesure que la flamme de son corps s\u2019intensifie. La temp\u00e9rature de celle-ci peut parfois d\u00e9passer les 1 400 \u00b0C.",
             "abilities": [
-                248,
-                181
+                {
+                    "id": 248,
+                    "name": "Sans Limite",
+                    "description": "Augmente de 30% la puissance des attaques pouvant avoir un effet secondaire. L'effet secondaire est annul\u00e9.",
+                    "isHidden": false
+                },
+                {
+                    "id": 181,
+                    "name": "Mode Transe",
+                    "description": "Le Pok\u00e9mon change de forme et modifie la r\u00e9partition de ses statistiques lorsque ses PV sont inf\u00e9rieurs \u00e0 50%.",
+                    "isHidden": true
+                }
             ],
             "height": 13,
             "weight": 929
@@ -42,8 +52,18 @@
             },
             "description": "Entrer dans un \u00e9tat de m\u00e9ditation profonde lui permet de calmer son esprit et d\u2019accro\u00eetre la puissance de ses pouvoirs psychiques.",
             "abilities": [
-                248,
-                181
+                {
+                    "id": 248,
+                    "name": "Sans Limite",
+                    "description": "Augmente de 30% la puissance des attaques pouvant avoir un effet secondaire. L'effet secondaire est annul\u00e9.",
+                    "isHidden": false
+                },
+                {
+                    "id": 181,
+                    "name": "Mode Transe",
+                    "description": "Le Pok\u00e9mon change de forme et modifie la r\u00e9partition de ses statistiques lorsque ses PV sont inf\u00e9rieurs \u00e0 50%.",
+                    "isHidden": true
+                }
             ],
             "height": 13,
             "weight": 929
@@ -64,8 +84,18 @@
             },
             "description": "Il conserve sa nourriture dans la boule de neige sur sa t\u00eate. Les jours de blizzard, il descend dans les villages habit\u00e9s par les humains.",
             "abilities": [
-                105,
-                181
+                {
+                    "id": 105,
+                    "name": "Ent\u00eatement",
+                    "description": "Augmente l'Attaque, mais emp\u00eache d'utiliser toute autre capacit\u00e9 que celle utilis\u00e9e en premier par le Pok\u00e9mon.",
+                    "isHidden": false
+                },
+                {
+                    "id": 181,
+                    "name": "Mode Transe",
+                    "description": "Le Pok\u00e9mon change de forme et modifie la r\u00e9partition de ses statistiques lorsque ses PV sont inf\u00e9rieurs \u00e0 50%.",
+                    "isHidden": true
+                }
             ],
             "height": 17,
             "weight": 1200
@@ -87,8 +117,18 @@
             },
             "description": "Sa col\u00e8re a raviv\u00e9 sa poche \u00e0 flammes qui \u00e9tait cens\u00e9e \u00eatre atrophi\u00e9e. Il crache du feu dans tous les sens sans faire attention aux alentours",
             "abilities": [
-                105,
-                181
+                {
+                    "id": 105,
+                    "name": "Ent\u00eatement",
+                    "description": "Augmente l'Attaque, mais emp\u00eache d'utiliser toute autre capacit\u00e9 que celle utilis\u00e9e en premier par le Pok\u00e9mon.",
+                    "isHidden": false
+                },
+                {
+                    "id": 181,
+                    "name": "Mode Transe",
+                    "description": "Le Pok\u00e9mon change de forme et modifie la r\u00e9partition de ses statistiques lorsque ses PV sont inf\u00e9rieurs \u00e0 50%.",
+                    "isHidden": true
+                }
             ],
             "height": 17,
             "weight": 1200

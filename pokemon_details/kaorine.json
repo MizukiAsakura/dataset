@@ -20,7 +20,12 @@
             },
             "description": "On raconte que les KAORINE sont des poup\u00e9es de boue cr\u00e9\u00e9es par les premiers hommes et qu'elles furent amen\u00e9es \u00e0 la vie apr\u00e8s une exposition \u00e0 un myst\u00e9rieux rayon. Ce POK\u00e9MON se d\u00e9place en l\u00e9vitant.",
             "abilities": [
-                162
+                {
+                    "id": 162,
+                    "name": "L\u00e9vitation",
+                    "description": "Immunise contre les attaques de type Sol.",
+                    "isHidden": false
+                }
             ],
             "height": 15,
             "weight": 1080

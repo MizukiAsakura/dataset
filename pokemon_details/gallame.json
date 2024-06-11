@@ -20,9 +20,24 @@
             },
             "description": "Ce Pok\u00e9mon, que l\u2019on surnomme \u00ab l\u2019escrimeur \u00bb, ne se sert de ses coudes en forme de lames que s\u2019il doit d\u00e9fendre quelque chose.",
             "abilities": [
-                149,
-                152,
-                59
+                {
+                    "id": 149,
+                    "name": "Impassible",
+                    "description": "Augmente d'un niveau la vitesse du Pok\u00e9mon lorsqu'il est apeur\u00e9.",
+                    "isHidden": false
+                },
+                {
+                    "id": 152,
+                    "name": "Incisif",
+                    "description": "Augmente la puissance des capacit\u00e9s tranchantes.",
+                    "isHidden": false
+                },
+                {
+                    "id": 59,
+                    "name": "C\u0153ur Noble",
+                    "description": "Si le Pok\u00e9mon est touch\u00e9 par une attaque de type T\u00e9n\u00e8bres, son attaque augmente d'un niveau.",
+                    "isHidden": true
+                }
             ],
             "height": 16,
             "weight": 520

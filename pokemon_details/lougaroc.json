@@ -19,9 +19,24 @@
             },
             "description": "Il fait tourner en bourrique ses ennemis \u00e0 cause de sa vitesse. Outre ses crocs et ses griffes, il peut compter sur le roc ac\u00e9r\u00e9 de sa crini\u00e8re.",
             "abilities": [
-                240,
-                30,
-                149
+                {
+                    "id": 240,
+                    "name": "Regard Vif",
+                    "description": "Emp\u00eache la perte de pr\u00e9cision.",
+                    "isHidden": false
+                },
+                {
+                    "id": 30,
+                    "name": "Baigne Sable",
+                    "description": "Double la Vitesse du Pok\u00e9mon lors d'une temp\u00eate de sable. Immunise contre les d\u00e9g\u00e2ts de la temp\u00eate.",
+                    "isHidden": false
+                },
+                {
+                    "id": 149,
+                    "name": "Impassible",
+                    "description": "Augmente d'un niveau la vitesse du Pok\u00e9mon lorsqu'il est apeur\u00e9.",
+                    "isHidden": true
+                }
             ],
             "height": 8,
             "weight": 250
@@ -42,9 +57,24 @@
             },
             "description": "Plus son adversaire est fort, plus il est combatif. Son coup de t\u00eate meurtrier peut r\u00e9duire un rocher immense en poussi\u00e8re.",
             "abilities": [
-                240,
-                110,
-                16
+                {
+                    "id": 240,
+                    "name": "Regard Vif",
+                    "description": "Emp\u00eache la perte de pr\u00e9cision.",
+                    "isHidden": false
+                },
+                {
+                    "id": 110,
+                    "name": "Esprit Vital",
+                    "description": "Emp\u00eache le Pok\u00e9mon d'\u00eatre endormi.",
+                    "isHidden": false
+                },
+                {
+                    "id": 16,
+                    "name": "Annule Garde",
+                    "description": "Toutes les attaques du Pok\u00e9mon et de son adversaire ont une pr\u00e9cision de 100%.",
+                    "isHidden": true
+                }
             ],
             "height": 11,
             "weight": 250
@@ -65,7 +95,12 @@
             },
             "description": "Ce Pok\u00e9mon \u00e0 l\u2019attitude r\u00e9fl\u00e9chie sait aussi \u00eatre f\u00e9roce. Il est difficile \u00e0 satisfaire, et donc compliqu\u00e9 \u00e0 apprivoiser.",
             "abilities": [
-                139
+                {
+                    "id": 139,
+                    "name": "Griffe Dure",
+                    "description": "Augmente d'un tiers la puissance des attaques directes.",
+                    "isHidden": false
+                }
             ],
             "height": 8,
             "weight": 250

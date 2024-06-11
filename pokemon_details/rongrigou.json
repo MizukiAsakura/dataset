@@ -19,8 +19,18 @@
             },
             "description": "Il amasse tellement de Baies dans sa queue qu\u2019elles tombent les unes apr\u00e8s les autres, mais il est si \u00e9tourdi qu\u2019il ne s\u2019en rend pas compte.",
             "abilities": [
-                31,
-                135
+                {
+                    "id": 31,
+                    "name": "Bajoues",
+                    "description": "Lorsque le Pok\u00e9mon mange une Baie, il obtient ses effets et regagne des PV en plus.",
+                    "isHidden": false
+                },
+                {
+                    "id": 135,
+                    "name": "Gloutonnerie",
+                    "description": "Le Pok\u00e9mon utilise la baie port\u00e9e lorsque les PV descendent en dessous de 50%.",
+                    "isHidden": true
+                }
             ],
             "height": 6,
             "weight": 60

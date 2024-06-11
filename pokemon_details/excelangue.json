@@ -19,9 +19,24 @@
             },
             "description": "Chaque fois qu'Excelangue d\u00e9couvre quelque chose de nouveau, il le l\u00e8che. Sa m\u00e9moire est bas\u00e9e sur le go\u00fbt et la texture des objets. Il n'aime pas les choses acides.",
             "abilities": [
-                35,
-                272,
-                57
+                {
+                    "id": 35,
+                    "name": "Ben\u00eat",
+                    "description": "Immunise contre l'attraction. \u00c0 partir de la 6e g\u00e9n\u00e9ration, ce talent immunise aussi contre la provocation.",
+                    "isHidden": false
+                },
+                {
+                    "id": 272,
+                    "name": "Tempo Perso",
+                    "description": "Immunise contre la confusion.",
+                    "isHidden": false
+                },
+                {
+                    "id": 57,
+                    "name": "Ciel Gris",
+                    "description": "Annule les effets du climat.",
+                    "isHidden": true
+                }
             ],
             "height": 12,
             "weight": 655

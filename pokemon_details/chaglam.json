@@ -19,9 +19,24 @@
             },
             "description": "Il griffe quand il est en col\u00e8re et ronronne quand il est heureux. Certains aiment ce c\u00f4t\u00e9 lunatique. Son regard plonge l'ennemi dans une hypnose l\u00e9g\u00e8re. C'est un Pok\u00e9mon tr\u00e8s lunatique.",
             "abilities": [
-                98,
-                272,
-                240
+                {
+                    "id": 98,
+                    "name": "\u00c9chauffement",
+                    "description": "Immunise contre la paralysie.",
+                    "isHidden": false
+                },
+                {
+                    "id": 272,
+                    "name": "Tempo Perso",
+                    "description": "Immunise contre la confusion.",
+                    "isHidden": false
+                },
+                {
+                    "id": 240,
+                    "name": "Regard Vif",
+                    "description": "Emp\u00eache la perte de pr\u00e9cision.",
+                    "isHidden": true
+                }
             ],
             "height": 5,
             "weight": 39

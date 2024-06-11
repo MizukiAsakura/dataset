@@ -19,7 +19,12 @@
             },
             "description": "Il d\u00e9chiquette son adversaire avec ses griffes charg\u00e9es d\u2019\u00e9lectricit\u00e9. M\u00eame si sa cible \u00e9vite l\u2019attaque, elle re\u00e7oit un coup de jus.",
             "abilities": [
-                3
+                {
+                    "id": 3,
+                    "name": "Absorb Volt",
+                    "description": "Les attaques de type \u00c9lectrik re\u00e7ues par le Pok\u00e9mon r\u00e9g\u00e9n\u00e8rent 1/4 de ses PV.",
+                    "isHidden": false
+                }
             ],
             "height": 15,
             "weight": 445

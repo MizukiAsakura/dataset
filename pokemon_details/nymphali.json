@@ -19,8 +19,18 @@
             },
             "description": "Gr\u00e2ce \u00e0 ses antennes semblables \u00e0 des rubans, il peut \u00e9mettre des ondes neutralisant l\u2019hostilit\u00e9 et ainsi endormir la m\u00e9fiance de ses proies.",
             "abilities": [
-                158,
-                204
+                {
+                    "id": 158,
+                    "name": "Joli Sourire",
+                    "description": "A 30% de chance de provoquer l'attirance du Pok\u00e9mon adverse ayant attaqu\u00e9.",
+                    "isHidden": false
+                },
+                {
+                    "id": 204,
+                    "name": "Peau F\u00e9\u00e9rique",
+                    "description": "Transforme les capacit\u00e9s de type Normal en type F\u00e9e et augmente leur puissance de 20% (30% dans la sixi\u00e8me g\u00e9n\u00e9ration).",
+                    "isHidden": true
+                }
             ],
             "height": 10,
             "weight": 235

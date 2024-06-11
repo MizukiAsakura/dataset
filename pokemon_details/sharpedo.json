@@ -20,8 +20,18 @@
             },
             "description": "Surnomm\u00e9 le \"tyran des mers\", SHARPEDO est craint de par le monde. Ses crocs mena\u00e7ants repoussent lorsqu'ils se brisent. Un seul de ces POK\u00e9MON peut d\u00e9truire un p\u00e9trolier gros porteur.",
             "abilities": [
-                202,
-                287
+                {
+                    "id": 202,
+                    "name": "Peau Dure",
+                    "description": "Fait perdre 1/8 des PV du Pok\u00e9mon adverse ayant lanc\u00e9 une attaque de contact",
+                    "isHidden": false
+                },
+                {
+                    "id": 287,
+                    "name": "Turbo",
+                    "description": "La vitesse du Pok\u00e9mon augmente \u00e0 chaque tour.",
+                    "isHidden": true
+                }
             ],
             "height": 18,
             "weight": 888

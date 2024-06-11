@@ -19,9 +19,24 @@
             },
             "description": "C\u2019est le plus faible de tous les Pok\u00e9mon Dragon. Sa peau doit rester hydrat\u00e9e pour respirer, c\u2019est pourquoi il pr\u00e9f\u00e8re vivre tapi dans l\u2019ombre.",
             "abilities": [
-                143,
-                141,
-                218
+                {
+                    "id": 143,
+                    "name": "Hydratation",
+                    "description": "Soigne les alt\u00e9rations d'\u00e9tat par temps de pluie.",
+                    "isHidden": false
+                },
+                {
+                    "id": 141,
+                    "name": "Herbivore",
+                    "description": "Si le Pok\u00e9mon est touch\u00e9 par une attaque de type Plante, son attaque augmente d'un niveau.",
+                    "isHidden": false
+                },
+                {
+                    "id": 218,
+                    "name": "Poisseux",
+                    "description": "Baisse la Vitesse des Pok\u00e9mon qui touchent ce Pok\u00e9mon avec une attaque directe.",
+                    "isHidden": true
+                }
             ],
             "height": 3,
             "weight": 28

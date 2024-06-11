@@ -19,9 +19,24 @@
             },
             "description": "\u00c9lectrode mange l'\u00e9lectricit\u00e9 qui se trouve dans l'atmosph\u00e8re. Les jours d'orage, on peut voir ce Pok\u00e9mon exploser sans arr\u00eat parce qu'il a aval\u00e9 trop d'\u00e9lectricit\u00e9.",
             "abilities": [
-                260,
-                17,
-                39
+                {
+                    "id": 260,
+                    "name": "Statik",
+                    "description": "30% de chance de provoquer la paralysie du Pok\u00e9mon adverse ayant lanc\u00e9 une attaque de contact.",
+                    "isHidden": false
+                },
+                {
+                    "id": 17,
+                    "name": "Anti-Bruit",
+                    "description": "Annule les effets dus \u00e0 une attaque sonore.",
+                    "isHidden": false
+                },
+                {
+                    "id": 39,
+                    "name": "Boom Final",
+                    "description": "Enl\u00e8ve 1/4 des PV totaux du Pok\u00e9mon ennemi mettant K.O. par contact.",
+                    "isHidden": true
+                }
             ],
             "height": 12,
             "weight": 666
@@ -43,9 +58,24 @@
             },
             "description": "\u00c9lectrode mange l'\u00e9lectricit\u00e9 qui se trouve dans l'atmosph\u00e8re. Les jours d'orage, on peut voir ce Pok\u00e9mon exploser sans arr\u00eat parce qu'il a aval\u00e9 trop d'\u00e9lectricit\u00e9.",
             "abilities": [
-                260,
-                17,
-                39
+                {
+                    "id": 260,
+                    "name": "Statik",
+                    "description": "30% de chance de provoquer la paralysie du Pok\u00e9mon adverse ayant lanc\u00e9 une attaque de contact.",
+                    "isHidden": false
+                },
+                {
+                    "id": 17,
+                    "name": "Anti-Bruit",
+                    "description": "Annule les effets dus \u00e0 une attaque sonore.",
+                    "isHidden": false
+                },
+                {
+                    "id": 39,
+                    "name": "Boom Final",
+                    "description": "Enl\u00e8ve 1/4 des PV totaux du Pok\u00e9mon ennemi mettant K.O. par contact.",
+                    "isHidden": true
+                }
             ],
             "height": 12,
             "weight": 710

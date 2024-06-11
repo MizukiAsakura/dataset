@@ -20,9 +20,24 @@
             },
             "description": "Les Lokhlass sont en voie d'extinction. Le soir, on entend ce Pok\u00e9mon chantonner une complainte m\u00e9lancolique, esp\u00e9rant retrouver ses rares cong\u00e9n\u00e8res.",
             "abilities": [
-                2,
-                66,
-                143
+                {
+                    "id": 2,
+                    "name": "Absorb Eau",
+                    "description": "Les attaques de type Eau re\u00e7ues par le Pok\u00e9mon r\u00e9g\u00e9n\u00e8rent 1/4 de ses PV.",
+                    "isHidden": false
+                },
+                {
+                    "id": 66,
+                    "name": "Coque Armure",
+                    "description": "Annule les chances de coups critiques du Pok\u00e9mon ennemi.",
+                    "isHidden": false
+                },
+                {
+                    "id": 143,
+                    "name": "Hydratation",
+                    "description": "Soigne les alt\u00e9rations d'\u00e9tat par temps de pluie.",
+                    "isHidden": true
+                }
             ],
             "height": 25,
             "weight": 2200

@@ -20,8 +20,18 @@
             },
             "description": "Nosferapti reste calme et immobile dans un coin sombre pendant la journ\u00e9e. En effet, une exposition trop longue \u00e0 la lumi\u00e8re du soleil lui br\u00fble l\u00e9g\u00e8rement la peau.",
             "abilities": [
-                26,
-                154
+                {
+                    "id": 26,
+                    "name": "Attention",
+                    "description": "Immunise contre la peur.",
+                    "isHidden": false
+                },
+                {
+                    "id": 154,
+                    "name": "Infiltration",
+                    "description": "Emp\u00eache les attaques de protection adverses tels que Protection ou Mur Lumi\u00e8re de fonctionner. N'influe pas sur D\u00e9tection et Abri.",
+                    "isHidden": true
+                }
             ],
             "height": 8,
             "weight": 75

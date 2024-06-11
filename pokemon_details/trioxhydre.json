@@ -20,7 +20,12 @@
             },
             "description": "Il d\u00e9vore tout ce qui bouge. Bon nombre de l\u00e9gendes mentionnent des villages entiers ras\u00e9s par un Trioxhydre.",
             "abilities": [
-                162
+                {
+                    "id": 162,
+                    "name": "L\u00e9vitation",
+                    "description": "Immunise contre les attaques de type Sol.",
+                    "isHidden": false
+                }
             ],
             "height": 18,
             "weight": 1600

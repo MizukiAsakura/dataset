@@ -19,7 +19,12 @@
             },
             "description": "On raconte qu\u2019apr\u00e8s avoir cr\u00e9\u00e9 des Pok\u00e9mon avec diff\u00e9rentes mati\u00e8res, il aurait plac\u00e9 les continents \u00e0 leur position actuelle.",
             "abilities": [
-                85
+                {
+                    "id": 85,
+                    "name": "D\u00e9but Calme",
+                    "description": "Divise par deux l'attaque et la vitesse du Pok\u00e9mon pendant 5 tours.",
+                    "isHidden": false
+                }
             ],
             "height": 37,
             "weight": 4200

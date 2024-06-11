@@ -19,9 +19,24 @@
             },
             "description": "Ses robustes pinces sont aussi efficaces pour l\u2019attaque que pour la d\u00e9fense. Les combats de Crabagarre ressemblent \u00e0 des matchs de boxe.",
             "abilities": [
-                144,
-                215,
-                61
+                {
+                    "id": 144,
+                    "name": "Hyper Cutter",
+                    "description": "Emp\u00eache la diminution d'attaque du Pok\u00e9mon.",
+                    "isHidden": false
+                },
+                {
+                    "id": 215,
+                    "name": "Poing de Fer",
+                    "description": "Augmente de 20% la puissance des attaques de \"Poing\".",
+                    "isHidden": false
+                },
+                {
+                    "id": 61,
+                    "name": "Col\u00e9rique",
+                    "description": "L'attaque du Pok\u00e9mon est fortement augment\u00e9e lorsqu'il subit un coup critique.",
+                    "isHidden": true
+                }
             ],
             "height": 6,
             "weight": 70

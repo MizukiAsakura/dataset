@@ -19,9 +19,24 @@
             },
             "description": "Ptitard a une peau tr\u00e8s fine. On peut m\u00eame voir les entrailles en spirale de ce Pok\u00e9mon \u00e0 travers sa peau. Malgr\u00e9 sa finesse, cette peau est aussi tr\u00e8s \u00e9lastique. M\u00eame les crocs les plus ac\u00e9r\u00e9s rebondissent dessus.",
             "abilities": [
-                2,
-                182,
-                57
+                {
+                    "id": 2,
+                    "name": "Absorb Eau",
+                    "description": "Les attaques de type Eau re\u00e7ues par le Pok\u00e9mon r\u00e9g\u00e9n\u00e8rent 1/4 de ses PV.",
+                    "isHidden": false
+                },
+                {
+                    "id": 182,
+                    "name": "Moiteur",
+                    "description": "\u00c9mp\u00eache l'utilisation d'attaques auto-destructrices par le Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 57,
+                    "name": "Ciel Gris",
+                    "description": "Annule les effets du climat.",
+                    "isHidden": true
+                }
             ],
             "height": 6,
             "weight": 124

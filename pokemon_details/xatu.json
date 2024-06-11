@@ -20,9 +20,24 @@
             },
             "description": "On sait que XATU se tient toute la journ\u00e9e debout, les yeux perdus vers l'horizon. Certaines personnes le v\u00e9n\u00e8rent comme un POK\u00e9MON mystique, persuad\u00e9es que XATU a le pouvoir de pr\u00e9dire l'avenir.",
             "abilities": [
-                265,
-                171,
-                180
+                {
+                    "id": 265,
+                    "name": "Synchro",
+                    "description": "Toute alt\u00e9ration d'\u00e9tat subie est transmise au Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 171,
+                    "name": "Matinal",
+                    "description": "R\u00e9duit le nombre de tours de sommeil du Pok\u00e9mon.",
+                    "isHidden": false
+                },
+                {
+                    "id": 180,
+                    "name": "Miroir Magik",
+                    "description": "Retourne les attaques de statut contre l'adversaire.",
+                    "isHidden": true
+                }
             ],
             "height": 15,
             "weight": 150

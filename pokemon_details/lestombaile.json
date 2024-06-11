@@ -20,9 +20,24 @@
             },
             "description": "Ce Pok\u00e9mon transporte sa nourriture jusqu'\u00e0 son nid gr\u00e2ce \u00e0 son tablier. Il aime larguer des objets qui s'\u00e9crasent avec fracas.",
             "abilities": [
-                58,
-                240,
-                219
+                {
+                    "id": 58,
+                    "name": "C\u0153ur de Coq",
+                    "description": "Emp\u00eache la d\u00e9fense du Pok\u00e9mon d'\u00eatre baiss\u00e9e par les attaques adverses.",
+                    "isHidden": false
+                },
+                {
+                    "id": 240,
+                    "name": "Regard Vif",
+                    "description": "Emp\u00eache la perte de pr\u00e9cision.",
+                    "isHidden": false
+                },
+                {
+                    "id": 219,
+                    "name": "Porte-Roche",
+                    "description": "Augmente la puissance des capacit\u00e9s de type Roche de 50%.",
+                    "isHidden": true
+                }
             ],
             "height": 15,
             "weight": 429

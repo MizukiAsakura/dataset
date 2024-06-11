@@ -20,7 +20,12 @@
             },
             "description": "Ce POK\u00e9MON est venu du futur en voyageant dans le temps. On raconte que tant que CELEBI appara\u00eet, cela signifie que le futur sera bon et agr\u00e9able.",
             "abilities": [
-                174
+                {
+                    "id": 174,
+                    "name": "M\u00e9dic Nature",
+                    "description": "Le Pok\u00e9mon est soign\u00e9 de toute alt\u00e9ration d'\u00e9tat lorsqu'il est chang\u00e9 ou en fin de combat.",
+                    "isHidden": false
+                }
             ],
             "height": 6,
             "weight": 50

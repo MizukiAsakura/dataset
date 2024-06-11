@@ -19,8 +19,18 @@
             },
             "description": "La journ\u00e9e, il passe son temps \u00e0 fl\u00e2ner au soleil et \u00e0 faire la sieste. Le soir venu, il part \u00e0 la recherche d\u2019un lieu plus s\u00fbr pour passer la nuit.",
             "abilities": [
-                118,
-                65
+                {
+                    "id": 118,
+                    "name": "Feuille Garde",
+                    "description": "Soigne les alt\u00e9rations d'\u00e9tat par temps ensoleill\u00e9.",
+                    "isHidden": false
+                },
+                {
+                    "id": 65,
+                    "name": "Contestation",
+                    "description": "Inverse les effets des attaques modifiant les statistiques.",
+                    "isHidden": true
+                }
             ],
             "height": 3,
             "weight": 15

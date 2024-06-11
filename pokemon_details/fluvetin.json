@@ -19,8 +19,18 @@
             },
             "description": "Ce Pok\u00e9mon s\u00e9cr\u00e8te son doux parfum gr\u00e2ce \u00e0 un organe en forme de poche. S\u2019il modifie son alimentation, l\u2019odeur de son parfum change.",
             "abilities": [
-                60,
-                25
+                {
+                    "id": 60,
+                    "name": "C\u0153ur Soin",
+                    "description": "\u00c0 la fin de chaque tour, le Pok\u00e9mon a 30% de chance de gu\u00e9rir ses alli\u00e9s d'une alt\u00e9ration d'\u00e9tat en Combat Double ou triple.",
+                    "isHidden": false
+                },
+                {
+                    "id": 25,
+                    "name": "Aroma-Voile",
+                    "description": "Prot\u00e8ge les Pok\u00e9mon alli\u00e9s des capacit\u00e9s ayant un effet sur l'\u00e9tat mental tels que Attraction ou Tourmente.",
+                    "isHidden": true
+                }
             ],
             "height": 2,
             "weight": 5

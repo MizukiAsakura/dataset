@@ -19,9 +19,24 @@
             },
             "description": "ECREMEUH produit plus de 20 litres de lait par jour. Son lait sucr\u00e9 fait le bonheur des petits et des grands. Les gens qui ne boivent pas de lait en font du yaourt.",
             "abilities": [
-                157,
-                232,
-                141
+                {
+                    "id": 157,
+                    "name": "Isograisse",
+                    "description": "Les d\u00e9g\u00e2ts provoqu\u00e9s par les attaques des types Feu ou Glace sont divis\u00e9s par 2.",
+                    "isHidden": false
+                },
+                {
+                    "id": 232,
+                    "name": "Querelleur",
+                    "description": "Permet de toucher les Pok\u00e9mon de type Spectre avec des attaques de type Normal ou Combat.",
+                    "isHidden": false
+                },
+                {
+                    "id": 141,
+                    "name": "Herbivore",
+                    "description": "Si le Pok\u00e9mon est touch\u00e9 par une attaque de type Plante, son attaque augmente d'un niveau.",
+                    "isHidden": true
+                }
             ],
             "height": 12,
             "weight": 755

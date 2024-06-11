@@ -20,9 +20,24 @@
             },
             "description": "Il imite ses ennemis. Une fois imit\u00e9s, ils ne peuvent plus quitter ce Pok\u00e9mon des yeux. Il aime les endroits bond\u00e9s. Il imite l'ennemi pour le d\u00e9stabiliser avant de s'enfuir.",
             "abilities": [
-                17,
-                120,
-                268
+                {
+                    "id": 17,
+                    "name": "Anti-Bruit",
+                    "description": "Annule les effets dus \u00e0 une attaque sonore.",
+                    "isHidden": false
+                },
+                {
+                    "id": 120,
+                    "name": "Filtre",
+                    "description": "Retire 1/4 des d\u00e9g\u00e2ts subits lors d'une attaque super efficace.",
+                    "isHidden": false
+                },
+                {
+                    "id": 268,
+                    "name": "Technicien",
+                    "description": "Augmente de 50% la puissance des attaques dont la puissance est inf\u00e9rieure ou \u00e9gale \u00e0 60.",
+                    "isHidden": true
+                }
             ],
             "height": 6,
             "weight": 130

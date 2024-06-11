@@ -19,9 +19,24 @@
             },
             "description": "QUEULORIOR d\u00e9limite son territoire en lib\u00e9rant un fluide corporel qui sort de sa queue. On a d\u00e9couvert plus de 5 000 traces diff\u00e9rentes de fluide laiss\u00e9es par ce POK\u00e9MON.",
             "abilities": [
-                268,
-                272,
-                166
+                {
+                    "id": 268,
+                    "name": "Technicien",
+                    "description": "Augmente de 50% la puissance des attaques dont la puissance est inf\u00e9rieure ou \u00e9gale \u00e0 60.",
+                    "isHidden": false
+                },
+                {
+                    "id": 272,
+                    "name": "Tempo Perso",
+                    "description": "Immunise contre la confusion.",
+                    "isHidden": false
+                },
+                {
+                    "id": 166,
+                    "name": "Lunatique",
+                    "description": "Al\u00e9atoirement, \u00e0 la fin de chaque tour, une statistique du Pok\u00e9mon augmente de deux niveaux, et une autre baisse d'un niveau (pr\u00e9cision et esquive comprises).",
+                    "isHidden": true
+                }
             ],
             "height": 12,
             "weight": 580

@@ -20,9 +20,24 @@
             },
             "description": "On dit que dans les pays o\u00f9 le ciel est d\u00e9gag\u00e9 et o\u00f9 les \u00e9toiles illuminent les cieux, vivent d'innombrables quantit\u00e9s de COXYCLAQUE. La raison en est simple: l'\u00e9nergie de ce POK\u00e9MON provient de la lumi\u00e8re des \u00e9toiles.",
             "abilities": [
-                111,
-                171,
-                215
+                {
+                    "id": 111,
+                    "name": "Essaim",
+                    "description": "Augmente la puissance des attaques de type Insecte de 50% lorsque le Pok\u00e9mon a moins d'1/3 de ses PV totaux.",
+                    "isHidden": false
+                },
+                {
+                    "id": 171,
+                    "name": "Matinal",
+                    "description": "R\u00e9duit le nombre de tours de sommeil du Pok\u00e9mon.",
+                    "isHidden": false
+                },
+                {
+                    "id": 215,
+                    "name": "Poing de Fer",
+                    "description": "Augmente de 20% la puissance des attaques de \"Poing\".",
+                    "isHidden": true
+                }
             ],
             "height": 14,
             "weight": 356

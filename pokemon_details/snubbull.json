@@ -19,9 +19,24 @@
             },
             "description": "SNUBBULL terrorise les POK\u00e9MON plus petits que lui en montrant les dents et en faisant une grimace. Cependant, ce POK\u00e9MON est toujours un peu triste de voir ses ennemis prendre la fuite.",
             "abilities": [
-                128,
-                156,
-                290
+                {
+                    "id": 128,
+                    "name": "Fuite",
+                    "description": "Assure la fuite contre les Pok\u00e9mon sauvages.",
+                    "isHidden": false
+                },
+                {
+                    "id": 156,
+                    "name": "Intimidation",
+                    "description": "Diminue d'un niveau l'attaque du Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 290,
+                    "name": "Vaccin",
+                    "description": "Immunise contre l'empoisonnement.",
+                    "isHidden": true
+                }
             ],
             "height": 6,
             "weight": 78

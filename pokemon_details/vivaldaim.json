@@ -20,9 +20,24 @@
             },
             "description": "Son pelage change selon la saison, et dans une moindre mesure en fonction de l\u2019humidit\u00e9 et de la temp\u00e9rature.",
             "abilities": [
-                56,
-                141,
-                252
+                {
+                    "id": 56,
+                    "name": "Chlorophylle",
+                    "description": "Augmente la vitesse au soleil.",
+                    "isHidden": false
+                },
+                {
+                    "id": 141,
+                    "name": "Herbivore",
+                    "description": "Si le Pok\u00e9mon est touch\u00e9 par une attaque de type Plante, son attaque augmente d'un niveau.",
+                    "isHidden": false
+                },
+                {
+                    "id": 252,
+                    "name": "S\u00e9r\u00e9nit\u00e9",
+                    "description": "Double les chances de r\u00e9ussite des effets secondaires des attaques.",
+                    "isHidden": true
+                }
             ],
             "height": 6,
             "weight": 195

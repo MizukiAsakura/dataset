@@ -19,9 +19,24 @@
             },
             "description": "Un Pok\u00e9mon tr\u00e8s t\u00eatu, qui aime faire les choses \u00e0 son rythme. Il passe ses journ\u00e9es \u00e0 m\u00e2cher de la terre pour en faire de la boue et jouer avec.",
             "abilities": [
-                272,
-                103,
-                26
+                {
+                    "id": 272,
+                    "name": "Tempo Perso",
+                    "description": "Immunise contre la confusion.",
+                    "isHidden": false
+                },
+                {
+                    "id": 103,
+                    "name": "Endurance",
+                    "description": "Augmente la D\u00e9fense lorsque le Pok\u00e9mon est touch\u00e9 par une attaque.",
+                    "isHidden": false
+                },
+                {
+                    "id": 26,
+                    "name": "Attention",
+                    "description": "Immunise contre la peur.",
+                    "isHidden": true
+                }
             ],
             "height": 10,
             "weight": 1100

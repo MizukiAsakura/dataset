@@ -19,8 +19,18 @@
             },
             "description": "Quand son Dresseur le tient par une corne, il est capable de deviner ses plus subtils changements d\u2019humeur et de s\u2019y adapter.",
             "abilities": [
-                141,
-                280
+                {
+                    "id": 141,
+                    "name": "Herbivore",
+                    "description": "Si le Pok\u00e9mon est touch\u00e9 par une attaque de type Plante, son attaque augmente d'un niveau.",
+                    "isHidden": false
+                },
+                {
+                    "id": 280,
+                    "name": "Toison Herbue",
+                    "description": "Augmente la D\u00e9fense lorsque Champ Herbu est en vigueur.",
+                    "isHidden": true
+                }
             ],
             "height": 17,
             "weight": 910

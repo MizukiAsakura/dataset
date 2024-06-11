@@ -19,9 +19,24 @@
             },
             "description": "Lorsqu'AVALTOUT rep\u00e8re une proie, il lib\u00e8re une substance terriblement toxique de ses pores et en enduit son ennemi pour l'affaiblir. Ce POK\u00e9MON peut ensuite l'avaler d'un coup dans sa gigantesque bouche.",
             "abilities": [
-                261,
-                137,
-                135
+                {
+                    "id": 261,
+                    "name": "Suintement",
+                    "description": "Les attaques absorbantes du Pok\u00e9mon adverse lui font perdre des PV.",
+                    "isHidden": false
+                },
+                {
+                    "id": 137,
+                    "name": "Glue",
+                    "description": "Emp\u00eache la perte de l'objet tenu.",
+                    "isHidden": false
+                },
+                {
+                    "id": 135,
+                    "name": "Gloutonnerie",
+                    "description": "Le Pok\u00e9mon utilise la baie port\u00e9e lorsque les PV descendent en dessous de 50%.",
+                    "isHidden": true
+                }
             ],
             "height": 17,
             "weight": 800

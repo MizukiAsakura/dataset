@@ -20,7 +20,12 @@
             },
             "description": "Sa t\u00eate est si lourde que quand il la pose en douceur sur le sol, celui-ci se fend et une faille de 50 m\u00e8tres de profondeur se forme.",
             "abilities": [
-                289
+                {
+                    "id": 289,
+                    "name": "Urne du Fl\u00e9au",
+                    "description": "Le pouvoir de l\u2019urne qui appelle le fl\u00e9au affaiblit l\u2019Attaque Sp\u00e9ciale de tous les autres Pok\u00e9mon.",
+                    "isHidden": false
+                }
             ],
             "height": 27,
             "weight": 6997

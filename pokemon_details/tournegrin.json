@@ -19,9 +19,24 @@
             },
             "description": "TOURNEGRIN essaye de bouger le moins possible. C'est parce qu'il veut conserver tous les nutriments qu'il stocke dans son corps pour son \u00e9volution. Il ne mange pas, ne subsistant que gr\u00e2ce \u00e0 la ros\u00e9e matinale.",
             "abilities": [
-                56,
-                125,
-                171
+                {
+                    "id": 56,
+                    "name": "Chlorophylle",
+                    "description": "Augmente la vitesse au soleil.",
+                    "isHidden": false
+                },
+                {
+                    "id": 125,
+                    "name": "Force Soleil",
+                    "description": "Augmente l'attaque sp\u00e9ciale de 50% par temps ensoleill\u00e9, mais diminue les PV de 1/8e par tour.",
+                    "isHidden": false
+                },
+                {
+                    "id": 171,
+                    "name": "Matinal",
+                    "description": "R\u00e9duit le nombre de tours de sommeil du Pok\u00e9mon.",
+                    "isHidden": true
+                }
             ],
             "height": 3,
             "weight": 18

@@ -20,9 +20,24 @@
             },
             "description": "La toile tiss\u00e9e par MIMIGAL peut \u00eatre compar\u00e9e \u00e0 un second syst\u00e8me nerveux. On raconte que ce POK\u00e9MON peut d\u00e9terminer quel type de proie touche sa toile gr\u00e2ce aux infimes vibrations des fils.",
             "abilities": [
-                111,
-                171,
-                254
+                {
+                    "id": 111,
+                    "name": "Essaim",
+                    "description": "Augmente la puissance des attaques de type Insecte de 50% lorsque le Pok\u00e9mon a moins d'1/3 de ses PV totaux.",
+                    "isHidden": false
+                },
+                {
+                    "id": 171,
+                    "name": "Matinal",
+                    "description": "R\u00e9duit le nombre de tours de sommeil du Pok\u00e9mon.",
+                    "isHidden": false
+                },
+                {
+                    "id": 254,
+                    "name": "Sniper",
+                    "description": "Triple la puissance des coups critiques.",
+                    "isHidden": true
+                }
             ],
             "height": 5,
             "weight": 85

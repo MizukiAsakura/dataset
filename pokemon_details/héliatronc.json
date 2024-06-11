@@ -19,9 +19,24 @@
             },
             "description": "HELIATRONC convertit l'\u00e9nergie solaire en nutriments. Il remue activement pendant la journ\u00e9e, quand il fait chaud. Il devient immobile d\u00e8s que le soleil se couche.",
             "abilities": [
-                56,
-                125,
-                171
+                {
+                    "id": 56,
+                    "name": "Chlorophylle",
+                    "description": "Augmente la vitesse au soleil.",
+                    "isHidden": false
+                },
+                {
+                    "id": 125,
+                    "name": "Force Soleil",
+                    "description": "Augmente l'attaque sp\u00e9ciale de 50% par temps ensoleill\u00e9, mais diminue les PV de 1/8e par tour.",
+                    "isHidden": false
+                },
+                {
+                    "id": 171,
+                    "name": "Matinal",
+                    "description": "R\u00e9duit le nombre de tours de sommeil du Pok\u00e9mon.",
+                    "isHidden": true
+                }
             ],
             "height": 8,
             "weight": 85

@@ -20,9 +20,24 @@
             },
             "description": "Apr\u00e8s avoir d\u00e9pec\u00e9 ses ennemis, il va sur les berges pour aiguiser ses lames sur une pierre. Chaque Scalpion a d\u2019ailleurs son caillou f\u00e9tiche.",
             "abilities": [
-                5,
-                26,
-                223
+                {
+                    "id": 5,
+                    "name": "Acharn\u00e9",
+                    "description": "Monte l'Attaque du Pok\u00e9mon de deux niveaux si l'une de ses statistiques est baiss\u00e9e par l'adversaire.",
+                    "isHidden": false
+                },
+                {
+                    "id": 26,
+                    "name": "Attention",
+                    "description": "Immunise contre la peur.",
+                    "isHidden": false
+                },
+                {
+                    "id": 223,
+                    "name": "Pression",
+                    "description": "Double l'utilisation de PP des attaques offensives du Pok\u00e9mon adverse.",
+                    "isHidden": true
+                }
             ],
             "height": 5,
             "weight": 102

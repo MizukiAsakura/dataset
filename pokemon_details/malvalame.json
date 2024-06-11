@@ -20,8 +20,18 @@
             },
             "description": "Les flammes de ses \u00e9p\u00e9es sont anim\u00e9es par la ranc\u0153ur d'une \u00e2me guerri\u00e8re qui a p\u00e9ri avant de pouvoir accomplir son but.\nIl a \u00e9volu\u00e9 gr\u00e2ce \u00e0 une vieille armure impr\u00e9gn\u00e9e de ranc\u0153ur. Ce Pok\u00e9mon lac\u00e8re ses ennemis sans aucune merci. ",
             "abilities": [
-                281,
-                24
+                {
+                    "id": 281,
+                    "name": "Torche",
+                    "description": "Annule les d\u00e9g\u00e2ts des attaques de type Feu subies et augmente de 50% la puissance des attaques de type Feu lanc\u00e9es.",
+                    "isHidden": false
+                },
+                {
+                    "id": 24,
+                    "name": "Armurouill\u00e9e",
+                    "description": "Le Pok\u00e9mon touch\u00e9 par une attaque physique voit sa d\u00e9fense diminu\u00e9e d'un niveau et sa vitesse augment\u00e9e de deux.",
+                    "isHidden": true
+                }
             ],
             "height": 16,
             "weight": 620

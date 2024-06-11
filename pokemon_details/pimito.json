@@ -19,9 +19,24 @@
             },
             "description": "Une fois tomb\u00e9e, l'incisive de ce Pok\u00e9mon sert \u00e0 relever les plats de la r\u00e9gion de Paldea.",
             "abilities": [
-                56,
-                155,
-                169
+                {
+                    "id": 56,
+                    "name": "Chlorophylle",
+                    "description": "Augmente la vitesse au soleil.",
+                    "isHidden": false
+                },
+                {
+                    "id": 155,
+                    "name": "Insomnia",
+                    "description": "Emp\u00eache le Pok\u00e9mon d'\u00eatre endormi.",
+                    "isHidden": false
+                },
+                {
+                    "id": 169,
+                    "name": "Maladresse",
+                    "description": "Emp\u00eache l'utilisation et/ou ignore l'effet des objets tenus en combat.",
+                    "isHidden": true
+                }
             ],
             "height": 3,
             "weight": 30

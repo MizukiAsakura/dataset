@@ -20,9 +20,24 @@
             },
             "description": "Sa t\u00eate verte est agressive \u00e0 cause des substances \u00e9pic\u00e9es qui stimulent son cerveau. Quand elle s'\u00e9nerve, rien ne peut l'arr\u00eater.",
             "abilities": [
-                56,
-                155,
-                166
+                {
+                    "id": 56,
+                    "name": "Chlorophylle",
+                    "description": "Augmente la vitesse au soleil.",
+                    "isHidden": false
+                },
+                {
+                    "id": 155,
+                    "name": "Insomnia",
+                    "description": "Emp\u00eache le Pok\u00e9mon d'\u00eatre endormi.",
+                    "isHidden": false
+                },
+                {
+                    "id": 166,
+                    "name": "Lunatique",
+                    "description": "Al\u00e9atoirement, \u00e0 la fin de chaque tour, une statistique du Pok\u00e9mon augmente de deux niveaux, et une autre baisse d'un niveau (pr\u00e9cision et esquive comprises).",
+                    "isHidden": true
+                }
             ],
             "height": 9,
             "weight": 150

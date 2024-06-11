@@ -20,7 +20,12 @@
             },
             "description": "Il peut cracher des flammes et du gaz toxique par les naseaux. Ses excr\u00e9ments sont des explosifs qui peuvent servir \u00e0 plein de choses.",
             "abilities": [
-                66
+                {
+                    "id": 66,
+                    "name": "Coque Armure",
+                    "description": "Annule les chances de coups critiques du Pok\u00e9mon ennemi.",
+                    "isHidden": false
+                }
             ],
             "height": 20,
             "weight": 2120

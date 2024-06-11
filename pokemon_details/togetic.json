@@ -19,9 +19,24 @@
             },
             "description": "On raconte que TOGETIC est un POK\u00e9MON qui porte chance. Si ce POK\u00e9MON remarque quelqu'un dot\u00e9 d'un c\u0153ur pur, il surgit et partage son bonheur avec la personne en question.",
             "abilities": [
-                252,
-                8,
-                51
+                {
+                    "id": 252,
+                    "name": "S\u00e9r\u00e9nit\u00e9",
+                    "description": "Double les chances de r\u00e9ussite des effets secondaires des attaques.",
+                    "isHidden": false
+                },
+                {
+                    "id": 8,
+                    "name": "Agitation",
+                    "description": "Augmente l'attaque de 50% mais baisse la pr\u00e9cision de 20%.",
+                    "isHidden": false
+                },
+                {
+                    "id": 51,
+                    "name": "Chanceux",
+                    "description": "Double les chances de porter un coup critique.",
+                    "isHidden": true
+                }
             ],
             "height": 6,
             "weight": 32

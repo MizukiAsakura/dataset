@@ -20,8 +20,18 @@
             },
             "description": "Habitant des volcans et des r\u00e9gions rocheuses arides, il exhale un gaz toxique au parfum doux pour attirer et pi\u00e9ger les Pok\u00e9mon Insecte.",
             "abilities": [
-                74,
-                35
+                {
+                    "id": 74,
+                    "name": "Corrosion",
+                    "description": "Permet d'empoisonner n'importe quel Pok\u00e9mon quel que soit son type.",
+                    "isHidden": false
+                },
+                {
+                    "id": 35,
+                    "name": "Ben\u00eat",
+                    "description": "Immunise contre l'attraction. \u00c0 partir de la 6e g\u00e9n\u00e9ration, ce talent immunise aussi contre la provocation.",
+                    "isHidden": true
+                }
             ],
             "height": 6,
             "weight": 48

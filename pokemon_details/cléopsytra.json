@@ -19,9 +19,24 @@
             },
             "description": "Son \u00e9nergie psychique \u00e9mane des interstices situ\u00e9s entre ses volants color\u00e9s. Il peut courir \u00e0 une vitesse de 200 km/h.",
             "abilities": [
-                195,
-                126,
-                287
+                {
+                    "id": 195,
+                    "name": "Opportuniste",
+                    "description": "Quand les statistiques de l\u2019ennemi augmentent, le Pok\u00e9mon en profite pour augmenter ses statistiques de la m\u00eame mani\u00e8re.",
+                    "isHidden": false
+                },
+                {
+                    "id": 126,
+                    "name": "Fouille",
+                    "description": "Permet de connaitre l'objet tenu d'un Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 287,
+                    "name": "Turbo",
+                    "description": "La vitesse du Pok\u00e9mon augmente \u00e0 chaque tour.",
+                    "isHidden": true
+                }
             ],
             "height": 19,
             "weight": 900

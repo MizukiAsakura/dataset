@@ -19,8 +19,18 @@
             },
             "description": "Lorsqu\u2019il court, on peut voir de l\u2019\u00e9lectricit\u00e9 se former \u00e0 la base de sa queue. Ce Pok\u00e9mon est tr\u00e8s populaire aupr\u00e8s des bergers de Galar.",
             "abilities": [
-                235,
-                209
+                {
+                    "id": 235,
+                    "name": "Ramassage",
+                    "description": "Donne une chance au Pok\u00e9mon de ramasser un objet apr\u00e8s un combat.",
+                    "isHidden": false
+                },
+                {
+                    "id": 209,
+                    "name": "Phobique",
+                    "description": "Si le Pok\u00e9mon est touch\u00e9 par une attaque de type Insecte, Spectre ou T\u00e9n\u00e8bres, sa vitesse augmente d'un niveau.",
+                    "isHidden": true
+                }
             ],
             "height": 3,
             "weight": 135

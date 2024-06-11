@@ -20,8 +20,18 @@
             },
             "description": "Certains disent qu\u2019il r\u00e9pand ses \u00e9cailles ardentes pour provoquer des incendies, d\u2019autres, pour sauver ceux qui souffrent du froid.",
             "abilities": [
-                67,
-                111
+                {
+                    "id": 67,
+                    "name": "Corps Ardent",
+                    "description": "30% de chance de provoquer une br\u00fblure sur le Pok\u00e9mon adverse ayant attaqu\u00e9.",
+                    "isHidden": false
+                },
+                {
+                    "id": 111,
+                    "name": "Essaim",
+                    "description": "Augmente la puissance des attaques de type Insecte de 50% lorsque le Pok\u00e9mon a moins d'1/3 de ses PV totaux.",
+                    "isHidden": true
+                }
             ],
             "height": 16,
             "weight": 460

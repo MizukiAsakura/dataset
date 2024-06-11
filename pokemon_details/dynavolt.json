@@ -19,9 +19,24 @@
             },
             "description": "DYNAVOLT stocke de l'\u00e9lectricit\u00e9 dans les poils de son corps allong\u00e9. Ce POK\u00e9MON stimule les muscles de ses jambes avec des charges \u00e9lectriques, ce qui le rend capable d'acc\u00e9l\u00e9rations fulgurantes.",
             "abilities": [
-                199,
-                260,
-                179
+                {
+                    "id": 199,
+                    "name": "Paratonnerre",
+                    "description": "Attire toutes les attaques de type \u00c9lectrik. \u00c0 partir de la 5e g\u00e9n\u00e9ration, ce talent augmente aussi l'Attaque Sp\u00e9ciale du Pok\u00e9mon recevant l'attaque.",
+                    "isHidden": false
+                },
+                {
+                    "id": 260,
+                    "name": "Statik",
+                    "description": "30% de chance de provoquer la paralysie du Pok\u00e9mon adverse ayant lanc\u00e9 une attaque de contact.",
+                    "isHidden": false
+                },
+                {
+                    "id": 179,
+                    "name": "Moins",
+                    "description": "Augmente l'attaque sp\u00e9ciale de 50% si le partenaire \u00e0 le talent Plus.",
+                    "isHidden": true
+                }
             ],
             "height": 6,
             "weight": 152

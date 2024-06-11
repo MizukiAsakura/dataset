@@ -20,8 +20,18 @@
             },
             "description": "PAPINOX est instinctivement attir\u00e9 par la lumi\u00e8re. Des nu\u00e9es de ce POK\u00e9MON sont attir\u00e9es par les r\u00e9verb\u00e8res des villes, o\u00f9 ils s\u00e8ment la pagaille en grignotant les feuilles des arbres en bordure de route.",
             "abilities": [
-                100,
-                194
+                {
+                    "id": 100,
+                    "name": "\u00c9cran Poudre",
+                    "description": "Emp\u00eache les effets secondaires des attaques subies.",
+                    "isHidden": false
+                },
+                {
+                    "id": 194,
+                    "name": "\u0152il Compos\u00e9",
+                    "description": "Augmente de 30% la pr\u00e9cision du Pok\u00e9mon.",
+                    "isHidden": true
+                }
             ],
             "height": 12,
             "weight": 316

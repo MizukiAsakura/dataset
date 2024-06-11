@@ -19,9 +19,24 @@
             },
             "description": "Il a quelques difficult\u00e9s \u00e0 contr\u00f4ler son pouvoir psychique. Gr\u00e2ce \u00e0 celui-ci, il peut projeter en l\u2019air tous les objets dans un rayon de 100 m.",
             "abilities": [
-                154,
-                240,
-                272
+                {
+                    "id": 154,
+                    "name": "Infiltration",
+                    "description": "Emp\u00eache les attaques de protection adverses tels que Protection ou Mur Lumi\u00e8re de fonctionner. N'influe pas sur D\u00e9tection et Abri.",
+                    "isHidden": false
+                },
+                {
+                    "id": 240,
+                    "name": "Regard Vif",
+                    "description": "Emp\u00eache la perte de pr\u00e9cision.",
+                    "isHidden": false
+                },
+                {
+                    "id": 272,
+                    "name": "Tempo Perso",
+                    "description": "Immunise contre la confusion.",
+                    "isHidden": true
+                }
             ],
             "height": 3,
             "weight": 35

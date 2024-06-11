@@ -20,9 +20,24 @@
             },
             "description": "Le corps de Tentacool est principalement aqueux. Si on le retire de l'eau, il se d\u00e9shydrate compl\u00e8tement. Si cela arrive, il suffit de le replonger dans un liquide pour qu'il reprenne sa forme normale.",
             "abilities": [
-                73,
-                261,
-                83
+                {
+                    "id": 73,
+                    "name": "Corps Sain",
+                    "description": "Emp\u00eache la diminution de statistiques par le Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 261,
+                    "name": "Suintement",
+                    "description": "Les attaques absorbantes du Pok\u00e9mon adverse lui font perdre des PV.",
+                    "isHidden": false
+                },
+                {
+                    "id": 83,
+                    "name": "Cuvette",
+                    "description": "R\u00e9g\u00e9n\u00e8re 1/16e des PV par temps de pluie.",
+                    "isHidden": true
+                }
             ],
             "height": 9,
             "weight": 455

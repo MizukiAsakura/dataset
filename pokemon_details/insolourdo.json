@@ -19,9 +19,24 @@
             },
             "description": "INSOLOURDO a une perceuse au bout de la queue. Il l'utilise pour creuser des souterrains, \u00e0 reculons. On dit que ce POK\u00e9MON enfouit son nid aux formes complexes sous terre.",
             "abilities": [
-                252,
-                128,
-                209
+                {
+                    "id": 252,
+                    "name": "S\u00e9r\u00e9nit\u00e9",
+                    "description": "Double les chances de r\u00e9ussite des effets secondaires des attaques.",
+                    "isHidden": false
+                },
+                {
+                    "id": 128,
+                    "name": "Fuite",
+                    "description": "Assure la fuite contre les Pok\u00e9mon sauvages.",
+                    "isHidden": false
+                },
+                {
+                    "id": 209,
+                    "name": "Phobique",
+                    "description": "Si le Pok\u00e9mon est touch\u00e9 par une attaque de type Insecte, Spectre ou T\u00e9n\u00e8bres, sa vitesse augmente d'un niveau.",
+                    "isHidden": true
+                }
             ],
             "height": 15,
             "weight": 140

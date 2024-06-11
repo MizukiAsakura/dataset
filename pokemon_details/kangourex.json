@@ -19,9 +19,24 @@
             },
             "description": "Lorsqu'on rencontre un petit Kangourex qui joue tout seul, il ne faut jamais le d\u00e9ranger ou essayer de l'attraper. Les parents du b\u00e9b\u00e9 Pok\u00e9mon sont s\u00fbrement dans le coin et ils risquent d'entrer dans une col\u00e8re noire.",
             "abilities": [
-                171,
-                232,
-                26
+                {
+                    "id": 171,
+                    "name": "Matinal",
+                    "description": "R\u00e9duit le nombre de tours de sommeil du Pok\u00e9mon.",
+                    "isHidden": false
+                },
+                {
+                    "id": 232,
+                    "name": "Querelleur",
+                    "description": "Permet de toucher les Pok\u00e9mon de type Spectre avec des attaques de type Normal ou Combat.",
+                    "isHidden": false
+                },
+                {
+                    "id": 26,
+                    "name": "Attention",
+                    "description": "Immunise contre la peur.",
+                    "isHidden": true
+                }
             ],
             "height": 22,
             "weight": 800

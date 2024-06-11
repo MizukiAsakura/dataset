@@ -19,9 +19,24 @@
             },
             "description": "Sa couleur et sa forme varient selon les r\u00e9gions. On en recense deux types \u00e0 Sinnoh. Il vit le long des points d'eau. Sa morphologie a chang\u00e9 pour s'adapter \u00e0 son environnement.",
             "abilities": [
-                137,
-                160,
-                124
+                {
+                    "id": 137,
+                    "name": "Glue",
+                    "description": "Emp\u00eache la perte de l'objet tenu.",
+                    "isHidden": false
+                },
+                {
+                    "id": 160,
+                    "name": "Lavabo",
+                    "description": "Attire toutes les attaques de type Eau. \u00c0 partir de la 5e g\u00e9n\u00e9ration, ce talent augmente aussi l'Attaque Sp\u00e9ciale du Pok\u00e9mon recevant l'attaque.",
+                    "isHidden": false
+                },
+                {
+                    "id": 124,
+                    "name": "Force Sable",
+                    "description": "Lors d'une temp\u00eate de sable, la puissance des attaques de type Acier, Roche et Sol augmente de 30 %.",
+                    "isHidden": true
+                }
             ],
             "height": 3,
             "weight": 63

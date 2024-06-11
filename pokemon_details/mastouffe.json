@@ -19,9 +19,24 @@
             },
             "description": "Sagesse, gentillesse et bravoure sont les mots qui qualifient le mieux ce Pok\u00e9mon, devenu l\u2019ins\u00e9parable partenaire des \u00e9quipes de secours.",
             "abilities": [
-                156,
-                30,
-                232
+                {
+                    "id": 156,
+                    "name": "Intimidation",
+                    "description": "Diminue d'un niveau l'attaque du Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 30,
+                    "name": "Baigne Sable",
+                    "description": "Double la Vitesse du Pok\u00e9mon lors d'une temp\u00eate de sable. Immunise contre les d\u00e9g\u00e2ts de la temp\u00eate.",
+                    "isHidden": false
+                },
+                {
+                    "id": 232,
+                    "name": "Querelleur",
+                    "description": "Permet de toucher les Pok\u00e9mon de type Spectre avec des attaques de type Normal ou Combat.",
+                    "isHidden": true
+                }
             ],
             "height": 12,
             "weight": 610

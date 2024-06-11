@@ -19,9 +19,24 @@
             },
             "description": "Il n\u2019est encore qu\u2019un enfant, mais il lui arrive de se battre avec l\u2019\u00e9nergie psychique concentr\u00e9e dans ses antennes en forme de rubans.",
             "abilities": [
-                126,
-                33,
-                170
+                {
+                    "id": 126,
+                    "name": "Fouille",
+                    "description": "Permet de connaitre l'objet tenu d'un Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 33,
+                    "name": "Battant",
+                    "description": "Augmente l'Attaque Sp\u00e9ciale par deux niveaux lorsque n'importe quelle stat est baiss\u00e9e par un Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 170,
+                    "name": "Marque Ombre",
+                    "description": "Emp\u00eache la fuite des Pok\u00e9mon sauvage et le changement du Pok\u00e9mon adverse.",
+                    "isHidden": true
+                }
             ],
             "height": 4,
             "weight": 58

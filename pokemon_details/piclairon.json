@@ -20,9 +20,24 @@
             },
             "description": "En d\u00e9formant son bec, il peut produire une ribambelle de sons diff\u00e9rents, plus bruyants les uns que les autres. Le cauchemar des voisins.",
             "abilities": [
-                240,
-                187,
-                235
+                {
+                    "id": 240,
+                    "name": "Regard Vif",
+                    "description": "Emp\u00eache la perte de pr\u00e9cision.",
+                    "isHidden": false
+                },
+                {
+                    "id": 187,
+                    "name": "Multi-Coups",
+                    "description": "Utilise toujours le nombre de coups maximum d'une attaque.",
+                    "isHidden": false
+                },
+                {
+                    "id": 235,
+                    "name": "Ramassage",
+                    "description": "Donne une chance au Pok\u00e9mon de ramasser un objet apr\u00e8s un combat.",
+                    "isHidden": true
+                }
             ],
             "height": 6,
             "weight": 148

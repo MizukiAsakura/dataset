@@ -20,8 +20,18 @@
             },
             "description": "FLOBIO est bien plus rapide dans la boue que dans l'eau. L'arri\u00e8re-train de ce POK\u00e9MON est particuli\u00e8rement d\u00e9velopp\u00e9, ce qui lui donne la capacit\u00e9 de marcher sur ses pattes arri\u00e8re.",
             "abilities": [
-                282,
-                182
+                {
+                    "id": 282,
+                    "name": "Torrent",
+                    "description": "Augmente la puissance des attaques de type Eau de 50% lorsque le Pok\u00e9mon a moins d'1/3 de ses PV totaux.",
+                    "isHidden": false
+                },
+                {
+                    "id": 182,
+                    "name": "Moiteur",
+                    "description": "\u00c9mp\u00eache l'utilisation d'attaques auto-destructrices par le Pok\u00e9mon adverse.",
+                    "isHidden": true
+                }
             ],
             "height": 7,
             "weight": 280

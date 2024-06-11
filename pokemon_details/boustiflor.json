@@ -20,8 +20,18 @@
             },
             "description": "Boustiflor est dot\u00e9 d'un gros crochet. La nuit, ce Pok\u00e9mon s'accroche \u00e0 une branche pour s'endormir. Quand il a le sommeil agit\u00e9, il se r\u00e9veille par terre.",
             "abilities": [
-                56,
-                135
+                {
+                    "id": 56,
+                    "name": "Chlorophylle",
+                    "description": "Augmente la vitesse au soleil.",
+                    "isHidden": false
+                },
+                {
+                    "id": 135,
+                    "name": "Gloutonnerie",
+                    "description": "Le Pok\u00e9mon utilise la baie port\u00e9e lorsque les PV descendent en dessous de 50%.",
+                    "isHidden": true
+                }
             ],
             "height": 10,
             "weight": 64

@@ -19,9 +19,24 @@
             },
             "description": "Il fut un temps o\u00f9 les Miasmax \u00e9taient LE fl\u00e9au d\u2019Alola. Heureusement, leur population a vite diminu\u00e9 apr\u00e8s l\u2019arriv\u00e9e des Tadmorv.",
             "abilities": [
-                230,
-                137,
-                39
+                {
+                    "id": 230,
+                    "name": "Puanteur",
+                    "description": "Les attaques physiques ont 10% d'apeurer la cible. Uniquement \u00e0 partir de la 5e g\u00e9n\u00e9ration.",
+                    "isHidden": false
+                },
+                {
+                    "id": 137,
+                    "name": "Glue",
+                    "description": "Emp\u00eache la perte de l'objet tenu.",
+                    "isHidden": false
+                },
+                {
+                    "id": 39,
+                    "name": "Boom Final",
+                    "description": "Enl\u00e8ve 1/4 des PV totaux du Pok\u00e9mon ennemi mettant K.O. par contact.",
+                    "isHidden": true
+                }
             ],
             "height": 19,
             "weight": 1073

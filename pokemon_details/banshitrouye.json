@@ -20,9 +20,24 @@
             },
             "description": "Il enserre ses proies dans ses bras, semblables \u00e0 de longues m\u00e8ches de cheveux. Il se d\u00e9lecte de leur souffrance en chantonnant gaiement.",
             "abilities": [
-                235,
-                126,
-                155
+                {
+                    "id": 235,
+                    "name": "Ramassage",
+                    "description": "Donne une chance au Pok\u00e9mon de ramasser un objet apr\u00e8s un combat.",
+                    "isHidden": false
+                },
+                {
+                    "id": 126,
+                    "name": "Fouille",
+                    "description": "Permet de connaitre l'objet tenu d'un Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 155,
+                    "name": "Insomnia",
+                    "description": "Emp\u00eache le Pok\u00e9mon d'\u00eatre endormi.",
+                    "isHidden": true
+                }
             ],
             "height": 9,
             "weight": 125
@@ -44,9 +59,24 @@
             },
             "description": "Il enserre ses proies dans ses bras, semblables \u00e0 de longues m\u00e8ches de cheveux. Il se d\u00e9lecte de leur souffrance en chantonnant gaiement.",
             "abilities": [
-                235,
-                126,
-                155
+                {
+                    "id": 235,
+                    "name": "Ramassage",
+                    "description": "Donne une chance au Pok\u00e9mon de ramasser un objet apr\u00e8s un combat.",
+                    "isHidden": false
+                },
+                {
+                    "id": 126,
+                    "name": "Fouille",
+                    "description": "Permet de connaitre l'objet tenu d'un Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 155,
+                    "name": "Insomnia",
+                    "description": "Emp\u00eache le Pok\u00e9mon d'\u00eatre endormi.",
+                    "isHidden": true
+                }
             ],
             "height": 7,
             "weight": 95
@@ -68,9 +98,24 @@
             },
             "description": "Il enserre ses proies dans ses bras, semblables \u00e0 de longues m\u00e8ches de cheveux. Il se d\u00e9lecte de leur souffrance en chantonnant gaiement.",
             "abilities": [
-                235,
-                126,
-                155
+                {
+                    "id": 235,
+                    "name": "Ramassage",
+                    "description": "Donne une chance au Pok\u00e9mon de ramasser un objet apr\u00e8s un combat.",
+                    "isHidden": false
+                },
+                {
+                    "id": 126,
+                    "name": "Fouille",
+                    "description": "Permet de connaitre l'objet tenu d'un Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 155,
+                    "name": "Insomnia",
+                    "description": "Emp\u00eache le Pok\u00e9mon d'\u00eatre endormi.",
+                    "isHidden": true
+                }
             ],
             "height": 11,
             "weight": 140
@@ -92,9 +137,24 @@
             },
             "description": "Il enserre ses proies dans ses bras, semblables \u00e0 de longues m\u00e8ches de cheveux. Il se d\u00e9lecte de leur souffrance en chantonnant gaiement.",
             "abilities": [
-                235,
-                126,
-                155
+                {
+                    "id": 235,
+                    "name": "Ramassage",
+                    "description": "Donne une chance au Pok\u00e9mon de ramasser un objet apr\u00e8s un combat.",
+                    "isHidden": false
+                },
+                {
+                    "id": 126,
+                    "name": "Fouille",
+                    "description": "Permet de connaitre l'objet tenu d'un Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 155,
+                    "name": "Insomnia",
+                    "description": "Emp\u00eache le Pok\u00e9mon d'\u00eatre endormi.",
+                    "isHidden": true
+                }
             ],
             "height": 17,
             "weight": 390

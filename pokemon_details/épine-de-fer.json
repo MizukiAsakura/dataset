@@ -20,7 +20,12 @@
             },
             "description": "Son apparence partage des similarit\u00e9s avec celle qu'auront les Tyranocif dans un milliard d'ann\u00e9es, selon une revue douteuse.",
             "abilities": [
-                52
+                {
+                    "id": 52,
+                    "name": "Charge Quantique",
+                    "description": "Quand un Champ \u00c9lectrifi\u00e9 est actif ou que le Pok\u00e9mon tient une capsule d\u2019\u00c9nergie Booster, sa statistique la plus \u00e9lev\u00e9e augmente.",
+                    "isHidden": false
+                }
             ],
             "height": 16,
             "weight": 3030

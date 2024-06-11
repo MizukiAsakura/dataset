@@ -19,9 +19,24 @@
             },
             "description": "Sans se poser de questions, MEDHYENA essaye de mordre tout ce qui bouge. Ce POK\u00e9MON pourchasse sa proie jusqu'\u00e0 ce qu'elle s'\u00e9puise. Cependant, il se peut qu'il prenne peur et s'enfuie si la proie riposte.",
             "abilities": [
-                128,
-                212,
-                209
+                {
+                    "id": 128,
+                    "name": "Fuite",
+                    "description": "Assure la fuite contre les Pok\u00e9mon sauvages.",
+                    "isHidden": false
+                },
+                {
+                    "id": 212,
+                    "name": "Pied V\u00e9loce",
+                    "description": "Augmente la vitesse de 50% lorsque le Pok\u00e9mon subit une alt\u00e9ration d'\u00e9tat.",
+                    "isHidden": false
+                },
+                {
+                    "id": 209,
+                    "name": "Phobique",
+                    "description": "Si le Pok\u00e9mon est touch\u00e9 par une attaque de type Insecte, Spectre ou T\u00e9n\u00e8bres, sa vitesse augmente d'un niveau.",
+                    "isHidden": true
+                }
             ],
             "height": 5,
             "weight": 136

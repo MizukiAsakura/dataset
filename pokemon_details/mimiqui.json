@@ -20,7 +20,12 @@
             },
             "description": "Une bourrasque a un jour permis \u00e0 un Dresseur de voir sous le d\u00e9guisement de Mimiqui. Il est mort le soir m\u00eame dans d\u2019atroces souffrances.",
             "abilities": [
-                115
+                {
+                    "id": 115,
+                    "name": "Fant\u00f4masque",
+                    "description": "Le premier coup port\u00e9 au lanceur est absorb\u00e9 par le d\u00e9guisement.",
+                    "isHidden": false
+                }
             ],
             "height": 2,
             "weight": 7

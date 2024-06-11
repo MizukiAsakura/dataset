@@ -19,9 +19,24 @@
             },
             "description": "On raconte que Tygnon dispose de l'\u00e9tat d'esprit d'un boxeur qui s\u2019entra\u00eene pour le championnat du monde. Ce Pok\u00e9mon est dot\u00e9 d'une t\u00e9nacit\u00e9 \u00e0 toute \u00e9preuve et n'abandonne jamais face \u00e0 l'adversit\u00e9.",
             "abilities": [
-                240,
-                215,
-                26
+                {
+                    "id": 240,
+                    "name": "Regard Vif",
+                    "description": "Emp\u00eache la perte de pr\u00e9cision.",
+                    "isHidden": false
+                },
+                {
+                    "id": 215,
+                    "name": "Poing de Fer",
+                    "description": "Augmente de 20% la puissance des attaques de \"Poing\".",
+                    "isHidden": false
+                },
+                {
+                    "id": 26,
+                    "name": "Attention",
+                    "description": "Immunise contre la peur.",
+                    "isHidden": true
+                }
             ],
             "height": 14,
             "weight": 502

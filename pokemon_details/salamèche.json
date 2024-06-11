@@ -19,8 +19,18 @@
             },
             "description": "La flamme qui br\u00fble au bout de sa queue indique l'humeur de ce Pok\u00e9mon. Elle vacille lorsque Salam\u00e8che est content. En revanche, lorsque qu'il s'\u00e9nerve, la flamme prend de l'importance et br\u00fble plus ardemment.",
             "abilities": [
-                44,
-                125
+                {
+                    "id": 44,
+                    "name": "Brasier",
+                    "description": "Augmente la puissance des attaques de type Feu de 50% lorsque le Pok\u00e9mon a moins d'1/3 de ses PV totaux.",
+                    "isHidden": false
+                },
+                {
+                    "id": 125,
+                    "name": "Force Soleil",
+                    "description": "Augmente l'attaque sp\u00e9ciale de 50% par temps ensoleill\u00e9, mais diminue les PV de 1/8e par tour.",
+                    "isHidden": true
+                }
             ],
             "height": 6,
             "weight": 85

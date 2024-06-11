@@ -19,7 +19,12 @@
             },
             "description": "On pourrait le croire mort car il ne bouge pas du tout. Au toucher, il reste ti\u00e8de. On le surnomme \u00ab cocon c\u00e9leste \u00bb depuis l\u2019Antiquit\u00e9.",
             "abilities": [
-                117
+                {
+                    "id": 117,
+                    "name": "Fermet\u00e9",
+                    "description": "Immunise contre les attaques OHKO. \u00c0 partir de la 5e g\u00e9n\u00e9ration, ce talent fait aussi conserver 1 PV au Pok\u00e9mon m\u00eame apr\u00e8s une attaque qui aurait d\u00fb le terrasser, s'il a tous ses PV.",
+                    "isHidden": false
+                }
             ],
             "height": 1,
             "weight": 9999

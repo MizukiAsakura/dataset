@@ -20,9 +20,24 @@
             },
             "description": "CARATROC se cache tranquillement sous les rochers, abritant son corps dans sa carapace solide, pendant qu'il mange les baies qu'il a mises de c\u00f4t\u00e9. Les baies se m\u00e9langent \u00e0 ses fluides corporels pour produire du jus.",
             "abilities": [
-                117,
-                135,
-                65
+                {
+                    "id": 117,
+                    "name": "Fermet\u00e9",
+                    "description": "Immunise contre les attaques OHKO. \u00c0 partir de la 5e g\u00e9n\u00e9ration, ce talent fait aussi conserver 1 PV au Pok\u00e9mon m\u00eame apr\u00e8s une attaque qui aurait d\u00fb le terrasser, s'il a tous ses PV.",
+                    "isHidden": false
+                },
+                {
+                    "id": 135,
+                    "name": "Gloutonnerie",
+                    "description": "Le Pok\u00e9mon utilise la baie port\u00e9e lorsque les PV descendent en dessous de 50%.",
+                    "isHidden": false
+                },
+                {
+                    "id": 65,
+                    "name": "Contestation",
+                    "description": "Inverse les effets des attaques modifiant les statistiques.",
+                    "isHidden": true
+                }
             ],
             "height": 6,
             "weight": 205

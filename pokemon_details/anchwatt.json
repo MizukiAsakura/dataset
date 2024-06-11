@@ -19,7 +19,12 @@
             },
             "description": "Tout seuls, ils ne d\u00e9gagent pas beaucoup d\u2019\u00e9lectricit\u00e9, mais un banc d\u2019Anchwatt produit la m\u00eame puissance qu\u2019un \u00e9clair.",
             "abilities": [
-                162
+                {
+                    "id": 162,
+                    "name": "L\u00e9vitation",
+                    "description": "Immunise contre les attaques de type Sol.",
+                    "isHidden": false
+                }
             ],
             "height": 2,
             "weight": 3

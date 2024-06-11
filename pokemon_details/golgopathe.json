@@ -20,9 +20,24 @@
             },
             "description": "Il scrute les environs avec les yeux de ses paumes. En cas d\u2019urgence, ses membres peuvent prendre des initiatives pour triompher de l\u2019ennemi.",
             "abilities": [
-                254,
-                139,
-                210
+                {
+                    "id": 254,
+                    "name": "Sniper",
+                    "description": "Triple la puissance des coups critiques.",
+                    "isHidden": false
+                },
+                {
+                    "id": 139,
+                    "name": "Griffe Dure",
+                    "description": "Augmente d'un tiers la puissance des attaques directes.",
+                    "isHidden": false
+                },
+                {
+                    "id": 210,
+                    "name": "Pickpocket",
+                    "description": "Si le Pok\u00e9mon subit une attaque physique, il r\u00e9cup\u00e8re l'objet tenu par son adversaire.",
+                    "isHidden": true
+                }
             ],
             "height": 13,
             "weight": 960

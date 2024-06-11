@@ -19,9 +19,24 @@
             },
             "description": "Une fois qu\u2019il a gob\u00e9 assez d\u2019ordures, il rel\u00e2che un gaz toxique par la bouche. Ne le respirez pas, surtout s\u2019il n\u2019y a aucun h\u00f4pital \u00e0 la ronde.",
             "abilities": [
-                230,
-                137,
-                39
+                {
+                    "id": 230,
+                    "name": "Puanteur",
+                    "description": "Les attaques physiques ont 10% d'apeurer la cible. Uniquement \u00e0 partir de la 5e g\u00e9n\u00e9ration.",
+                    "isHidden": false
+                },
+                {
+                    "id": 137,
+                    "name": "Glue",
+                    "description": "Emp\u00eache la perte de l'objet tenu.",
+                    "isHidden": false
+                },
+                {
+                    "id": 39,
+                    "name": "Boom Final",
+                    "description": "Enl\u00e8ve 1/4 des PV totaux du Pok\u00e9mon ennemi mettant K.O. par contact.",
+                    "isHidden": true
+                }
             ],
             "height": 6,
             "weight": 310

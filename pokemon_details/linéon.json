@@ -19,9 +19,24 @@
             },
             "description": "LINEON court tr\u00e8s vite et toujours en ligne droite. Si un obstacle survient, il l'\u00e9vite en prenant un angle droit. Ce POK\u00e9MON a beaucoup de mal \u00e0 suivre les routes l\u00e9g\u00e8rement courb\u00e9es.",
             "abilities": [
-                235,
-                135,
-                212
+                {
+                    "id": 235,
+                    "name": "Ramassage",
+                    "description": "Donne une chance au Pok\u00e9mon de ramasser un objet apr\u00e8s un combat.",
+                    "isHidden": false
+                },
+                {
+                    "id": 135,
+                    "name": "Gloutonnerie",
+                    "description": "Le Pok\u00e9mon utilise la baie port\u00e9e lorsque les PV descendent en dessous de 50%.",
+                    "isHidden": false
+                },
+                {
+                    "id": 212,
+                    "name": "Pied V\u00e9loce",
+                    "description": "Augmente la vitesse de 50% lorsque le Pok\u00e9mon subit une alt\u00e9ration d'\u00e9tat.",
+                    "isHidden": true
+                }
             ],
             "height": 5,
             "weight": 325
@@ -43,9 +58,24 @@
             },
             "description": "LINEON court tr\u00e8s vite et toujours en ligne droite. Si un obstacle survient, il l'\u00e9vite en prenant un angle droit. Ce POK\u00e9MON a beaucoup de mal \u00e0 suivre les routes l\u00e9g\u00e8rement courb\u00e9es.",
             "abilities": [
-                235,
-                135,
-                212
+                {
+                    "id": 235,
+                    "name": "Ramassage",
+                    "description": "Donne une chance au Pok\u00e9mon de ramasser un objet apr\u00e8s un combat.",
+                    "isHidden": false
+                },
+                {
+                    "id": 135,
+                    "name": "Gloutonnerie",
+                    "description": "Le Pok\u00e9mon utilise la baie port\u00e9e lorsque les PV descendent en dessous de 50%.",
+                    "isHidden": false
+                },
+                {
+                    "id": 212,
+                    "name": "Pied V\u00e9loce",
+                    "description": "Augmente la vitesse de 50% lorsque le Pok\u00e9mon subit une alt\u00e9ration d'\u00e9tat.",
+                    "isHidden": true
+                }
             ],
             "height": 5,
             "weight": 325

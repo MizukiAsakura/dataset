@@ -19,9 +19,24 @@
             },
             "description": "On peut facilement deviner quand GRAHYENA se pr\u00e9pare \u00e0 attaquer. Il grogne et se met \u00e0 plat ventre. Ce POK\u00e9MON mord sauvagement ses ennemis avec ses crocs ac\u00e9r\u00e9s.",
             "abilities": [
-                156,
-                212,
-                151
+                {
+                    "id": 156,
+                    "name": "Intimidation",
+                    "description": "Diminue d'un niveau l'attaque du Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 212,
+                    "name": "Pied V\u00e9loce",
+                    "description": "Augmente la vitesse de 50% lorsque le Pok\u00e9mon subit une alt\u00e9ration d'\u00e9tat.",
+                    "isHidden": false
+                },
+                {
+                    "id": 151,
+                    "name": "Impudence",
+                    "description": "Monte l'attaque du Pok\u00e9mon d'un niveau lorsqu'il met un adversaire K.O.",
+                    "isHidden": true
+                }
             ],
             "height": 10,
             "weight": 370

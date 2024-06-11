@@ -20,8 +20,18 @@
             },
             "description": "Il aime le nectar des fleurs et n'h\u00e9site pas \u00e0 voler celui que r\u00e9cup\u00e8re APITRINI. Il n'a pas de nid. Il survole les champs et les montagnes en qu\u00eate de nectar floral.",
             "abilities": [
-                111,
-                161
+                {
+                    "id": 111,
+                    "name": "Essaim",
+                    "description": "Augmente la puissance des attaques de type Insecte de 50% lorsque le Pok\u00e9mon a moins d'1/3 de ses PV totaux.",
+                    "isHidden": false
+                },
+                {
+                    "id": 161,
+                    "name": "Lentiteint\u00e9e",
+                    "description": "Double les d\u00e9g\u00e2ts des attaques peu efficaces port\u00e9es au Pok\u00e9mon adverse.",
+                    "isHidden": true
+                }
             ],
             "height": 9,
             "weight": 233

@@ -20,9 +20,24 @@
             },
             "description": "Les \u00e9pines de ce Pok\u00e9mon sont normalement baiss\u00e9es, mais quand il s\u2019\u00e9nerve, elles se dressent afin de pourfendre ses agresseurs.",
             "abilities": [
-                108,
-                199,
-                117
+                {
+                    "id": 108,
+                    "name": "\u00c9pine de Fer",
+                    "description": "Retire 1/8 de ses PV \u00e0 l'adversaire lorsque celui-ci porte une capacit\u00e9 directe.",
+                    "isHidden": false
+                },
+                {
+                    "id": 199,
+                    "name": "Paratonnerre",
+                    "description": "Attire toutes les attaques de type \u00c9lectrik. \u00c0 partir de la 5e g\u00e9n\u00e9ration, ce talent augmente aussi l'Attaque Sp\u00e9ciale du Pok\u00e9mon recevant l'attaque.",
+                    "isHidden": false
+                },
+                {
+                    "id": 117,
+                    "name": "Fermet\u00e9",
+                    "description": "Immunise contre les attaques OHKO. \u00c0 partir de la 5e g\u00e9n\u00e9ration, ce talent fait aussi conserver 1 PV au Pok\u00e9mon m\u00eame apr\u00e8s une attaque qui aurait d\u00fb le terrasser, s'il a tous ses PV.",
+                    "isHidden": true
+                }
             ],
             "height": 3,
             "weight": 33

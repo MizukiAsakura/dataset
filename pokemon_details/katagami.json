@@ -20,7 +20,12 @@
             },
             "description": "Une Ultra-Chim\u00e8re venue de l\u2019Ultra-Br\u00e8che. Elle ne semble pas agressive, bien que son corps tout entier soit une arme tranchante.",
             "abilities": [
-                41
+                {
+                    "id": 41,
+                    "name": "Boost Chim\u00e8re",
+                    "description": "Augmente la stat la plus \u00e9lev\u00e9e du Pok\u00e9mon quand il met K.O. un autre Pok\u00e9mon.",
+                    "isHidden": false
+                }
             ],
             "height": 3,
             "weight": 1

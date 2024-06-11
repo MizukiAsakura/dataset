@@ -19,8 +19,18 @@
             },
             "description": "L'\u00e9tat de sant\u00e9 de MAGBY peut \u00eatre devin\u00e9 selon le type de flamme qu'il crache. Si ce POK\u00e9MON crache des flammes jaunes, c'est qu'il est en bonne sant\u00e9. Lorsqu'il est fatigu\u00e9, de la fum\u00e9e noire s'ajoute aux flammes.",
             "abilities": [
-                67,
-                110
+                {
+                    "id": 67,
+                    "name": "Corps Ardent",
+                    "description": "30% de chance de provoquer une br\u00fblure sur le Pok\u00e9mon adverse ayant attaqu\u00e9.",
+                    "isHidden": false
+                },
+                {
+                    "id": 110,
+                    "name": "Esprit Vital",
+                    "description": "Emp\u00eache le Pok\u00e9mon d'\u00eatre endormi.",
+                    "isHidden": true
+                }
             ],
             "height": 7,
             "weight": 214

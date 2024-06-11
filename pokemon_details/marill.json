@@ -20,9 +20,24 @@
             },
             "description": "La queue remplie d'huile de MARILL lui sert de gilet de sauvetage. Parfois, on peut voir sa queue flotter \u00e0 la surface. On peut en d\u00e9duire que ce POK\u00e9MON a plong\u00e9 sous l'eau pour se nourrir de plantes aquatiques.",
             "abilities": [
-                157,
-                63,
-                141
+                {
+                    "id": 157,
+                    "name": "Isograisse",
+                    "description": "Les d\u00e9g\u00e2ts provoqu\u00e9s par les attaques des types Feu ou Glace sont divis\u00e9s par 2.",
+                    "isHidden": false
+                },
+                {
+                    "id": 63,
+                    "name": "Coloforce",
+                    "description": "Double l'attaque du Pok\u00e9mon.",
+                    "isHidden": false
+                },
+                {
+                    "id": 141,
+                    "name": "Herbivore",
+                    "description": "Si le Pok\u00e9mon est touch\u00e9 par une attaque de type Plante, son attaque augmente d'un niveau.",
+                    "isHidden": true
+                }
             ],
             "height": 4,
             "weight": 85

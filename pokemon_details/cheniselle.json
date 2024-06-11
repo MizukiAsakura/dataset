@@ -20,8 +20,18 @@
             },
             "description": "Quand CHENITI a \u00e9volu\u00e9, sa cape a fusionn\u00e9 avec son corps. CHENISELLE ne s'en s\u00e9pare jamais. Son apparence varie selon le lieu d'\u00e9volution. Son corps est fa\u00e7onn\u00e9 avec les mat\u00e9riaux \u00e0 disposition.",
             "abilities": [
-                18,
-                106
+                {
+                    "id": 18,
+                    "name": "Anticipation",
+                    "description": "Alerte et prot\u00e8ge lorsque le Pok\u00e9mon adverse poss\u00e8de certaines attaques.",
+                    "isHidden": false
+                },
+                {
+                    "id": 106,
+                    "name": "Envelocape",
+                    "description": "Immunise contre les d\u00e9g\u00e2ts caus\u00e9s par la gr\u00eale et les temp\u00eates de sable.",
+                    "isHidden": true
+                }
             ],
             "height": 5,
             "weight": 65

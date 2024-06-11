@@ -19,9 +19,24 @@
             },
             "description": "Ce Pok\u00e9mon ligote sa proie en \u00e9tirant ses bras faits de lianes v\u00e9g\u00e9tales. Il ne craint pas qu\u2019on lui mange un bras.",
             "abilities": [
-                56,
-                118,
-                241
+                {
+                    "id": 56,
+                    "name": "Chlorophylle",
+                    "description": "Augmente la vitesse au soleil.",
+                    "isHidden": false
+                },
+                {
+                    "id": 118,
+                    "name": "Feuille Garde",
+                    "description": "Soigne les alt\u00e9rations d'\u00e9tat par temps ensoleill\u00e9.",
+                    "isHidden": false
+                },
+                {
+                    "id": 241,
+                    "name": "R\u00e9g\u00e9-Force",
+                    "description": "Restaure 1/3 des PV totaux si le Pok\u00e9mon est retir\u00e9 du combat.",
+                    "isHidden": true
+                }
             ],
             "height": 20,
             "weight": 1286

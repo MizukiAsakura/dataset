@@ -20,8 +20,18 @@
             },
             "description": "Telle une cape de super-h\u00e9ros, sa membrane de peau lui permet de planer. Il d\u00e9charge alors son \u00e9lectricit\u00e9 sur ses ennemis... et ses alli\u00e9s.",
             "abilities": [
-                260,
-                185
+                {
+                    "id": 260,
+                    "name": "Statik",
+                    "description": "30% de chance de provoquer la paralysie du Pok\u00e9mon adverse ayant lanc\u00e9 une attaque de contact.",
+                    "isHidden": false
+                },
+                {
+                    "id": 185,
+                    "name": "Motoris\u00e9",
+                    "description": "Immunise le Pok\u00e9mon contre les attaques de type \u00c9lectrik et augmente la vitesse du Pok\u00e9mon d'un niveau par attaque \u00c9lectrik subie.",
+                    "isHidden": true
+                }
             ],
             "height": 4,
             "weight": 50

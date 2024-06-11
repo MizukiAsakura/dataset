@@ -20,9 +20,24 @@
             },
             "description": "Il peut rep\u00e9rer une proie \u00e0 une distance de 50 km. Il s\u2019approche alors en \u00ab nageant \u00bb dans le sable, puis lui saute dessus pour la croquer.",
             "abilities": [
-                156,
-                151,
-                61
+                {
+                    "id": 156,
+                    "name": "Intimidation",
+                    "description": "Diminue d'un niveau l'attaque du Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 151,
+                    "name": "Impudence",
+                    "description": "Monte l'attaque du Pok\u00e9mon d'un niveau lorsqu'il met un adversaire K.O.",
+                    "isHidden": false
+                },
+                {
+                    "id": 61,
+                    "name": "Col\u00e9rique",
+                    "description": "L'attaque du Pok\u00e9mon est fortement augment\u00e9e lorsqu'il subit un coup critique.",
+                    "isHidden": true
+                }
             ],
             "height": 15,
             "weight": 963

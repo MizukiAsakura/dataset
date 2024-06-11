@@ -20,9 +20,24 @@
             },
             "description": "Grodoudou a des yeux immenses et \u00e9carquill\u00e9s. La surface de ses yeux est couverte d'une fine couche de larmes. Si de la poussi\u00e8re est projet\u00e9e dans les yeux de ce Pok\u00e9mon, elle est rapidement \u00e9vacu\u00e9e.",
             "abilities": [
-                158,
-                33,
-                126
+                {
+                    "id": 158,
+                    "name": "Joli Sourire",
+                    "description": "A 30% de chance de provoquer l'attirance du Pok\u00e9mon adverse ayant attaqu\u00e9.",
+                    "isHidden": false
+                },
+                {
+                    "id": 33,
+                    "name": "Battant",
+                    "description": "Augmente l'Attaque Sp\u00e9ciale par deux niveaux lorsque n'importe quelle stat est baiss\u00e9e par un Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 126,
+                    "name": "Fouille",
+                    "description": "Permet de connaitre l'objet tenu d'un Pok\u00e9mon adverse.",
+                    "isHidden": true
+                }
             ],
             "height": 10,
             "weight": 120

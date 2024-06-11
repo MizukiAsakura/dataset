@@ -20,9 +20,24 @@
             },
             "description": "Crustabri est capable de se d\u00e9placer dans les fonds marins en avalant de l'eau et en la rejetant vers l'arri\u00e8re. Ce Pok\u00e9mon envoie des pointes en utilisant la m\u00eame m\u00e9thode.",
             "abilities": [
-                66,
-                187,
-                106
+                {
+                    "id": 66,
+                    "name": "Coque Armure",
+                    "description": "Annule les chances de coups critiques du Pok\u00e9mon ennemi.",
+                    "isHidden": false
+                },
+                {
+                    "id": 187,
+                    "name": "Multi-Coups",
+                    "description": "Utilise toujours le nombre de coups maximum d'une attaque.",
+                    "isHidden": false
+                },
+                {
+                    "id": 106,
+                    "name": "Envelocape",
+                    "description": "Immunise contre les d\u00e9g\u00e2ts caus\u00e9s par la gr\u00eale et les temp\u00eates de sable.",
+                    "isHidden": true
+                }
             ],
             "height": 15,
             "weight": 1325

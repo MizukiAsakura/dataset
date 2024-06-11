@@ -19,9 +19,24 @@
             },
             "description": "Trop sucr\u00e9e pour \u00eatre consomm\u00e9e telle quelle, la sueur de Croquine doit \u00eatre dilu\u00e9e dans l\u2019eau pour obtenir un jus sucr\u00e9 juste comme il faut.",
             "abilities": [
-                118,
-                35,
-                136
+                {
+                    "id": 118,
+                    "name": "Feuille Garde",
+                    "description": "Soigne les alt\u00e9rations d'\u00e9tat par temps ensoleill\u00e9.",
+                    "isHidden": false
+                },
+                {
+                    "id": 35,
+                    "name": "Ben\u00eat",
+                    "description": "Immunise contre l'attraction. \u00c0 partir de la 6e g\u00e9n\u00e9ration, ce talent immunise aussi contre la provocation.",
+                    "isHidden": false
+                },
+                {
+                    "id": 136,
+                    "name": "Gluco-Voile",
+                    "description": "Emp\u00eache les Pok\u00e9mon alli\u00e9s de s'endormir.",
+                    "isHidden": true
+                }
             ],
             "height": 3,
             "weight": 32

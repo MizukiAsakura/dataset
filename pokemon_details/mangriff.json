@@ -19,8 +19,18 @@
             },
             "description": "MANGRIFF est g\u00e9n\u00e9ralement \u00e0 quatre pattes, mais lorsqu'il est en col\u00e8re, il se l\u00e8ve sur ses pattes arri\u00e8re et montre ses griffes. Ce POK\u00e9MON est l'ennemi jur\u00e9 de SEVIPER depuis plusieurs g\u00e9n\u00e9rations.",
             "abilities": [
-                290,
-                234
+                {
+                    "id": 290,
+                    "name": "Vaccin",
+                    "description": "Immunise contre l'empoisonnement.",
+                    "isHidden": false
+                },
+                {
+                    "id": 234,
+                    "name": "Rage Poison",
+                    "description": "Augmente l'attaque du Pok\u00e9mon de 50% en cas d'empoisonnement.",
+                    "isHidden": true
+                }
             ],
             "height": 13,
             "weight": 403

@@ -20,9 +20,24 @@
             },
             "description": "Il utilise sa queue pour pomper l\u2019\u00e9nergie des centrales \u00e9lectriques ou pour se brancher sur les prises des maisons. Ses moustaches envoient des d\u00e9charges.",
             "abilities": [
-                235,
-                31,
-                214
+                {
+                    "id": 235,
+                    "name": "Ramassage",
+                    "description": "Donne une chance au Pok\u00e9mon de ramasser un objet apr\u00e8s un combat.",
+                    "isHidden": false
+                },
+                {
+                    "id": 31,
+                    "name": "Bajoues",
+                    "description": "Lorsque le Pok\u00e9mon mange une Baie, il obtient ses effets et regagne des PV en plus.",
+                    "isHidden": false
+                },
+                {
+                    "id": 214,
+                    "name": "Plus",
+                    "description": "Augmente l'attaque sp\u00e9ciale de 50% en Match Double, si le partenaire \u00e0 le talent Minus (ou le m\u00eame talent, depuis Pok\u00e9mon Noir et Blanc).",
+                    "isHidden": true
+                }
             ],
             "height": 2,
             "weight": 22

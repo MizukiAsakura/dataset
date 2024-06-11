@@ -20,8 +20,18 @@
             },
             "description": "On dit qu\u2019il appara\u00eet dans les zones habit\u00e9es les soirs de temp\u00eate de neige. Si vous entendez toquer \u00e0 la porte, n\u2019allez pas ouvrir !",
             "abilities": [
-                243,
-                72
+                {
+                    "id": 243,
+                    "name": "Rideau Neige",
+                    "description": "Augmente l'esquive de 20% par temps de gr\u00eale. Immunise les Pok\u00e9mon n'ayant pas le type Glace contre la gr\u00eale.",
+                    "isHidden": false
+                },
+                {
+                    "id": 72,
+                    "name": "Corps Maudit",
+                    "description": "Toute attaque port\u00e9e par l'adversaire a 30% de chance de s'entraver.",
+                    "isHidden": true
+                }
             ],
             "height": 13,
             "weight": 266

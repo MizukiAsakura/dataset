@@ -19,8 +19,18 @@
             },
             "description": "Il offre aux Dresseurs auxquels il accorde toute sa confiance des Baies d\u00e9cor\u00e9es avec de la cr\u00e8me. Quand il est heureux, la cr\u00e8me qu\u2019il produit avec ses mains devient plus sucr\u00e9e et plus onctueuse.",
             "abilities": [
-                136,
-                25
+                {
+                    "id": 136,
+                    "name": "Gluco-Voile",
+                    "description": "Emp\u00eache les Pok\u00e9mon alli\u00e9s de s'endormir.",
+                    "isHidden": false
+                },
+                {
+                    "id": 25,
+                    "name": "Aroma-Voile",
+                    "description": "Prot\u00e8ge les Pok\u00e9mon alli\u00e9s des capacit\u00e9s ayant un effet sur l'\u00e9tat mental tels que Attraction ou Tourmente.",
+                    "isHidden": true
+                }
             ],
             "height": 3,
             "weight": 5

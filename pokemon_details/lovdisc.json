@@ -19,8 +19,18 @@
             },
             "description": "LOVDISC vit dans les mers peu profondes des tropiques. Ce POK\u00e9MON en forme de c\u0153ur a gagn\u00e9 son nom en nageant derri\u00e8re les couples d'amoureux qu'il rep\u00e9rait dans les eaux claires de l'oc\u00e9an.",
             "abilities": [
-                134,
-                143
+                {
+                    "id": 134,
+                    "name": "Glissade",
+                    "description": "Double la vitesse par temps de pluie.",
+                    "isHidden": false
+                },
+                {
+                    "id": 143,
+                    "name": "Hydratation",
+                    "description": "Soigne les alt\u00e9rations d'\u00e9tat par temps de pluie.",
+                    "isHidden": true
+                }
             ],
             "height": 6,
             "weight": 87

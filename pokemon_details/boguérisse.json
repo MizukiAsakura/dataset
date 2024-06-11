@@ -19,8 +19,18 @@
             },
             "description": "Il renforce ses membres inf\u00e9rieurs en se ruant violemment sur ses cong\u00e9n\u00e8res. Naturellement paisible, il ne provoque jamais un combat.",
             "abilities": [
-                104,
-                200
+                {
+                    "id": 104,
+                    "name": "Engrais",
+                    "description": "Augmente la puissance des attaques de type Plante de 50% lorsque le Pok\u00e9mon a moins d'1/3 de ses PV totaux.",
+                    "isHidden": false
+                },
+                {
+                    "id": 200,
+                    "name": "Pare-Balles",
+                    "description": "Prot\u00e8ge contre les capacit\u00e9s balles et bombes, par exemple Balle Graine ou Canon Graine.",
+                    "isHidden": true
+                }
             ],
             "height": 7,
             "weight": 290

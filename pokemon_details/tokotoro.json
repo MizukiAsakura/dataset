@@ -20,8 +20,18 @@
             },
             "description": "Il arrache de grands arbres et fait des moulinets avec. Il a le pouvoir de rendre la v\u00e9g\u00e9tation luxuriante pour ensuite se nourrir de cette force.",
             "abilities": [
-                80,
-                270
+                {
+                    "id": 80,
+                    "name": "Cr\u00e9a-Herbe",
+                    "description": "Pose un Champ Herbu qui restaure 1/16 des PV max.",
+                    "isHidden": false
+                },
+                {
+                    "id": 270,
+                    "name": "T\u00e9l\u00e9pathe",
+                    "description": "Anticipe et \u00e9vite les attaques des alli\u00e9s en Combat Double ou triple.",
+                    "isHidden": true
+                }
             ],
             "height": 19,
             "weight": 455

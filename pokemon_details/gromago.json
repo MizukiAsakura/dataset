@@ -20,7 +20,12 @@
             },
             "description": "Son corps robuste est compos\u00e9 de pi\u00e8ces empil\u00e9es. Il accable ses adversaires en leur lan\u00e7ant des rafales de pi\u00e8ces.",
             "abilities": [
-                70
+                {
+                    "id": 70,
+                    "name": "Corps en Or",
+                    "description": "Le corps en or pur et robuste du Pok\u00e9mon l\u2019immunise contre les capacit\u00e9s de statut des autres Pok\u00e9mon.",
+                    "isHidden": false
+                }
             ],
             "height": 12,
             "weight": 300

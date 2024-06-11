@@ -20,9 +20,24 @@
             },
             "description": "Il a \u00e9volu\u00e9 apr\u00e8s avoir encha\u00een\u00e9 de nombreux combats. Le cri qu\u2019il pousse lorsqu\u2019il fait un \u00ab X \u00bb avec ses bras \u00e9branle n\u2019importe quel ennemi.",
             "abilities": [
-                271,
-                77,
-                5
+                {
+                    "id": 271,
+                    "name": "T\u00e9m\u00e9raire",
+                    "description": "Augmente de 20% la puissance des attaques infligeant un contrecoup.",
+                    "isHidden": false
+                },
+                {
+                    "id": 77,
+                    "name": "Cran",
+                    "description": "Augmente de 50% l'attaque du Pok\u00e9mon s'il subit un changement de statut.",
+                    "isHidden": false
+                },
+                {
+                    "id": 5,
+                    "name": "Acharn\u00e9",
+                    "description": "Monte l'Attaque du Pok\u00e9mon de deux niveaux si l'une de ses statistiques est baiss\u00e9e par l'adversaire.",
+                    "isHidden": true
+                }
             ],
             "height": 16,
             "weight": 460

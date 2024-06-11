@@ -19,9 +19,24 @@
             },
             "description": "GRANBULL a une m\u00e2choire inf\u00e9rieure particuli\u00e8rement d\u00e9velopp\u00e9e. Ses \u00e9normes crocs sont tellement lourds qu'ils obligent le POK\u00e9MON \u00e0 pencher sa t\u00eate en arri\u00e8re. Il ne mord jamais sans raison, sauf quand il a peur.",
             "abilities": [
-                128,
-                156,
-                290
+                {
+                    "id": 128,
+                    "name": "Fuite",
+                    "description": "Assure la fuite contre les Pok\u00e9mon sauvages.",
+                    "isHidden": false
+                },
+                {
+                    "id": 156,
+                    "name": "Intimidation",
+                    "description": "Diminue d'un niveau l'attaque du Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 290,
+                    "name": "Vaccin",
+                    "description": "Immunise contre l'empoisonnement.",
+                    "isHidden": true
+                }
             ],
             "height": 14,
             "weight": 487

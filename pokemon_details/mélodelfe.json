@@ -19,9 +19,24 @@
             },
             "description": "Les M\u00e9lodelfe se d\u00e9placent en sautant doucement, comme s'ils volaient. Leur d\u00e9marche l\u00e9g\u00e8re leur permet m\u00eame de marcher sur l'eau. On raconte qu'ils se prom\u00e8nent sur les lacs, les soirs o\u00f9 la lune est claire.",
             "abilities": [
-                158,
-                130,
-                153
+                {
+                    "id": 158,
+                    "name": "Joli Sourire",
+                    "description": "A 30% de chance de provoquer l'attirance du Pok\u00e9mon adverse ayant attaqu\u00e9.",
+                    "isHidden": false
+                },
+                {
+                    "id": 130,
+                    "name": "Garde Magik",
+                    "description": "Le Pok\u00e9mon ne subit de d\u00e9g\u00e2ts que lors d'attaques directes.",
+                    "isHidden": false
+                },
+                {
+                    "id": 153,
+                    "name": "Inconscient",
+                    "description": "Ignore les am\u00e9liorations de statistiques du Pok\u00e9mon adverse, \u00e0 l'exception de sa Vitesse.",
+                    "isHidden": true
+                }
             ],
             "height": 13,
             "weight": 400

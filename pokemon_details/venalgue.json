@@ -20,9 +20,24 @@
             },
             "description": "Il se m\u00eale aux algues en d\u00e9composition flottant \u00e0 la surface des oc\u00e9ans afin de surprendre et de d\u00e9vorer les Pok\u00e9mon qui viennent s\u2019en nourrir.",
             "abilities": [
-                217,
-                283,
-                6
+                {
+                    "id": 217,
+                    "name": "Point Poison",
+                    "description": "30% de chance de provoquer l'empoisonnement du Pok\u00e9mon adverse ayant lanc\u00e9 une attaque de contact.",
+                    "isHidden": false
+                },
+                {
+                    "id": 283,
+                    "name": "Toxitouche",
+                    "description": "Peut empoisonner l'adversaire apr\u00e8s lui avoir port\u00e9 une attaque physique.",
+                    "isHidden": false
+                },
+                {
+                    "id": 6,
+                    "name": "Adaptabilit\u00e9",
+                    "description": "Si ce Pok\u00e9mon utilise une attaque de son type, la puissance de l'attaque est multipli\u00e9e par 2 au lieu de 1.5.",
+                    "isHidden": true
+                }
             ],
             "height": 5,
             "weight": 73

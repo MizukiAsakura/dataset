@@ -20,8 +20,18 @@
             },
             "description": "Ce Pok\u00e9mon roule \u00e0 travers les plaines arides, port\u00e9 par le vent, sans savoir lui m\u00eame ou cela va le mener. Il d\u00e9teste \u00eatre mouill\u00e9.",
             "abilities": [
-                7,
-                154
+                {
+                    "id": 7,
+                    "name": "A\u00e9roport\u00e9",
+                    "description": "L\u2019Attaque du Pok\u00e9mon augmente si un vent arri\u00e8re souffle ou s\u2019il est touch\u00e9 par une capacit\u00e9 faisant appel au vent. Dans ce dernier cas, il ne subit aucun d\u00e9g\u00e2t.",
+                    "isHidden": false
+                },
+                {
+                    "id": 154,
+                    "name": "Infiltration",
+                    "description": "Emp\u00eache les attaques de protection adverses tels que Protection ou Mur Lumi\u00e8re de fonctionner. N'influe pas sur D\u00e9tection et Abri.",
+                    "isHidden": true
+                }
             ],
             "height": 6,
             "weight": 6

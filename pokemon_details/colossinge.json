@@ -19,9 +19,24 @@
             },
             "description": "Lorsque Colossinge devient furieux, sa circulation sanguine s'acc\u00e9l\u00e8re. Du coup, ses muscles sont encore plus puissants. En revanche, il devient bien moins intelligent.",
             "abilities": [
-                110,
-                61,
-                5
+                {
+                    "id": 110,
+                    "name": "Esprit Vital",
+                    "description": "Emp\u00eache le Pok\u00e9mon d'\u00eatre endormi.",
+                    "isHidden": false
+                },
+                {
+                    "id": 61,
+                    "name": "Col\u00e9rique",
+                    "description": "L'attaque du Pok\u00e9mon est fortement augment\u00e9e lorsqu'il subit un coup critique.",
+                    "isHidden": false
+                },
+                {
+                    "id": 5,
+                    "name": "Acharn\u00e9",
+                    "description": "Monte l'Attaque du Pok\u00e9mon de deux niveaux si l'une de ses statistiques est baiss\u00e9e par l'adversaire.",
+                    "isHidden": true
+                }
             ],
             "height": 10,
             "weight": 320

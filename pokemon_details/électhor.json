@@ -20,8 +20,18 @@
             },
             "description": "\u00c9lecthor est un Pok\u00e9mon Oiseau l\u00e9gendaire capable de contr\u00f4ler l'\u00e9lectricit\u00e9. Il vit g\u00e9n\u00e9ralement dans les nuages orageux. Ce Pok\u00e9mon gagne en puissance lorsqu'il est frapp\u00e9 par la foudre.",
             "abilities": [
-                223,
-                260
+                {
+                    "id": 223,
+                    "name": "Pression",
+                    "description": "Double l'utilisation de PP des attaques offensives du Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 260,
+                    "name": "Statik",
+                    "description": "30% de chance de provoquer la paralysie du Pok\u00e9mon adverse ayant lanc\u00e9 une attaque de contact.",
+                    "isHidden": true
+                }
             ],
             "height": 16,
             "weight": 526
@@ -43,7 +53,12 @@
             },
             "description": "\u00c9lecthor est un Pok\u00e9mon Oiseau l\u00e9gendaire capable de contr\u00f4ler l'\u00e9lectricit\u00e9. Il vit g\u00e9n\u00e9ralement dans les nuages orageux. Ce Pok\u00e9mon gagne en puissance lorsqu'il est frapp\u00e9 par la foudre.",
             "abilities": [
-                5
+                {
+                    "id": 5,
+                    "name": "Acharn\u00e9",
+                    "description": "Monte l'Attaque du Pok\u00e9mon de deux niveaux si l'une de ses statistiques est baiss\u00e9e par l'adversaire.",
+                    "isHidden": false
+                }
             ],
             "height": 16,
             "weight": 582

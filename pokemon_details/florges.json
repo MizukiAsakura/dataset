@@ -19,8 +19,18 @@
             },
             "description": "Il contr\u00f4le les fleurs qu\u2019il cultive. Les temp\u00eates de p\u00e9tales qu\u2019il d\u00e9cha\u00eene sont aussi belles que redoutables.",
             "abilities": [
-                121,
-                264
+                {
+                    "id": 121,
+                    "name": "Flora-Voile",
+                    "description": "Emp\u00eache la diminution des statistiques des alli\u00e9s de type Plante par les Pok\u00e9mon adverses.",
+                    "isHidden": false
+                },
+                {
+                    "id": 264,
+                    "name": "Symbiose",
+                    "description": "Passe un objet tenu \u00e0 un Pok\u00e9mon alli\u00e9 lorsque l'alli\u00e9 utilise son objet.",
+                    "isHidden": true
+                }
             ],
             "height": 11,
             "weight": 100

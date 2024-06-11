@@ -19,8 +19,18 @@
             },
             "description": "Magicarpe est un Pok\u00e9mon ridicule qui ne sait faire que des ronds dans l'eau ou se laisser porter par les courants. Son comportement a donn\u00e9 envie aux savants d'\u00e9tudier son cas.",
             "abilities": [
-                134,
-                209
+                {
+                    "id": 134,
+                    "name": "Glissade",
+                    "description": "Double la vitesse par temps de pluie.",
+                    "isHidden": false
+                },
+                {
+                    "id": 209,
+                    "name": "Phobique",
+                    "description": "Si le Pok\u00e9mon est touch\u00e9 par une attaque de type Insecte, Spectre ou T\u00e9n\u00e8bres, sa vitesse augmente d'un niveau.",
+                    "isHidden": true
+                }
             ],
             "height": 9,
             "weight": 100

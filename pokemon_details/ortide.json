@@ -20,8 +20,18 @@
             },
             "description": "La plupart du temps, Ortide d\u00e9gage un parfum immonde du pistil de sa fleur. Lorsqu'il se sent en danger, la puanteur est encore pire. Lorsque ce Pok\u00e9mon se sent bien en s\u00e9curit\u00e9, il ne d\u00e9gage aucune odeur naus\u00e9abonde.",
             "abilities": [
-                56,
-                230
+                {
+                    "id": 56,
+                    "name": "Chlorophylle",
+                    "description": "Augmente la vitesse au soleil.",
+                    "isHidden": false
+                },
+                {
+                    "id": 230,
+                    "name": "Puanteur",
+                    "description": "Les attaques physiques ont 10% d'apeurer la cible. Uniquement \u00e0 partir de la 5e g\u00e9n\u00e9ration.",
+                    "isHidden": true
+                }
             ],
             "height": 8,
             "weight": 86

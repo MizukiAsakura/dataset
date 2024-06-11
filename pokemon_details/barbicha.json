@@ -20,9 +20,24 @@
             },
             "description": "Quand il s'agit de territoire, BARBICHA est tr\u00e8s possessif. Un seul de ces POK\u00e9MON r\u00e9clame parfois un \u00e9tang entier. Si un ennemi s'approche, il fonce sur lui et d\u00e9clenche un violent tremblement de terre.",
             "abilities": [
-                35,
-                18,
-                143
+                {
+                    "id": 35,
+                    "name": "Ben\u00eat",
+                    "description": "Immunise contre l'attraction. \u00c0 partir de la 6e g\u00e9n\u00e9ration, ce talent immunise aussi contre la provocation.",
+                    "isHidden": false
+                },
+                {
+                    "id": 18,
+                    "name": "Anticipation",
+                    "description": "Alerte et prot\u00e8ge lorsque le Pok\u00e9mon adverse poss\u00e8de certaines attaques.",
+                    "isHidden": false
+                },
+                {
+                    "id": 143,
+                    "name": "Hydratation",
+                    "description": "Soigne les alt\u00e9rations d'\u00e9tat par temps de pluie.",
+                    "isHidden": true
+                }
             ],
             "height": 9,
             "weight": 236

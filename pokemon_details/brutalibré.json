@@ -20,9 +20,24 @@
             },
             "description": "Malgr\u00e9 sa petite taille, son intelligence lui permet d\u2019affronter sans trembler de grands Pok\u00e9mon tels que les Mackogneur ou les Hariyama.",
             "abilities": [
-                98,
-                91,
-                46
+                {
+                    "id": 98,
+                    "name": "\u00c9chauffement",
+                    "description": "Immunise contre la paralysie.",
+                    "isHidden": false
+                },
+                {
+                    "id": 91,
+                    "name": "D\u00e9lestage",
+                    "description": "Augmente la vitesse lorsqu'un objet tenu est utilis\u00e9, lanc\u00e9 ou perdu.",
+                    "isHidden": false
+                },
+                {
+                    "id": 46,
+                    "name": "Brise Moule",
+                    "description": "Peut toucher un Pok\u00e9mon adverse malgr\u00e9 son talent.",
+                    "isHidden": true
+                }
             ],
             "height": 8,
             "weight": 215

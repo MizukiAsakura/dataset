@@ -20,9 +20,24 @@
             },
             "description": "Autrefois, il vivait en bord de mer et conservait sa nourriture dans la glace de son corps, mais il s\u2019est \u00e9teint, car il avait du mal \u00e0 se d\u00e9placer.",
             "abilities": [
-                3,
-                260,
-                53
+                {
+                    "id": 3,
+                    "name": "Absorb Volt",
+                    "description": "Les attaques de type \u00c9lectrik re\u00e7ues par le Pok\u00e9mon r\u00e9g\u00e9n\u00e8rent 1/4 de ses PV.",
+                    "isHidden": false
+                },
+                {
+                    "id": 260,
+                    "name": "Statik",
+                    "description": "30% de chance de provoquer la paralysie du Pok\u00e9mon adverse ayant lanc\u00e9 une attaque de contact.",
+                    "isHidden": false
+                },
+                {
+                    "id": 53,
+                    "name": "Chasse-Neige",
+                    "description": "Double la Vitesse sous la Gr\u00eale.",
+                    "isHidden": true
+                }
             ],
             "height": 23,
             "weight": 1500

@@ -19,9 +19,24 @@
             },
             "description": "Quand le combat devient s\u00e9rieux, la partie ext\u00e9rieure du grand rouage s\u2019aligne parfaitement avec le petit pour acc\u00e9l\u00e9rer leur rotation.",
             "abilities": [
-                214,
-                179,
-                73
+                {
+                    "id": 214,
+                    "name": "Plus",
+                    "description": "Augmente l'attaque sp\u00e9ciale de 50% en Match Double, si le partenaire \u00e0 le talent Minus (ou le m\u00eame talent, depuis Pok\u00e9mon Noir et Blanc).",
+                    "isHidden": false
+                },
+                {
+                    "id": 179,
+                    "name": "Moins",
+                    "description": "Augmente l'attaque sp\u00e9ciale de 50% si le partenaire \u00e0 le talent Plus.",
+                    "isHidden": false
+                },
+                {
+                    "id": 73,
+                    "name": "Corps Sain",
+                    "description": "Emp\u00eache la diminution de statistiques par le Pok\u00e9mon adverse.",
+                    "isHidden": true
+                }
             ],
             "height": 6,
             "weight": 510

@@ -20,9 +20,24 @@
             },
             "description": "Il concentre le froid dans ses pinces avant de frapper. Ses coups sont suffisamment puissants pour r\u00e9duire un \u00e9pais mur de glace en morceaux.",
             "abilities": [
-                144,
-                215,
-                61
+                {
+                    "id": 144,
+                    "name": "Hyper Cutter",
+                    "description": "Emp\u00eache la diminution d'attaque du Pok\u00e9mon.",
+                    "isHidden": false
+                },
+                {
+                    "id": 215,
+                    "name": "Poing de Fer",
+                    "description": "Augmente de 20% la puissance des attaques de \"Poing\".",
+                    "isHidden": false
+                },
+                {
+                    "id": 61,
+                    "name": "Col\u00e9rique",
+                    "description": "L'attaque du Pok\u00e9mon est fortement augment\u00e9e lorsqu'il subit un coup critique.",
+                    "isHidden": true
+                }
             ],
             "height": 17,
             "weight": 1800

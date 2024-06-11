@@ -20,9 +20,24 @@
             },
             "description": "Les vibrisses sensibles de BARLOCHE agissent comme un syst\u00e8me radar sophistiqu\u00e9. Ce POK\u00e9MON se cache dans la boue, laissant d\u00e9passer ses vibrisses, et attend que sa proie passe \u00e0 proximit\u00e9.",
             "abilities": [
-                35,
-                18,
-                143
+                {
+                    "id": 35,
+                    "name": "Ben\u00eat",
+                    "description": "Immunise contre l'attraction. \u00c0 partir de la 6e g\u00e9n\u00e9ration, ce talent immunise aussi contre la provocation.",
+                    "isHidden": false
+                },
+                {
+                    "id": 18,
+                    "name": "Anticipation",
+                    "description": "Alerte et prot\u00e8ge lorsque le Pok\u00e9mon adverse poss\u00e8de certaines attaques.",
+                    "isHidden": false
+                },
+                {
+                    "id": 143,
+                    "name": "Hydratation",
+                    "description": "Soigne les alt\u00e9rations d'\u00e9tat par temps de pluie.",
+                    "isHidden": true
+                }
             ],
             "height": 4,
             "weight": 19

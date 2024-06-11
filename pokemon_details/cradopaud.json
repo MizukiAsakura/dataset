@@ -20,9 +20,24 @@
             },
             "description": "Ses joues contiennent des glandes toxiques. Il attaque par surprise et utilise son toucher empoisonn\u00e9. Il \u00e9met un gargouillis \u00e9trange en gonflant ses glandes de poison pour intimider l'ennemi.",
             "abilities": [
-                18,
-                207,
-                283
+                {
+                    "id": 18,
+                    "name": "Anticipation",
+                    "description": "Alerte et prot\u00e8ge lorsque le Pok\u00e9mon adverse poss\u00e8de certaines attaques.",
+                    "isHidden": false
+                },
+                {
+                    "id": 207,
+                    "name": "Peau S\u00e8che",
+                    "description": "Les attaques de type Eau soignent le Pok\u00e9mon, qui regagne 1/4 de ses PV totaux. Par temps de pluie, il gagne 1/8e de ses PV par tour. Les attaques de type Feu infligent 25% de d\u00e9g\u00e2ts en plus. Par temps ensoleill\u00e9, il perd 1/8e de ses PV par tour.",
+                    "isHidden": false
+                },
+                {
+                    "id": 283,
+                    "name": "Toxitouche",
+                    "description": "Peut empoisonner l'adversaire apr\u00e8s lui avoir port\u00e9 une attaque physique.",
+                    "isHidden": true
+                }
             ],
             "height": 7,
             "weight": 230

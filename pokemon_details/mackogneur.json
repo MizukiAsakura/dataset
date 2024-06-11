@@ -19,9 +19,24 @@
             },
             "description": "Mackogneur est capable de d\u00e9placer n'importe quelle masse. Cependant ses bras s'emm\u00ealent d\u00e8s qu'il essaie de r\u00e9aliser un travail d\u00e9licat ou minutieux. Ce Pok\u00e9mon a tendance \u00e0 cogner d'abord et \u00e0 r\u00e9fl\u00e9chir ensuite.",
             "abilities": [
-                77,
-                16,
-                149
+                {
+                    "id": 77,
+                    "name": "Cran",
+                    "description": "Augmente de 50% l'attaque du Pok\u00e9mon s'il subit un changement de statut.",
+                    "isHidden": false
+                },
+                {
+                    "id": 16,
+                    "name": "Annule Garde",
+                    "description": "Toutes les attaques du Pok\u00e9mon et de son adversaire ont une pr\u00e9cision de 100%.",
+                    "isHidden": false
+                },
+                {
+                    "id": 149,
+                    "name": "Impassible",
+                    "description": "Augmente d'un niveau la vitesse du Pok\u00e9mon lorsqu'il est apeur\u00e9.",
+                    "isHidden": true
+                }
             ],
             "height": 16,
             "weight": 1300

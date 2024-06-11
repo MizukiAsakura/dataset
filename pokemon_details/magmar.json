@@ -19,8 +19,18 @@
             },
             "description": "Lorsqu'il se bat, Magmar fait jaillir des flammes de son corps pour intimider son adversaire. Les explosions enflamm\u00e9es de ce Pok\u00e9mon d\u00e9clenchent des vagues de chaleur qui embrasent la v\u00e9g\u00e9tation environnante.",
             "abilities": [
-                67,
-                110
+                {
+                    "id": 67,
+                    "name": "Corps Ardent",
+                    "description": "30% de chance de provoquer une br\u00fblure sur le Pok\u00e9mon adverse ayant attaqu\u00e9.",
+                    "isHidden": false
+                },
+                {
+                    "id": 110,
+                    "name": "Esprit Vital",
+                    "description": "Emp\u00eache le Pok\u00e9mon d'\u00eatre endormi.",
+                    "isHidden": true
+                }
             ],
             "height": 13,
             "weight": 445

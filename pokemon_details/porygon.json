@@ -19,9 +19,24 @@
             },
             "description": "Porygon est capable de se d\u00e9compiler et de retourner \u00e0 l'\u00e9tat de programme informatique pour entrer dans le cyberespace. Ce Pok\u00e9mon est prot\u00e9g\u00e9 contre le piratage, il est donc impossible de le copier.",
             "abilities": [
-                48,
-                269,
-                14
+                {
+                    "id": 48,
+                    "name": "Calque",
+                    "description": "Copie le talent du Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 269,
+                    "name": "T\u00e9l\u00e9charge",
+                    "description": "Augmente l'attaque ou l'attaque sp\u00e9ciale du Pok\u00e9mon, selon la statistique de d\u00e9fense la plus faible du Pok\u00e9mon adverse.",
+                    "isHidden": false
+                },
+                {
+                    "id": 14,
+                    "name": "Analyste",
+                    "description": "Si le Pok\u00e9mon frappe en dernier durant le tour, la puissance de son attaque est augment\u00e9e de 30%.",
+                    "isHidden": true
+                }
             ],
             "height": 8,
             "weight": 365

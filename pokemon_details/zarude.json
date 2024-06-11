@@ -20,7 +20,12 @@
             },
             "description": "Lorsque ses lianes se d\u00e9tachent de son corps, elles fertilisent le sol et favorisent la croissance des plantes de la for\u00eat.",
             "abilities": [
-                118
+                {
+                    "id": 118,
+                    "name": "Feuille Garde",
+                    "description": "Soigne les alt\u00e9rations d'\u00e9tat par temps ensoleill\u00e9.",
+                    "isHidden": false
+                }
             ],
             "height": 18,
             "weight": 700

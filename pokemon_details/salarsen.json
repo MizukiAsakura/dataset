@@ -20,9 +20,24 @@
             },
             "description": "Lorsqu\u2019il gratte l\u2019excroissance sur son ventre pour produire de l\u2019\u00e9lectricit\u00e9, on peut entendre un son similaire \u00e0 celui d\u2019une guitare.",
             "abilities": [
-                231,
-                214,
-                268
+                {
+                    "id": 231,
+                    "name": "Punk Rock",
+                    "description": "Augmente la puissance des capacit\u00e9s bas\u00e9es sur le son. Le Pok\u00e9mon ne subit que la moiti\u00e9 des d\u00e9g\u00e2ts quand il est touch\u00e9 par ce genre de capacit\u00e9s.",
+                    "isHidden": false
+                },
+                {
+                    "id": 214,
+                    "name": "Plus",
+                    "description": "Augmente l'attaque sp\u00e9ciale de 50% en Match Double, si le partenaire \u00e0 le talent Minus (ou le m\u00eame talent, depuis Pok\u00e9mon Noir et Blanc).",
+                    "isHidden": false
+                },
+                {
+                    "id": 268,
+                    "name": "Technicien",
+                    "description": "Augmente de 50% la puissance des attaques dont la puissance est inf\u00e9rieure ou \u00e9gale \u00e0 60.",
+                    "isHidden": true
+                }
             ],
             "height": 16,
             "weight": 400
