@@ -23,7 +23,7 @@
                     "id": 276,
                     "name": "T\u00eate de Roc",
                     "description": "Le Pok\u00e9mon ne subit pas de d\u00e9g\u00e2ts de contrecoup.",
-                    "isHidden": true
+                    "isHidden": false
                 },
                 {
                     "id": 199,
